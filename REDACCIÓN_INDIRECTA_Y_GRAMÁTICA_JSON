@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "RIG01aa",
+    "question": "¿Cuál es la categoría gramatical que sirve para nombrar personas, animales, cosas o ideas?",
+    "image": null,
+    "options": [
+      { "text": "Sustantivo", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Verbo", "correct": false },
+      { "text": "Adverbio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el núcleo del sujeto en una oración.",
+    "explanation": "El sustantivo es la clase de palabra que designa o identifica seres animados e inanimados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ab",
+    "question": "En la oración 'El perro ladra fuerte', ¿cuál es el núcleo del sujeto?",
+    "image": null,
+    "options": [
+      { "text": "perro", "correct": true },
+      { "text": "El", "correct": false },
+      { "text": "ladra", "correct": false },
+      { "text": "fuerte", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Identifica de quién se habla y busca la palabra principal sin modificadores.",
+    "explanation": "El sujeto es 'El perro', y su núcleo es el sustantivo 'perro'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ac",
+    "question": "¿Qué tipo de oración es '¿Podrías cerrar la ventana?'?",
+    "image": null,
+    "options": [
+      { "text": "Interrogativa", "correct": true },
+      { "text": "Exclamativa", "correct": false },
+      { "text": "Enunciativa", "correct": false },
+      { "text": "Dubitativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Fíjate en los signos de puntuación y la intención de solicitar información o una acción.",
+    "explanation": "Las oraciones interrogativas plantean una pregunta o solicitud.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ad",
+    "question": "¿Cuál de las siguientes palabras lleva acento diacrítico correctamente utilizado?",
+    "image": null,
+    "options": [
+      { "text": "Él (pronombre)", "correct": true },
+      { "text": "Ti (pronombre)", "correct": false },
+      { "text": "Fui (verbo)", "correct": false },
+      { "text": "Da (verbo)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El acento diacrítico diferencia palabras que se escriben igual pero tienen distinto significado gramatical.",
+    "explanation": "'Él' lleva tilde cuando es pronombre personal para diferenciarlo de 'el' (artículo). 'Ti', 'fui' y 'da' nunca llevan tilde.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ae",
+    "question": "Identifica la figura retórica en: 'Tus dientes son perlas'.",
+    "image": null,
+    "options": [
+      { "text": "Metáfora", "correct": true },
+      { "text": "Símil", "correct": false },
+      { "text": "Hipérbole", "correct": false },
+      { "text": "Oxímoron", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Consiste en identificar un término real con uno imaginario sin usar nexos comparativos.",
+    "explanation": "Es una metáfora porque sustituye o iguala el término real (dientes) con el imaginario (perlas) directamente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01af",
+    "question": "¿Qué vicio del lenguaje se comete en la expresión 'Subir para arriba'?",
+    "image": null,
+    "options": [
+      { "text": "Pleonasmo", "correct": true },
+      { "text": "Barbarismo", "correct": false },
+      { "text": "Cacofonía", "correct": false },
+      { "text": "Solecismo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el uso de palabras innecesarias para el sentido de la frase.",
+    "explanation": "El pleonasmo o redundancia añade términos que no aportan información nueva, ya que 'subir' implica ir hacia arriba.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ag",
+    "question": "¿Qué función de la lengua predomina en el enunciado: 'El agua hierve a 100 grados Celsius'?",
+    "image": null,
+    "options": [
+      { "text": "Referencial", "correct": true },
+      { "text": "Apelativa", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Fática", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La intención es transmitir información objetiva sobre la realidad.",
+    "explanation": "La función referencial o representativa se centra en el contexto y transmite datos objetivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ah",
+    "question": "Selecciona las propiedades fundamentales que debe tener un texto para ser comprendido.",
+    "image": null,
+    "options": [
+      { "text": "Adecuación, Cohesión, Coherencia", "correct": true },
+      { "text": "Introducción, Desarrollo, Conclusión", "correct": false },
+      { "text": "Sujeto, Verbo, Predicado", "correct": false },
+      { "text": "Verso, Estrofa, Rima", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Son las características que garantizan la unidad temática y la conexión lógica.",
+    "explanation": "Las propiedades textuales son adecuación (contexto), cohesión (conexión gramatical) y coherencia (sentido lógico).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ai",
+    "question": "Completa la oración: Los adjetivos deben concordar en ______ y ______ con el sustantivo que modifican.",
+    "image": null,
+    "options": [
+      { "text": "género, número", "correct": true },
+      { "text": "tiempo, modo", "correct": false },
+      { "text": "persona, voz", "correct": false },
+      { "text": "sujeto, predicado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Piensa en 'gato negro' vs 'gatas negras'.",
+    "explanation": "La concordancia nominal exige igualdad de género (masculino/femenino) y número (singular/plural).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01aj",
+    "question": "El sujeto ______ es aquel que no está escrito en la oración pero se infiere por la conjugación del verbo.",
+    "image": null,
+    "options": [
+      { "text": "tácito", "correct": true },
+      { "text": "compuesto", "correct": false },
+      { "text": "explícito", "correct": false },
+      { "text": "agente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "También se le conoce como implícito o morfológico.",
+    "explanation": "El sujeto tácito no aparece expresamente, pero se deduce por la terminación verbal (ej. 'Comimos' -> Nosotros).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ak",
+    "question": "El texto ______ relata hechos reales o imaginarios protagonizados por personajes en un tiempo y espacio determinados.",
+    "image": null,
+    "options": [
+      { "text": "narrativo", "correct": true },
+      { "text": "expositivo", "correct": false },
+      { "text": "argumentativo", "correct": false },
+      { "text": "descriptivo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cuentos y novelas pertenecen a este tipo.",
+    "explanation": "La narración se caracteriza por contar una secuencia de acciones o eventos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01al",
+    "question": "Relaciona el tipo de palabra con su regla de acentuación: A) Aguda, B) Grave, C) Esdrújula; I) Antepenúltima sílaba, II) Última sílaba, III) Penúltima sílaba.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda: Café (última), Árbol (penúltima), Música (antepenúltima).",
+    "explanation": "Agudas: acento en la última. Graves: penúltima. Esdrújulas: antepenúltima.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01am",
+    "question": "La propiedad textual que se refiere a la correcta conexión gramatical entre las partes del texto se llama:",
+    "image": null,
+    "options": [
+      { "text": "Cohesión", "correct": true },
+      { "text": "Coherencia", "correct": false },
+      { "text": "Adecuación", "correct": false },
+      { "text": "Claridad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa conectores, pronombres y signos de puntuación para 'pegar' las frases.",
+    "explanation": "La cohesión asegura que las oraciones y párrafos estén conectados correctamente desde el punto de vista sintáctico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01an",
+    "question": "¿Cuál es la forma no personal del verbo que termina en -ar, -er, -ir?",
+    "image": null,
+    "options": [
+      { "text": "Infinitivo", "correct": true },
+      { "text": "Gerundio", "correct": false },
+      { "text": "Participio", "correct": false },
+      { "text": "Imperativo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el nombre del verbo sin conjugar.",
+    "explanation": "El infinitivo es la forma básica del verbo y sus terminaciones son ar, er, ir.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ao",
+    "question": "En la oración 'María compró flores', ¿qué función sintáctica cumple 'flores'?",
+    "image": null,
+    "options": [
+      { "text": "Objeto Directo", "correct": true },
+      { "text": "Objeto Indirecto", "correct": false },
+      { "text": "Sujeto", "correct": false },
+      { "text": "Circunstancial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Pregunta '¿Qué?' al verbo.",
+    "explanation": "¿Qué compró María? Flores. Recibe directamente la acción del verbo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ap",
+    "question": "¿Cómo se llama la oración que no puede dividirse en sujeto y predicado?",
+    "image": null,
+    "options": [
+      { "text": "Unimembre", "correct": true },
+      { "text": "Bimembre", "correct": false },
+      { "text": "Compuesta", "correct": false },
+      { "text": "Subordinada", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplos: '¡Llueve!', '¡Ay!'.",
+    "explanation": "Las oraciones unimembres tienen un solo miembro y no admiten distinción entre sujeto y predicado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01aq",
+    "question": "Elige la palabra escrita correctamente para completar: 'Espero que no ______ problemas'.",
+    "image": null,
+    "options": [
+      { "text": "haya", "correct": true },
+      { "text": "halla", "correct": false },
+      { "text": "alla", "correct": false },
+      { "text": "haiga", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Del verbo haber.",
+    "explanation": "'Haya' es del verbo haber. 'Halla' es de encontrar.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ar",
+    "question": "Figura retórica que consiste en comparar explícitamente dos términos usando nexos como 'como', 'cual', 'parece'.",
+    "image": null,
+    "options": [
+      { "text": "Símil", "correct": true },
+      { "text": "Metáfora", "correct": false },
+      { "text": "Antítesis", "correct": false },
+      { "text": "Prosopopeya", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: 'Fuerte como un roble'.",
+    "explanation": "El símil o comparación establece una semejanza expresa utilizando conectores comparativos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01as",
+    "question": "Escribir 'huevo' como 'guebo' es un ejemplo de:",
+    "image": null,
+    "options": [
+      { "text": "Barbarismo", "correct": true },
+      { "text": "Pleonasmo", "correct": false },
+      { "text": "Anfibología", "correct": false },
+      { "text": "Queísmo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Consiste en escribir o pronunciar mal las palabras.",
+    "explanation": "Los barbarismos son vicios del lenguaje que implican faltas ortográficas o de pronunciación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01at",
+    "question": "Son elementos del circuito del habla, EXCEPTO:",
+    "image": null,
+    "options": [
+      { "text": "Sujeto", "correct": true },
+      { "text": "Emisor", "correct": false },
+      { "text": "Receptor", "correct": false },
+      { "text": "Canal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sujeto es un elemento sintáctico, no comunicativo.",
+    "explanation": "Emisor, Receptor, Canal, Código, Mensaje y Contexto son elementos de la comunicación. Sujeto es de la oración.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01au",
+    "question": "El texto ______ tiene como finalidad representar con palabras el aspecto o apariencia de personas, lugares u objetos.",
+    "image": null,
+    "options": [
+      { "text": "descriptivo", "correct": true },
+      { "text": "narrativo", "correct": false },
+      { "text": "periodístico", "correct": false },
+      { "text": "poético", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es como 'pintar' con palabras.",
+    "explanation": "La descripción detalla las características y cualidades de algo o alguien.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01av",
+    "question": "El predicado ______ tiene como núcleo un verbo copulativo (ser, estar, parecer) y un atributo.",
+    "image": null,
+    "options": [
+      { "text": "nominal", "correct": true },
+      { "text": "verbal", "correct": false },
+      { "text": "circunstancial", "correct": false },
+      { "text": "simple", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Indica cualidad o estado del sujeto, no una acción concreta.",
+    "explanation": "El predicado nominal se construye con verbos copulativos que unen al sujeto con un atributo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01aw",
+    "question": "Se escriben con ______ los nombres propios, títulos de obras y al inicio de una oración.",
+    "image": null,
+    "options": [
+      { "text": "mayúscula", "correct": true },
+      { "text": "minúscula", "correct": false },
+      { "text": "tilde", "correct": false },
+      { "text": "cursiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Regla ortográfica básica para nombres como 'México' o 'Juan'.",
+    "explanation": "El uso de mayúscula inicial es obligatorio en nombres propios y al comenzar un texto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ax",
+    "question": "Relaciona la figura retórica con su ejemplo: A) Metáfora, B) Comparación, C) Hipérbole; I) Lloró un río de lágrimas, II) Sus cabellos de oro, III) Rápido como el viento.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Hipérbole es exageración, Comparación usa 'como'.",
+    "explanation": "Metáfora: 'Cabellos de oro' (Rubios). Comparación: 'Como el viento'. Hipérbole: 'Río de lágrimas' (Exageración).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ay",
+    "question": "¿Qué función de la lengua busca influir en el receptor para que haga algo?",
+    "image": null,
+    "options": [
+      { "text": "Apelativa", "correct": true },
+      { "text": "Referencial", "correct": false },
+      { "text": "Poética", "correct": false },
+      { "text": "Metalingüística", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Predomina en órdenes, peticiones y publicidad.",
+    "explanation": "La función apelativa o conativa se centra en el receptor para provocar una reacción.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01az",
+    "question": "Tipo de texto que utiliza un lenguaje técnico, objetivo y verificable para explicar fenómenos.",
+    "image": null,
+    "options": [
+      { "text": "Científico", "correct": true },
+      { "text": "Literario", "correct": false },
+      { "text": "Periodístico", "correct": false },
+      { "text": "Publicitario", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su fin es divulgar el conocimiento.",
+    "explanation": "Los textos científicos buscan la objetividad y usan terminología especializada.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ba",
+    "question": "¿Qué clase de palabra es 'ayer' en la oración 'Ayer fuimos al cine'?",
+    "image": null,
+    "options": [
+      { "text": "Adverbio", "correct": true },
+      { "text": "Sustantivo", "correct": false },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Verbo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Modifica al verbo indicando cuándo sucedió la acción.",
+    "explanation": "'Ayer' es un adverbio de tiempo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bb",
+    "question": "¿Qué indica el modificador circunstancial en una oración?",
+    "image": null,
+    "options": [
+      { "text": "Las circunstancias de la acción (tiempo, modo, lugar)", "correct": true },
+      { "text": "Quién realiza la acción", "correct": false },
+      { "text": "Sobre quién recae la acción", "correct": false },
+      { "text": "La cualidad del sujeto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Responde a preguntas como ¿dónde?, ¿cuándo?, ¿cómo?.",
+    "explanation": "El complemento circunstancial informa sobre el contexto en que se desarrolla la acción verbal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bc",
+    "question": "Una oración compuesta se caracteriza por tener:",
+    "image": null,
+    "options": [
+      { "text": "Dos o más verbos conjugados", "correct": true },
+      { "text": "Un solo verbo", "correct": false },
+      { "text": "Un sujeto tácito", "correct": false },
+      { "text": "Adjetivos calificativos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Está formada por la unión de dos o más oraciones simples.",
+    "explanation": "Las oraciones compuestas tienen más de un núcleo verbal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bd",
+    "question": "¿Cuál es el signo de puntuación que separa oraciones relacionadas dentro de un mismo párrafo, indicando una pausa mayor que la coma?",
+    "image": null,
+    "options": [
+      { "text": "Punto y coma", "correct": true },
+      { "text": "Guion", "correct": false },
+      { "text": "Comillas", "correct": false },
+      { "text": "Interrogación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es intermedio entre la coma y el punto.",
+    "explanation": "El punto y coma separa elementos de una enumeración compleja o proposiciones yuxtapuestas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01be",
+    "question": "Figura retórica que atribuye cualidades humanas a objetos o animales.",
+    "image": null,
+    "options": [
+      { "text": "Prosopopeya", "correct": true },
+      { "text": "Hipérbaton", "correct": false },
+      { "text": "Elipsis", "correct": false },
+      { "text": "Anáfora", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "También llamada personificación. Ejemplo: 'El viento susurraba'.",
+    "explanation": "La prosopopeya o personificación dota de vida o rasgos humanos a seres inanimados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bf",
+    "question": "Son ejemplos que contienen cacofonía, EXCEPTO:",
+    "image": null,
+    "options": [
+      { "text": "Luz y sombra", "correct": true },
+      { "text": "Tomate un té", "correct": false },
+      { "text": "Parece que aparece", "correct": false },
+      { "text": "La hada", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La cacofonía es el sonido desagradable por repetición de letras o sílabas.",
+    "explanation": "'Luz y sombra' no presenta repetición de sonidos desagradables. 'La hada' debe ser 'El hada' por cacofonía con la 'a' tónica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bg",
+    "question": "La función ______ de la lengua se centra en el mensaje mismo, buscando belleza y estética.",
+    "image": null,
+    "options": [
+      { "text": "poética", "correct": true },
+      { "text": "fática", "correct": false },
+      { "text": "apelativa", "correct": false },
+      { "text": "referencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Predomina en la literatura.",
+    "explanation": "La función poética embellece el mensaje utilizando figuras retóricas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bh",
+    "question": "Yo, tú, él, nosotros, ustedes y ellos son ejemplos de pronombres ______.",
+    "image": null,
+    "options": [
+      { "text": "personales", "correct": true },
+      { "text": "posesivos", "correct": false },
+      { "text": "demostrativos", "correct": false },
+      { "text": "relativos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sustituyen a las personas gramaticales.",
+    "explanation": "Los pronombres personales designan a los participantes en el discurso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bi",
+    "question": "La ______ es la propiedad textual que adapta el lenguaje al receptor y a la situación comunicativa.",
+    "image": null,
+    "options": [
+      { "text": "adecuación", "correct": true },
+      { "text": "coherencia", "correct": false },
+      { "text": "sintaxis", "correct": false },
+      { "text": "morfología", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "No hablas igual con tu jefe que con tu amigo.",
+    "explanation": "La adecuación implica seleccionar el registro (formal/informal) correcto para el contexto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bj",
+    "question": "Relaciona el complemento verbal con su pregunta clave: A) Objeto Directo, B) Objeto Indirecto, C) Circunstancial; I) ¿Para quién?, II) ¿Cuándo/Dónde?, III) ¿Qué?.",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El directo recibe la acción (¿Qué?), el indirecto el beneficio/daño (¿A quién?), el circunstancial el contexto.",
+    "explanation": "OD responde a ¿Qué? + verbo. OI responde a ¿A quién/Para quién?. CC responde a circunstancias.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bk",
+    "question": "Error gramatical que consiste en alterar el orden correcto de las palabras o usarlas incorrectamente.",
+    "image": null,
+    "options": [
+      { "text": "Solecismo", "correct": true },
+      { "text": "Barbarismo", "correct": false },
+      { "text": "Pleonasmo", "correct": false },
+      { "text": "Metáfora", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: 'A la mejor' en vez de 'A lo mejor' o errores de concordancia.",
+    "explanation": "El solecismo afecta la sintaxis o construcción de la frase.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bl",
+    "question": "En la función emotiva de la lengua, el elemento del circuito del habla que destaca es el:",
+    "image": null,
+    "options": [
+      { "text": "Emisor", "correct": true },
+      { "text": "Receptor", "correct": false },
+      { "text": "Referente", "correct": false },
+      { "text": "Código", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa sentimientos del que habla.",
+    "explanation": "La función emotiva se centra en el emisor y su estado de ánimo o subjetividad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bm",
+    "question": "Propiedad del texto que se refiere a la lógica y sentido global de las ideas.",
+    "image": null,
+    "options": [
+      { "text": "Coherencia", "correct": true },
+      { "text": "Ortografía", "correct": false },
+      { "text": "Puntuación", "correct": false },
+      { "text": "Dicción", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Que no haya contradicciones en el texto.",
+    "explanation": "La coherencia organiza la información para que el texto tenga sentido unitario.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bn",
+    "question": "¿Qué tipo de palabras son: a, ante, bajo, cabe, con, contra...?",
+    "image": null,
+    "options": [
+      { "text": "Preposiciones", "correct": true },
+      { "text": "Conjunciones", "correct": false },
+      { "text": "Interjecciones", "correct": false },
+      { "text": "Artículos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sirven para relacionar palabras.",
+    "explanation": "Es la lista clásica de preposiciones en español.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bo",
+    "question": "¿Cuál es el sujeto explícito en: 'Los estudiantes aprobaron el examen'?",
+    "image": null,
+    "options": [
+      { "text": "Los estudiantes", "correct": true },
+      { "text": "aprobaron", "correct": false },
+      { "text": "el examen", "correct": false },
+      { "text": "Tácito", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Está escrito claramente en la oración.",
+    "explanation": "El sujeto explícito es el que aparece textualmente en la oración.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bp",
+    "question": "Oración que expresa duda o posibilidad.",
+    "image": null,
+    "options": [
+      { "text": "Dubitativa", "correct": true },
+      { "text": "Desiderativa", "correct": false },
+      { "text": "Imperativa", "correct": false },
+      { "text": "Copulativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Suelen usar adverbios como 'quizás' o 'tal vez'.",
+    "explanation": "Las oraciones dubitativas expresan incertidumbre o probabilidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bq",
+    "question": "Cuando se encuentran dos vocales fuertes (a, e, o) juntas, se forma un ______ y se separan en sílabas distintas.",
+    "image": null,
+    "options": [
+      { "text": "hiato", "correct": true },
+      { "text": "diptongo", "correct": false },
+      { "text": "triptongo", "correct": false },
+      { "text": "sinalefa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: Ca-er, Po-e-ta.",
+    "explanation": "El hiato es la secuencia de dos vocales que se pronuncian en sílabas distintas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01br",
+    "question": "Selecciona la opción que contiene solo sustantivos propios.",
+    "image": null,
+    "options": [
+      { "text": "México, Pedro, Amazonas", "correct": true },
+      { "text": "País, niño, río", "correct": false },
+      { "text": "Mesa, silla, lápiz", "correct": false },
+      { "text": "Correr, saltar, jugar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Nombres de lugares o personas específicas.",
+    "explanation": "Los sustantivos propios distinguen a un individuo de su clase.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bs",
+    "question": "La ______ consiste en exagerar la realidad para dar mayor énfasis.",
+    "image": null,
+    "options": [
+      { "text": "hipérbole", "correct": true },
+      { "text": "paradoja", "correct": false },
+      { "text": "ironía", "correct": false },
+      { "text": "sinécdoque", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: 'Te lo dije mil veces'.",
+    "explanation": "La hipérbole es una figura de pensamiento que aumenta o disminuye excesivamente aquello de lo que se habla.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bt",
+    "question": "La ______ se produce cuando una frase tiene doble sentido o se puede interpretar de varias maneras erróneas.",
+    "image": null,
+    "options": [
+      { "text": "anfibología", "correct": true },
+      { "text": "metonimia", "correct": false },
+      { "text": "aliteración", "correct": false },
+      { "text": "entonación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: 'Vimos cuadros de pintores valiosos'. ¿Valiosos los cuadros o los pintores?",
+    "explanation": "La anfibología u oscuridad es un vicio que genera ambigüedad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bu",
+    "question": "El texto ______ tiene como objetivo defender una idea u opinión mediante razones.",
+    "image": null,
+    "options": [
+      { "text": "argumentativo", "correct": true },
+      { "text": "narrativo", "correct": false },
+      { "text": "instructivo", "correct": false },
+      { "text": "poético", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca convencer o persuadir.",
+    "explanation": "La argumentación plantea una tesis y la defiende con argumentos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bv",
+    "question": "Relaciona el signo de puntuación con su uso: A) Punto, B) Coma, C) Dos puntos; I) Pausa breve, II) Fin de oración, III) Introduce cita o enumeración.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-I; C-III", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La coma es breve, el punto cierra ideas.",
+    "explanation": "Punto: termina idea. Coma: pausa breve/enumera. Dos puntos: anuncian algo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bw",
+    "question": "Figura retórica que consiste en la repetición de una o varias palabras al inicio de los versos o frases.",
+    "image": null,
+    "options": [
+      { "text": "Anáfora", "correct": true },
+      { "text": "Epíteto", "correct": false },
+      { "text": "Elipsis", "correct": false },
+      { "text": "Onomatopeya", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: 'Corre, corre, que te alcanzan'.",
+    "explanation": "La anáfora es una figura de repetición al comienzo de frases.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bx",
+    "question": "Vicio del lenguaje que consiste en el uso incorrecto de la preposición 'de' antes de 'que'.",
+    "image": null,
+    "options": [
+      { "text": "Dequeísmo", "correct": true },
+      { "text": "Queísmo", "correct": false },
+      { "text": "Laconismo", "correct": false },
+      { "text": "Neologismo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: 'Pienso de que...' en lugar de 'Pienso que...'.",
+    "explanation": "El dequeísmo es añadir 'de' cuando el verbo no lo exige.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01by",
+    "question": "Función de la lengua que se utiliza para hablar del propio lenguaje o aclarar el significado de palabras.",
+    "image": null,
+    "options": [
+      { "text": "Metalingüística", "correct": true },
+      { "text": "Fática", "correct": false },
+      { "text": "Emotiva", "correct": false },
+      { "text": "Poética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la función del diccionario.",
+    "explanation": "La función metalingüística usa el código para explicar el código.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01bz",
+    "question": "Tipo de texto que informa sobre hechos actuales de interés público, como la noticia o la crónica.",
+    "image": null,
+    "options": [
+      { "text": "Periodístico", "correct": true },
+      { "text": "Literario", "correct": false },
+      { "text": "Científico", "correct": false },
+      { "text": "Histórico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Lo encuentras en diarios y noticieros.",
+    "explanation": "El texto periodístico tiene como función informar, opinar o interpretar hechos de actualidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ca",
+    "question": "¿Qué categoría gramatical son palabras como 'y', 'o', 'pero', 'porque'?",
+    "image": null,
+    "options": [
+      { "text": "Conjunciones", "correct": true },
+      { "text": "Preposiciones", "correct": false },
+      { "text": "Adverbios", "correct": false },
+      { "text": "Interjecciones", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sirven para unir palabras u oraciones.",
+    "explanation": "Las conjunciones son nexos que enlazan elementos sintácticos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01cb",
+    "question": "En la oración 'El cielo es azul', ¿cuál es el núcleo del predicado?",
+    "image": null,
+    "options": [
+      { "text": "es", "correct": true },
+      { "text": "cielo", "correct": false },
+      { "text": "azul", "correct": false },
+      { "text": "El", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Siempre es el verbo conjugado.",
+    "explanation": "El núcleo del predicado siempre es el verbo, en este caso 'es'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01cc",
+    "question": "¿Qué tipo de oración es '¡Qué hermoso día!'?",
+    "image": null,
+    "options": [
+      { "text": "Exclamativa", "correct": true },
+      { "text": "Interrogativa", "correct": false },
+      { "text": "Imperativa", "correct": false },
+      { "text": "Enunciativa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa emoción intensa.",
+    "explanation": "Las oraciones exclamativas expresan sentimientos o emociones fuertes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01cd",
+    "question": "Son modificadores del sujeto, EXCEPTO:",
+    "image": null,
+    "options": [
+      { "text": "Objeto directo", "correct": true },
+      { "text": "Adjetivo", "correct": false },
+      { "text": "Artículo", "correct": false },
+      { "text": "Complemento adnominal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El objeto directo pertenece al predicado.",
+    "explanation": "El Objeto Directo es un modificador del verbo (predicado), no del sujeto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ce",
+    "question": "Completa con el homófono correcto: '¡______!, me he golpeado el dedo'.",
+    "image": null,
+    "options": [
+      { "text": "Ay", "correct": true },
+      { "text": "Hay", "correct": false },
+      { "text": "Ahí", "correct": false },
+      { "text": "Halla", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una interjección de dolor.",
+    "explanation": "'Ay' es interjección. 'Hay' es de haber. 'Ahí' es de lugar.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01cf",
+    "question": "El artículo ______ se usa cuando el sustantivo es conocido por los hablantes (el, la, los, las).",
+    "image": null,
+    "options": [
+      { "text": "determinado", "correct": true },
+      { "text": "indeterminado", "correct": false },
+      { "text": "neutro", "correct": false },
+      { "text": "contracto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "También llamados definidos.",
+    "explanation": "Los artículos determinados o definidos señalan algo concreto o conocido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01cg",
+    "question": "La ______ del texto se refiere a que la información sea completa, lógica y que se entienda el mensaje global.",
+    "image": null,
+    "options": [
+      { "text": "cabalidad", "correct": true },
+      { "text": "métrica", "correct": false },
+      { "text": "rima", "correct": false },
+      { "text": "fonética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una propiedad que asegura el sentido completo.",
+    "explanation": "La cabalidad es la propiedad de un texto de ser completo y tener unidad de sentido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG01ch",
+    "question": "Relaciona la función de la lengua con su intención: A) Referencial, B) Apelativa, C) Poética; I) Convencer, II) Informar, III) Crear belleza.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-I; C-III", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Referencial -> Realidad. Apelativa -> Tú. Poética -> Arte.",
+    "explanation": "Referencial informa hechos. Apelativa busca reacción. Poética busca estética.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
