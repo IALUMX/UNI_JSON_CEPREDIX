@@ -1,6 +1,6 @@
 [
   {
-    "id": "RIG01aa",
+    "id": "RIG00aa",
     "question": "¿Cuál es la categoría gramatical que sirve para nombrar personas, animales, cosas o ideas?",
     "image": null,
     "options": [
@@ -17,7 +17,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ab",
+    "id": "RIG00ab",
     "question": "En la oración 'El perro ladra fuerte', ¿cuál es el núcleo del sujeto?",
     "image": null,
     "options": [
@@ -34,7 +34,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ac",
+    "id": "RIG00ac",
     "question": "¿Qué tipo de oración es '¿Podrías cerrar la ventana?'?",
     "image": null,
     "options": [
@@ -51,7 +51,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ad",
+    "id": "RIG00ad",
     "question": "¿Cuál de las siguientes palabras lleva acento diacrítico correctamente utilizado?",
     "image": null,
     "options": [
@@ -68,7 +68,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ae",
+    "id": "RIG00ae",
     "question": "Identifica la figura retórica en: 'Tus dientes son perlas'.",
     "image": null,
     "options": [
@@ -85,7 +85,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01af",
+    "id": "RIG00af",
     "question": "¿Qué vicio del lenguaje se comete en la expresión 'Subir para arriba'?",
     "image": null,
     "options": [
@@ -102,7 +102,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ag",
+    "id": "RIG00ag",
     "question": "¿Qué función de la lengua predomina en el enunciado: 'El agua hierve a 100 grados Celsius'?",
     "image": null,
     "options": [
@@ -119,7 +119,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ah",
+    "id": "RIG00ah",
     "question": "Selecciona las propiedades fundamentales que debe tener un texto para ser comprendido.",
     "image": null,
     "options": [
@@ -136,7 +136,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ai",
+    "id": "RIG00ai",
     "question": "Completa la oración: Los adjetivos deben concordar en ______ y ______ con el sustantivo que modifican.",
     "image": null,
     "options": [
@@ -153,7 +153,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01aj",
+    "id": "RIG00aj",
     "question": "El sujeto ______ es aquel que no está escrito en la oración pero se infiere por la conjugación del verbo.",
     "image": null,
     "options": [
@@ -170,7 +170,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ak",
+    "id": "RIG00ak",
     "question": "El texto ______ relata hechos reales o imaginarios protagonizados por personajes en un tiempo y espacio determinados.",
     "image": null,
     "options": [
@@ -187,7 +187,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01al",
+    "id": "RIG00al",
     "question": "Relaciona el tipo de palabra con su regla de acentuación: A) Aguda, B) Grave, C) Esdrújula; I) Antepenúltima sílaba, II) Última sílaba, III) Penúltima sílaba.",
     "image": null,
     "options": [
@@ -204,7 +204,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01am",
+    "id": "RIG00am",
     "question": "La propiedad textual que se refiere a la correcta conexión gramatical entre las partes del texto se llama:",
     "image": null,
     "options": [
@@ -221,7 +221,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01an",
+    "id": "RIG00an",
     "question": "¿Cuál es la forma no personal del verbo que termina en -ar, -er, -ir?",
     "image": null,
     "options": [
@@ -238,7 +238,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ao",
+    "id": "RIG00ao",
     "question": "En la oración 'María compró flores', ¿qué función sintáctica cumple 'flores'?",
     "image": null,
     "options": [
@@ -255,7 +255,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ap",
+    "id": "RIG00ap",
     "question": "¿Cómo se llama la oración que no puede dividirse en sujeto y predicado?",
     "image": null,
     "options": [
@@ -272,7 +272,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01aq",
+    "id": "RIG00aq",
     "question": "Elige la palabra escrita correctamente para completar: 'Espero que no ______ problemas'.",
     "image": null,
     "options": [
@@ -289,7 +289,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ar",
+    "id": "RIG00ar",
     "question": "Figura retórica que consiste en comparar explícitamente dos términos usando nexos como 'como', 'cual', 'parece'.",
     "image": null,
     "options": [
@@ -306,7 +306,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01as",
+    "id": "RIG00as",
     "question": "Escribir 'huevo' como 'guebo' es un ejemplo de:",
     "image": null,
     "options": [
@@ -323,7 +323,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01at",
+    "id": "RIG00at",
     "question": "Son elementos del circuito del habla, EXCEPTO:",
     "image": null,
     "options": [
@@ -340,7 +340,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01au",
+    "id": "RIG00au",
     "question": "El texto ______ tiene como finalidad representar con palabras el aspecto o apariencia de personas, lugares u objetos.",
     "image": null,
     "options": [
@@ -357,7 +357,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01av",
+    "id": "RIG00av",
     "question": "El predicado ______ tiene como núcleo un verbo copulativo (ser, estar, parecer) y un atributo.",
     "image": null,
     "options": [
@@ -374,7 +374,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01aw",
+    "id": "RIG00aw",
     "question": "Se escriben con ______ los nombres propios, títulos de obras y al inicio de una oración.",
     "image": null,
     "options": [
@@ -391,7 +391,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ax",
+    "id": "RIG00ax",
     "question": "Relaciona la figura retórica con su ejemplo: A) Metáfora, B) Comparación, C) Hipérbole; I) Lloró un río de lágrimas, II) Sus cabellos de oro, III) Rápido como el viento.",
     "image": null,
     "options": [
@@ -408,7 +408,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ay",
+    "id": "RIG00ay",
     "question": "¿Qué función de la lengua busca influir en el receptor para que haga algo?",
     "image": null,
     "options": [
@@ -425,7 +425,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01az",
+    "id": "RIG00az",
     "question": "Tipo de texto que utiliza un lenguaje técnico, objetivo y verificable para explicar fenómenos.",
     "image": null,
     "options": [
@@ -442,7 +442,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ba",
+    "id": "RIG00ba",
     "question": "¿Qué clase de palabra es 'ayer' en la oración 'Ayer fuimos al cine'?",
     "image": null,
     "options": [
@@ -459,7 +459,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bb",
+    "id": "RIG00bb",
     "question": "¿Qué indica el modificador circunstancial en una oración?",
     "image": null,
     "options": [
@@ -476,7 +476,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bc",
+    "id": "RIG00bc",
     "question": "Una oración compuesta se caracteriza por tener:",
     "image": null,
     "options": [
@@ -493,7 +493,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bd",
+    "id": "RIG00bd",
     "question": "¿Cuál es el signo de puntuación que separa oraciones relacionadas dentro de un mismo párrafo, indicando una pausa mayor que la coma?",
     "image": null,
     "options": [
@@ -510,7 +510,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01be",
+    "id": "RIG00be",
     "question": "Figura retórica que atribuye cualidades humanas a objetos o animales.",
     "image": null,
     "options": [
@@ -527,7 +527,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bf",
+    "id": "RIG00bf",
     "question": "Son ejemplos que contienen cacofonía, EXCEPTO:",
     "image": null,
     "options": [
@@ -544,7 +544,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bg",
+    "id": "RIG00bg",
     "question": "La función ______ de la lengua se centra en el mensaje mismo, buscando belleza y estética.",
     "image": null,
     "options": [
@@ -561,7 +561,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bh",
+    "id": "RIG00bh",
     "question": "Yo, tú, él, nosotros, ustedes y ellos son ejemplos de pronombres ______.",
     "image": null,
     "options": [
@@ -578,7 +578,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bi",
+    "id": "RIG00bi",
     "question": "La ______ es la propiedad textual que adapta el lenguaje al receptor y a la situación comunicativa.",
     "image": null,
     "options": [
@@ -595,7 +595,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bj",
+    "id": "RIG00bj",
     "question": "Relaciona el complemento verbal con su pregunta clave: A) Objeto Directo, B) Objeto Indirecto, C) Circunstancial; I) ¿Para quién?, II) ¿Cuándo/Dónde?, III) ¿Qué?.",
     "image": null,
     "options": [
@@ -612,7 +612,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bk",
+    "id": "RIG00bk",
     "question": "Error gramatical que consiste en alterar el orden correcto de las palabras o usarlas incorrectamente.",
     "image": null,
     "options": [
@@ -629,7 +629,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bl",
+    "id": "RIG00bl",
     "question": "En la función emotiva de la lengua, el elemento del circuito del habla que destaca es el:",
     "image": null,
     "options": [
@@ -646,7 +646,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bm",
+    "id": "RIG00bm",
     "question": "Propiedad del texto que se refiere a la lógica y sentido global de las ideas.",
     "image": null,
     "options": [
@@ -663,7 +663,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bn",
+    "id": "RIG00bn",
     "question": "¿Qué tipo de palabras son: a, ante, bajo, cabe, con, contra...?",
     "image": null,
     "options": [
@@ -680,7 +680,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bo",
+    "id": "RIG00bo",
     "question": "¿Cuál es el sujeto explícito en: 'Los estudiantes aprobaron el examen'?",
     "image": null,
     "options": [
@@ -697,7 +697,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bp",
+    "id": "RIG00bp",
     "question": "Oración que expresa duda o posibilidad.",
     "image": null,
     "options": [
@@ -714,7 +714,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bq",
+    "id": "RIG00bq",
     "question": "Cuando se encuentran dos vocales fuertes (a, e, o) juntas, se forma un ______ y se separan en sílabas distintas.",
     "image": null,
     "options": [
@@ -731,7 +731,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01br",
+    "id": "RIG00br",
     "question": "Selecciona la opción que contiene solo sustantivos propios.",
     "image": null,
     "options": [
@@ -748,7 +748,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bs",
+    "id": "RIG00bs",
     "question": "La ______ consiste en exagerar la realidad para dar mayor énfasis.",
     "image": null,
     "options": [
@@ -765,7 +765,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bt",
+    "id": "RIG00bt",
     "question": "La ______ se produce cuando una frase tiene doble sentido o se puede interpretar de varias maneras erróneas.",
     "image": null,
     "options": [
@@ -782,7 +782,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bu",
+    "id": "RIG00bu",
     "question": "El texto ______ tiene como objetivo defender una idea u opinión mediante razones.",
     "image": null,
     "options": [
@@ -799,7 +799,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bv",
+    "id": "RIG00bv",
     "question": "Relaciona el signo de puntuación con su uso: A) Punto, B) Coma, C) Dos puntos; I) Pausa breve, II) Fin de oración, III) Introduce cita o enumeración.",
     "image": null,
     "options": [
@@ -816,7 +816,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bw",
+    "id": "RIG00bw",
     "question": "Figura retórica que consiste en la repetición de una o varias palabras al inicio de los versos o frases.",
     "image": null,
     "options": [
@@ -833,7 +833,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bx",
+    "id": "RIG00bx",
     "question": "Vicio del lenguaje que consiste en el uso incorrecto de la preposición 'de' antes de 'que'.",
     "image": null,
     "options": [
@@ -850,7 +850,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01by",
+    "id": "RIG00by",
     "question": "Función de la lengua que se utiliza para hablar del propio lenguaje o aclarar el significado de palabras.",
     "image": null,
     "options": [
@@ -867,7 +867,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01bz",
+    "id": "RIG00bz",
     "question": "Tipo de texto que informa sobre hechos actuales de interés público, como la noticia o la crónica.",
     "image": null,
     "options": [
@@ -884,7 +884,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ca",
+    "id": "RIG00ca",
     "question": "¿Qué categoría gramatical son palabras como 'y', 'o', 'pero', 'porque'?",
     "image": null,
     "options": [
@@ -901,7 +901,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01cb",
+    "id": "RIG00cb",
     "question": "En la oración 'El cielo es azul', ¿cuál es el núcleo del predicado?",
     "image": null,
     "options": [
@@ -918,7 +918,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01cc",
+    "id": "RIG00cc",
     "question": "¿Qué tipo de oración es '¡Qué hermoso día!'?",
     "image": null,
     "options": [
@@ -935,7 +935,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01cd",
+    "id": "RIG00cd",
     "question": "Son modificadores del sujeto, EXCEPTO:",
     "image": null,
     "options": [
@@ -952,7 +952,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ce",
+    "id": "RIG00ce",
     "question": "Completa con el homófono correcto: '¡______!, me he golpeado el dedo'.",
     "image": null,
     "options": [
@@ -969,7 +969,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01cf",
+    "id": "RIG00cf",
     "question": "El artículo ______ se usa cuando el sustantivo es conocido por los hablantes (el, la, los, las).",
     "image": null,
     "options": [
@@ -986,7 +986,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01cg",
+    "id": "RIG00cg",
     "question": "La ______ del texto se refiere a que la información sea completa, lógica y que se entienda el mensaje global.",
     "image": null,
     "options": [
@@ -1003,7 +1003,7 @@
     "collapsible_text": null
   },
   {
-    "id": "RIG01ch",
+    "id": "RIG00ch",
     "question": "Relaciona la función de la lengua con su intención: A) Referencial, B) Apelativa, C) Poética; I) Convencer, II) Informar, III) Crear belleza.",
     "image": null,
     "options": [
