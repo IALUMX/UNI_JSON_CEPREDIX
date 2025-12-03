@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "PMA00aa",
+    "question": "¿Qué conjunto de números se utiliza principalmente para contar y ordenar elementos?",
+    "image": null,
+    "options": [
+      { "text": "Números Naturales ($\\mathbb{N}$)", "correct": true },
+      { "text": "Números Enteros ($\\mathbb{Z}$)", "correct": false },
+      { "text": "Números Racionales ($\\mathbb{Q}$)", "correct": false },
+      { "text": "Números Reales ($\\mathbb{R}$)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Piensa en los primeros números que aprendiste a usar.",
+    "explanation": "Los números naturales, denotados por $\\mathbb{N}$, son \\{1, 2, 3, 4, ...\\} y son la base del conteo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ab",
+    "question": "El conjunto de los números enteros ($\\mathbb{Z}$) se compone de...",
+    "image": null,
+    "options": [
+      { "text": "Los números naturales, sus negativos y el cero.", "correct": true },
+      { "text": "Únicamente los números positivos y negativos.", "correct": false },
+      { "text": "Fracciones y decimales.", "correct": false },
+      { "text": "Solo los números naturales y el cero.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Este conjunto amplía los números naturales para incluir operaciones de resta donde el minuendo es menor que el sustraendo.",
+    "explanation": "Los números enteros $\\mathbb{Z}$ incluyen a los naturales (enteros positivos), a sus opuestos (enteros negativos) y al cero. Ejemplo: \\{..., -3, -2, -1, 0, 1, 2, 3, ...\\}.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ac",
+    "question": "¿Cómo se define un número racional?",
+    "image": null,
+    "options": [
+      { "text": "Como el cociente de dos enteros, $\\frac{a}{b}$, donde $b \\neq 0$.", "correct": true },
+      { "text": "Cualquier número que se puede escribir como decimal.", "correct": false },
+      { "text": "Un número que no tiene una expansión decimal periódica.", "correct": false },
+      { "text": "Un número que es la raíz cuadrada de un número primo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La palabra 'racional' proviene de 'razón' o 'ratio'.",
+    "explanation": "Un número racional es cualquier número que puede expresarse como una fracción $\\frac{a}{b}$, donde $a$ y $b$ son enteros y el denominador $b$ no es cero. Esto incluye a los enteros y a los decimales finitos y periódicos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ad",
+    "question": "Los números ______ son aquellos que se utilizan para contar, mientras que los números ______ incluyen a los anteriores, al cero y a los negativos.",
+    "image": null,
+    "options": [
+      { "text": "naturales, enteros", "correct": true },
+      { "text": "enteros, racionales", "correct": false },
+      { "text": "racionales, reales", "correct": false },
+      { "text": "naturales, racionales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Considera la progresión de los conjuntos numéricos, desde el más simple al más inclusivo.",
+    "explanation": "Los números naturales (\\{1, 2, 3, ...\\}) son el fundamento del conteo. El conjunto de los números enteros (\\{..., -2, -1, 0, 1, 2, ...\\}) expande a los naturales para incluir el cero y los valores negativos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ae",
+    "question": "Un número ______ es cualquier número que puede escribirse como una fracción $\\frac{p}{q}$, mientras que un número ______ no puede expresarse de esta forma.",
+    "image": null,
+    "options": [
+      { "text": "racional, irracional", "correct": true },
+      { "text": "entero, natural", "correct": false },
+      { "text": "irracional, real", "correct": false },
+      { "text": "real, imaginario", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La definición fundamental de estos dos conjuntos se basa en su capacidad de ser representados como un cociente de enteros.",
+    "explanation": "Los números racionales ($\\mathbb{Q}$) son, por definición, aquellos que se pueden expresar como el cociente de dos enteros (con denominador no nulo). Los números irracionales ($\\mathbb{I}$) son aquellos que no admiten tal representación, como $\\pi$ o $\\sqrt{2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00af",
+    "question": "Selecciona la opción que contenga únicamente números irracionales.",
+    "image": null,
+    "options": [
+      { "text": "$\\sqrt{2}, \\pi, e$", "correct": true },
+      { "text": "$\\frac{3}{5}, \\sqrt{9}, 0.75$", "correct": false },
+      { "text": "$-7, 0, \\sqrt{3}$", "correct": false },
+      { "text": "$\\pi, \\frac{22}{7}, 3.1416$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un número irracional tiene una expansión decimal infinita no periódica.",
+    "explanation": "$\\sqrt{2}$, $\\pi$ y $e$ son los ejemplos más conocidos de números irracionales. $\\sqrt{9}=3$ es entero. $\\frac{3}{5}$ y $0.75$ son racionales. $-7$ y $0$ son enteros. $\\frac{22}{7}$ y $3.1416$ son aproximaciones racionales de $\\pi$, pero no son $\\pi$ en sí.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ag",
+    "question": "¿Cuál de los siguientes números es un ejemplo de número irracional?",
+    "image": null,
+    "options": [
+      { "text": "$\\sqrt{5}$", "correct": true },
+      { "text": "$\\sqrt{16}$", "correct": false },
+      { "text": "$0.333...$", "correct": false },
+      { "text": "$-9$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca una raíz cuadrada que no sea exacta de un número que no es un cuadrado perfecto.",
+    "explanation": "$\\sqrt{5}$ no puede simplificarse a un número entero o una fracción, por lo tanto, es irracional. En cambio, $\\sqrt{16} = 4$ (entero), $0.333... = \\frac{1}{3}$ (racional), y $-9$ (entero).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ah",
+    "question": "El conjunto de los números reales ($\\mathbb{R}$) es la unión de...",
+    "image": null,
+    "options": [
+      { "text": "Los números racionales y los números irracionales.", "correct": true },
+      { "text": "Los números enteros y los números naturales.", "correct": false },
+      { "text": "Los números imaginarios y los números complejos.", "correct": false },
+      { "text": "Únicamente los números que tienen decimales.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Piensa en todos los números que se pueden representar en la recta numérica.",
+    "explanation": "El conjunto de los números reales $\\mathbb{R}$ abarca todos los números que pueden ser localizados en la recta numérica. Este conjunto está formado por la unión del conjunto de los números racionales ($\\mathbb{Q}$) y el conjunto de los números irracionales ($\\mathbb{I}$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ai",
+    "question": "El número $i = \\sqrt{-1}$ es la base de los números...",
+    "image": null,
+    "options": [
+      { "text": "Imaginarios", "correct": true },
+      { "text": "Irracionales", "correct": false },
+      { "text": "Racionales", "correct": false },
+      { "text": "Reales", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Este número fue definido para resolver ecuaciones que no tienen solución en los números reales, como $x^2 + 1 = 0$.",
+    "explanation": "La unidad imaginaria, $i$, se define como la raíz cuadrada de -1. Es el componente fundamental de los números imaginarios y, a su vez, de los números complejos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00aj",
+    "question": "La ______ de los números reales establece que para dos números $a$ y $b$ cualesquiera, se cumple una y solo una de las siguientes relaciones: $a > b$, $a < b$ o $a = b$.",
+    "image": null,
+    "options": [
+      { "text": "propiedad de tricotomía", "correct": true },
+      { "text": "propiedad transitiva", "correct": false },
+      { "text": "propiedad conmutativa", "correct": false },
+      { "text": "propiedad asociativa", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta propiedad divide todas las posibles comparaciones entre dos números en tres casos excluyentes.",
+    "explanation": "El postulado de tricotomía es una propiedad de orden fundamental de los números reales que afirma que, dados dos números reales $a$ y $b$, solo puede ocurrir una de tres posibilidades: $a$ es mayor que $b$, $a$ es menor que $b$, o $a$ es igual a $b$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ak",
+    "question": "Si sabemos que $x > y$ y $y > z$, ¿qué podemos concluir según el postulado transitivo?",
+    "image": null,
+    "options": [
+      { "text": "$x > z$", "correct": true },
+      { "text": "$x = z$", "correct": false },
+      { "text": "$x < z$", "correct": false },
+      { "text": "No se puede concluir nada.", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esta propiedad permite 'transmitir' la relación de orden a través de un elemento intermedio.",
+    "explanation": "El postulado transitivo del orden establece que si un primer elemento está relacionado con un segundo, y ese segundo con un tercero, entonces el primero está relacionado con el tercero. En este caso, si $x$ es mayor que $y$, y $y$ es mayor que $z$, se deduce que $x$ es mayor que $z$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00al",
+    "question": "Relaciona el conjunto numérico con su definición:\n\nA) Números Enteros ($\\mathbb{Z}$)\nB) Números Racionales ($\\mathbb{Q}$)\nC) Números Irracionales ($\\mathbb{I}$)\n\nI) Números cuya expansión decimal es infinita y no periódica.\nII) Incluye los números naturales, el cero y los enteros negativos.\nIII) Números que pueden expresarse como el cociente $\\frac{a}{b}$, con $a, b \\in \\mathbb{Z}$ y $b \\neq 0$.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "A) $\\mathbb{Z}$ incluye positivos, negativos y cero. B) $\\mathbb{Q}$ son fracciones. C) $\\mathbb{I}$ no son fracciones.",
+    "explanation": "A) El conjunto de los números enteros ($\\mathbb{Z}$) incluye a los naturales, sus opuestos y el cero. B) El conjunto de los números racionales ($\\mathbb{Q}$) se define como el cociente de dos enteros. C) El conjunto de los números irracionales ($\\mathbb{I}$) está formado por números que no pueden expresarse como un cociente de enteros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00am",
+    "question": "El postulado aditivo de la igualdad establece que si $a=b$, entonces...",
+    "image": null,
+    "options": [
+      { "text": "$a+c = b+c$", "correct": true },
+      { "text": "$ac = bc$", "correct": false },
+      { "text": "$a-c = b+c$", "correct": false },
+      { "text": "$a+c > b+c$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esta propiedad indica que se puede sumar la misma cantidad a ambos lados de una igualdad sin alterarla.",
+    "explanation": "El postulado aditivo (o propiedad de la suma para la igualdad) afirma que si dos cantidades son iguales, y se suma la misma cantidad $c$ a ambas, los resultados seguirán siendo iguales. Es fundamental para resolver ecuaciones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00an",
+    "question": "Si $x=y$ y $c \\neq 0$, ¿qué afirma el postulado multiplicativo de la igualdad?",
+    "image": null,
+    "options": [
+      { "text": "$xc = yc$", "correct": true },
+      { "text": "$x+c = y+c$", "correct": false },
+      { "text": "$\\frac{x}{c} > \\frac{y}{c}$", "correct": false },
+      { "text": "$xc = y+c$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Análogo al postulado aditivo, pero con la operación de multiplicación.",
+    "explanation": "El postulado multiplicativo (o propiedad de la multiplicación para la igualdad) afirma que si se multiplican ambos lados de una igualdad por la misma cantidad no nula $c$, la igualdad se mantiene.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ao",
+    "question": "La propiedad de ______ indica que la suma o multiplicación de dos números reales da como resultado otro número ______.",
+    "image": null,
+    "options": [
+      { "text": "cerradura, real", "correct": true },
+      { "text": "asociativa, entero", "correct": false },
+      { "text": "conmutativa, racional", "correct": false },
+      { "text": "distributiva, real", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta propiedad se refiere a que el resultado de una operación 'no se sale' del conjunto numérico original.",
+    "explanation": "La propiedad de cerradura o clausura para un conjunto y una operación especifica que si se opera cualquier par de elementos del conjunto, el resultado siempre será un elemento del mismo conjunto. El conjunto de los números reales es cerrado bajo la suma y la multiplicación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ap",
+    "question": "¿Qué propiedad de los números reales se ilustra con la expresión $5 + (8+3) = (5+8) + 3$?",
+    "image": null,
+    "options": [
+      { "text": "Asociativa", "correct": true },
+      { "text": "Conmutativa", "correct": false },
+      { "text": "Distributiva", "correct": false },
+      { "text": "Neutro aditivo", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esta propiedad se refiere a cómo se 'agrupan' los números en una operación.",
+    "explanation": "La propiedad asociativa de la adición establece que la forma en que se agrupan los sumandos no altera el resultado. En general, $(a+b)+c = a+(b+c)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00aq",
+    "question": "La igualdad $7 \\times 9 = 9 \\times 7$ es un ejemplo de la propiedad:",
+    "image": null,
+    "options": [
+      { "text": "Conmutativa", "correct": true },
+      { "text": "Asociativa", "correct": false },
+      { "text": "Distributiva", "correct": false },
+      { "text": "Cerradura", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esta propiedad indica que el orden de los factores no altera el producto.",
+    "explanation": "La propiedad conmutativa de la multiplicación afirma que el orden en que se multiplican dos números no afecta al resultado. En general, $a \\times b = b \\times a$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ar",
+    "question": "¿Cuál de las siguientes expresiones muestra la propiedad distributiva?",
+    "image": null,
+    "options": [
+      { "text": "$4(x + y) = 4x + 4y$", "correct": true },
+      { "text": "$4(xy) = (4x)y$", "correct": false },
+      { "text": "$4 + x = x + 4$", "correct": false },
+      { "text": "$4x + 4y = 4y + 4x$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta propiedad relaciona la multiplicación con la adición.",
+    "explanation": "La propiedad distributiva establece que la multiplicación de un número por una suma es igual a la suma de las multiplicaciones de dicho número por cada uno de los sumandos. Es decir, $a(b+c) = ab + ac$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00as",
+    "question": "Selecciona los números que pertenecen al conjunto de los enteros ($\\mathbb{Z}$) pero no al de los naturales ($\\mathbb{N}$)",
+    "image": null,
+    "options": [
+      { "text": "-10, 0", "correct": true },
+      { "text": "5, 100", "correct": false },
+      { "text": "$\\frac{1}{2}, -3$", "correct": false },
+      { "text": "$\\sqrt{2}, 0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los números naturales son \\{1, 2, 3, ...\\}. Busca números en $\\mathbb{Z} = \\{...,-2,-1,0,1,2,...\\}$ que no estén en ese primer conjunto.",
+    "explanation": "El conjunto de los números enteros $\\mathbb{Z}$ contiene a los naturales $\\mathbb{N}$, pero también incluye el cero y los enteros negativos. Por lo tanto, -10 y 0 son enteros que no son naturales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00at",
+    "question": "El número $0$ es el elemento ______ para la suma, y el $1$ es el elemento ______ para la multiplicación.",
+    "image": null,
+    "options": [
+      { "text": "neutro, neutro", "correct": true },
+      { "text": "inverso, inverso", "correct": false },
+      { "text": "neutro, inverso", "correct": false },
+      { "text": "inverso, neutro", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un elemento neutro es aquel que, al ser operado con cualquier otro, lo deja sin cambios.",
+    "explanation": "El elemento neutro aditivo es el 0, porque $a+0=a$ para cualquier real $a$. El elemento neutro multiplicativo es el 1, porque $a \\times 1 = a$ para cualquier real $a$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00au",
+    "question": "Para cualquier número real $a$ distinto de cero, su inverso aditivo es ______ y su inverso multiplicativo es ______.",
+    "image": null,
+    "options": [
+      { "text": "$-a, \\frac{1}{a}$", "correct": true },
+      { "text": "$\\frac{1}{a}, -a$", "correct": false },
+      { "text": "$a, -a$", "correct": false },
+      { "text": "$-a, a$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El inverso aditivo suma para dar el neutro aditivo (0). El inverso multiplicativo multiplica para dar el neutro multiplicativo (1).",
+    "explanation": "El inverso aditivo u opuesto de $a$ es $-a$, ya que $a + (-a) = 0$. El inverso multiplicativo o recíproco de $a$ (si $a \\neq 0$) es $\\frac{1}{a}$ (o $a^{-1}$), ya que $a \\times \\frac{1}{a} = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00av",
+    "question": "¿Cuál es el inverso multiplicativo del número 7?",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{1}{7}$", "correct": true },
+      { "text": "$-7$", "correct": false },
+      { "text": "$7$", "correct": false },
+      { "text": "$1$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca el número que, multiplicado por 7, da como resultado 1.",
+    "explanation": "El inverso multiplicativo o recíproco de un número $x$ es $\\frac{1}{x}$. Para 7, su inverso multiplicativo es $\\frac{1}{7}$ porque $7 \\times \\frac{1}{7} = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00aw",
+    "question": "¿Cuál es el resultado de $i^2$, donde $i$ es la unidad imaginaria?",
+    "image": null,
+    "options": [
+      { "text": "$-1$", "correct": true },
+      { "text": "$1$", "correct": false },
+      { "text": "$\\sqrt{-1}$", "correct": false },
+      { "text": "$-i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda la definición fundamental de $i$.",
+    "explanation": "La unidad imaginaria $i$ se define como $i = \\sqrt{-1}$. Por lo tanto, al elevar al cuadrado ambos lados de la definición, obtenemos $i^2 = (\\sqrt{-1})^2 = -1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ax",
+    "question": "Relaciona la propiedad con su representación simbólica:\n\nA) Conmutativa\nB) Asociativa\nC) Distributiva\n\nI) $a(bc) = (ab)c$\nII) $a(b+c) = ab+ac$\nIII) $ab = ba$",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "A) Conmutar es cambiar de orden. B) Asociar es cambiar de agrupación. C) Distribuir es repartir la multiplicación sobre una suma.",
+    "explanation": "A) La propiedad conmutativa se refiere al cambio de orden ($ab=ba$). B) La propiedad asociativa se refiere al cambio de agrupación ($a(bc)=(ab)c$). C) La propiedad distributiva combina multiplicación y suma ($a(b+c)=ab+ac$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ay",
+    "question": "El número $3.14159$ es un número...",
+    "image": null,
+    "options": [
+      { "text": "Racional", "correct": true },
+      { "text": "Irracional", "correct": false },
+      { "text": "Entero", "correct": false },
+      { "text": "Natural", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ten cuidado con la diferencia entre un número y su aproximación. ¿Este número tiene fin?",
+    "explanation": "El número $3.14159$ es un decimal finito, lo que significa que puede expresarse como la fracción $\\frac{314159}{100000}$. Por lo tanto, es un número racional. No debe confundirse con $\\pi$, que es irracional y tiene infinitos decimales no periódicos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00az",
+    "question": "El conjunto de los números naturales $\\mathbb{N} = \\{1, 2, 3, ...\\}$ no es cerrado bajo la operación de...",
+    "image": null,
+    "options": [
+      { "text": "Resta", "correct": true },
+      { "text": "Suma", "correct": false },
+      { "text": "Multiplicación", "correct": false },
+      { "text": "Potenciación", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca una operación entre dos números naturales cuyo resultado no sea un número natural.",
+    "explanation": "La resta de dos números naturales no siempre da como resultado otro número natural. Por ejemplo, $3 - 5 = -2$, y $-2$ no pertenece a $\\mathbb{N}$. Por lo tanto, los naturales no son cerrados bajo la resta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ba",
+    "question": "El postulado de ______ afirma que si $a<b$ y $b<c$, entonces $a<c$. Esta propiedad es fundamental para el ______ de los números reales.",
+    "image": null,
+    "options": [
+      { "text": "transitividad, orden", "correct": true },
+      { "text": "tricotomía, valor", "correct": false },
+      { "text": "asociatividad, producto", "correct": false },
+      { "text": "cerradura, conjunto", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta propiedad permite encadenar desigualdades.",
+    "explanation": "La propiedad transitiva es una de las propiedades clave que definen el orden en el conjunto de los números reales. Permite establecer una relación de orden entre dos elementos a través de un tercero.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bb",
+    "question": "¿Cuál es el inverso aditivo de $-5$?",
+    "image": null,
+    "options": [
+      { "text": "$5$", "correct": true },
+      { "text": "$-5$", "correct": false },
+      { "text": "$\\frac{1}{5}$", "correct": false },
+      { "text": "$\\frac{-1}{5}$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El inverso aditivo es el número que, sumado al original, da como resultado 0.",
+    "explanation": "El inverso aditivo de un número $x$ es $-x$. Para $-5$, su inverso aditivo es $-(-5) = 5$, ya que $(-5) + 5 = 0$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bc",
+    "question": "¿Cuál es el valor de $\\sqrt{-25}$?",
+    "image": null,
+    "options": [
+      { "text": "$5i$", "correct": true },
+      { "text": "$-5$", "correct": false },
+      { "text": "$5$", "correct": false },
+      { "text": "No existe", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa la propiedad de las raíces $\\sqrt{ab} = \\sqrt{a}\\sqrt{b}$ y la definición de $i$.",
+    "explanation": "Podemos reescribir $\\sqrt{-25}$ como $\\sqrt{25 \\times -1}$. Aplicando la propiedad de las raíces, obtenemos $\\sqrt{25} \\times \\sqrt{-1}$. Como $\\sqrt{25}=5$ y $\\sqrt{-1}=i$, el resultado es $5i$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bd",
+    "question": "¿Qué propiedad justifica el paso de $2(x+3) + 5$ a $2x + 6 + 5$?",
+    "image": null,
+    "options": [
+      { "text": "Distributiva", "correct": true },
+      { "text": "Asociativa", "correct": false },
+      { "text": "Conmutativa", "correct": false },
+      { "text": "Inverso multiplicativo", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Observa cómo el 2 que multiplica al paréntesis se 'reparte' a los términos internos.",
+    "explanation": "El paso de $2(x+3)$ a $2x + 6$ es una aplicación directa de la propiedad distributiva, donde $a(b+c) = ab + ac$. En este caso, $a=2, b=x, c=3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00be",
+    "question": "Identifica cuáles de los siguientes números son racionales.",
+    "image": null,
+    "options": [
+      { "text": "$-4, \\frac{5}{3}, 0.25, \\sqrt{100}$", "correct": true },
+      { "text": "$\\pi, \\sqrt{7}, e, -1$", "correct": false },
+      { "text": "$\\frac{1}{2}, \\sqrt{3}, 6, 0.121221222...$", "correct": false },
+      { "text": "$0, -9, \\sqrt{8}, \\frac{\\pi}{2}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un número racional puede ser un entero, una fracción o un decimal finito o periódico. Las raíces exactas también son racionales.",
+    "explanation": "En la opción correcta: $-4$ es entero (racional), $\\frac{5}{3}$ es una fracción (racional), $0.25 = \\frac{1}{4}$ (racional), y $\\sqrt{100} = 10$ que es entero (racional). Las otras opciones contienen números irracionales como $\\pi, \\sqrt{7}, e, \\sqrt{3}, \\sqrt{8}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bf",
+    "question": "Si $a, b, c$ son números reales, la propiedad ______ permite reescribir $a+(b+c)$ como $(a+b)+c$ y la propiedad ______ permite reescribir $a+b$ como $b+a$.",
+    "image": null,
+    "options": [
+      { "text": "asociativa, conmutativa", "correct": true },
+      { "text": "conmutativa, asociativa", "correct": false },
+      { "text": "distributiva, asociativa", "correct": false },
+      { "text": "asociativa, distributiva", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Una se refiere a la agrupación de términos y la otra al orden de los mismos.",
+    "explanation": "La propiedad asociativa se relaciona con la forma en que se agrupan los números en una operación sin que el resultado cambie. La propiedad conmutativa se refiere a que el orden de los números no altera el resultado de la operación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bg",
+    "question": "El producto de dos números irracionales, como $\\sqrt{2} \\times \\sqrt{8}$, es...",
+    "image": null,
+    "options": [
+      { "text": "Siempre racional", "correct": false },
+      { "text": "Siempre irracional", "correct": false },
+      { "text": "Puede ser racional o irracional", "correct": true },
+      { "text": "Siempre un número entero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula el ejemplo dado: $\\sqrt{2} \\times \\sqrt{8} = \\sqrt{16}$. Ahora considera otro ejemplo, como $\\sqrt{2} \\times \\sqrt{3}$.",
+    "explanation": "El conjunto de los números irracionales no es cerrado bajo la multiplicación. En el ejemplo $\\sqrt{2} \\times \\sqrt{8} = \\sqrt{16} = 4$, el resultado es racional. Sin embargo, en el ejemplo $\\sqrt{2} \\times \\sqrt{3} = \\sqrt{6}$, el resultado es irracional. Por lo tanto, el producto puede ser de ambos tipos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bh",
+    "question": "Según el postulado de tricotomía, si $x \\neq y$, ¿cuántas relaciones de orden son posibles entre $x$ y $y$?",
+    "image": null,
+    "options": [
+      { "text": "Dos: $x > y$ o $x < y$", "correct": true },
+      { "text": "Una: $x > y$", "correct": false },
+      { "text": "Tres: $x > y$, $x < y$, o $x=y$", "correct": false },
+      { "text": "Ninguna es posible", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La tricotomía presenta tres casos posibles. Si se excluye uno de ellos ($x=y$), ¿cuántos quedan?",
+    "explanation": "El postulado de tricotomía establece que para cualquier par de números reales $x, y$, se cumple exactamente una de las siguientes: $x < y$, $x = y$, o $x > y$. Si se sabe que $x \\neq y$, se descarta la igualdad, dejando solo las dos posibilidades de desigualdad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bi",
+    "question": "La expresión $a + (-a) = 0$ demuestra la existencia del...",
+    "image": null,
+    "options": [
+      { "text": "Inverso aditivo", "correct": true },
+      { "text": "Neutro aditivo", "correct": false },
+      { "text": "Inverso multiplicativo", "correct": false },
+      { "text": "Neutro multiplicativo", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esta propiedad define el elemento que 'anula' a otro mediante la suma.",
+    "explanation": "La propiedad del inverso aditivo establece que para cada número real $a$, existe un único número real $-a$ (su inverso aditivo u opuesto) tal que su suma es igual al elemento neutro aditivo, 0.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bj",
+    "question": "¿Cuál de los siguientes conjuntos numéricos es un subconjunto de todos los demás?",
+    "image": null,
+    "options": [
+      { "text": "Naturales ($\\mathbb{N}$)", "correct": true },
+      { "text": "Enteros ($\\mathbb{Z}$)", "correct": false },
+      { "text": "Racionales ($\\mathbb{Q}$)", "correct": false },
+      { "text": "Reales ($\\mathbb{R}$)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Piensa en la jerarquía de los conjuntos: $\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R}$.",
+    "explanation": "Los números naturales son la base de los demás conjuntos. Los enteros contienen a los naturales. Los racionales contienen a los enteros. Y los reales contienen a los racionales. Por lo tanto, los naturales es el subconjunto más fundamental.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bk",
+    "question": "El número $0.123456789101112...$ donde los dígitos son la concatenación de los números naturales, es un número...",
+    "image": null,
+    "options": [
+      { "text": "Irracional", "correct": true },
+      { "text": "Racional", "correct": false },
+      { "text": "Entero", "correct": false },
+      { "text": "Imaginario", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Para que un número sea racional, su expansión decimal debe ser finita o periódica. ¿Este patrón se repite?",
+    "explanation": "Este número, conocido como la constante de Champernowne, es irracional porque su secuencia de dígitos nunca se repite de forma periódica. Aunque hay un patrón claro en su construcción, no es un patrón periódico en el sentido requerido para los números racionales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bl",
+    "question": "Relaciona cada postulado o propiedad con su nombre:\n\nA) Para $a,b \\in \\mathbb{R}$, solo se cumple $a<b$ o $a=b$ o $a>b$.\nB) Si $a>b$ y $b>c$, entonces $a>c$.\nC) Si $a,b \\in \\mathbb{R}$, entonces $a+b \\in \\mathbb{R}$.\n\nI) Propiedad de Cerradura\nII) Postulado de Tricotomía\nIII) Postulado Transitivo",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Analiza la estructura de cada enunciado. I) habla de 'cerrar' un conjunto. II) de una terna de opciones. III) de encadenar una relación.",
+    "explanation": "A) La tricotomía se define por las tres (tri-) posibles relaciones de orden. B) La transitividad describe cómo una relación se transfiere a través de un intermediario. C) La cerradura (o clausura) se refiere a que la operación entre miembros de un conjunto resulta en un miembro del mismo conjunto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bm",
+    "question": "El número $\\frac{22}{7}$ es un número _______ que se usa como aproximación del número _______ $\\pi$.",
+    "image": null,
+    "options": [
+      { "text": "racional, irracional", "correct": true },
+      { "text": "irracional, racional", "correct": false },
+      { "text": "entero, irracional", "correct": false },
+      { "text": "real, imaginario", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Una fracción de enteros es siempre de un tipo, mientras que $\\pi$ es el ejemplo clásico del otro tipo.",
+    "explanation": "$\\frac{22}{7}$ es un cociente de dos enteros, por lo que es, por definición, un número racional. Es una aproximación comúnmente utilizada para el número irracional $\\pi$, pero no es su valor exacto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bn",
+    "question": "El conjunto de los números enteros, $\\mathbb{Z}$, no tiene la propiedad de ______ para la operación de ______, porque $3/5$ no es un entero.",
+    "image": null,
+    "options": [
+      { "text": "cerradura, división", "correct": true },
+      { "text": "asociatividad, resta", "correct": false },
+      { "text": "inverso, suma", "correct": false },
+      { "text": "conmutatividad, multiplicación", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Cuando una operación entre dos elementos de un conjunto da un resultado fuera de ese conjunto, ¿qué propiedad falla?",
+    "explanation": "El conjunto de los números enteros no es cerrado bajo la división. Si bien algunas divisiones como $10/2=5$ dan un resultado entero, muchas otras como $3/5$ dan un resultado racional que no es entero. Por lo tanto, falla la propiedad de cerradura o clausura.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bo",
+    "question": "Identifica los números que son reales pero no racionales.",
+    "image": null,
+    "options": [
+      { "text": "$\\sqrt{3}, e, 2\\pi$", "correct": true },
+      { "text": "$-5, \\frac{0}{8}, \\sqrt{49}$", "correct": false },
+      { "text": "$3i, \\sqrt{-9}, 1+i$", "correct": false },
+      { "text": "$0.7, \\frac{11}{4}, -3.14$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta pregunta pide identificar los números irracionales.",
+    "explanation": "Los números reales que no son racionales son, por definición, los números irracionales. $\\sqrt{3}$, $e$, y $2\\pi$ son todos ejemplos de números irracionales. Las otras opciones contienen números racionales o números imaginarios/complejos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bp",
+    "question": "¿Cuál es la principal diferencia entre un número racional y uno irracional en términos de su expansión decimal?",
+    "image": null,
+    "options": [
+      { "text": "Los racionales tienen expansión finita o periódica; los irracionales, infinita no periódica.", "correct": true },
+      { "text": "Los racionales siempre tienen decimales; los irracionales no.", "correct": false },
+      { "text": "Los racionales son positivos; los irracionales son negativos.", "correct": false },
+      { "text": "Los racionales no pueden ser enteros; los irracionales sí.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Piensa en los decimales de $\\frac{1}{3}$ versus los de $\\pi$.",
+    "explanation": "Una característica definitoria que distingue a los números racionales de los irracionales es su representación decimal. Todo número racional se puede escribir como un decimal que termina (finito) o que se repite en un patrón (periódico). En contraste, todo número irracional tiene una expansión decimal que continúa infinitamente sin repetirse jamás.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bq",
+    "question": "Si $a \\cdot b = 0$, ¿qué se puede concluir sobre $a$ o $b$?",
+    "image": null,
+    "options": [
+      { "text": "Al menos uno de ellos debe ser cero.", "correct": true },
+      { "text": "Ambos deben ser cero.", "correct": false },
+      { "text": "Uno es positivo y el otro es negativo.", "correct": false },
+      { "text": "Son inversos multiplicativos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta es la propiedad del producto cero.",
+    "explanation": "La propiedad del producto cero establece que si el producto de dos o más factores es cero, entonces al menos uno de los factores debe ser cero. Es una herramienta fundamental en la resolución de ecuaciones algebraicas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00br",
+    "question": "¿Cuál es el resultado de la operación $\\sqrt{-4} \\times \\sqrt{-9}$?",
+    "image": null,
+    "options": [
+      { "text": "$-6$", "correct": true },
+      { "text": "$6$", "correct": false },
+      { "text": "$6i$", "correct": false },
+      { "text": "$-6i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Primero convierte cada raíz a su forma imaginaria. $\\sqrt{-4}=2i$ y $\\sqrt{-9}=3i$. Luego multiplica los resultados.",
+    "explanation": "Es importante primero expresar las raíces de números negativos en términos de $i$ antes de multiplicar. $\\sqrt{-4} = 2i$ y $\\sqrt{-9} = 3i$. Entonces, la operación es $(2i) \\times (3i) = 6i^2$. Como $i^2 = -1$, el resultado final es $6(-1) = -6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bs",
+    "question": "Todos los números ______ son también números ______, pero no todos los números ______ son ______.",
+    "image": null,
+    "options": [
+      { "text": "enteros, racionales, racionales, enteros", "correct": true },
+      { "text": "racionales, enteros, enteros, racionales", "correct": false },
+      { "text": "reales, racionales, racionales, reales", "correct": false },
+      { "text": "irracionales, reales, reales, irracionales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Considera la relación de subconjuntos $\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R}$. Un elemento de un conjunto más pequeño siempre está en uno más grande.",
+    "explanation": "Cualquier número entero $z$ puede escribirse como la fracción $\\frac{z}{1}$, por lo que todos los enteros son racionales. Sin embargo, existen números racionales como $\\frac{1}{2}$ que no son enteros. Esto ilustra que $\\mathbb{Z}$ es un subconjunto propio de $\\mathbb{Q}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bt",
+    "question": "El hecho de que $5(x-y)$ se pueda escribir como $5x-5y$ es una consecuencia de la propiedad...",
+    "image": null,
+    "options": [
+      { "text": "Distributiva", "correct": true },
+      { "text": "Conmutativa", "correct": false },
+      { "text": "Asociativa", "correct": false },
+      { "text": "De cerradura", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esta propiedad 'distribuye' la multiplicación sobre los términos de una suma o resta.",
+    "explanation": "La propiedad distributiva se aplica tanto a la suma como a la resta. La regla es $a(b-c) = ab - ac$. En este caso, $a=5, b=x, c=y$, por lo que $5(x-y)=5x-5y$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bu",
+    "question": "El inverso aditivo del inverso multiplicativo de 2 es:",
+    "image": null,
+    "options": [
+      { "text": "$-\\frac{1}{2}$", "correct": true },
+      { "text": "$\\frac{1}{2}$", "correct": false },
+      { "text": "$-2$", "correct": false },
+      { "text": "$2$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Realiza los pasos en orden. Primero, encuentra el inverso multiplicativo de 2. Luego, encuentra el inverso aditivo de ese resultado.",
+    "explanation": "Paso 1: El inverso multiplicativo de 2 es $\\frac{1}{2}$.\\nPaso 2: El inverso aditivo de $\\frac{1}{2}$ es $-\\frac{1}{2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bv",
+    "question": "Relaciona el número con su clasificación más específica:\n\nA) -15\nB) $\\pi$\nC) 5/9\nD) $\\sqrt{81}$\n\nI) Natural\nII) Racional no entero\nIII) Entero no natural\nIV) Irracional",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-IV; C-II; D-I", "correct": true },
+      { "text": "A-III; B-I; C-IV; D-II", "correct": false },
+      { "text": "A-II; B-IV; C-I; D-III", "correct": false },
+      { "text": "A-IV; B-III; C-II; D-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Clasifica cada número en el conjunto más pequeño al que pertenece. $\\sqrt{81}$ es un entero.",
+    "explanation": "A) $-15$ es un entero, pero no natural. B) $\\pi$ es el ejemplo clásico de un irracional. C) $5/9$ es un cociente de enteros, un racional no entero. D) $\\sqrt{81} = 9$, que es un número natural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bw",
+    "question": "La suma de un número racional y un número irracional es siempre...",
+    "image": null,
+    "options": [
+      { "text": "Irracional", "correct": true },
+      { "text": "Racional", "correct": false },
+      { "text": "Entero", "correct": false },
+      { "text": "Puede ser racional o irracional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Considera la suma $r + i$. Si el resultado fuera racional ($q$), entonces $i = q - r$. ¿Qué implicaría esto para $i$?",
+    "explanation": "La suma de un número racional y uno irracional siempre resulta en un número irracional. Si la suma fuera racional, entonces el número irracional podría expresarse como la diferencia de dos números racionales, lo cual es una contradicción, ya que la resta de dos racionales siempre es racional.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bx",
+    "question": "¿Cuál de las siguientes afirmaciones es FALSA?",
+    "image": null,
+    "options": [
+      { "text": "El conjunto de los números irracionales es cerrado bajo la adición.", "correct": true },
+      { "text": "El conjunto de los números enteros es cerrado bajo la multiplicación.", "correct": false },
+      { "text": "Todo número natural es un número real.", "correct": false },
+      { "text": "El inverso multiplicativo de un número racional (no nulo) es racional.", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Busca un contraejemplo. ¿La suma de dos irracionales es siempre irracional? Piensa en $\\sqrt{2}$ y $-\\sqrt{2}$.",
+    "explanation": "La afirmación falsa es que los irracionales son cerrados bajo la adición. Un contraejemplo es $\\sqrt{2} + (-\\sqrt{2}) = 0$, donde la suma de dos números irracionales da como resultado un número racional (entero).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00by",
+    "question": "Son números que pertenecen al conjunto de los Reales ($\\mathbb{R}$) pero no al de los Racionales ($\\mathbb{Q}$):",
+    "image": null,
+    "options": [
+      { "text": "La constante de Euler ($e$), la raíz cuadrada de dos ($\\sqrt{2}$)", "correct": true },
+      { "text": "Menos cinco ($-5$), un tercio ($\\frac{1}{3}$)", "correct": false },
+      { "text": "Cero ($0$), la unidad imaginaria ($i$)", "correct": false },
+      { "text": "La raíz cuadrada de menos uno ($\\sqrt{-1}$), pi ($\\pi$)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La pregunta busca dos ejemplos de números irracionales.",
+    "explanation": "Los números Reales que no son Racionales son, por definición, los Irracionales. Tanto $e$ (la base del logaritmo natural) como $\\sqrt{2}$ son ejemplos canónicos de números irracionales. Las otras opciones incluyen números racionales ($-5, 1/3, 0$) o imaginarios ($i$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00bz",
+    "question": "El elemento neutro de la ______ es el $1$, mientras que el elemento neutro de la ______ es el $0$. La propiedad ______ usa ambas operaciones.",
+    "image": null,
+    "options": [
+      { "text": "multiplicación, adición, distributiva", "correct": true },
+      { "text": "adición, multiplicación, asociativa", "correct": false },
+      { "text": "multiplicación, adición, conmutativa", "correct": false },
+      { "text": "adición, sustracción, de cerradura", "correct": false }
+    ],
+    "uni_tags": ["UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda qué número no altera el resultado en una multiplicación y en una suma. Luego, piensa qué propiedad combina estas dos operaciones.",
+    "explanation": "El número 1 es el neutro multiplicativo ($a \\times 1 = a$) y el 0 es el neutro aditivo ($a + 0 = a$). La propiedad distributiva ($a(b+c) = ab+ac$) es la que vincula la multiplicación con la adición.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ca",
+    "question": "¿Cuál es el valor de $i^3$, donde $i$ es la unidad imaginaria?",
+    "image": null,
+    "options": [
+      { "text": "$-i$", "correct": true },
+      { "text": "$-1$", "correct": false },
+      { "text": "$1$", "correct": false },
+      { "text": "$i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Puedes escribir $i^3$ como $i^2 \\cdot i$.",
+    "explanation": "Sabemos que $i^2 = -1$. Por lo tanto, $i^3 = i^2 \\cdot i = (-1) \\cdot i = -i$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cb",
+    "question": "La propiedad conmutativa no se cumple para la operación de ______ en el conjunto de los números ______.",
+    "image": null,
+    "options": [
+      { "text": "resta, enteros", "correct": true },
+      { "text": "suma, naturales", "correct": false },
+      { "text": "multiplicación, racionales", "correct": false },
+      { "text": "suma, reales", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca una operación donde cambiar el orden de los operandos altere el resultado. Por ejemplo, ¿es $5-3$ igual a $3-5$?",
+    "explanation": "La propiedad conmutativa implica que $a \\circ b = b \\circ a$. En la resta de enteros, $5-3=2$, pero $3-5=-2$. Como los resultados son diferentes, la resta no es conmutativa en los enteros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cc",
+    "question": "Un número es ______ si es la raíz de un polinomio no nulo con coeficientes enteros. Un número que no cumple esta condición es ______.",
+    "image": null,
+    "options": [
+      { "text": "algebraico, trascendente", "correct": true },
+      { "text": "racional, irracional", "correct": false },
+      { "text": "real, complejo", "correct": false },
+      { "text": "trascendente, algebraico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Todos los números racionales son de un tipo, mientras que $\\pi$ y $e$ son ejemplos del otro.",
+    "explanation": "Los números algebraicos son aquellos que pueden ser una solución a una ecuación polinómica con coeficientes enteros (por ejemplo, $\\sqrt{2}$ es algebraico porque es raíz de $x^2-2=0$). Los números que no son algebraicos, como $\\pi$ y $e$, se denominan trascendentes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cd",
+    "question": "¿Para cuál de las siguientes operaciones el conjunto de los números naturales $\\mathbb{N}=\\{1, 2, 3, ...\\}$ NO es cerrado?",
+    "image": null,
+    "options": [
+      { "text": "Sustracción", "correct": true },
+      { "text": "Adición", "correct": false },
+      { "text": "Multiplicación", "correct": false },
+      { "text": "Potenciación", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Una operación es cerrada en un conjunto si el resultado de operar dos elementos del conjunto siempre pertenece al mismo conjunto. Prueba con $3-5$.",
+    "explanation": "El conjunto de los números naturales no es cerrado bajo la sustracción porque el resultado puede ser un número no natural (negativo o cero). Por ejemplo, $3-5 = -2$, y $-2 \\notin \\mathbb{N}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ce",
+    "question": "La afirmación 'entre dos números racionales distintos, siempre existe otro número racional' es la propiedad de...",
+    "image": null,
+    "options": [
+      { "text": "Densidad", "correct": true },
+      { "text": "Completitud", "correct": false },
+      { "text": "Tricotomía", "correct": false },
+      { "text": "Cerradura", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Esta propiedad sugiere que no hay 'huecos' en el conjunto, y que los números están muy juntos.",
+    "explanation": "La propiedad de densidad del conjunto de los números racionales ($\\mathbb{Q}$) establece que entre cualesquiera dos números racionales distintos, es posible encontrar un número infinito de otros números racionales. Por ejemplo, entre $0.1$ y $0.2$ está $0.15$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cf",
+    "question": "Selecciona la opción que contiene únicamente números algebraicos.",
+    "image": null,
+    "options": [
+      { "text": "$7, \\sqrt{5}, \\frac{2}{3}, \\sqrt[3]{10}$", "correct": true },
+      { "text": "$\\pi, e, 7, \\sqrt{5}$", "correct": false },
+      { "text": "$e, \\frac{2}{3}, \\phi, \\sqrt{10}$", "correct": false },
+      { "text": "$\\pi, 2\\pi, e^2, \\log(2)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Los números algebraicos son raíces de polinomios con coeficientes enteros. Todos los números racionales y las raíces de racionales son algebraicos. $\\pi$ y $e$ son trascendentes.",
+    "explanation": "$7$ (raíz de $x-7=0$), $\\sqrt{5}$ (raíz de $x^2-5=0$), $\\frac{2}{3}$ (raíz de $3x-2=0$) y $\\sqrt[3]{10}$ (raíz de $x^3-10=0$) son todos números algebraicos. Las otras opciones incluyen números trascendentes como $\\pi$ y $e$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cg",
+    "question": "Si $a > b$ y $c$ es un número real negativo ($c<0$), ¿cuál es la relación entre $ac$ y $bc$?",
+    "image": null,
+    "options": [
+      { "text": "$ac < bc$", "correct": true },
+      { "text": "$ac > bc$", "correct": false },
+      { "text": "$ac = bc$", "correct": false },
+      { "text": "Depende del valor de $a$ y $b$", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Recuerda la regla de las desigualdades: al multiplicar por un número negativo, el sentido de la desigualdad se invierte.",
+    "explanation": "Una de las propiedades de las desigualdades establece que si se multiplican ambos lados por un número negativo, la dirección del símbolo de desigualdad debe invertirse. Por lo tanto, si $a > b$ y $c < 0$, entonces $ac < bc$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ch",
+    "question": "¿Qué valor resulta de $i^4$?",
+    "image": null,
+    "options": [
+      { "text": "$1$", "correct": true },
+      { "text": "$-1$", "correct": false },
+      { "text": "$i$", "correct": false },
+      { "text": "$-i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Puedes calcularlo como $(i^2)^2$.",
+    "explanation": "Dado que $i^2 = -1$, entonces $i^4 = (i^2)^2 = (-1)^2 = 1$. Este ciclo de potencias de $i$ ($i, -1, -i, 1$) se repite cada cuatro potencias.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ci",
+    "question": "La propiedad de ______ de los números reales garantiza que no hay 'huecos' en la recta numérica y la distingue de los números ______.",
+    "image": null,
+    "options": [
+      { "text": "completitud, racionales", "correct": true },
+      { "text": "densidad, enteros", "correct": false },
+      { "text": "tricotomía, naturales", "correct": false },
+      { "text": "cerradura, irracionales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Los racionales son densos, pero tienen 'huecos' donde están los irracionales (como $\\sqrt{2}$). ¿Qué propiedad 'llena' esos huecos?",
+    "explanation": "El axioma de completitud (o del supremo) es lo que distingue a los números reales de los racionales. Mientras que los racionales son densos, tienen agujeros (los números irracionales). La completitud de los reales significa que cada punto en la recta numérica corresponde a un número real, sin dejar huecos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cj",
+    "question": "La resta en el conjunto de los números enteros, $\\mathbb{Z}$, no cumple la propiedad ______ porque $(8-5)-2 \\neq 8-(5-2)$.",
+    "image": null,
+    "options": [
+      { "text": "asociativa", "correct": true },
+      { "text": "conmutativa", "correct": false },
+      { "text": "de cerradura", "correct": false },
+      { "text": "del neutro", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta propiedad se refiere a la forma de agrupar los números.",
+    "explanation": "La propiedad asociativa no se cumple para la resta. En el ejemplo: $(8-5)-2 = 3-2 = 1$. Sin embargo, $8-(5-2) = 8-3 = 5$. Como $1 \\neq 5$, la resta no es asociativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ck",
+    "question": "¿Cuál es el inverso multiplicativo de la unidad imaginaria $i$?",
+    "image": null,
+    "options": [
+      { "text": "$-i$", "correct": true },
+      { "text": "$i$", "correct": false },
+      { "text": "$-1$", "correct": false },
+      { "text": "$1$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Buscas un número que multiplicado por $i$ dé 1. Intenta multiplicar las opciones por $i$.",
+    "explanation": "El inverso multiplicativo de $i$ es $\\frac{1}{i}$. Para simplificar, multiplicamos el numerador y el denominador por $i$: $\\frac{1}{i} \\cdot \\frac{i}{i} = \\frac{i}{i^2} = \\frac{i}{-1} = -i$. Verificación: $i \\cdot (-i) = -i^2 = -(-1) = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cl",
+    "question": "Relaciona las potencias de $i$ con su valor simplificado:\n\nA) $i^2$\nB) $i^4$\nC) $i^5$\nD) $i^6$\n\nI) $-1$\nII) $i$\nIII) $-1$\nIV) $1$",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-IV; C-II; D-I", "correct": true },
+      { "text": "A-III; B-II; C-IV; D-I", "correct": false },
+      { "text": "A-IV; B-III; C-II; D-I", "correct": false },
+      { "text": "A-I; B-II; C-III; D-IV", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda el ciclo: $i^1=i, i^2=-1, i^3=-i, i^4=1$. Para potencias mayores, divide el exponente entre 4 y fíjate en el residuo.",
+    "explanation": "A) $i^2 = -1$. B) $i^4 = (i^2)^2 = (-1)^2 = 1$. C) $i^5 = i^4 \\cdot i = 1 \\cdot i = i$. D) $i^6 = i^4 \\cdot i^2 = 1 \\cdot (-1) = -1$. En el caso de D, también es válido usar que $i^6=i^2=-1$ ya que el residuo de $6 \\div 4$ es 2.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cm",
+    "question": "El conjunto de todos los números de la forma $a+bi$, donde $a$ y $b$ son reales e $i=\\sqrt{-1}$, se conoce como...",
+    "image": null,
+    "options": [
+      { "text": "Números Complejos ($\\mathbb{C}$)", "correct": true },
+      { "text": "Números Irracionales ($\\mathbb{I}$)", "correct": false },
+      { "text": "Números Trascendentes", "correct": false },
+      { "text": "Vectores Bidimensionales", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Este conjunto numérico incluye a los números reales y a los imaginarios.",
+    "explanation": "El conjunto de los números complejos, denotado por $\\mathbb{C}$, está formado por todos los números que pueden escribirse como $a+bi$, donde $a$ es la parte real y $b$ es la parte imaginaria. Este es el conjunto numérico más amplio que se estudia en preparatoria.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cn",
+    "question": "¿Cuál es la simplificación de $(3+4i) + (5-2i)$?",
+    "image": null,
+    "options": [
+      { "text": "$8+2i$", "correct": true },
+      { "text": "$8+6i$", "correct": false },
+      { "text": "$2-2i$", "correct": false },
+      { "text": "$10i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Suma las partes reales con las reales y las partes imaginarias con las imaginarias.",
+    "explanation": "Para sumar números complejos, se agrupan los términos semejantes: $(3+5) + (4i-2i) = 8 + 2i$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00co",
+    "question": "El postulado que garantiza que para cualquier número real $a$, la ecuación $a+x=0$ tiene una única solución es el de la existencia del...",
+    "image": null,
+    "options": [
+      { "text": "Inverso aditivo", "correct": true },
+      { "text": "Neutro aditivo", "correct": false },
+      { "text": "Inverso multiplicativo", "correct": false },
+      { "text": "Cerradura", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La solución a esta ecuación es $x=-a$. ¿Cómo se llama el elemento $-a$ en relación con $a$?",
+    "explanation": "El postulado del inverso aditivo establece que para cada número real $a$, existe un único número $-a$ tal que $a+(-a)=0$. Esto garantiza que la ecuación $a+x=0$ siempre tendrá la solución única $x=-a$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cp",
+    "question": "Si $n$ es un entero, ¿a qué es igual $i^{4n}$?",
+    "image": null,
+    "options": [
+      { "text": "1", "correct": true },
+      { "text": "$-1$", "correct": false },
+      { "text": "$i$", "correct": false },
+      { "text": "$-i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Usa las propiedades de los exponentes: $a^{bc} = (a^b)^c$. Recuerda que $i^4 = 1$.",
+    "explanation": "Aplicando las leyes de los exponentes, podemos escribir $i^{4n}$ como $(i^4)^n$. Dado que $i^4=1$, la expresión se convierte en $(1)^n$. Cualquier potencia entera de 1 es igual a 1.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cq",
+    "question": "El ______ de un número complejo $a+bi$ es $a-bi$.",
+    "image": null,
+    "options": [
+      { "text": "conjugado", "correct": true },
+      { "text": "inverso", "correct": false },
+      { "text": "opuesto", "correct": false },
+      { "text": "módulo", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Esta operación consiste en cambiar el signo de la parte imaginaria.",
+    "explanation": "El conjugado de un número complejo $z = a+bi$ se denota como $\\bar{z}$ y es igual a $a-bi$. Es una operación útil, por ejemplo, para la división de números complejos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cr",
+    "question": "El conjunto de los números ______ tiene la propiedad de ser bien ordenado, lo que significa que todo subconjunto no vacío tiene un elemento mínimo.",
+    "image": null,
+    "options": [
+      { "text": "naturales", "correct": true },
+      { "text": "enteros", "correct": false },
+      { "text": "racionales", "correct": false },
+      { "text": "reales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Piensa en el conjunto de los enteros negativos. ¿Tiene un elemento mínimo? ¿Y el intervalo $(0,1)$ en los reales?",
+    "explanation": "El principio del buen orden se aplica al conjunto de los números naturales ($\\mathbb{N}$). Establece que cualquier colección de números naturales que no esté vacía debe tener un primer o menor elemento. Esto no es cierto para los enteros (el conjunto de enteros negativos no tiene mínimo) ni para los reales/racionales (el intervalo abierto $(0,1)$ no tiene mínimo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cs",
+    "question": "¿Cuál es el resultado de la multiplicación $(2+i)(3-i)$?",
+    "image": null,
+    "options": [
+      { "text": "$7+i$", "correct": true },
+      { "text": "$6-i$", "correct": false },
+      { "text": "$5+i$", "correct": false },
+      { "text": "$6-i^2$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa el método distributivo (como FOIL para binomios) y recuerda que $i^2=-1$.",
+    "explanation": "Multiplicamos término a término: $(2)(3) + (2)(-i) + (i)(3) + (i)(-i) = 6 - 2i + 3i - i^2$. Agrupando términos semejantes y sustituyendo $i^2=-1$: $6 + i - (-1) = 6 + i + 1 = 7+i$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ct",
+    "question": "Selecciona los números que son trascendentes.",
+    "image": null,
+    "options": [
+      { "text": "$e, \\pi$", "correct": true },
+      { "text": "$\\sqrt{2}, \\sqrt{3}$", "correct": false },
+      { "text": "$5, -\\frac{1}{2}$", "correct": false },
+      { "text": "$i, \\sqrt{5}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Los números trascendentes no son raíces de ningún polinomio con coeficientes enteros. Hay dos ejemplos muy famosos.",
+    "explanation": "Los números $e$ (base del logaritmo natural) y $\\pi$ (razón entre la circunferencia y el diámetro) son los ejemplos más conocidos de números trascendentes. Los demás números en las opciones son algebraicos ($5, -1/2, \\sqrt{2}, \\sqrt{3}, \\sqrt{5}$) o complejos ($i$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cu",
+    "question": "El ______ de un número real es la distancia desde el cero hasta ese número en la recta numérica. Para un número complejo $z=a+bi$, se calcula como ______.",
+    "image": null,
+    "options": [
+      { "text": "valor absoluto, $\\sqrt{a^2+b^2}$", "correct": true },
+      { "text": "opuesto, $a-bi$", "correct": false },
+      { "text": "recíproco, $1/(a+bi)$", "correct": false },
+      { "text": "módulo, $a^2+b^2$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El concepto de 'distancia al origen' se generaliza al plano complejo usando el Teorema de Pitágoras.",
+    "explanation": "El valor absoluto (o módulo) de un número representa su magnitud o distancia al origen. Para un número real, $|x|$, es simplemente el número sin signo. Para un número complejo, $z=a+bi$, su módulo $|z|$ se calcula con la fórmula $\\sqrt{a^2+b^2}$, que es análoga al Teorema de Pitágoras en el plano complejo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cv",
+    "question": "El cero no tiene inverso ______, porque la ______ por cero no está definida.",
+    "image": null,
+    "options": [
+      { "text": "multiplicativo, división", "correct": true },
+      { "text": "aditivo, suma", "correct": false },
+      { "text": "multiplicativo, resta", "correct": false },
+      { "text": "aditivo, multiplicación", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El inverso multiplicativo de 'a' es 1/a. ¿Qué pasa si a=0?",
+    "explanation": "El inverso multiplicativo de un número $a$ es $1/a$. Para el cero, esto sería $1/0$. La división por cero es una operación indefinida en los números reales y complejos. Por lo tanto, el cero es el único número real que no posee un inverso multiplicativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cw",
+    "question": "¿Cuál de los siguientes enunciados es verdadero?",
+    "image": null,
+    "options": [
+      { "text": "Todo número entero es racional.", "correct": true },
+      { "text": "Todo número real es racional.", "correct": false },
+      { "text": "Todo número racional es entero.", "correct": false },
+      { "text": "Todo número imaginario es irracional.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda las inclusiones de conjuntos: $\\mathbb{N} \\subset \\mathbb{Z} \\subset \\mathbb{Q} \\subset \\mathbb{R} \\subset \\mathbb{C}$.",
+    "explanation": "La afirmación verdadera es que todo número entero es racional. Cualquier entero $z$ puede escribirse como la fracción $z/1$, cumpliendo la definición de número racional. Las otras son falsas: los irracionales son reales pero no racionales; 1/2 es racional pero no entero; los imaginarios no están en la recta real para ser clasificados como racionales o irracionales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cx",
+    "question": "Relaciona la propiedad con el conjunto numérico más pequeño donde se cumple universalmente:\n\nA) Inverso aditivo para todo elemento.\nB) Inverso multiplicativo para todo elemento no nulo.\nC) Propiedad del Buen Orden.\n\nI) Naturales ($\\mathbb{N}$)\nII) Enteros ($\\mathbb{Z}$)\nIII) Racionales ($\\mathbb{Q}$)",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "A) Piensa cuándo se necesita introducir los negativos. B) Piensa cuándo se necesita introducir las fracciones. C) Los naturales son el conjunto base para el 'buen orden'.",
+    "explanation": "A) La propiedad del inverso aditivo (existencia de opuestos) se cumple por primera vez de forma universal en los Enteros ($\\mathbb{Z}$). B) La propiedad del inverso multiplicativo (existencia de recíprocos para no nulos) requiere de las fracciones, por lo que se cumple en los Racionales ($\\mathbb{Q}$). C) La propiedad del Buen Orden (todo subconjunto no vacío tiene un elemento mínimo) es una característica distintiva de los Naturales ($\\mathbb{N}$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cy",
+    "question": "La división de dos números complejos se realiza multiplicando el numerador y el denominador por el ______ del denominador.",
+    "image": null,
+    "options": [
+      { "text": "conjugado", "correct": true },
+      { "text": "inverso", "correct": false },
+      { "text": "opuesto", "correct": false },
+      { "text": "mismo denominador", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este proceso es similar a la racionalización de denominadores con raíces cuadradas.",
+    "explanation": "Para dividir $\\frac{z_1}{z_2}$, se multiplica la fracción por $\\frac{\\bar{z_2}}{\\bar{z_2}}$. Esto convierte el denominador en un número real ($z_2 \\bar{z_2} = |z_2|^2$), permitiendo separar el resultado en su parte real e imaginaria.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00cz",
+    "question": "El producto de un número complejo por su conjugado, $(a+bi)(a-bi)$, siempre da como resultado...",
+    "image": null,
+    "options": [
+      { "text": "Un número real no negativo", "correct": true },
+      { "text": "Un número imaginario puro", "correct": false },
+      { "text": "Otro número complejo", "correct": false },
+      { "text": "Cero", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Realiza la multiplicación $(a+bi)(a-bi)$ usando la fórmula de diferencia de cuadrados $(x+y)(x-y) = x^2-y^2$.",
+    "explanation": "Usando la distributiva o la diferencia de cuadrados: $(a+bi)(a-bi) = a^2 - (bi)^2 = a^2 - (b^2i^2) = a^2 - b^2(-1) = a^2+b^2$. Como $a$ y $b$ son reales, $a^2$ y $b^2$ son no negativos, por lo que su suma también es un número real no negativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00da",
+    "question": "¿Cuál de las siguientes afirmaciones sobre el número cero es FALSA?",
+    "image": null,
+    "options": [
+      { "text": "El cero es un número irracional.", "correct": true },
+      { "text": "El cero es un número par.", "correct": false },
+      { "text": "El cero es el elemento neutro aditivo.", "correct": false },
+      { "text": "El cero no es ni positivo ni negativo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "¿Se puede escribir el cero como una fracción de enteros?",
+    "explanation": "La afirmación falsa es que el cero es irracional. El cero es un número racional, ya que puede expresarse como el cociente de enteros, por ejemplo, $0/1$. También es par, es el neutro aditivo y no tiene signo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00db",
+    "question": "Simplifica la expresión $\\frac{2+i}{3-i}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{1}{2} + \\frac{1}{2}i$", "correct": true },
+      { "text": "$\\frac{5}{8} + \\frac{5}{8}i$", "correct": false },
+      { "text": "$1+i$", "correct": false },
+      { "text": "$\\frac{1}{2} - \\frac{1}{2}i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Multiplica el numerador y el denominador por el conjugado del denominador, que es $3+i$.",
+    "explanation": "$\\frac{2+i}{3-i} \\cdot \\frac{3+i}{3+i} = \\frac{(2+i)(3+i)}{(3-i)(3+i)} = \\frac{6+2i+3i+i^2}{3^2+1^2} = \\frac{6+5i-1}{10} = \\frac{5+5i}{10} = \\frac{5}{10} + \\frac{5}{10}i = \\frac{1}{2} + \\frac{1}{2}i$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dc",
+    "question": "El postulado ______ establece que para $a,b \\in \\mathbb{R}$, $a+b$ y $ab$ son únicos. El postulado ______ establece que podemos cambiar el orden en la suma. El postulado ______ establece que si $a=b$, entonces $a+c=b+c$.",
+    "image": null,
+    "options": [
+      { "text": "de cerradura, conmutativo, aditivo", "correct": true },
+      { "text": "conmutativo, asociativo, transitivo", "correct": false },
+      { "text": "de cerradura, asociativo, multiplicativo", "correct": false },
+      { "text": "aditivo, conmutativo, de cerradura", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Identifica cada propiedad por su descripción: unicidad del resultado, orden de los operandos e igualdad al sumar un tercero.",
+    "explanation": "La propiedad de cerradura garantiza que el resultado de la operación pertenece al mismo conjunto y es único. La propiedad conmutativa permite intercambiar el orden de los elementos en una suma o multiplicación. El postulado aditivo de la igualdad permite sumar la misma cantidad a ambos lados de una ecuación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dd",
+    "question": "¿Cuál de los siguientes conjuntos NO es denso?",
+    "image": null,
+    "options": [
+      { "text": "Enteros ($\\mathbb{Z}$)", "correct": true },
+      { "text": "Racionales ($\\mathbb{Q}$)", "correct": false },
+      { "text": "Reales ($\\mathbb{R}$)", "correct": false },
+      { "text": "Irracionales ($\\mathbb{I}$)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un conjunto es denso si entre dos de sus elementos siempre hay otro. ¿Hay algún entero entre 2 y 3?",
+    "explanation": "El conjunto de los números enteros no es denso. Por ejemplo, entre los enteros 2 y 3, no existe ningún otro entero. En cambio, los conjuntos de números racionales, irracionales y reales sí son densos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00de",
+    "question": "El número áureo, $\\phi = \\frac{1+\\sqrt{5}}{2}$, es un número...",
+    "image": null,
+    "options": [
+      { "text": "Irracional y algebraico", "correct": true },
+      { "text": "Racional y algebraico", "correct": false },
+      { "text": "Trascendente", "correct": false },
+      { "text": "Entero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Contiene una raíz no exacta, lo que lo hace irracional. Además, es la solución de la ecuación $x^2 - x - 1 = 0$.",
+    "explanation": "El número áureo es irracional porque contiene $\\sqrt{5}$. Es algebraico porque es una de las raíces de la ecuación polinómica $x^2 - x - 1 = 0$, que tiene coeficientes enteros. No es trascendente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00df",
+    "question": "¿Cuál es el valor absoluto o módulo del número complejo $z = 3-4i$?",
+    "image": null,
+    "options": [
+      { "text": "$5$", "correct": true },
+      { "text": "$7$", "correct": false },
+      { "text": "$\\sqrt{7}$", "correct": false },
+      { "text": "$-1$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa la fórmula $|z| = \\sqrt{a^2+b^2}$.",
+    "explanation": "Para $z = 3-4i$, tenemos $a=3$ y $b=-4$. El módulo es $|z| = \\sqrt{3^2 + (-4)^2} = \\sqrt{9+16} = \\sqrt{25} = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dg",
+    "question": "Selecciona las afirmaciones que son verdaderas sobre las propiedades de los números reales:",
+    "image": null,
+    "options": [
+      { "text": "La multiplicación es distributiva sobre la adición; La adición es asociativa.", "correct": true },
+      { "text": "La división es conmutativa; La sustracción es asociativa.", "correct": false },
+      { "text": "Todo real tiene inverso aditivo; Todo real tiene inverso multiplicativo.", "correct": false },
+      { "text": "La adición es distributiva sobre la multiplicación; La sustracción es cerrada.", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Analiza cada propiedad. La división y sustracción raramente son conmutativas o asociativas. Recuerda el caso especial del cero para el inverso multiplicativo.",
+    "explanation": "La propiedad distributiva ($a(b+c)=ab+ac$) y la asociativa de la suma ($(a+b)+c=a+(b+c)$) son dos de los axiomas fundamentales de los números reales. La opción 2 es falsa. La opción 3 es falsa porque el cero no tiene inverso multiplicativo. La opción 4 invierte la distributiva y la cerradura de la sustracción es un término ambiguo (los reales sí son cerrados, pero la afirmación completa es falsa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dh",
+    "question": "El conjunto de los números ______ se representa en un plano, mientras que el de los números ______ se representa en una recta.",
+    "image": null,
+    "options": [
+      { "text": "complejos, reales", "correct": true },
+      { "text": "reales, racionales", "correct": false },
+      { "text": "imaginarios, enteros", "correct": false },
+      { "text": "naturales, complejos", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un conjunto necesita dos coordenadas (real e imaginaria) para su representación, el otro solo una.",
+    "explanation": "Los números reales pueden ordenarse y representarse en una línea unidimensional (la recta real). Los números complejos, al tener una parte real y una imaginaria, requieren de dos ejes (un eje real y un eje imaginario) para su representación, formando lo que se conoce como el plano complejo o de Argand.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00di",
+    "question": "Si $x$ es un número real, la expresión $\\sqrt{-x^2}$ (para $x \\neq 0$) es siempre...",
+    "image": null,
+    "options": [
+      { "text": "Un número imaginario puro", "correct": true },
+      { "text": "Un número real", "correct": false },
+      { "text": "Cero", "correct": false },
+      { "text": "Un número complejo con parte real no nula", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Analiza el signo del radicando. $x^2$ siempre es no negativo. Por lo tanto, $-x^2$ es siempre no positivo.",
+    "explanation": "Dado que $x$ es real y no es cero, $x^2$ es un número real estrictamente positivo. En consecuencia, $-x^2$ es un número real estrictamente negativo. La raíz cuadrada de un número real negativo es, por definición, un número imaginario puro. Por ejemplo, si $x=3$, $\\sqrt{-3^2} = \\sqrt{-9} = 3i$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+     "id": "PMA00dj",
+    "question": "Relaciona la descripción con el conjunto numérico:\n\nA) El conjunto más simple, usado para contar.\nB) El conjunto numérico más grande que incluye a los reales e imaginarios.\nC) Números en la recta real que no pueden expresarse como fracción de enteros.\nD) El conjunto de todos los números que pueden escribirse como $\\frac{a}{b}$.\n\nI) Irracionales ($\\mathbb{I}$)\nII) Naturales ($\\mathbb{N}$)\nIII) Racionales ($\\mathbb{Q}$)\nIV) Complejos ($\\mathbb{C}$)",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-IV; C-I; D-III", "correct": true },
+      { "text": "A-I; B-II; C-III; D-IV", "correct": false },
+      { "text": "A-II; B-I; C-IV; D-III", "correct": false },
+      { "text": "A-IV; B-III; C-I; D-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "A) Piensa en el conjunto más básico. B) Piensa en el más amplio. C) Piensa en los decimales infinitos no periódicos. D) Piensa en las fracciones.",
+    "explanation": "A) Los Naturales son el primer conjunto usado para contar. B) Los Complejos son el campo algebraicamente cerrado que contiene a todos los demás. C) Los Irracionales son los números reales que no son racionales. D) Los Racionales son el conjunto de todas las posibles razones entre enteros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dk",
+    "question": "La propiedad que establece que $a \\cdot (b \\cdot c) = (a \\cdot b) \\cdot c$ se llama ______ y no se cumple para la operación de ______.",
+    "image": null,
+    "options": [
+      { "text": "asociativa, división", "correct": true },
+      { "text": "conmutativa, resta", "correct": false },
+      { "text": "distributiva, suma", "correct": false },
+      { "text": "asociativa, multiplicación", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La propiedad se refiere a la agrupación. Prueba con números en la división, por ejemplo $(16/4)/2$ y $16/(4/2)$.",
+    "explanation": "La propiedad es la asociativa. No se cumple para la división: $(16 \\div 4) \\div 2 = 4 \\div 2 = 2$. Sin embargo, $16 \\div (4 \\div 2) = 16 \\div 2 = 8$. Como $2 \\neq 8$, la división no es asociativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dl",
+    "question": "Cualquier número entero puede ser clasificado como:",
+    "image": null,
+    "options": [
+      { "text": "Racional y algebraico", "correct": true },
+      { "text": "Natural e irracional", "correct": false },
+      { "text": "Irracional y trascendente", "correct": false },
+      { "text": "Imaginario y complejo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Todo entero $z$ se puede escribir como $z/1$ y es raíz del polinomio $x-z=0$.",
+    "explanation": "Todo número entero $z$ es racional (se puede escribir como $z/1$) y es algebraico (es la solución de la ecuación polinómica de coeficientes enteros $x - z = 0$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dm",
+    "question": "¿Cuál de los siguientes conjuntos posee un inverso multiplicativo para CADA UNO de sus elementos?",
+    "image": null,
+    "options": [
+      { "text": "Ninguno de los anteriores.", "correct": true },
+      { "text": "Enteros ($\\mathbb{Z}$)", "correct": false },
+      { "text": "Reales ($\\mathbb{R}$)", "correct": false },
+      { "text": "Racionales ($\\mathbb{Q}$)", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Considera el número 0. ¿Pertenece a estos conjuntos? ¿Tiene inverso multiplicativo?",
+    "explanation": "La pregunta pide un inverso para CADA elemento. Los conjuntos de Enteros, Racionales y Reales contienen al número 0. El número 0 no tiene inverso multiplicativo en ningún conjunto. Por lo tanto, ninguna de las opciones cumple la condición. Si se excluyera el cero, $\\mathbb{Q}$ y $\\mathbb{R}$ sí cumplirían.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dn",
+    "question": "El número $0.121121112...$ es:",
+    "image": null,
+    "options": [
+      { "text": "Irracional", "correct": true },
+      { "text": "Racional", "correct": false },
+      { "text": "Entero", "correct": false },
+      { "text": "Periódico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Para ser racional, el patrón de decimales debe repetirse exactamente (ser periódico). ¿Este patrón se repite o cambia?",
+    "explanation": "Aunque el número sigue un patrón predecible (se añade un '1' adicional en cada secuencia), no es un patrón periódico. Un patrón periódico implica la repetición del mismo bloque de dígitos indefinidamente (ej. 0.121212...). Como el patrón aquí cambia constantemente, el número es irracional.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00do",
+    "question": "Selecciona los conjuntos que son cerrados bajo la operación de multiplicación.",
+    "image": null,
+    "options": [
+      { "text": "Naturales, Enteros, Racionales, Reales", "correct": true },
+      { "text": "Irracionales, Imaginarios", "correct": false },
+      { "text": "Naturales, Irracionales", "correct": false },
+      { "text": "Enteros, Imaginarios", "correct": false }
+    ],
+    "uni_tags": ["UNAM","IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Pregúntate: si multiplico dos números de un conjunto, ¿el resultado siempre estará en ese mismo conjunto? Considera $\\sqrt{2} \\cdot \\sqrt{2}$ para los irracionales y $i \\cdot i$ para los imaginarios.",
+    "explanation": "El producto de dos naturales es natural, de dos enteros es entero, de dos racionales es racional y de dos reales es real. Todos estos conjuntos son cerrados bajo la multiplicación. Sin embargo, los irracionales no lo son (ej: $\\sqrt{2} \\cdot \\sqrt{2}=2$, que es racional), ni tampoco los imaginarios puros (ej: $i \\cdot i = -1$, que es real).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dp",
+    "question": "El postulado ______ de los números reales es el que falla en los racionales, manifestándose en la existencia de números como ______.",
+    "image": null,
+    "options": [
+      { "text": "de completitud, $\\sqrt{2}$", "correct": true },
+      { "text": "de densidad, $1/2$", "correct": false },
+      { "text": "asociativo, $i$", "correct": false },
+      { "text": "del inverso, $0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Esta propiedad 'tapa los agujeros' de la recta numérica. ¿Qué tipo de números son esos 'agujeros' en el conjunto de los racionales?",
+    "explanation": "El conjunto de los números racionales no es completo. Esto significa que hay 'huecos' en la recta numérica que no corresponden a ningún número racional. Estos huecos son precisamente los números irracionales, como $\\sqrt{2}$. El axioma de completitud de los reales formaliza la idea de que no existen tales huecos en $\\mathbb{R}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dq",
+    "question": "La suma de dos números irracionales...",
+    "image": null,
+    "options": [
+      { "text": "Puede ser racional o irracional.", "correct": true },
+      { "text": "Siempre es irracional.", "correct": false },
+      { "text": "Siempre es racional.", "correct": false },
+      { "text": "Siempre es cero.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Considera dos ejemplos: $(\\sqrt{2}) + (\\sqrt{3})$ y $(\\sqrt{2}) + (-\\sqrt{2})$.",
+    "explanation": "El conjunto de los números irracionales no es cerrado bajo la suma. Por ejemplo, la suma de los irracionales $\\sqrt{2}$ y $-\\sqrt{2}$ es $0$, que es racional. Por otro lado, la suma $\\sqrt{2} + \\sqrt{3}$ es otro número irracional. Por lo tanto, el resultado puede ser de cualquiera de los dos tipos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dr",
+    "question": "El número opuesto de $5-3i$ es ______ y su conjugado es ______.",
+    "image": null,
+    "options": [
+      { "text": "$-5+3i, 5+3i$", "correct": true },
+      { "text": "$5+3i, -5+3i$", "correct": false },
+      { "text": "$-5-3i, 5-3i$", "correct": false },
+      { "text": "$1/(5-3i), 5+3i$", "correct": false }
+    ],
+    "uni_tags": ["UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El opuesto (inverso aditivo) cambia el signo de todo el número. El conjugado solo cambia el signo de la parte imaginaria.",
+    "explanation": "El opuesto de $z=a+bi$ es $-z = -a-bi$. Así, el opuesto de $5-3i$ es $-(5-3i) = -5+3i$. El conjugado de $z=a+bi$ es $\\bar{z}=a-bi$. Así, el conjugado de $5-3i$ es $5+3i$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
