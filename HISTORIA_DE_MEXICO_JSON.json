@@ -247,7 +247,7 @@
       { "text": "Oasisamérica", "correct": false },
       { "text": "Centroamérica", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Su nombre indica la condición seca del territorio (árido).",
     "explanation": "Aridoamérica se ubicaba al norte de Mesoamérica y se caracterizaba por su clima seco, lo que dificultó la agricultura y propició sociedades nómadas.",
@@ -264,7 +264,7 @@
       { "text": "Tolteca", "correct": false },
       { "text": "Azteca", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Se desarrolló en el Preclásico en la zona del Golfo de México.",
     "explanation": "La cultura Olmeca es considerada la madre de las culturas mesoamericanas y se desarrolló principalmente en Tabasco y Veracruz.",
@@ -278,10 +278,10 @@
     "options": [
       { "text": "La caída de México-Tenochtitlan", "correct": true },
       { "text": "El descubrimiento de América", "correct": false },
-      { "text": "La fundación de la Villa Rica de la Vera Cruz", "correct": false },
+      { "text": "La fundación de la Villa Rica", "correct": false },
       { "text": "La llegada de los virreyes", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue la derrota del imperio mexica a manos de Hernán Cortés y sus aliados indígenas.",
     "explanation": "El 13 de agosto de 1521 cayó la ciudad de Tenochtitlan, consumándose la conquista de México.",
@@ -298,7 +298,7 @@
       { "text": "Ignacio Allende", "correct": false },
       { "text": "Vicente Guerrero", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Conocido como el 'Padre de la Patria', dio el Grito de Dolores.",
     "explanation": "Miguel Hidalgo inició el movimiento insurgente en Dolores, Hidalgo, convocando al pueblo a levantarse en armas.",
@@ -315,7 +315,7 @@
       { "text": "Tratados de Córdoba", "correct": false },
       { "text": "Constitución de Apatzingán", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue presentado en el Congreso de Chilpancingo en 1813.",
     "explanation": "Los Sentimientos de la Nación resumen el ideario político de Morelos, proponiendo la independencia total de España y la abolición de la esclavitud.",
@@ -332,7 +332,7 @@
       { "text": "Maximiliano de Habsburgo", "correct": false },
       { "text": "Antonio López de Santa Anna", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Líder del Ejército Trigarante que se proclamó emperador en 1822.",
     "explanation": "Agustín de Iturbide gobernó como emperador (Agustín I) brevemente entre 1822 y 1823, antes del establecimiento de la República.",
@@ -349,7 +349,7 @@
       { "text": "Invasión Norteamericana", "correct": false },
       { "text": "Segunda Intervención Francesa", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Es la Primera Intervención Francesa en México.",
     "explanation": "La Guerra de los Pasteles fue el primer conflicto bélico entre México y Francia.",
@@ -366,7 +366,7 @@
       { "text": "Tratado McLane-Ocampo", "correct": false },
       { "text": "Tratado de la Mesilla", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Se firmó en la Villa de Guadalupe.",
     "explanation": "Mediante el Tratado de Guadalupe Hidalgo, México cedió Alta California y Nuevo México a Estados Unidos.",
@@ -383,7 +383,7 @@
       { "text": "Insurgentes", "correct": false },
       { "text": "Realistas", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Eran los rivales de Benito Juárez y los liberales.",
     "explanation": "El Partido Conservador se oponía a las reformas liberales y buscaba conservar el orden colonial y las jerarquías tradicionales.",
@@ -400,7 +400,7 @@
       { "text": "Sebastián Lerdo de Tejada", "correct": false },
       { "text": "Porfirio Díaz", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Conocido como el Benemérito de las Américas.",
     "explanation": "Benito Juárez lideró al bando liberal y estableció las bases del Estado laico mexicano.",
@@ -417,7 +417,7 @@
       { "text": "República Restaurada", "correct": false },
       { "text": "Cardenismo", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Lleva el nombre del dictador.",
     "explanation": "El Porfiriato abarca de 1876 a 1911 (con un breve intermedio), marcado por la modernización industrial y la represión política.",
@@ -434,7 +434,7 @@
       { "text": "Plan de Guadalupe", "correct": false },
       { "text": "Plan de la Noria", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Convocaba al levantamiento armado el 20 de noviembre.",
     "explanation": "El Plan de San Luis declaró nulas las elecciones de 1910 y llamó a derrocar al gobierno de Porfirio Díaz.",
@@ -451,7 +451,7 @@
       { "text": "Venustiano Carranza", "correct": false },
       { "text": "Álvaro Obregón", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Defendía la restitución de tierras a los campesinos en Morelos.",
     "explanation": "Emiliano Zapata fue el líder del Ejército Libertador del Sur y exigía el reparto agrario.",
@@ -468,7 +468,7 @@
       { "text": "El Halconazo", "correct": false },
       { "text": "La Matanza de Tlatelolco", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue un golpe de estado liderado por Victoriano Huerta en la Ciudad de México.",
     "explanation": "La Decena Trágica fueron diez días de combate en la capital que culminaron con la traición de Huerta y la muerte del presidente Madero.",
@@ -485,7 +485,7 @@
       { "text": "Constitución de 1824", "correct": false },
       { "text": "Constitución de Apatzingán", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Se promulgó en Querétaro el 5 de febrero.",
     "explanation": "La Constitución de 1917 fue la primera en el mundo en incluir derechos sociales, como educación, tierra y trabajo.",
@@ -502,7 +502,7 @@
       { "text": "Lázaro Cárdenas", "correct": false },
       { "text": "Venustiano Carranza", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Nombró a José Vasconcelos como primer secretario.",
     "explanation": "Durante el gobierno de Álvaro Obregón se fundó la SEP para federalizar la educación en el país.",
@@ -519,7 +519,7 @@
       { "text": "Revolución Mexicana", "correct": false },
       { "text": "Invasión Francesa", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Su grito de batalla era '¡Viva Cristo Rey!'.",
     "explanation": "La Guerra Cristera enfrentó al gobierno de Plutarco Elías Calles contra milicias católicas que se oponían a la Ley Calles.",
@@ -536,7 +536,7 @@
       { "text": "PAN (Partido Acción Nacional)", "correct": false },
       { "text": "PRM (Partido de la Revolución Mexicana)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Es el abuelo del actual PRI.",
     "explanation": "El PNR fue creado para agrupar a las distintas facciones revolucionarias y resolver la sucesión presidencial pacíficamente.",
@@ -553,7 +553,7 @@
       { "text": "Miguel Alemán Valdés", "correct": false },
       { "text": "Adolfo López Mateos", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "También impulsó el reparto agrario masivo (ejidos).",
     "explanation": "Lázaro Cárdenas nacionalizó la industria petrolera, creando PEMEX y fortaleciendo la soberanía económica.",
@@ -570,7 +570,7 @@
       { "text": "Crisis de 1929", "correct": false },
       { "text": "Globalización", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Coincide con el modelo de Sustitución de Importaciones.",
     "explanation": "El Milagro Mexicano se refiere a la etapa de crecimiento sostenido del PIB, baja inflación y estabilidad política.",
@@ -587,7 +587,7 @@
       { "text": "Ejército Trigarante", "correct": false },
       { "text": "División del Norte", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue un grupo de fuerza aérea que combatió en el Pacífico.",
     "explanation": "El Escuadrón 201 fue la unidad aérea mexicana que combatió junto a Estados Unidos en la liberación de Filipinas.",
@@ -604,7 +604,7 @@
       { "text": "Rebelión Delahuertista", "correct": false },
       { "text": "Movimiento Zapatista (EZLN)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Ocurrió días antes de la inauguración de los Juegos Olímpicos.",
     "explanation": "La matanza de Tlatelolco puso fin al movimiento estudiantil que exigía mayores libertades democráticas y el fin de la represión.",
@@ -621,7 +621,7 @@
       { "text": "Estado de Bienestar", "correct": false },
       { "text": "Socialismo", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Inició con Miguel de la Madrid y se profundizó con Salinas de Gortari.",
     "explanation": "El modelo neoliberal buscaba reducir la intervención del Estado en la economía e integrar a México al mercado global.",
@@ -638,7 +638,7 @@
       { "text": "PRI (Partido Revolucionario Institucional)", "correct": false },
       { "text": "CNDH (Comisión Nacional de Derechos Humanos)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue clave para la transición democrática.",
     "explanation": "El IFE se creó para dar certeza y transparencia a los procesos electorales, antes controlados por el gobierno (Secretaría de Gobernación).",
@@ -655,7 +655,7 @@
       { "text": "Vicente Fox", "correct": false },
       { "text": "Miguel de la Madrid", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Su mandato terminó con una grave crisis económica ('El Error de Diciembre').",
     "explanation": "Salinas de Gortari impulsó la integración comercial con Estados Unidos y Canadá como parte de las reformas neoliberales.",
@@ -672,7 +672,7 @@
       { "text": "Liga 23 de Septiembre", "correct": false },
       { "text": "Los Cristeros", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Su vocero más famoso fue el Subcomandante Marcos.",
     "explanation": "El EZLN se levantó el mismo día que entraba en vigor el TLCAN para denunciar la marginación de los indígenas.",
@@ -689,7 +689,7 @@
       { "text": "Cuauhtémoc Cárdenas", "correct": false },
       { "text": "Francisco Labastida", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue gobernador de Guanajuato antes de ser presidente.",
     "explanation": "El triunfo de Vicente Fox marcó el fin de la hegemonía del PRI en la presidencia de la república.",
@@ -706,7 +706,7 @@
       { "text": "Tonantzin", "correct": false },
       { "text": "Chalchiuhtlicue", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Su monolito fue encontrado en el Templo Mayor.",
     "explanation": "Coyolxauhqui representa a la luna y fue derrotada por Huitzilopochtli (el sol) en el mito del nacimiento de este dios.",
@@ -723,7 +723,7 @@
       { "text": "Ejido", "correct": false },
       { "text": "Tienda de raya", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Sustituyó gradualmente a la encomienda.",
     "explanation": "El repartimiento o cuatequil obligaba a los indígenas a trabajar por temporadas en labores españolas.",
@@ -740,7 +740,7 @@
       { "text": "Mulato", "correct": false },
       { "text": "Zambo", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Es la base de la población mexicana actual.",
     "explanation": "Los mestizos eran los hijos de españoles con mujeres indígenas.",
@@ -757,7 +757,7 @@
       { "text": "Leyes de Reforma", "correct": false },
       { "text": "Bulas Alejandrinas", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fueron impulsadas por la dinastía Borbón (Carlos III).",
     "explanation": "Las Reformas Borbónicas buscaban retomar el control político y económico de las colonias, lo que generó descontento entre los criollos.",
@@ -774,7 +774,7 @@
       { "text": "Independencia de las 13 Colonias", "correct": false },
       { "text": "Revolución Francesa", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Napoleón impuso a su hermano José Bonaparte en el trono español.",
     "explanation": "La invasión francesa a España provocó un vacío de poder que los criollos en Nueva España aprovecharon para buscar autonomía.",
@@ -791,7 +791,7 @@
       { "text": "Sor Juana Inés de la Cruz", "correct": false },
       { "text": "Güera Rodríguez", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Esposa del Corregidor Miguel Domínguez.",
     "explanation": "Gracias a su aviso, la insurrección se adelantó al 16 de septiembre de 1810.",
@@ -808,7 +808,7 @@
       { "text": "Antonio López de Santa Anna", "correct": false },
       { "text": "Mariano Paredes", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Juntos formaron el Ejército Trigarante.",
     "explanation": "Iturbide cambió de bando al ver que España había adoptado una constitución liberal (Cádiz) y negoció con los insurgentes.",
@@ -825,7 +825,7 @@
       { "text": "California", "correct": false },
       { "text": "Chiapas", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Originalmente poblado por colonos anglosajones.",
     "explanation": "Texas declaró su independencia argumentando el cambio del federalismo al centralismo en México.",
@@ -842,7 +842,7 @@
       { "text": "Plan de Tacubaya", "correct": false },
       { "text": "Plan de la Noria", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue impulsado por Juan Álvarez e Ignacio Comonfort.",
     "explanation": "El Plan de Ayutla marcó el fin de la dictadura de Santa Anna y el inicio de la era liberal.",
@@ -859,7 +859,7 @@
       { "text": "Fernando VII", "correct": false },
       { "text": "Amadeo de Saboya", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Llegó con su esposa Carlota y estableció su corte en el Castillo de Chapultepec.",
     "explanation": "Maximiliano aceptó el trono de México creyendo que el pueblo lo apoyaba, pero fue combatido por los republicanos de Juárez.",
@@ -876,7 +876,7 @@
       { "text": "Benito Juárez", "correct": false },
       { "text": "Miguel Miramón", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Envió el telegrama: 'Las armas nacionales se han cubierto de gloria'.",
     "explanation": "Ignacio Zaragoza lideró al Ejército de Oriente logrando una victoria histórica, aunque temporal, contra los franceses.",
@@ -893,7 +893,7 @@
       { "text": "Pacto de la Embajada", "correct": false },
       { "text": "Entrevista de Ciudad Juárez", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue realizada por un periodista estadounidense.",
     "explanation": "James Creelman entrevistó a Díaz, quien prometió no reelegirse, lo que motivó a Madero a participar en política.",
@@ -910,7 +910,7 @@
       { "text": "Los de abajo", "correct": false },
       { "text": "Ulises Criollo", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Analizaba la necesidad de formar partidos políticos democráticos.",
     "explanation": "En este libro, Madero planteaba los problemas del poder absoluto de Díaz y proponía la no reelección.",
@@ -927,7 +927,7 @@
       { "text": "Álvaro Obregón", "correct": false },
       { "text": "Plutarco Elías Calles", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue el primer presidente bajo la Constitución de 1917.",
     "explanation": "Carranza lideró la lucha contra el usurpador Huerta y buscó restablecer el orden constitucional.",
@@ -944,7 +944,7 @@
       { "text": "Secretaría de Salud", "correct": false },
       { "text": "INSABI", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Fue fundada durante el gobierno de Manuel Ávila Camacho.",
     "explanation": "El IMSS fue pilar del estado de bienestar mexicano y la industrialización.",
@@ -961,7 +961,7 @@
       { "text": "Derecho al divorcio", "correct": false },
       { "text": "Derecho a la propiedad agraria", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Permitió que las mujeres votaran en elecciones federales.",
     "explanation": "En 1953 se reformó la constitución para reconocer la ciudadanía plena de las mujeres.",
@@ -978,7 +978,7 @@
       { "text": "Posclásico", "correct": false },
       { "text": "Lítico", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Es la época de las grandes ciudades-estado teocráticas.",
     "explanation": "El Horizonte Clásico (aprox. 200-900 d.C.) se distingue por el máximo desarrollo urbano, religioso y artístico, con Teotihuacan y los Mayas como exponentes.",
@@ -990,12 +990,12 @@
     "question": "Fue una causa interna que favoreció la caída de México-Tenochtitlan ante los españoles.",
     "image": null,
     "options": [
-      { "text": "El descontento de los pueblos indígenas sometidos al tributo mexica", "correct": true },
-      { "text": "La superioridad numérica de los soldados españoles", "correct": false },
-      { "text": "La falta de alimentos en Mesoamérica", "correct": false },
-      { "text": "La muerte de Moctezuma por causas naturales antes de la guerra", "correct": false }
+      { "text": "El odio de los pueblos sometidos al tributo mexica", "correct": true },
+      { "text": "La inmensa superioridad numérica de los españoles", "correct": false },
+      { "text": "La falta total de suministros y agua en la cuenca", "correct": false },
+      { "text": "La muerte prematura de Moctezuma antes del sitio", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Los tlaxcaltecas fueron los principales aliados de Cortés por esta razón.",
     "explanation": "Los mexicas dominaban mediante la guerra y el tributo, lo que generó odio entre pueblos vecinos que se aliaron con Cortés para liberarse.",
@@ -1012,7 +1012,7 @@
       { "text": "4, 2, 3, 1", "correct": false },
       { "text": "2, 1, 4, 3", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Inicia Hidalgo, organiza Morelos, resiste Guerrero, consuma Iturbide.",
     "explanation": "1. Iniciación (Hidalgo). 2. Organización (Morelos). 3. Resistencia (Guerrero/Mina). 4. Consumación (Iturbide).",
@@ -1024,12 +1024,12 @@
     "question": "¿Qué establecía el Plan de Iguala proclamado en 1821?",
     "image": null,
     "options": [
-      { "text": "Las Tres Garantías: Religión, Independencia y Unión", "correct": true },
-      { "text": "La expulsión inmediata de todos los españoles", "correct": false },
-      { "text": "La adopción de un gobierno republicano federal", "correct": false },
-      { "text": "La reelección de Iturbide como presidente", "correct": false }
+      { "text": "Establecer las Tres Garantías: Religión, Unión e Independencia", "correct": true },
+      { "text": "Decretar la expulsión inmediata de todos los peninsulares", "correct": false },
+      { "text": "La adopción de un gobierno republicano federal y democrático", "correct": false },
+      { "text": "La reelección de Agustín de Iturbide como presidente vitalicio", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Dio origen a los colores de la bandera nacional.",
     "explanation": "El Plan de Iguala fundó el Ejército Trigarante para defender la religión católica, la independencia de España y la unión de todos los habitantes.",
@@ -1041,12 +1041,12 @@
     "question": "Diferencia principal entre Federalistas y Centralistas en el siglo XIX.",
     "image": null,
     "options": [
-      { "text": "Los federalistas buscaban la autonomía de los estados; los centralistas, el control desde la capital.", "correct": true },
-      { "text": "Los federalistas querían una monarquía; los centralistas, una república.", "correct": false },
-      { "text": "Los federalistas apoyaban a la Iglesia; los centralistas, la separaban del Estado.", "correct": false },
-      { "text": "Los federalistas eran conservadores; los centralistas eran liberales.", "correct": false }
+      { "text": "Los federalistas defendían la autonomía estatal y los centralistas el poder absoluto desde la capital", "correct": true },
+      { "text": "Los federalistas apoyaban el retorno monárquico y los centralistas la república democrática representativa", "correct": false },
+      { "text": "Los federalistas protegían los fueros eclesiásticos y los centralistas buscaban un Estado laico y moderno", "correct": false },
+      { "text": "Los federalistas querían un gobierno militar y los centralistas preferían un gobierno civil y democrático", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Tiene que ver con la división territorial y soberanía de las provincias.",
     "explanation": "El federalismo otorga libertad a los estados para gobernarse internamente, mientras el centralismo concentra el poder y las decisiones en el gobierno nacional.",
@@ -1058,12 +1058,12 @@
     "question": "La Ley Lerdo, parte de las Leyes de Reforma, tenía como objetivo:",
     "image": null,
     "options": [
-      { "text": "Desamortizar los bienes de manos muertas (corporaciones civiles y eclesiásticas)", "correct": true },
-      { "text": "Nacionalizar los bienes del clero sin compensación", "correct": false },
-      { "text": "Establecer el registro civil y el matrimonio civil", "correct": false },
-      { "text": "Prohibir el cobro de obvenciones parroquiales", "correct": false }
+      { "text": "Desamortizar las fincas rústicas y urbanas de las corporaciones civiles y eclesiásticas", "correct": true },
+      { "text": "Nacionalizar los bienes del clero sin ofrecer ninguna compensación económica", "correct": false },
+      { "text": "Establecer el registro civil y el matrimonio civil como únicos válidos", "correct": false },
+      { "text": "Prohibir el cobro de obvenciones parroquiales para los sacramentos religiosos", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Buscaba poner en circulación las tierras que no se vendían.",
     "explanation": "La Ley Lerdo obligaba a corporaciones (Iglesia y ejidos) a vender sus propiedades para fomentar la propiedad privada y el mercado.",
@@ -1080,7 +1080,7 @@
       { "text": "Socialismo", "correct": false },
       { "text": "Humanismo", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Sus seguidores eran llamados 'Los Científicos'.",
     "explanation": "El positivismo, basado en Augusto Comte, sostenía que el progreso se lograba mediante la ciencia y el orden autoritario.",
@@ -1097,7 +1097,7 @@
       { "text": "Artículo 123°", "correct": false },
       { "text": "Artículo 130°", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Es fundamental para el sistema educativo mexicano.",
     "explanation": "El Artículo 3° garantiza el derecho a la educación impartida por el Estado, ajena a doctrinas religiosas.",
@@ -1109,12 +1109,12 @@
     "question": "El Maximato (1928-1934) se caracterizó por:",
     "image": null,
     "options": [
-      { "text": "El control político de Plutarco Elías Calles sobre tres presidentes sucesivos", "correct": true },
-      { "text": "La reelección indefinida de Álvaro Obregón", "correct": false },
-      { "text": "El gobierno autoritario de Lázaro Cárdenas", "correct": false },
-      { "text": "La guerra civil entre zapatistas y villistas", "correct": false }
+      { "text": "El dominio político de Calles sobre tres presidentes sucesivos", "correct": true },
+      { "text": "La reelección continua de Álvaro Obregón por tres periodos", "correct": false },
+      { "text": "El gobierno autoritario de Lázaro Cárdenas sin oposición", "correct": false },
+      { "text": "La guerra civil prolongada entre facciones zapatistas y villistas", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "El 'Jefe Máximo de la Revolución' mandaba detrás del trono.",
     "explanation": "Durante el Maximato, Portes Gil, Ortiz Rubio y Abelardo Rodríguez gobernaron bajo la influencia directa de Calles.",
@@ -1131,7 +1131,7 @@
       { "text": "Destino Manifiesto", "correct": false },
       { "text": "Política del Buen Vecino", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Lleva el nombre de un canciller mexicano.",
     "explanation": "La Doctrina Estrada establece que México no juzga ni desconoce gobiernos extranjeros, solo mantiene o retira a sus agentes diplomáticos.",
@@ -1148,7 +1148,7 @@
       { "text": "Milagro Mexicano", "correct": false },
       { "text": "Neoliberalismo", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Se abandonó la disciplina fiscal del periodo anterior y se dependió del petróleo.",
     "explanation": "Estos modelos aumentaron el gasto público sin sustento real (populismo económico), llevando a graves crisis financieras.",
@@ -1165,7 +1165,7 @@
       { "text": "Miguel de la Madrid", "correct": false },
       { "text": "Carlos Salinas de Gortari", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Lloró en su último informe de gobierno prometiendo defender el peso.",
     "explanation": "López Portillo nacionalizó la banca culpando a los banqueros de la fuga de capitales y la devaluación.",
@@ -1182,7 +1182,7 @@
       { "text": "Progresa", "correct": false },
       { "text": "Sembrando Vida", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Buscaba legitimar al gobierno tras las polémicas elecciones de 1988.",
     "explanation": "Solidaridad fue un programa masivo de obra pública y apoyos directos que fortaleció la figura presidencial.",
@@ -1199,7 +1199,7 @@
       { "text": "El terremoto de la Ciudad de México", "correct": false },
       { "text": "La expropiación bancaria", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Colosio era el candidato presidencial del PRI.",
     "explanation": "El asesinato de Colosio en Lomas Taurinas rompió la estabilidad política y precipitó la salida de capitales.",
@@ -1216,7 +1216,7 @@
       { "text": "PT (Partido del Trabajo)", "correct": false },
       { "text": "PAN (Partido Acción Nacional)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Surgió del Frente Democrático Nacional tras las elecciones de 1988.",
     "explanation": "El PRD aglutinó a la izquierda mexicana y fue clave en la transición democrática, gobernando la capital desde 1997.",
@@ -1228,12 +1228,12 @@
     "question": "Analiza las diferencias entre el Plan de Tacubaya y el Plan de Navidad durante la Guerra de Reforma.",
     "image": null,
     "options": [
-      { "text": "Tacubaya desconocía la Constitución de 1857 (Zuloaga); Navidad buscaba reconciliación pero desconocía a Zuloaga (Miramón)", "correct": true },
-      { "text": "Tacubaya apoyaba a Juárez; Navidad apoyaba a los conservadores", "correct": false },
-      { "text": "Ambos planes fueron proclamados por liberales para desconocer a la Iglesia", "correct": false },
-      { "text": "Tacubaya pedía una monarquía; Navidad pedía la intervención estadounidense", "correct": false }
+      { "text": "Tacubaya desconocía la Constitución de 1857; Navidad buscaba reconciliar a los bandos conservadores", "correct": true },
+      { "text": "Tacubaya apoyaba el gobierno de Juárez; Navidad proponía la intervención extranjera inmediata", "correct": false },
+      { "text": "Tacubaya exigía la venta de bienes eclesiásticos; Navidad defendía los fueros del ejército", "correct": false },
+      { "text": "Tacubaya pedía una monarquía europea; Navidad solicitaba la anexión a Estados Unidos", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Son conflictos internos del bando conservador.",
     "explanation": "El Plan de Tacubaya inició la guerra desconociendo la constitución. El Plan de Navidad fue un golpe interno de Miramón contra Zuloaga por su ineptitud para ganar la guerra.",
@@ -1245,12 +1245,12 @@
     "question": "¿Cuál fue el impacto demográfico y social de la Conquista en la población indígena durante el siglo XVI?",
     "image": null,
     "options": [
-      { "text": "Catástrofe demográfica por epidemias (viruela, cocoliztli) y ruptura de estructuras sociales", "correct": true },
-      { "text": "Aumento poblacional debido a las nuevas técnicas agrícolas europeas", "correct": false },
+      { "text": "Colapso demográfico debido a epidemias y explotación laboral", "correct": true },
+      { "text": "Aumento poblacional gracias a la medicina europea avanzada", "correct": false },
       { "text": "Estabilidad demográfica y mestizaje pacífico inmediato", "correct": false },
-      { "text": "Migración masiva de indígenas hacia el norte de Aridoamérica", "correct": false }
+      { "text": "Migración masiva indígena hacia el norte del continente", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Se estima que la población se redujo en más del 80%.",
     "explanation": "Las enfermedades traídas por los europeos, para las cuales los indígenas no tenían inmunidad, causaron una mortandad masiva, transformando radicalmente la sociedad.",
@@ -1262,12 +1262,12 @@
     "question": "Compara las constituciones de 1824 y 1857 en materia religiosa.",
     "image": null,
     "options": [
-      { "text": "La de 1824 establecía la intolerancia religiosa (solo católica); la de 1857 no mencionaba el tema explícitamente pero implícitamente permitía tolerancia", "correct": true },
-      { "text": "Ambas establecían la libertad de cultos absoluta", "correct": false },
-      { "text": "La de 1824 era laica; la de 1857 declaraba la religión católica como única", "correct": false },
-      { "text": "Ambas prohibían cualquier tipo de religión en el territorio nacional", "correct": false }
+      { "text": "La de 1824 era confesional católica y la de 1857 omitió la religión oficial", "correct": true },
+      { "text": "La de 1824 era liberal y laica y la de 1857 imponía el catolicismo", "correct": false },
+      { "text": "Ambas constituciones establecían la libertad absoluta de cultos", "correct": false },
+      { "text": "Ambas prohibían cualquier manifestación religiosa pública", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "La de 1824 buscaba cohesión; la de 1857 era liberal.",
     "explanation": "La Constitución de 1824 era confesional. La de 1857 omitió declarar una religión oficial, lo que abrió la puerta a la libertad de cultos formalizada en las Leyes de Reforma.",
@@ -1279,12 +1279,12 @@
     "question": "Explica la relación entre la Convención de Aguascalientes y la ruptura entre Carranza, Villa y Zapata.",
     "image": null,
     "options": [
-      { "text": "La Convención se declaró soberana y nombró a Eulalio Gutiérrez presidente, lo cual Carranza desconoció, iniciando la guerra de facciones", "correct": true },
-      { "text": "Carranza dominó la Convención y logró unificar a todos los caudillos bajo su mando", "correct": false },
-      { "text": "Villa y Zapata expulsaron a Carranza del país pacíficamente mediante votación", "correct": false },
-      { "text": "La Convención redactó la Constitución de 1917 inmediatamente", "correct": false }
+      { "text": "Nombró presidente a Eulalio Gutiérrez y desconoció a Carranza", "correct": true },
+      { "text": "Unificó a todas las facciones bajo el mando de Venustiano Carranza", "correct": false },
+      { "text": "Ordenó la expulsión inmediata de Villa y Zapata del país", "correct": false },
+      { "text": "Redactó y promulgó la Constitución de 1917 ese mismo año", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Carranza se refugió en Veracruz.",
     "explanation": "La Convención intentó ser la autoridad suprema, pero al destituir a Carranza, este se rebeló, y Villa y Zapata apoyaron a la Convención, dividiendo a los revolucionarios.",
@@ -1296,12 +1296,12 @@
     "question": "Analiza el papel de la CROM (Confederación Regional Obrera Mexicana) durante los gobiernos de Obregón y Calles.",
     "image": null,
     "options": [
-      { "text": "Funcionó como un instrumento de control corporativo del Estado sobre el movimiento obrero", "correct": true },
-      { "text": "Fue una organización comunista independiente que luchó contra el gobierno", "correct": false },
-      { "text": "Promovió huelgas generales que derrocaron a Obregón", "correct": false },
-      { "text": "Se dedicó exclusivamente a la educación de los trabajadores sin fines políticos", "correct": false }
+      { "text": "Fungió como mecanismo de control estatal sobre los obreros", "correct": true },
+      { "text": "Operó como sindicato comunista totalmente independiente", "correct": false },
+      { "text": "Organizó huelgas generales para derrocar a Álvaro Obregón", "correct": false },
+      { "text": "Se dedicó solo a la educación técnica sin participación política", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Su líder fue Luis N. Morones.",
     "explanation": "La CROM apoyó a los gobiernos sonorenses a cambio de privilegios y puestos políticos, estableciendo el modelo corporativista sindical mexicano.",
@@ -1313,12 +1313,12 @@
     "question": "¿Cómo influyó la Segunda Guerra Mundial en el modelo de Sustitución de Importaciones en México?",
     "image": null,
     "options": [
-      { "text": "La demanda de productos mexicanos por parte de EE.UU. y la falta de importaciones europeas impulsaron la industrialización nacional", "correct": true },
-      { "text": "La guerra destruyó la infraestructura mexicana y detuvo el crecimiento económico", "correct": false },
-      { "text": "México se cerró completamente al comercio exterior y sufrió hambrunas", "correct": false },
-      { "text": "Estados Unidos bloqueó económicamente a México por su neutralidad inicial", "correct": false }
+      { "text": "La demanda externa estimuló la industrialización nacional", "correct": true },
+      { "text": "La guerra destruyó la infraestructura y frenó la economía", "correct": false },
+      { "text": "México cerró fronteras y sufrió escasez de alimentos", "correct": false },
+      { "text": "Estados Unidos impuso un bloqueo comercial total al país", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Fue una oportunidad de oro para la industria nacional.",
     "explanation": "Con las potencias en guerra, México pudo exportar materias primas y manufacturas, y tuvo que producir internamente lo que antes importaba.",
@@ -1330,12 +1330,12 @@
     "question": "Distingue la política agraria de Lázaro Cárdenas de la de sus predecesores.",
     "image": null,
     "options": [
-      { "text": "Cárdenas priorizó el ejido colectivo y repartió más tierras que todos los anteriores juntos (Reforma Agraria radical)", "correct": true },
-      { "text": "Cárdenas detuvo el reparto agrario para favorecer a la pequeña propiedad privada", "correct": false },
-      { "text": "Cárdenas eliminó los ejidos y devolvió las tierras a los hacendados", "correct": false },
-      { "text": "La política fue idéntica a la de Calles, basada en el minifundio", "correct": false }
+      { "text": "Priorizó el ejido colectivo y realizó un reparto masivo de tierras", "correct": true },
+      { "text": "Detuvo el reparto agrario para proteger la pequeña propiedad", "correct": false },
+      { "text": "Eliminó los ejidos para devolver las tierras a los hacendados", "correct": false },
+      { "text": "Mantuvo la política de minifundios de los gobiernos anteriores", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Transformó la estructura de la tenencia de la tierra.",
     "explanation": "Cárdenas vio en el ejido no solo un paso a la propiedad privada, sino la base de la economía agrícola, apoyándolo con crédito y educación técnica.",
@@ -1347,12 +1347,12 @@
     "question": "Interpreta el concepto de 'Presidencialismo' en el sistema político mexicano del siglo XX.",
     "image": null,
     "options": [
-      { "text": "Predominio de facultades constitucionales y metaconstitucionales del Ejecutivo sobre los otros poderes", "correct": true },
-      { "text": "Sistema donde el presidente es elegido por el Congreso y no por el pueblo", "correct": false },
-      { "text": "Equilibrio perfecto entre los poderes Ejecutivo, Legislativo y Judicial", "correct": false },
-      { "text": "Régimen parlamentario donde el presidente es solo una figura ceremonial", "correct": false }
+      { "text": "Predominio del Ejecutivo sobre los poderes Legislativo y Judicial", "correct": true },
+      { "text": "Equilibrio perfecto entre los tres poderes de la unión", "correct": false },
+      { "text": "Sistema donde el Congreso designa libremente al presidente", "correct": false },
+      { "text": "Régimen parlamentario con figura presidencial ceremonial", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "El presidente era el 'Jefe nato' del partido oficial.",
     "explanation": "El presidencialismo mexicano implicaba que el presidente controlaba de facto al legislativo, judicial, gobernadores y su propia sucesión (el 'dedazo').",
@@ -1364,12 +1364,12 @@
     "question": "Evalúa las consecuencias de la crisis de la deuda externa de 1982 para el modelo económico mexicano.",
     "image": null,
     "options": [
-      { "text": "Marcó el fin del Estado benefactor y proteccionista, obligando a adoptar reformas neoliberales exigidas por el FMI", "correct": true },
-      { "text": "Fortaleció la economía cerrada y permitió aumentar el gasto público social", "correct": false },
-      { "text": "Provocó la ruptura de relaciones diplomáticas con Estados Unidos y Europa", "correct": false },
-      { "text": "No tuvo consecuencias estructurales, solo fue un problema pasajero de liquidez", "correct": false }
+      { "text": "Forzó el fin del proteccionismo y el inicio de reformas neoliberales", "correct": true },
+      { "text": "Fortaleció la economía cerrada y aumentó el gasto público social", "correct": false },
+      { "text": "Provocó la ruptura total de relaciones con Estados Unidos y Europa", "correct": false },
+      { "text": "No tuvo efectos estructurales, solo fue un problema de liquidez", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Se conoce como la 'Década Perdida'.",
     "explanation": "La imposibilidad de pagar la deuda forzó a México a reestructurar su economía, vender empresas estatales y abrirse al mercado exterior (cambio de modelo).",
@@ -1381,12 +1381,12 @@
     "question": "Contrasta las ideologías del Partido Liberal Mexicano (Flores Magón) y el Maderismo.",
     "image": null,
     "options": [
-      { "text": "Los magonistas eran anarcosindicalistas y buscaban cambios sociales radicales; Madero era liberal-demócrata y buscaba cambios políticos", "correct": true },
-      { "text": "Los magonistas eran conservadores religiosos; Madero era comunista", "correct": false },
-      { "text": "Ambos grupos buscaban establecer una dictadura militar", "correct": false },
-      { "text": "No había diferencias, ambos eran parte del mismo partido político", "correct": false }
+      { "text": "El PLM buscaba revolución social; Madero, democracia política", "correct": true },
+      { "text": "El PLM era conservador religioso; Madero era comunista radical", "correct": false },
+      { "text": "Ambos grupos buscaban imponer una dictadura militar centralista", "correct": false },
+      { "text": "No existían diferencias ideológicas reales entre ambas facciones", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Madero quería votos; Magón quería revolución social.",
     "explanation": "El PLM influyó en las huelgas obreras y proponía cambios profundos en la estructura económica, mientras Madero se enfocaba en la legalidad y la democracia electoral.",
@@ -1398,12 +1398,12 @@
     "question": "Analiza el impacto del Tratado McLane-Ocampo (1859) en el contexto de la Guerra de Reforma.",
     "image": null,
     "options": [
-      { "text": "Buscaba el reconocimiento y apoyo de EE.UU. para los liberales a cambio de libre tránsito por el Istmo de Tehuantepec (no fue ratificado)", "correct": true },
+      { "text": "Ofrecía libre tránsito por el Istmo a cambio de apoyo estadounidense", "correct": true },
       { "text": "Cedía la península de Baja California a Estados Unidos a perpetuidad", "correct": false },
       { "text": "Fue firmado por los conservadores para obtener apoyo de España", "correct": false },
-      { "text": "Estableció la frontera actual entre México y Guatemala", "correct": false }
+      { "text": "Establecía la venta de los estados fronterizos del norte del país", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Juárez lo negoció en un momento de desesperación política.",
     "explanation": "Aunque muy controvertido por comprometer la soberanía, permitió al gobierno de Juárez obtener recursos y reconocimiento diplomático vital contra los conservadores.",
@@ -1415,12 +1415,12 @@
     "question": "¿Qué relación existe entre la cultura Teotihuacana y la Mexica en términos de cosmovisión?",
     "image": null,
     "options": [
-      { "text": "Los mexicas consideraban a Teotihuacan como el lugar donde nacieron los dioses (Quinto Sol) e imitaron su urbanismo", "correct": true },
-      { "text": "Eran enemigos contemporáneos que se destruyeron mutuamente", "correct": false },
-      { "text": "No hubo relación alguna, pues Teotihuacan desapareció mil años antes de los mexicas", "correct": false },
-      { "text": "Los mexicas destruyeron Teotihuacan para construir Tenochtitlan", "correct": false }
+      { "text": "Los mexicas la legitimaron como lugar sagrado de origen de los dioses", "correct": true },
+      { "text": "Eran pueblos enemigos contemporáneos que se destruyeron mutuamente", "correct": false },
+      { "text": "No hubo relación alguna por la distancia temporal entre ambas culturas", "correct": false },
+      { "text": "Los mexicas destruyeron la ciudad para construir Tenochtitlan", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Teotihuacan ya estaba en ruinas cuando llegaron los aztecas.",
     "explanation": "Los mexicas reutilizaron la ciudad sagrada de Teotihuacan como sitio de legitimación religiosa y política, adoptando dioses como Quetzalcóatl.",
@@ -1432,12 +1432,12 @@
     "question": "Explica la función del Real Consejo de Indias durante el Virreinato.",
     "image": null,
     "options": [
-      { "text": "Era el órgano supremo en España que asesoraba al Rey en asuntos legislativos, administrativos y judiciales de las colonias", "correct": true },
-      { "text": "Era el tribunal local en la Nueva España encargado de juzgar a la Inquisición", "correct": false },
-      { "text": "Era una organización de comerciantes encargada del tráfico marítimo", "correct": false },
-      { "text": "Era el consejo de guerra formado por los virreyes para combatir la piratería", "correct": false }
+      { "text": "Órgano supremo en España para asuntos legislativos y judiciales coloniales", "correct": true },
+      { "text": "Tribunal local en Nueva España encargado de los juicios de la Inquisición", "correct": false },
+      { "text": "Organización gremial de comerciantes encargada del tráfico marítimo", "correct": false },
+      { "text": "Consejo de guerra formado por virreyes para combatir la piratería", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Estaba físicamente en España, no en América.",
     "explanation": "El Consejo de Indias elaboraba las leyes (Leyes de Indias), proponía funcionarios y actuaba como tribunal de última instancia para América.",
@@ -1449,12 +1449,12 @@
     "question": "Analiza las causas de la Rebelión de la Huerta en 1923.",
     "image": null,
     "options": [
-      { "text": "La designación de Plutarco Elías Calles como sucesor de Obregón, rompiendo las aspiraciones de Adolfo de la Huerta", "correct": true },
-      { "text": "La oposición de De la Huerta a la Expropiación Petrolera", "correct": false },
-      { "text": "El intento de Obregón de reelegirse inmediatamente", "correct": false },
-      { "text": "La alianza de De la Huerta con los cristeros para derrocar al gobierno", "correct": false }
+      { "text": "La designación de Calles como sucesor presidencial desplazó a De la Huerta", "correct": true },
+      { "text": "La oposición radical a la Expropiación Petrolera impulsada por el gobierno", "correct": false },
+      { "text": "El intento de Álvaro Obregón de reelegirse inmediatamente en el cargo", "correct": false },
+      { "text": "La alianza militar con los cristeros para derrocar al gobierno federal", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["EXANI", "UNAM", "IPN"],
     "level_tag": ["AVANZADO"],
     "hint": "Fue la última gran rebelión de generales revolucionarios exitosamente sofocada.",
     "explanation": "Adolfo de la Huerta, secretario de Hacienda, se sintió desplazado por el apoyo de Obregón a Calles y se levantó en armas acusando al gobierno de violar la soberanía (Tratados de Bucareli).",
