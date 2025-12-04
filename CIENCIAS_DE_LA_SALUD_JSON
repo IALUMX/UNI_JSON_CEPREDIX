@@ -423,5 +423,821 @@
     "explanation": "Un vector es un organismo, generalmente un artrópodo (como mosquitos, garrapatas), que transmite un agente infeccioso (en este caso, el virus del dengue) desde un huésped infectado a un nuevo huésped. El agente causal es el virus mismo.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "CDS00az",
+    "question": "La membrana plasmática de las células está compuesta principalmente por una bicapa de:",
+    "image": null,
+    "options": [
+      { "text": "Fosfolípidos", "correct": true },
+      { "text": "Glucoproteínas", "correct": false },
+      { "text": "Ácidos nucleicos", "correct": false },
+      { "text": "Carbohidratos complejos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Son lípidos que tienen una cabeza polar hidrofílica y dos colas hidrofóbicas.",
+    "explanation": "La bicapa lipídica es la estructura fundamental de todas las membranas biológicas. Los fosfolípidos, con su naturaleza anfipática, se organizan espontáneamente formando esta barrera semipermeable que rodea a la célula.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ba",
+    "question": "¿Cuál es la función principal de los ribosomas en la célula?",
+    "image": null,
+    "options": [
+      { "text": "Síntesis de proteínas", "correct": true },
+      { "text": "Producción de ATP", "correct": false },
+      { "text": "Digestión intracelular", "correct": false },
+      { "text": "Almacenamiento de material genético", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Son estructuras donde se 'traduce' el ARN mensajero.",
+    "explanation": "Los ribosomas son complejos de ARN ribosómico y proteínas que funcionan como las fábricas de proteínas de la célula. Leen la secuencia del ARN mensajero y ensamblan los aminoácidos en el orden correcto para formar una cadena polipeptídica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bb",
+    "question": "Completa el enunciado sobre la respiración celular: La glucosa se oxida completamente en presencia de oxígeno para producir ______, agua y una gran cantidad de ______ en forma de ATP.",
+    "image": null,
+    "options": [
+      { "text": "dióxido de carbono, energía", "correct": true },
+      { "text": "oxígeno, calor", "correct": false },
+      { "text": "ácido láctico, electricidad", "correct": false },
+      { "text": "metano, biomasa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es el proceso opuesto a la fotosíntesis en términos de gases.",
+    "explanation": "La ecuación general de la respiración aeróbica es: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energía (ATP). El dióxido de carbono (CO₂) es el producto de desecho gaseoso, y la energía química se almacena en los enlaces de alta energía del ATP.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bc",
+    "question": "Relaciona los orgánulos celulares con su función principal: A) Mitocondria, B) Lisosoma, C) Retículo endoplásmico rugoso; I) Digestión de macromoléculas, II) Producción de ATP, III) Síntesis y modificación de proteínas.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-I; C-III", "correct": true },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La mitocondria es la 'central energética', los lisosomas contienen enzimas digestivas y el RER tiene ribosomas adheridos.",
+    "explanation": "A) Mitocondria: Produce la mayor parte del ATP celular mediante la respiración aeróbica. B) Lisosoma: Contiene enzimas hidrolíticas para degradar materiales ingeridos por endocitosis y para reciclar componentes celulares. C) Retículo endoplásmico rugoso: Con ribosomas adheridos, es el sitio de síntesis y plegamiento inicial de proteínas destinadas a la secreción o a membranas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bd",
+    "question": "Un investigador del CEPREDIX estudia un tipo de división celular que produce células hijas genéticamente idénticas a la célula madre y es fundamental para el crecimiento y la reparación de tejidos. ¿Qué proceso está estudiando?",
+    "image": null,
+    "options": [
+      { "text": "Mitosis", "correct": true },
+      { "text": "Meiosis", "correct": false },
+      { "text": "Gemación", "correct": false },
+      { "text": "Fisión binaria", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este proceso da como resultado dos células diploides.",
+    "explanation": "La mitosis es un tipo de división nuclear en células eucariotas que resulta en dos núcleos hijos genéticamente idénticos al núcleo parental. Es la base del crecimiento de los organismos pluricelulares, la reparación de tejidos y la reproducción asexual.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00be",
+    "question": "¿Cuáles de las siguientes son características EXCLUSIVAS de las células eucariotas en comparación con las procariotas? 1) Presencia de núcleo definido por una envoltura nuclear. 2) ADN circular asociado a histonas. 3) Presencia de orgánulos membranosos como mitocondrias y cloroplastos. 4) Ribosomas 70S.",
+    "image": null,
+    "options": [
+      { "text": "1 y 3", "correct": true },
+      { "text": "2 y 4", "correct": false },
+      { "text": "1, 2 y 3", "correct": false },
+      { "text": "2, 3 y 4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Los procariotas no tienen núcleo ni orgánulos membranosos internos.",
+    "explanation": "1) CORRECTO. El núcleo rodeado por una doble membrana es la característica definitoria de los eucariotas. 2) INCORRECTO. El ADN de los eucariotas es lineal y asociado a histonas, mientras que el de los procariotas es circular y también asociado a proteínas (pero no histonas típicas). Es una diferencia, pero la afirmación 'ADN circular' es falsa para eucariotas. 3) CORRECTO. Los orgánulos como mitocondrias, retículo endoplásmico y cloroplastos (en vegetales) son exclusivos de eucariotas. 4) INCORRECTO. Los ribosomas 70S son característicos de procariotas, cloroplastos y mitocondrias. Los ribosomas del citosol eucariota son 80S.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bf",
+    "question": "¿Qué molécula es considerada el 'vector de información' que transporta el código genético desde el ADN en el núcleo hasta los ribosomas en el citoplasma?",
+    "image": null,
+    "options": [
+      { "text": "ARN mensajero (ARNm)", "correct": true },
+      { "text": "ARN ribosómico (ARNr)", "correct": false },
+      { "text": "ARN de transferencia (ARNt)", "correct": false },
+      { "text": "ADN polimerasa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Su nombre indica su función de llevar un 'mensaje'.",
+    "explanation": "Durante la transcripción, se sintetiza una cadena de ARNm complementaria a una hebra de ADN. Este ARNm sale del núcleo y se une a los ribosomas en el citoplasma, donde su secuencia de nucleótidos (codones) sirve como molde para la síntesis de proteínas (traducción).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bg",
+    "question": "Un paciente del CEPREDIX es diagnosticado con una enfermedad causada por la deficiencia de la enzima lactasa. ¿Cuál es la consecuencia metabólica más directa?",
+    "image": null,
+    "options": [
+      { "text": "Incapacidad para digerir la lactosa (azúcar de la leche)", "correct": true },
+      { "text": "Acumulación de glucógeno en el hígado", "correct": false },
+      { "text": "Imposibilidad de metabolizar proteínas", "correct": false },
+      { "text": "Dificultad para absorber vitaminas liposolubles", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La lactasa hidroliza la lactosa en sus monosacáridos componentes.",
+    "explanation": "La lactasa es una enzima producida en el intestino delgado que descompone el disacárido lactosa (presente en la leche) en glucosa y galactosa, que pueden ser absorbidas. Su deficiencia provoca intolerancia a la lactosa, donde la lactosa no digerida llega al colon y es fermentada por bacterias, causando síntomas como distensión abdominal, gases y diarrea.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bh",
+    "question": "¿En qué parte del sistema digestivo ocurre la mayor parte de la absorción de agua y electrolitos?",
+    "image": null,
+    "options": [
+      { "text": "Intestino grueso (colon)", "correct": true },
+      { "text": "Intestino delgado", "correct": false },
+      { "text": "Estómago", "correct": false },
+      { "text": "Esófago", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la última parte del tracto digestivo antes del recto.",
+    "explanation": "Mientras que el intestino delgado es el principal sitio de absorción de nutrientes (carbohidratos, proteínas, grasas, vitaminas, minerales), el intestino grueso (colon) se especializa en la absorción de agua y electrolitos (principalmente sodio y cloruro) del material fecal no digerido, solidificando las heces.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bi",
+    "question": "Completa la frase sobre el ciclo cardíaco: La fase de ______ corresponde a la contracción del músculo cardíaco, mientras que la fase de ______ corresponde a su relajación.",
+    "image": null,
+    "options": [
+      { "text": "sístole, diástole", "correct": true },
+      { "text": "diástole, sístole", "correct": false },
+      { "text": "isquemia, reperfusión", "correct": false },
+      { "text": "polarización, repolarización", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La sístole es cuando se expulsa la sangre, la diástole es cuando se llenan las cámaras.",
+    "explanation": "Sístole: Es la fase de contracción del músculo cardíaco (miocardio). Durante la sístole ventricular, la sangre es expulsada del corazón hacia la aorta y la arteria pulmonar. Diástole: Es la fase de relajación y llenado. Durante la diástole ventricular, las cámaras se relajan y se llenan de sangre proveniente de las aurículas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bj",
+    "question": "Relaciona los componentes de la sangre con su función principal: A) Glóbulos rojos (eritrocitos), B) Plaquetas (trombocitos), C) Glóbulos blancos (leucocitos); I) Coagulación, II) Transporte de oxígeno, III) Defensa inmunológica.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-I; C-III", "correct": true },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-III; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los eritrocitos contienen hemoglobina, las plaquetas forman tapones y los leucocitos combaten infecciones.",
+    "explanation": "A) Eritrocitos: Su función principal es transportar oxígeno desde los pulmones a los tejidos gracias a la hemoglobina. B) Plaquetas: Son fragmentos celulares esenciales en la hemostasia; se agregan en el sitio de una lesión vascular para formar un tapón plaquetario inicial y liberan factores que promueven la coagulación. C) Leucocitos: Son las células del sistema inmunitario; defienden al organismo contra infecciones (bacterias, virus, hongos) y participan en la respuesta inflamatoria.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bk",
+    "question": "Un deportista del CEPREDIX sufre una lesión muscular durante un entrenamiento. ¿Qué tipo de tejido es el principal afectado y cuál es su característica funcional fundamental?",
+    "image": null,
+    "options": [
+      { "text": "Tejido muscular esquelético; contracción voluntaria", "correct": true },
+      { "text": "Tejido muscular cardíaco; contracción rítmica e involuntaria", "correct": false },
+      { "text": "Tejido muscular liso; contracción lenta e involuntaria", "correct": false },
+      { "text": "Tejido conectivo; proporcionar soporte estructural", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Los músculos que se lesionan durante el ejercicio son los que mueven el esqueleto.",
+    "explanation": "El tejido muscular esquelético está unido a los huesos y es responsable del movimiento voluntario del cuerpo. Está compuesto por fibras largas, cilíndricas y estriadas que se contraen rápidamente bajo control consciente. Es el tejido más susceptible a lesiones por sobreesfuerzo o trauma durante la actividad deportiva.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bl",
+    "question": "En un experimento del CEPREDIX, se coloca una célula vegetal en una solución hipertónica. ¿Qué fenómeno se espera observar al microscopio?",
+    "image": null,
+    "options": [
+      { "text": "Plasmólisis (retracción del citoplasma de la pared celular)", "correct": true },
+      { "text": "Turgencia (célula hinchada y firme)", "correct": false },
+      { "text": "Lisis (estallido de la célula)", "correct": false },
+      { "text": "Ningún cambio observable", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "En una solución hipertónica, la concentración de solutos fuera es mayor que dentro de la célula.",
+    "explanation": "La plasmólisis ocurre cuando una célula vegetal se coloca en un medio hipertónico. El agua sale de la célula por ósmosis, haciendo que el volumen del citoplasma disminuya y se separe de la rígida pared celular. Es lo opuesto a la turgencia, que ocurre en un medio hipotónico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bm",
+    "question": "¿Qué enfermedad se caracteriza por una deficiencia en la producción o acción de la insulina, lo que resulta en niveles elevados de glucosa en sangre (hiperglucemia)?",
+    "image": null,
+    "options": [
+      { "text": "Diabetes mellitus", "correct": true },
+      { "text": "Enfermedad de Addison", "correct": false },
+      { "text": "Hipertiroidismo", "correct": false },
+      { "text": "Gota", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es un trastorno metabólico crónico muy común.",
+    "explanation": "La diabetes mellitus es un grupo de enfermedades metabólicas caracterizadas por hiperglucemia resultante de defectos en la secreción de insulina, en su acción, o en ambas. La insulina es la hormona que permite que la glucosa entre en las células; sin su acción efectiva, la glucosa se acumula en la sangre.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bn",
+    "question": "Completa el principio de la genética mendeliana: El principio de la ______ establece que los alelos de un gen se separan (segregan) durante la formación de los gametos, de modo que cada gameto lleva solo un alelo para cada gen.",
+    "image": null,
+    "options": [
+      { "text": "segregación", "correct": true },
+      { "text": "dominancia", "correct": false },
+      { "text": "transmisión independiente", "correct": false },
+      { "text": "uniformidad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "También se conoce como la primera ley de Mendel.",
+    "explanation": "El principio (o ley) de la segregación establece que los dos alelos para un carácter hereditario (por ejemplo, alto/bajo) se separan durante la formación de los gametos (meiosis) y terminan en gametos diferentes. Por lo tanto, un gameto (óvulo o espermatozoide) solo lleva un alelo de cada par parental.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bo",
+    "question": "Un estudiante del CEPREDIX analiza un cruce entre dos plantas heterocigóticas para un carácter (Aa x Aa). Según las leyes de Mendel, ¿cuál es la proporción fenotípica esperada en la descendencia si el alelo 'A' es dominante sobre 'a'?",
+    "image": null,
+    "options": [
+      { "text": "3 dominante : 1 recesivo", "correct": true },
+      { "text": "1 dominante : 1 recesivo", "correct": false },
+      { "text": "Todos dominantes", "correct": false },
+      { "text": "Todos recesivos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Realiza un cuadro de Punnett para el cruce Aa x Aa.",
+    "explanation": "En un cruce monohíbrido entre dos heterocigotos (Aa x Aa), la descendencia genotípica es 1 AA : 2 Aa : 1 aa. Dado que 'A' es dominante, tanto AA como Aa expresarán el fenotipo dominante. Por lo tanto, la proporción fenotípica es 3 individuos con fenotipo dominante por cada 1 con fenotipo recesivo (aa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bp",
+    "question": "¿Cuál de los siguientes pares de ciencias médicas y su objeto de estudio son correctos? 1) Epidemiología - Distribución y determinantes de enfermedades en poblaciones. 2) Fisiología - Funciones de los órganos y sistemas vivos. 3) Patología - Estudio de las drogas y sus efectos. 4) Anatomía - Estructura interna y externa de los organismos.",
+    "image": null,
+    "options": [
+      { "text": "1, 2 y 4", "correct": true },
+      { "text": "2, 3 y 4", "correct": false },
+      { "text": "1, 3 y 4", "correct": false },
+      { "text": "1, 2 y 3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La farmacología es la ciencia de las drogas.",
+    "explanation": "1) CORRECTO. La epidemiología estudia los patrones, causas y efectos de las condiciones de salud y enfermedad en poblaciones. 2) CORRECTO. La fisiología estudia las funciones mecánicas, físicas y bioquímicas de los seres vivos. 3) INCORRECTO. El estudio de las drogas y sus efectos es la Farmacología. La Patología estudia las causas, desarrollo y consecuencias de las enfermedades. 4) CORRECTO. La anatomía es la ciencia que estudia la estructura de los seres vivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bq",
+    "question": "¿A qué sistema del cuerpo humano pertenecen las siguientes estructuras: tráquea, bronquios, bronquiolos y alvéolos?",
+    "image": null,
+    "options": [
+      { "text": "Sistema respiratorio", "correct": true },
+      { "text": "Sistema digestivo", "correct": false },
+      { "text": "Sistema circulatorio", "correct": false },
+      { "text": "Sistema excretor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Son las vías por donde pasa el aire hacia los pulmones.",
+    "explanation": "Estas estructuras constituyen las vías respiratorias inferiores y los sitios de intercambio gaseoso. El aire viaja desde la tráquea, se bifurca en los bronquios, luego en los bronquiolos más pequeños, y finalmente llega a los sacos alveolares, donde ocurre el intercambio de oxígeno y dióxido de carbono con la sangre.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00br",
+    "question": "Relaciona la vitamina con una de sus funciones principales y una fuente alimenticia: A) Vitamina C, B) Vitamina D, C) Vitamina K; I) Coagulación sanguínea - Espinacas, II) Antioxidante / Síntesis de colágeno - Cítricos, III) Absorción de calcio / Salud ósea - Luz solar/Pescado.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct: false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La vitamina C previene el escorbuto, la D el raquitismo y la K es antihemorrágica.",
+    "explanation": "A) Vitamina C (Ácido ascórbico): Es un potente antioxidante y es esencial para la síntesis de colágeno. Se encuentra en cítricos (naranjas, limones), fresas, pimientos. B) Vitamina D (Calciferol): Promueve la absorción intestinal de calcio y fósforo, crucial para la mineralización ósea. Se sintetiza en la piel con exposición a la luz solar y se encuentra en pescados grasos, huevos. C) Vitamina K (Filoquinona): Es necesaria para la síntesis de factores de coagulación (II, VII, IX, X). Se encuentra en verduras de hoja verde (espinacas, col rizada) y también es producida por bacterias intestinales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bs",
+    "question": "En el riñón, la unidad estructural y funcional encargada de filtrar la sangre y formar la orina se llama:",
+    "image": null,
+    "options": [
+      { "text": "Nefrona", "correct": true },
+      { "text": "Alvéolo", "correct": false },
+      { "text": "Neurona", "correct": false },
+      { "text": "Hepatocito", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cada riñón contiene aproximadamente un millón de estas unidades.",
+    "explanation": "La nefrona es la unidad microscópica básica del riñón. Cada nefrona está formada por un glomérulo (un ovillo de capilares donde ocurre la filtración) y un túbulo renal (donde se reabsorben y secretan sustancias para formar la orina definitiva).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bt",
+    "question": "Un paciente presenta debilidad muscular, fatiga, aumento de peso y sensibilidad al frío. Un análisis hormonal probablemente revelaría niveles bajos de:",
+    "image": null,
+    "options": [
+      { "text": "Hormonas tiroideas (T3 y T4)", "correct": true },
+      { "text": "Cortisol", "correct": false },
+      { "text": "Insulina", "correct": false },
+      { "text": "Hormona del crecimiento", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Estos síntomas son característicos de un metabolismo corporal lento.",
+    "explanation": "Los síntomas descritos (fatiga, aumento de peso, intolerancia al frío, debilidad) son clásicos del hipotiroidismo, una condición en la que la glándula tiroides produce cantidades insuficientes de hormonas tiroideas (tiroxina T4 y triyodotironina T3). Estas hormonas regulan el metabolismo basal del cuerpo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bu",
+    "question": "¿Qué tipo de articulación permite un amplio rango de movimiento en múltiples planos, como la que se encuentra en el hombro o la cadera?",
+    "image": null,
+    "options": [
+      { "text": "Articulación esférica (enartrosis)", "correct": true },
+      { "text": "Articulación de bisagra (ginglimo)", "correct": false },
+      { "text": "Articulación plana (artrodia)", "correct": false },
+      { "text": "Articulación pivotante (trocoide)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Tiene forma de 'bola y cavidad'.",
+    "explanation": "La articulación esférica o enartrosis se caracteriza por una cabeza esférica de un hueso que encaja en una cavidad cóncava de otro. Esta estructura permite movimientos de flexión, extensión, abducción, aducción, circunducción y rotación, otorgando la mayor libertad de movimiento de todos los tipos de articulaciones sinoviales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bv",
+    "question": "Completa el principio de la evolución por selección natural: Los individuos con ______ que les confieren una mayor adaptación al medio ambiente tienen una mayor probabilidad de ______ y transmitir esos rasgos a su descendencia.",
+    "image": null,
+    "options": [
+      { "text": "rasgos heredables, sobrevivir y reproducirse", "correct": true },
+      { "text": "mutaciones al azar, emigrar", "correct": false },
+      { "text": "comportamientos aprendidos, competir", "correct": false },
+      { "text": "características adquiridas, enfermarse", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es el mecanismo propuesto por Charles Darwin.",
+    "explanation": "La selección natural postula que: 1) Existe variación heredable entre individuos de una población. 2) Los recursos son limitados, lo que genera una 'lucha por la existencia'. 3) Los individuos con variaciones que los hacen mejor adaptados a su entorno tienen una mayor tasa de supervivencia y éxito reproductivo ('aptitud'). 4) Con el tiempo, estas variaciones ventajosas se acumulan en la población, cambiando sus características.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bw",
+    "question": "¿Cuál es la secuencia correcta de las fases del ciclo celular en una célula eucariota que se divide activamente?",
+    "image": null,
+    "options": [
+      { "text": "G1 → S → G2 → Mitosis → Citocinesis", "correct": true },
+      { "text": "Mitosis → S → G1 → G2 → Citocinesis", "correct": false },
+      { "text": "S → G1 → G2 → Citocinesis → Mitosis", "correct": false },
+      { "text": "G1 → G2 → S → Mitosis → Citocinesis", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La fase S es donde se duplica el ADN, y viene después de G1 y antes de G2.",
+    "explanation": "El ciclo celular consta de: 1) Interfase (G1: crecimiento celular, S: síntesis/replicación del ADN, G2: preparación para la división). 2) Fase M: División celular (Mitosis: división del núcleo, y Citocinesis: división del citoplasma). Esta secuencia asegura que el material genético se duplique correctamente antes de repartirse entre las células hijas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bx",
+    "question": "¿Qué proceso metabólico permite a las células musculares obtener energía rápidamente cuando el suministro de oxígeno es insuficiente, como durante un sprint intenso?",
+    "image": null,
+    "options": [
+      { "text": "Fermentación láctica", "correct": true },
+      { "text": "Respiración aeróbica", "correct": false },
+      { "text": "Ciclo de Krebs", "correct": false },
+      { "text": "Cadena de transporte de electrones", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este proceso no requiere oxígeno y produce ácido láctico como producto final.",
+    "explanation": "La fermentación láctica es un tipo de respiración anaeróbica. Cuando la demanda de ATP supera la capacidad de suministro de oxígeno (ejercicio intenso), las células musculares degradan la glucosa hasta piruvato mediante la glucólisis. Luego, el piruvato se reduce a lactato (ácido láctico) para regenerar el NAD+ necesario para que la glucólisis continúe produciendo ATP rápidamente, aunque de manera menos eficiente que la respiración aeróbica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00by",
+    "question": "Completa el enunciado sobre neurotransmisores: La ______ es la hendidura física entre la neurona presináptica y la postsináptica, donde los ______ transmiten la señal química.",
+    "image": null,
+    "options": [
+      { "text": "sinapsis, neurotransmisores", "correct": true },
+      { "text": "mielina, axones", "correct": false },
+      { "text": "dendrita, potenciales de acción", "correct": false },
+      { "text": "cuerpo celular, hormonas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es el espacio entre dos neuronas donde ocurre la comunicación.",
+    "explanation": "La sinapsis es la unión especializada a través de la cual una neurona se comunica con otra (o con una célula efectora como muscular o glandular). Cuando llega un impulso nervioso a la terminal presináptica, libera neurotransmisores que cruzan la hendidura sináptica y se unen a receptores en la membrana postsináptica, generando una respuesta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bz",
+    "question": "Relaciona la glándula endocrina con el trastorno asociado a su malfuncionamiento: A) Páncreas, B) Tiroides, C) Glándula pituitaria anterior; I) Diabetes mellitus, II) Gigantismo o acromegalia, III) Bocio.",
+    "image": null,
+    "options": [
+      { "text": "A-I; B-III; C-II", "correct": true },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-I; B-II; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "El bocio es un agrandamiento de la tiroides, el gigantismo por exceso de hormona del crecimiento.",
+    "explanation": "A) Páncreas: La deficiencia de insulina o resistencia a su acción causa Diabetes mellitus. B) Tiroides: La deficiencia de yodo o diversos trastornos pueden causar bocio (agrandamiento de la glándula tiroides). C) Glándula pituitaria (hipófisis) anterior: La secreción excesiva de hormona del crecimiento (GH) antes del cierre de las placas de crecimiento causa Gigantismo; después, causa Acromegalia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bA",
+    "question": "Durante una práctica de laboratorio en el CEPREDIX, un estudiante observa al microscopio una preparación de sangre y ve células anucleadas, bicóncavas y llenas de una proteína roja. ¿Qué células está observando y cuál es su principal función?",
+    "image": null,
+    "options": [
+      { "text": "Eritrocitos; transportar oxígeno", "correct": true },
+      { "text": "Plaquetas; iniciar la coagulación", "correct": false },
+      { "text": "Linfocitos; defensa inmunitaria", "correct": false },
+      { "text": "Neutrófilos; fagocitar bacterias", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su forma bicóncava aumenta el área superficial para el intercambio de gases.",
+    "explanation": "Los eritrocitos o glóbulos rojos son células especializadas para el transporte de oxígeno. Su característica forma de disco bicóncavo maximiza la relación superficie-volumen, facilitando el intercambio gaseoso. Carecen de núcleo y orgánulos para dejar más espacio a la hemoglobina, la proteína que une el oxígeno y le da su color rojo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bB",
+    "question": "De la siguiente lista, selecciona los órganos que forman parte del sistema urinario: 1) Riñones, 2) Uretra, 3) Uréter, 4) Vejiga urinaria, 5) Uretra.",
+    "image": null,
+    "options": [
+      { "text": "1, 2, 3 y 4", "correct": true },
+      { "text": "1, 3 y 5", "correct": false },
+      { "text": "2, 3, 4 y 5", "correct": false },
+      { "text": "1, 2, 4 y 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sistema urinario produce, almacena y elimina la orina.",
+    "explanation": "El sistema urinario está compuesto por: los riñones (filtran la sangre y producen orina), los uréteres (conducen la orina de los riñones a la vejiga), la vejiga urinaria (almacena la orina) y la uretra (conduce la orina desde la vejiga al exterior del cuerpo). La opción 2 y 5 son el mismo órgano (Uretra) escrito dos veces, pero la respuesta correcta incluye todos los órganos únicos listados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bC",
+    "question": "Un biólogo del CEPREDIX describe un ecosistema y menciona que los ______, como las plantas y las algas, son productores que capturan energía solar, mientras que los ______, como los hongos y las bacterias descomponedoras, reciclan nutrientes desintegrando materia orgánica muerta.",
+    "image": null,
+    "options": [
+      { "text": "autótrofos, descomponedores", "correct": true },
+      { "text": "consumidores, productores", "correct": false },
+      { "text": "herbívoros, carnívoros", "correct": false },
+      { "text": "heterótrofos, autótrofos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "'Auto' significa propio, 'trofos' alimento. 'Hetero' significa otro.",
+    "explanation": "Los autótrofos (como plantas, algas y algunas bacterias) producen su propio alimento a partir de materia inorgánica y una fuente de energía (luz solar o química). Los descomponedores (como hongos y muchas bacterias) son heterótrofos que obtienen energía descomponiendo la materia orgánica muerta de otros organismos, liberando nutrientes inorgánicos al suelo para ser reutilizados por los productores.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bD",
+    "question": "¿Qué ley de la termodinámica establece que la energía no puede crearse ni destruirse, solo transformarse de una forma a otra?",
+    "image": null,
+    "options": [
+      { "text": "Primera ley (Ley de conservación de la energía)", "correct": true },
+      { "text": "Segunda ley (Ley de la entropía)", "correct": false },
+      { "text": "Tercera ley", "correct": false },
+      { "text": "Ley cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el principio de conservación aplicado a la energía.",
+    "explanation": "La primera ley de la termodinámica, también conocida como principio de conservación de la energía, establece que la energía total de un sistema aislado permanece constante. La energía puede cambiar de forma (química a cinética, térmica, etc.), pero la cantidad total de energía en el universo no cambia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bE",
+    "question": "En una reacción química en equilibrio, si se aumenta la concentración de uno de los reactivos, según el principio de Le Châtelier, el equilibrio se desplazará:",
+    "image": null,
+    "options": [
+      { "text": "Hacia la formación de más productos", "correct": true },
+      { "text": "Hacia la formación de más reactivos", "correct": false },
+      { "text": "No se verá afectado", "correct": false },
+      { "text": "Primero hacia productos y luego hacia reactivos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sistema intentará contrarrestar el cambio aplicado.",
+    "explanation": "El principio de Le Châtelier establece que si se modifica una condición (como concentración, presión o temperatura) de un sistema en equilibrio químico, el sistema evolucionará para contrarrestar parcialmente dicho cambio. Al aumentar la concentración de un reactivo, el sistema responde consumiendo parte de ese reactivo adicional, desplazando el equilibrio hacia la derecha (formación de productos) para aliviar el 'estrés'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bF",
+    "question": "Completa el enunciado sobre enzimas: Las enzimas son ______ biológicos que aceleran las reacciones químicas al ______ la energía de activación requerida. Son específicas para su ______.",
+    "image": null,
+    "options": [
+      { "text": "catalizadores, disminuir, sustrato", "correct": true },
+      { "text": "inhibidores, aumentar, producto", "correct": false },
+      { "text": "sustratos, mantener, cofactor", "correct": false },
+      { "text": "productos, liberar, vitamina", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Las enzimas no se consumen en la reacción y tienen un sitio activo donde se une el sustrato.",
+    "explanation": "Las enzimas son proteínas (o ARN en algunos casos) que actúan como catalizadores biológicos. Funcionan uniéndose a moléculas específicas llamadas sustratos en un sitio activo, formando un complejo enzima-sustrato. Esta unión estabiliza el estado de transición de la reacción, reduciendo la energía de activación necesaria para que ocurra, lo que acelera enormemente la velocidad de la reacción sin ser consumidas en el proceso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bG",
+    "question": "Relaciona el tipo de tejido conectivo con su función y un ejemplo: A) Tejido óseo, B) Tejido adiposo, C) Tejido sanguíneo; I) Transporte de gases y nutrientes - Sangre, II) Soporte y protección - Huesos, III) Almacenamiento de energía y aislamiento - Grasa.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El tejido óseo es rígido, el adiposo contiene adipocitos y el sanguíneo es fluido.",
+    "explanation": "A) Tejido óseo: Proporciona soporte estructural, protección a órganos vitales, anclaje para músculos y almacén de minerales. B) Tejido adiposo: Almacena energía en forma de triglicéridos, proporciona aislamiento térmico y amortiguación. C) Tejido sanguíneo: Es un tejido conectivo fluido cuya función principal es el transporte de oxígeno, nutrientes, hormonas, productos de desecho y células del sistema inmunitario por todo el cuerpo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bH",
+    "question": "Un paciente del CEPREDIX presenta cálculos renales (piedras en el riñón) compuestos principalmente de oxalato de calcio. ¿Qué consejo dietético sería más apropiado para prevenir nuevos cálculos?",
+    "image": null,
+    "options": [
+      { "text": "Aumentar la ingesta de agua y moderar el consumo de alimentos ricos en oxalato (espinacas, nueces)", "correct": true },
+      { "text": "Eliminar completamente todas las fuentes de calcio de la dieta", "correct": false },
+      { "text": "Consumir grandes cantidades de proteína animal para acidificar la orina", "correct": false },
+      { "text": "Reducir la ingesta de líquidos para concentrar menos la orina", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La hidratación diluye la orina y reduce la concentración de sustancias que forman cálculos.",
+    "explanation": "Para prevenir cálculos de oxalato de calcio: 1) Beber mucha agua es clave para diluir la orina. 2) Moderar alimentos altos en oxalatos (espinacas, ruibarbo, nueces, té) puede ayudar. Eliminar el calcio por completo es contraproducente y puede aumentar la absorción de oxalato; se recomienda una ingesta normal de calcio con las comidas. El exceso de proteína animal puede aumentar el calcio urinario y el ácido úrico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bI",
+    "question": "¿Qué proceso, esencial para la diversidad genética, ocurre durante la Profase I de la meiosis e implica el intercambio de segmentos de cromátidas entre cromosomas homólogos?",
+    "image": null,
+    "options": [
+      { "text": "Entrecruzamiento (crossing-over)", "correct": true },
+      { "text": "Replicación del ADN", "correct": false },
+      { "text": "Segregación cromosómica", "correct": false },
+      { "text": "Citocinesis", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este evento produce cromosomas 'recombinantes' con mezcla de alelos maternos y paternos.",
+    "explanation": "El entrecruzamiento (crossing-over) es un evento que ocurre durante la profase I de la meiosis, cuando los cromosomas homólogos están apareados (en sinapsis). Las cromátidas no hermanas de los homólogos intercambian segmentos equivalentes de ADN. Este proceso genera nuevas combinaciones de alelos en los cromosomas, contribuyendo significativamente a la variación genética en los gametos y, por tanto, en la descendencia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bJ",
+    "question": "En una cadena alimentaria, si una población de zorros (consumidores secundarios) disminuye drásticamente debido a una enfermedad, ¿qué suceso ecológico es más probable que ocurra a corto plazo con la población de conejos (consumidores primarios)?",
+    "image": null,
+    "options": [
+      { "text": "Aumentará debido a la reducción de la depredación", "correct": true },
+      { "text": "Disminuirá porque perderán su fuente de alimento", "correct": false },
+      { "text": "No se verá afectada", "correct": false },
+      { "text": "Emigrará a otro hábitat", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los conejos son presa de los zorros. Menos depredadores significa...",
+    "explanation": "En una relación depredador-presa, las poblaciones están interconectadas. Una disminución repentina en la población de depredadores (zorros) reduce la presión de depredación sobre la presa (conejos). Como resultado, y si otros factores como el alimento para conejos no son limitantes, la población de conejos probablemente experimentará un crecimiento rápido (aumento) debido a las mayores tasas de supervivencia y reproducción.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bK",
+    "question": "¿Cuál de las siguientes estructuras del oído es responsable de convertir las vibraciones mecánicas del sonido en impulsos nerviosos?",
+    "image": null,
+    "options": [
+      { "text": "Cóclea (caracol)", "correct": true },
+      { "text": "Tímpano (membrana timpánica)", "correct": false },
+      { "text": "Martillo, yunque y estribo (huesecillos)", "correct": false },
+      { "text": "Canales semicirculares", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Contiene las células ciliadas que son los receptores sensoriales del sonido.",
+    "explanation": "La cóclea es una estructura espiral llena de líquido en el oído interno. Contiene el órgano de Corti, que alberga las células ciliadas sensoriales. Cuando las vibraciones sonoras (transmitidas por los huesecillos) mueven el líquido coclear, estas células ciliadas se doblan. Este estímulo mecánico se traduce en señales eléctricas (potenciales de acción) que viajan a través del nervio auditivo hacia el cerebro para su interpretación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bL",
+    "question": "Completa la definición: Un ______ es un segmento de ADN que codifica para un producto funcional, generalmente una proteína o una molécula de ARN funcional. La versión alternativa de un gen se llama ______.",
+    "image": null,
+    "options": [
+      { "text": "gen, alelo", "correct": true },
+      { "text": "cromosoma, genoma", "correct": false },
+      { "text": "nucleótido, cromátida", "correct": false },
+      { "text": "locus, fenotipo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Los alelos pueden ser dominantes o recesivos.",
+    "explanation": "Un gen es la unidad básica de la herencia; es una secuencia específica de nucleótidos en el ADN que contiene la información para sintetizar un ARN o una proteína. Un alelo es una de las posibles variantes (versiones) de un gen que ocupa un locus específico en un cromosoma. Por ejemplo, el gen para el color de la semilla en chícharos tiene un alelo para amarillo y otro para verde.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bM",
+    "question": "Durante una excursión del CEPREDIX a un bosque, un estudiante identifica una relación en la que un hongo vive en las raíces de un árbol, ayudándole a absorber agua y minerales, mientras que el árbol proporciona al hongo carbohidratos. Esta relación se denomina:",
+    "image": null,
+    "options": [
+      { "text": "Micorriza (mutualismo)", "correct": true },
+      { "text": "Parasitismo", "correct": false },
+      { "text": "Comensalismo", "correct": false },
+      { "text": "Depredación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una asociación simbiótica beneficiosa para ambos organismos.",
+    "explanation": "Las micorrizas son asociaciones simbióticas mutualistas entre las raíces de la mayoría de las plantas vasculares y ciertos hongos del suelo. El hongo, con su extensa red de hifas, aumenta enormemente la superficie de absorción de la raíz, obteniendo agua y nutrientes minerales (especialmente fósforo) para la planta. A cambio, la planta suministra al hongo carbohidratos y otros productos de la fotosíntesis.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bN",
+    "question": "Relaciona el biomolécula con su función principal: A) Carbohidratos, B) Lípidos, C) Proteínas; I) Estructura, catálisis enzimática y defensa, II) Fuente de energía rápida y estructural (celulosa), III) Almacenamiento de energía a largo plazo, aislamiento y componentes de membranas.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-I; B-II; C-III", "correct": false },
+      { "text": "A-III; B-I; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los carbohidratos incluyen azúcares y almidones, los lípidos incluyen grasas y aceites, las proteínas son cadenas de aminoácidos.",
+    "explanation": "A) Carbohidratos: Función principal de energía rápida (glucosa, almidón) y estructural (celulosa en plantas, quitina en hongos/exoesqueletos). B) Lípidos: Almacenamiento de energía concentrada (triglicéridos), aislamiento térmico, componentes estructurales de membranas (fosfolípidos, colesterol). C) Proteínas: Funciones extremadamente diversas: estructurales (colágeno, queratina), catálisis enzimática (todas las enzimas), defensa (anticuerpos), transporte (hemoglobina), regulación (hormonas peptídicas), movimiento (actina, miosina).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bO",
+    "question": "En el sistema de clasificación taxonómica de los seres vivos, ¿cuál es el nivel más inclusivo (más amplio) y cuál es el más específico de los siguientes?",
+    "image": null,
+    "options": [
+      { "text": "Dominio (más inclusivo) → Especie (más específico)", "correct": true },
+      { "text": "Reino (más inclusivo) → Género (más específico)", "correct": false },
+      { "text": "Familia (más inclusivo) → Orden (más específico)", "correct": false },
+      { "text": "Phylum (más inclusivo) → Clase (más específico)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La especie es la unidad básica de clasificación.",
+    "explanation": "La jerarquía taxonómica moderna, de mayor a menor inclusividad (de más amplio a más específico) es: Dominio, Reino, Phylum (o División para plantas), Clase, Orden, Familia, Género, Especie. Ejemplo humano: Eukarya (Dominio), Animalia (Reino), Chordata (Phylum), Mammalia (Clase), Primates (Orden), Hominidae (Familia), Homo (Género), sapiens (Especie).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bP",
+    "question": "¿Qué vitamina, cuya deficiencia causa escorbuto, es esencial para la síntesis de colágeno y actúa como antioxidante?",
+    "image": null,
+    "options": [
+      { "text": "Vitamina C (Ácido ascórbico)", "correct": true },
+      { "text": "Vitamina A (Retinol)", "correct": false },
+      { "text": "Vitamina D (Calciferol)", "correct": false },
+      { "text": "Vitamina B12 (Cobalamina)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se encuentra en frutas cítricas y verduras frescas.",
+    "explanation": "La vitamina C es una vitamina hidrosoluble crucial para: 1) La hidroxilación de la lisina y prolina durante la síntesis de colágeno, proteína estructural clave en piel, vasos sanguíneos, huesos y tejido conectivo. 2) Actuar como antioxidante, donando electrones para neutralizar especies reactivas de oxígeno (radicales libres). Su deficiencia prolongada causa escorbuto, caracterizado por fatiga, inflamación de encías, hemorragias y mala cicatrización.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bQ",
+    "question": "Un proceso fisiológico en el que la respuesta final de un sistema retroalimenta e inhibe el estímulo inicial, manteniendo así la homeostasis, se conoce como:",
+    "image": null,
+    "options": [
+      { "text": "Retroalimentación negativa", "correct": true },
+      { "text": "Retroalimentación positiva", "correct": false },
+      { "text": "Activación en cascada", "correct": false },
+      { "text": "Señalización paracrina", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es el mecanismo más común para mantener la estabilidad interna, como en la regulación de la temperatura o la glucosa en sangre.",
+    "explanation": "La retroalimentación negativa es un mecanismo de control en el que el producto o resultado de un proceso reduce o 'apaga' la actividad del proceso. Esto contrarresta los cambios, llevando al sistema de vuelta a un punto de ajuste. Ejemplos clásicos: la insulina reduce la glucemia alta; la sudoración enfría el cuerpo cuando la temperatura aumenta; una hormona inhibidora frena la producción de otra hormona cuando sus niveles son adecuados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bR",
+    "question": "¿Qué órgano del sistema digestivo produce y secreta la mayor cantidad de enzimas digestivas, así como bicarbonato para neutralizar el quimo ácido proveniente del estómago?",
+    "image": null,
+    "options": [
+      { "text": "Páncreas (porción exocrina)", "correct": true },
+      { "text": "Hígado", "correct": false },
+      { "text": "Estómago", "correct": false },
+      { "text": "Intestino delgado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este órgano vierte su jugo en el duodeno a través del conducto pancreático.",
+    "explanation": "El páncreas es una glándula mixta. Su porción exocrina secreta el jugo pancreático hacia el duodeno. Este jugo contiene: 1) Bicarbonato de sodio, que neutraliza la acidez del quimo gástrico, creando un pH óptimo para las enzimas intestinales. 2) Numerosas enzimas digestivas en forma de proenzimas (inactivas), incluyendo tripsinógeno (proteínas), amilasa (carbohidratos), lipasa (grasas) y nucleasas (ácidos nucleicos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bS",
+    "question": "En una planta, ¿qué células son las responsables del transporte de agua y minerales disueltos desde las raíces hasta las hojas?",
+    "image": null,
+    "options": [
+      { "text": "Traqueidas y elementos de los vasos (xilema)", "correct": true },
+      { "text": "Células cribosas y células acompañantes (floema)", "correct": false },
+      { "text": "Parenquima clorofílico", "correct": false },
+      { "text": "Células de la epidermis", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Forman tejidos conductores muertos a la madurez funcional.",
+    "explanation": "El xilema es el tejido vascular que transporta agua y nutrientes minerales (la savia bruta) en sentido ascendente, desde las raíces hasta todas las partes aéreas de la planta. Está compuesto principalmente por traqueidas y elementos de los vasos, que son células alargadas y muertas a la madurez, cuyas paredes celulares lignificadas forman tubos continuos para el flujo del agua.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bT",
+    "question": "Completa el principio de la herencia: El ______ de un organismo es su constitución genética real (ej. AA, Aa, aa), mientras que su ______ es la expresión observable o característica física resultante de esa genética y la interacción con el ambiente.",
+    "image": null,
+    "options": [
+      { "text": "genotipo, fenotipo", "correct": true },
+      { "text": "fenotipo, genotipo", "correct": false },
+      { "text": "alelo, locus", "correct": false },
+      { "text": "cariotipo, genoma", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El genotipo son las 'instrucciones', el fenotipo es el 'resultado' visible.",
+    "explanation": "El genotipo se refiere al conjunto completo de genes (alelos) que un organismo posee para un carácter particular. Es la información heredada de los padres. El fenotipo es la manifestación física, bioquímica o conductual observable de ese genotipo, que surge de la interacción entre los genes y el ambiente (ej. nutrición, luz, temperatura). Un mismo genotipo puede producir fenotipos ligeramente diferentes en ambientes distintos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00bU",
+    "question": "De las siguientes opciones, ¿cuáles son mecanismos de defensa INESPECÍFICOS (innatos) del sistema inmunológico? 1) Producción de anticuerpos por linfocitos B, 2) Barrera de la piel y mucosas, 3) Respuesta inflamatoria, 4) Memoria inmunológica, 5) Fagocitosis por macrófagos.",
+    "image": null,
+    "options": [
+      { "text": "2, 3 y 5", "correct": true },
+      { "text": "1, 3 y 4", "correct": false },
+      { "text": "1, 2 y 5", "correct": false },
+      { "text": "3, 4 y 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La inmunidad innata es la primera línea de defensa, rápida y no adaptativa.",
+    "explanation": "Los mecanismos de defensa inespecíficos o innatos son aquellos con los que se nace y que responden de manera general a cualquier patógeno. Incluyen: Barreras físicas y químicas (piel, mucosas, pH gástrico), células fagocíticas (neutrófilos, macrófagos), la respuesta inflamatoria, proteínas del complemento y fiebre. La producción de anticuerpos (1) y la memoria inmunológica (4) son características de la inmunidad específica o adaptativa, que es más lenta, específica para cada patógeno y genera memoria.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
