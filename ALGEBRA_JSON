@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "ALG00aa",
+    "question": "Simplifica la siguiente expresión algebraica eliminando los signos de agrupación: $a - (b - c)$",
+    "image": null,
+    "options": [
+      { "text": "$a - b + c$", "correct": true },
+      { "text": "$a - b - c$", "correct": false },
+      { "text": "$a + b + c$", "correct": false },
+      { "text": "$a + b - c$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que un signo negativo fuera de un paréntesis cambia el signo de todos los términos que están dentro.",
+    "explanation": "El signo negativo afecta tanto a $b$ como a $-c$. Por lo tanto, $-(b) = -b$ y $-(-c) = +c$. La expresión queda $a - b + c$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ab",
+    "question": "Desarrolla el siguiente binomio al cuadrado: $(x + 5)^2$",
+    "image": null,
+    "options": [
+      { "text": "$x^2 + 10x + 25$", "correct": true },
+      { "text": "$x^2 + 25$", "correct": false },
+      { "text": "$x^2 + 5x + 25$", "correct": false },
+      { "text": "$2x + 10$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La fórmula es $(a+b)^2 = a^2 + 2ab + b^2$.",
+    "explanation": "Elevamos el primero al cuadrado ($x^2$), sumamos el doble del primero por el segundo ($2 \\cdot x \\cdot 5 = 10x$) y sumamos el segundo al cuadrado ($5^2 = 25$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ac",
+    "question": "Factoriza la expresión por factor común: $4x^2 - 8x$",
+    "image": null,
+    "options": [
+      { "text": "$4x(x - 2)$", "correct": true },
+      { "text": "$4x(x - 8)$", "correct": false },
+      { "text": "$x(4x - 8)$", "correct": false },
+      { "text": "$2x(2x - 4)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca el máximo común divisor de los coeficientes (4 y 8) y la variable con el menor exponente común.",
+    "explanation": "El MCD de 4 y 8 es 4. La variable común es $x$. El factor común es $4x$. Dividiendo cada término: $4x^2/4x = x$ y $-8x/4x = -2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ad",
+    "question": "Identifica el resultado del producto de binomios conjugados: $(m - 3)(m + 3)$",
+    "image": null,
+    "options": [
+      { "text": "$m^2 - 9$", "correct": true },
+      { "text": "$m^2 + 9$", "correct": false },
+      { "text": "$m^2 - 6m + 9$", "correct": false },
+      { "text": "$m^2 - 6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El producto de conjugados $(a-b)(a+b)$ resulta en una diferencia de cuadrados $a^2 - b^2$.",
+    "explanation": "Es una diferencia de cuadrados. El cuadrado del primer término es $m^2$ y el cuadrado del segundo es $3^2=9$. Resultado: $m^2 - 9$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ae",
+    "question": "¿Cuál es la factorización de la diferencia de cuadrados $y^2 - 100$?",
+    "image": null,
+    "options": [
+      { "text": "$(y - 10)(y + 10)$", "correct": true },
+      { "text": "$(y - 50)(y + 50)$", "correct": false },
+      { "text": "$(y - 10)^2$", "correct": false },
+      { "text": "$(y + 10)^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Saca la raíz cuadrada de cada término y forma dos binomios, uno con resta y otro con suma.",
+    "explanation": "$\\sqrt{y^2} = y$ y $\\sqrt{100} = 10$. Los factores son la suma y la resta de estas raíces: $(y-10)(y+10)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00af",
+    "question": "Simplifica la expresión: $3x(x - 2) + 6x$",
+    "image": null,
+    "options": [
+      { "text": "$3x^2$", "correct": true },
+      { "text": "$3x^2 - 12x$", "correct": false },
+      { "text": "$3x^2 + 4x$", "correct": false },
+      { "text": "$9x^2 - 6x$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Primero aplica la propiedad distributiva en $3x(x-2)$ y luego simplifica términos semejantes.",
+    "explanation": "$3x(x) = 3x^2$ y $3x(-2) = -6x$. La expresión queda $3x^2 - 6x + 6x$. Los términos lineales se cancelan.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ag",
+    "question": "Factoriza el trinomio $x^2 + 7x + 12$.",
+    "image": null,
+    "options": [
+      { "text": "$(x + 4)(x + 3)$", "correct": true },
+      { "text": "$(x + 6)(x + 2)$", "correct": false },
+      { "text": "$(x - 4)(x - 3)$", "correct": false },
+      { "text": "$(x + 12)(x + 1)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca dos números que multiplicados den 12 y sumados den 7.",
+    "explanation": "Los números 4 y 3 cumplen que $4 \\cdot 3 = 12$ y $4 + 3 = 7$. La factorización es $(x+4)(x+3)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ah",
+    "question": "Selecciona los términos que son semejantes a $3x^2y$: \n* $5x^2y$\n* $3xy^2$\n* $-x^2y$\n* $x^2$",
+    "image": null,
+    "options": [
+      { "text": "$5x^2y$, $-x^2y$", "correct": true },
+      { "text": "$3xy^2$, $x^2$", "correct": false },
+      { "text": "$5x^2y$, $3xy^2$", "correct": false },
+      { "text": "Todos son semejantes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Los términos semejantes deben tener exactamente las mismas variables elevadas a los mismos exponentes.",
+    "explanation": "$5x^2y$ y $-x^2y$ comparten la parte literal $x^2y$. $3xy^2$ tiene la $y$ al cuadrado, no la $x$, por lo que no es semejante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ai",
+    "question": "La propiedad ______ nos permite decir que $a(b + c) = ab + ac$. Esta propiedad es fundamental para la ______ de polinomios.",
+    "image": null,
+    "options": [
+      { "text": "distributiva, multiplicación", "correct": true },
+      { "text": "conmutativa, suma", "correct": false },
+      { "text": "asociativa, división", "correct": false },
+      { "text": "distributiva, resta", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la propiedad que distribuye un factor sobre una suma.",
+    "explanation": "La propiedad distributiva multiplica el término exterior por cada uno de los términos interiores, siendo base de la multiplicación de polinomios.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00aj",
+    "question": "Un Trinomio Cuadrado Perfecto se obtiene al elevar un ______ al ______.",
+    "image": null,
+    "options": [
+      { "text": "binomio, cuadrado", "correct": true },
+      { "text": "polinomio, cubo", "correct": false },
+      { "text": "monomio, cuadrado", "correct": false },
+      { "text": "término, cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda la fórmula $(a+b)^2$.",
+    "explanation": "Al elevar un binomio al cuadrado $(a+b)^2$, el resultado es siempre un trinomio cuadrado perfecto ($a^2+2ab+b^2$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ak",
+    "question": "En la expresión $x^n \\cdot x^m$, la ley de los exponentes indica que se ______ los exponentes y la base ______.",
+    "image": null,
+    "options": [
+      { "text": "suman, se mantiene", "correct": true },
+      { "text": "multiplican, cambia", "correct": false },
+      { "text": "restan, se mantiene", "correct": false },
+      { "text": "dividen, se elimina", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: $x^2 \\cdot x^3 = x^5$.",
+    "explanation": "En la multiplicación de potencias con la misma base, los exponentes se suman: $x^n \\cdot x^m = x^{n+m}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00al",
+    "question": "Relaciona el producto notable con su resultado:\nA) $(x+a)(x+b)$\nB) $(a+b)(a-b)$\nC) $(a+b)^2$\n\nI) Diferencia de cuadrados\nII) Trinomio Cuadrado Perfecto\nIII) Trinomio de la forma $x^2+bx+c$",
+    "image": null,
+    "options": [
+      { "text": "A-III, B-I, C-II", "correct": true },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false },
+      { "text": "A-III, B-II, C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un binomio al cuadrado produce un TCP. Binomios conjugados producen diferencia de cuadrados.",
+    "explanation": "A es producto de binomios con término común (genera trinomio general). B son conjugados (diferencia de cuadrados). C es cuadrado de un binomio (TCP).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00am",
+    "question": "Factoriza completamente: $3x^2 - 27$",
+    "image": null,
+    "options": [
+      { "text": "$3(x-3)(x+3)$", "correct": true },
+      { "text": "$3(x^2 - 9)$", "correct": false },
+      { "text": "$(3x - 9)(x + 3)$", "correct": false },
+      { "text": "$3(x-3)^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Primero extrae el factor común (3) y luego factoriza la diferencia de cuadrados resultante.",
+    "explanation": "$3x^2 - 27 = 3(x^2 - 9)$. Luego, $x^2 - 9$ es una diferencia de cuadrados $(x-3)(x+3)$. Resultado: $3(x-3)(x+3)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00an",
+    "question": "Desarrolla el producto $(2x + 1)(x - 4)$.",
+    "image": null,
+    "options": [
+      { "text": "$2x^2 - 7x - 4$", "correct": true },
+      { "text": "$2x^2 - 8x - 4$", "correct": false },
+      { "text": "$2x^2 + 7x - 4$", "correct": false },
+      { "text": "$2x^2 - 3x - 4$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica cada término del primer paréntesis por cada término del segundo: F.O.I.L.",
+    "explanation": "$2x(x) = 2x^2$, $2x(-4) = -8x$, $1(x) = x$, $1(-4) = -4$. Sumando: $2x^2 - 8x + x - 4 = 2x^2 - 7x - 4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ao",
+    "question": "¿Cuál es el resultado de $(a^3)^2$?",
+    "image": null,
+    "options": [
+      { "text": "$a^6$", "correct": true },
+      { "text": "$a^5$", "correct": false },
+      { "text": "$a^9$", "correct": false },
+      { "text": "$2a^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Potencia de una potencia: se multiplican los exponentes.",
+    "explanation": "$(a^m)^n = a^{m \\cdot n}$. Por lo tanto, $3 \\cdot 2 = 6$. Resultado $a^6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ap",
+    "question": "Simplifica la fracción algebraica: $\\frac{x^2 - 4}{x + 2}$",
+    "image": null,
+    "options": [
+      { "text": "$x - 2$", "correct": true },
+      { "text": "$x + 2$", "correct": false },
+      { "text": "$x - 4$", "correct": false },
+      { "text": "$x^2 - 2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Factoriza el numerador como una diferencia de cuadrados.",
+    "explanation": "$x^2 - 4 = (x-2)(x+2)$. Al dividir entre $(x+2)$, se cancelan los términos iguales, dejando $x - 2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00aq",
+    "question": "Calcula el área de un rectángulo con base $(x + 5)$ y altura $(x - 5)$.",
+    "image": null,
+    "options": [
+      { "text": "$x^2 - 25$", "correct": true },
+      { "text": "$x^2 + 25$", "correct": false },
+      { "text": "$x^2 - 10x + 25$", "correct": false },
+      { "text": "$2x$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Área = base $\\times$ altura. Identifica el producto notable.",
+    "explanation": "Es el producto de binomios conjugados: $(x+5)(x-5) = x^2 - 25$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ar",
+    "question": "Factoriza: $x^2 - 14x + 49$",
+    "image": null,
+    "options": [
+      { "text": "$(x - 7)^2$", "correct": true },
+      { "text": "$(x + 7)^2$", "correct": false },
+      { "text": "$(x - 7)(x + 7)$", "correct": false },
+      { "text": "$(x - 49)(x - 1)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Observa si el primer y último término tienen raíz cuadrada exacta y si el término central es el doble producto.",
+    "explanation": "$\\sqrt{x^2}=x$, $\\sqrt{49}=7$. El doble producto $2(x)(7) = 14x$, que coincide con el término central. Es un Trinomio Cuadrado Perfecto: $(x-7)^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00as",
+    "question": "Despeja $x$ en la ecuación lineal simple: $3x - 9 = 0$",
+    "image": null,
+    "options": [
+      { "text": "$3$", "correct": true },
+      { "text": "$-3$", "correct": false },
+      { "text": "$9$", "correct": false },
+      { "text": "$0$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Suma 9 a ambos lados y luego divide por 3.",
+    "explanation": "$3x = 9 \\rightarrow x = 9/3 \\rightarrow x = 3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00at",
+    "question": "¿Cuáles de las siguientes expresiones son polinomios?\n* $3x^2 + 2x - 1$\n* $\\sqrt{x} + 2$\n* $x^{-1} + 5$\n* $5x^3 - x$",
+    "image": null,
+    "options": [
+      { "text": "$3x^2 + 2x - 1$ y $5x^3 - x$", "correct": true },
+      { "text": "$\\sqrt{x} + 2$ y $x^{-1} + 5$", "correct": false },
+      { "text": "Todas son polinomios", "correct": false },
+      { "text": "Ninguna es polinomio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un polinomio no puede tener variables dentro de raíces ni exponentes negativos.",
+    "explanation": "Las expresiones con raíces de variables o exponentes negativos no son polinomios en sentido estricto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00au",
+    "question": "Al factorizar $x^2 + bx + c$, buscamos dos números que multiplicados den ______ y sumados den ______.",
+    "image": null,
+    "options": [
+      { "text": "c, b", "correct": true },
+      { "text": "b, c", "correct": false },
+      { "text": "x, c", "correct": false },
+      { "text": "c, x", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la regla básica para factorizar trinomios de la forma $x^2+bx+c$.",
+    "explanation": "El término independiente (c) es el producto, y el coeficiente lineal (b) es la suma de los dos números.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00av",
+    "question": "La expresión $a^0$ es igual a ______ siempre que a sea diferente de ______.",
+    "image": null,
+    "options": [
+      { "text": "1, cero", "correct": true },
+      { "text": "0, uno", "correct": false },
+      { "text": "a, cero", "correct": false },
+      { "text": "1, uno", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cualquier número (salvo 0) elevado a la potencia 0 es la unidad.",
+    "explanation": "Por definición de exponentes, $a^0 = 1$ si $a \\neq 0$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00aw",
+    "question": "El grado de un polinomio está determinado por el ______ exponente de la variable en sus términos.",
+    "image": null,
+    "options": [
+      { "text": "mayor", "correct": true },
+      { "text": "menor", "correct": false },
+      { "text": "primer", "correct": false },
+      { "text": "último", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ejemplo: En $x^3 + x^5 + 2$, el grado es 5.",
+    "explanation": "El grado absoluto de un polinomio corresponde al mayor exponente al que se encuentra elevada la variable.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ax",
+    "question": "Relaciona la expresión verbal con su forma algebraica:\nA) El doble de un número más su cuadrado\nB) El cuadrado de la suma de dos números\nC) La suma de los cuadrados de dos números\n\nI) $(x+y)^2$\nII) $x^2 + y^2$\nIII) $2x + x^2$",
+    "image": null,
+    "options": [
+      { "text": "A-III, B-I, C-II", "correct": true },
+      { "text": "A-II, B-I, C-III", "correct": false },
+      { "text": "A-III, B-II, C-I", "correct": false },
+      { "text": "A-I, B-III, C-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Lee cuidadosamente el orden de las operaciones. 'El cuadrado de la suma' implica paréntesis.",
+    "explanation": "A describe $2x$ más $x^2$. B describe una suma dentro de un cuadrado $(x+y)^2$. C describe cuadrados individuales sumados $x^2+y^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ay",
+    "question": "Factoriza el siguiente trinomio cuadrado: $3x^2 - 6x - 24$",
+    "image": null,
+    "options": [
+      { "text": "$3(x-4)(x+2)$", "correct": true },
+      { "text": "$3(x+4)(x-2)$", "correct": false },
+      { "text": "$(3x-12)(x+2)$", "correct": false },
+      { "text": "$3(x-8)(x+3)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Primero saca el factor común 3.",
+    "explanation": "Factor común: $3(x^2 - 2x - 8)$. Luego factorizamos el trinomio: buscamos números que multipliquen -8 y sumen -2. Son -4 y 2. Resultado: $3(x-4)(x+2)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00az",
+    "question": "¿Cuál es el resultado de simplificar $-4x^2 + 8x - 4$?",
+    "image": null,
+    "options": [
+      { "text": "$-4(x-1)^2$", "correct": true },
+      { "text": "$4(x-1)^2$", "correct": false },
+      { "text": "$-4(x+1)^2$", "correct": false },
+      { "text": "$-2(2x-2)^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Factoriza el -4 primero.",
+    "explanation": "$-4x^2 + 8x - 4 = -4(x^2 - 2x + 1)$. El trinomio resultante es un TCP: $(x-1)^2$. Resultado final: $-4(x-1)^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ba",
+    "question": "Simplifica $d^{16} - 16$.",
+    "image": null,
+    "options": [
+      { "text": "$(d^8 - 4)(d^8 + 4)$", "correct": true },
+      { "text": "$(d^4 - 4)(d^4 + 4)$", "correct": false },
+      { "text": "$(d^8 - 8)(d^8 + 8)$", "correct": false },
+      { "text": "$(d^{16} - 4)(d^{16} + 4)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una diferencia de cuadrados. La raíz cuadrada de $d^{16}$ es $d^8$.",
+    "explanation": "Aplicando $a^2 - b^2 = (a-b)(a+b)$, donde $a=d^8$ y $b=4$. Se obtiene $(d^8 - 4)(d^8 + 4)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bb",
+    "question": "Factoriza la expresión $7x^2 + 15x + 2$.",
+    "image": null,
+    "options": [
+      { "text": "$(7x+1)(x+2)$", "correct": true },
+      { "text": "$(7x+2)(x+1)$", "correct": false },
+      { "text": "$(7x-1)(x-2)$", "correct": false },
+      { "text": "$7(x+1)(x+2)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa el método de aspa o busca dos números que multiplicados den $7 \\cdot 2 = 14$ y sumados den 15.",
+    "explanation": "Buscamos números que sumen 15 y multipliquen 14: son 14 y 1. Reescribimos: $7x^2 + 14x + x + 2$. Agrupamos: $7x(x+2) + 1(x+2)$. Factor común: $(7x+1)(x+2)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bc",
+    "question": "Desarrolla el cubo del binomio $(x+2)^3$.",
+    "image": null,
+    "options": [
+      { "text": "$x^3 + 6x^2 + 12x + 8$", "correct": true },
+      { "text": "$x^3 + 8$", "correct": false },
+      { "text": "$x^3 + 6x^2 + 6x + 8$", "correct": false },
+      { "text": "$x^3 + 2x^2 + 4x + 8$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Fórmula: $a^3 + 3a^2b + 3ab^2 + b^3$.",
+    "explanation": "$x^3 + 3(x^2)(2) + 3(x)(2^2) + 2^3 = x^3 + 6x^2 + 12x + 8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bd",
+    "question": "Simplifica: $\\sqrt{25x^4y^6}$.",
+    "image": null,
+    "options": [
+      { "text": "$5x^2y^3$", "correct": true },
+      { "text": "$5x^2y^6$", "correct": false },
+      { "text": "$25x^2y^3$", "correct": false },
+      { "text": "$5x^4y^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Saca la raíz cuadrada del coeficiente y divide los exponentes de las variables entre 2.",
+    "explanation": "$\\sqrt{25}=5$. Exponentes: $4/2 = 2$ y $6/2 = 3$. Resultado: $5x^2y^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00be",
+    "question": "Encuentra el valor numérico de $2x^2 - y$ si $x=3$ y $y=-2$.",
+    "image": null,
+    "options": [
+      { "text": "20", "correct": true },
+      { "text": "16", "correct": false },
+      { "text": "10", "correct": false },
+      { "text": "14", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sustituye los valores con cuidado en los signos.",
+    "explanation": "$2(3)^2 - (-2) = 2(9) + 2 = 18 + 2 = 20$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bf",
+    "question": "Indica cuáles de los siguientes binomios son una diferencia de cuadrados:\n* $x^2 - 9$\n* $x^2 + 4$\n* $4x^2 - 16$\n* $a^2 - b$",
+    "image": null,
+    "options": [
+      { "text": "$x^2 - 9$ y $4x^2 - 16$", "correct": true },
+      { "text": "$x^2 - 9$ y $a^2 - b$", "correct": false },
+      { "text": "Todos", "correct": false },
+      { "text": "$x^2 + 4$ y $x^2 - 9$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Debe haber una resta y ambos términos deben tener raíz cuadrada exacta.",
+    "explanation": "$x^2+4$ es una suma, no diferencia. $a^2-b$ no tiene $b$ al cuadrado (a menos que se usen raíces, pero en polinomios básicos no es estándar). $x^2-9$ y $4x^2-16$ cumplen.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bg",
+    "question": "Para racionalizar el denominador de $\\frac{1}{\\sqrt{x}+1}$, debemos multiplicar numerador y denominador por su ______.",
+    "image": null,
+    "options": [
+      { "text": "conjugado", "correct": true },
+      { "text": "inverso", "correct": false },
+      { "text": "cuadrado", "correct": false },
+      { "text": "opuesto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El objetivo es crear una diferencia de cuadrados en el denominador.",
+    "explanation": "El conjugado de $\\sqrt{x}+1$ es $\\sqrt{x}-1$. Al multiplicar, se eliminan las raíces del denominador.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bh",
+    "question": "En la división de polinomios, si el residuo es ______, entonces el divisor es un factor del polinomio original.",
+    "image": null,
+    "options": [
+      { "text": "cero", "correct": true },
+      { "text": "uno", "correct": false },
+      { "text": "negativo", "correct": false },
+      { "text": "igual al cociente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Teorema del factor.",
+    "explanation": "Si la división es exacta (residuo 0), significa que la expresión divide perfectamente al polinomio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bi",
+    "question": "Una ecuación ______ es aquella en la que el mayor exponente de la incógnita es 1.",
+    "image": null,
+    "options": [
+      { "text": "lineal", "correct": true },
+      { "text": "cuadrática", "correct": false },
+      { "text": "cúbica", "correct": false },
+      { "text": "radical", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Gráficamente representa una línea recta.",
+    "explanation": "Las ecuaciones de primer grado se llaman lineales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bj",
+    "question": "Relaciona la operación con su nombre:\nA) $\\frac{a}{b} + \\frac{c}{d} = \\frac{ad+bc}{bd}$\nB) $\\frac{a}{b} \\cdot \\frac{c}{d} = \\frac{ac}{bd}$\nC) $\\frac{a}{b} \\div \\frac{c}{d} = \\frac{ad}{bc}$\n\nI) Multiplicación de fracciones\nII) División de fracciones\nIII) Suma de fracciones",
+    "image": null,
+    "options": [
+      { "text": "A-III, B-I, C-II", "correct": true },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false },
+      { "text": "A-III, B-II, C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La multiplicación es directa, la suma usa denominador común.",
+    "explanation": "A muestra la suma con el método de carita feliz/mínimo común. B muestra multiplicación directa. C muestra división (multiplicación cruzada).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bk",
+    "question": "Factoriza: $2x^2 + 7x + 3$.",
+    "image": null,
+    "options": [
+      { "text": "$(2x+1)(x+3)$", "correct": true },
+      { "text": "$(2x+3)(x+1)$", "correct": false },
+      { "text": "$(x+1)(x+3)$", "correct": false },
+      { "text": "$(2x+7)(x+3)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Método $ax^2+bx+c$. Busca factores de $2x^2$ (2x y x) y de 3 (3 y 1) que sumen 7x.",
+    "explanation": "Probamos $(2x+1)(x+3)$. Término medio: $2x(3) + 1(x) = 6x + x = 7x$. Es correcto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bl",
+    "question": "Simplifica la expresión racional: $\\frac{x^2 - 2x - 15}{x^2 - 9}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{x-5}{x-3}$", "correct": true },
+      { "text": "$\\frac{x+5}{x+3}$", "correct": false },
+      { "text": "$\\frac{x-5}{x+3}$", "correct": false },
+      { "text": "$x-5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Factoriza numerador (trinomio) y denominador (diferencia de cuadrados).",
+    "explanation": "Numerador: $(x-5)(x+3)$. Denominador: $(x-3)(x+3)$. Se cancela $(x+3)$. Resultado: $\\frac{x-5}{x-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bm",
+    "question": "Desarrolla $(2a - 3b)^3$.",
+    "image": null,
+    "options": [
+      { "text": "$8a^3 - 36a^2b + 54ab^2 - 27b^3$", "correct": true },
+      { "text": "$8a^3 - 27b^3$", "correct": false },
+      { "text": "$8a^3 + 36a^2b + 54ab^2 + 27b^3$", "correct": false },
+      { "text": "$2a^3 - 3b^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sigue el patrón de signos alternados para el cubo de una diferencia: $+ - + -$.",
+    "explanation": "$(2a)^3 - 3(2a)^2(3b) + 3(2a)(3b)^2 - (3b)^3 = 8a^3 - 36a^2b + 54ab^2 - 27b^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bn",
+    "question": "Factoriza la suma de cubos: $x^3 + 8$.",
+    "image": null,
+    "options": [
+      { "text": "$(x+2)(x^2-2x+4)$", "correct": true },
+      { "text": "$(x+2)(x^2+2x+4)$", "correct": false },
+      { "text": "$(x-2)(x^2+2x+4)$", "correct": false },
+      { "text": "$(x+2)^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Fórmula: $a^3+b^3 = (a+b)(a^2-ab+b^2)$.",
+    "explanation": "Aquí $a=x, b=2$. El binomio es $(x+2)$. El trinomio es cuadrado del primero, menos producto, más cuadrado del segundo: $(x^2 - 2x + 4)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bo",
+    "question": "Identifica la factorización de $b + c - 2\\sqrt{bc}$.",
+    "image": null,
+    "options": [
+      { "text": "$(\\sqrt{b} - \\sqrt{c})^2$", "correct": true },
+      { "text": "$(\\sqrt{b} + \\sqrt{c})^2$", "correct": false },
+      { "text": "$(\\sqrt{b} - c)^2$", "correct": false },
+      { "text": "$(b - c)^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Considera a $b$ como $(\\sqrt{b})^2$ y a $c$ como $(\\sqrt{c})^2$.",
+    "explanation": "La expresión se puede reescribir como $(\\sqrt{b})^2 - 2\\sqrt{b}\\sqrt{c} + (\\sqrt{c})^2$, que es un Trinomio Cuadrado Perfecto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bp",
+    "question": "Factoriza por agrupación: $ax + ay + bx + by$.",
+    "image": null,
+    "options": [
+      { "text": "$(a+b)(x+y)$", "correct": true },
+      { "text": "$(a+x)(b+y)$", "correct": false },
+      { "text": "$a(x+y) + b$", "correct": false },
+      { "text": "$(a-b)(x-y)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Agrupa los dos primeros términos y los dos últimos, luego saca el nuevo factor común.",
+    "explanation": "$a(x+y) + b(x+y)$. El factor común es $(x+y)$, resultando en $(a+b)(x+y)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bq",
+    "question": "Encuentra el valor de $k$ para que $x^2 + kx + 16$ sea un Trinomio Cuadrado Perfecto.",
+    "image": null,
+    "options": [
+      { "text": "$8$ o $-8$", "correct": true },
+      { "text": "$4$", "correct": false },
+      { "text": "$16$", "correct": false },
+      { "text": "$2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El término central debe ser $2 \\cdot \\sqrt{primer} \\cdot \\sqrt{tercer}$.",
+    "explanation": "$\\sqrt{x^2}=x$, $\\sqrt{16}=4$. El doble producto es $2(x)(4)=8x$. También puede ser negativo $(-8x)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00br",
+    "question": "Selecciona las ecuaciones que son identidades algebraicas (verdaderas para cualquier valor):\n* $(x+y)^2 = x^2+y^2$\n* $\\sqrt{x^2+y^2} = x+y$\n* $(x+1)(x-1) = x^2-1$\n* $\\frac{a+b}{a} = 1 + \\frac{b}{a}$",
+    "image": null,
+    "options": [
+      { "text": "$(x+1)(x-1) = x^2-1$ y $\\frac{a+b}{a} = 1 + \\frac{b}{a}$", "correct": true },
+      { "text": "Todas", "correct": false },
+      { "text": "$(x+y)^2 = x^2+y^2$ y $\\sqrt{x^2+y^2} = x+y$", "correct": false },
+      { "text": "Ninguna", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Verifica expandiendo o simplificando. El cuadrado de una suma NO es la suma de cuadrados.",
+    "explanation": "Las dos primeras son errores comunes. La tercera es diferencia de cuadrados. La cuarta es separación de fracciones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bs",
+    "question": "Para completar el cuadrado en $x^2 + 6x$, se debe sumar el número ______.",
+    "image": null,
+    "options": [
+      { "text": "9", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "36", "correct": false },
+      { "text": "3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Se suma el cuadrado de la mitad del coeficiente lineal: $(b/2)^2$.",
+    "explanation": "Coeficiente lineal es 6. La mitad es 3. El cuadrado es $3^2=9$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bt",
+    "question": "Al simplificar fracciones complejas, es útil multiplicar el numerador y el denominador principal por el ______ de todas las fracciones internas.",
+    "image": null,
+    "options": [
+      { "text": "mínimo común múltiplo", "correct": true },
+      { "text": "máximo común divisor", "correct": false },
+      { "text": "producto", "correct": false },
+      { "text": "cociente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esto elimina los denominadores menores en un solo paso.",
+    "explanation": "Multiplicar por el MCM limpia la fracción compleja convirtiéndola en una simple.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bu",
+    "question": "La expresión $x^{-n}$ es equivalente a ______.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{1}{x^n}$", "correct": true },
+      { "text": "$-x^n$", "correct": false },
+      { "text": "$x^{1/n}$", "correct": false },
+      { "text": "$\\frac{1}{x^{-n}}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un exponente negativo indica recíproco.",
+    "explanation": "Por definición de exponentes negativos, $x^{-n} = 1/x^n$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bv",
+    "question": "Relaciona el método de factorización más apropiado para cada polinomio:\nA) $x^2 - 16$\nB) $x^2 + 5x + 6$\nC) $x^3 + 27$\n\nI) Suma de cubos\nII) Diferencia de cuadrados\nIII) Trinomio de la forma $x^2+bx+c$",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-III, C-I", "correct": true },
+      { "text": "A-III, B-II, C-I", "correct": false },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-II, B-I, C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cuenta los términos y observa los exponentes.",
+    "explanation": "A es binomio resta de cuadrados. B es trinomio. C es binomio suma de cubos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bw",
+    "question": "Simplifica la expresión: $\\frac{a+b+2\\sqrt{ab}}{a-b} \\times (a+b-2\\sqrt{ab})$",
+    "image": null,
+    "options": [
+      { "text": "$a - b$", "correct": true },
+      { "text": "$a + b$", "correct": false },
+      { "text": "$a^2 - b^2$", "correct": false },
+      { "text": "$1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Reconoce que $a+b+2\\sqrt{ab} = (\\sqrt{a}+\\sqrt{b})^2$ y el segundo factor es $(\\sqrt{a}-\\sqrt{b})^2$.",
+    "explanation": "La expresión es $\\frac{(\\sqrt{a}+\\sqrt{b})^2}{(\\sqrt{a}-\\sqrt{b})(\\sqrt{a}+\\sqrt{b})} \\times (\\sqrt{a}-\\sqrt{b})^2$. Simplificando: $\\frac{\\sqrt{a}+\\sqrt{b}}{\\sqrt{a}-\\sqrt{b}} \\times (\\sqrt{a}-\\sqrt{b})^2 = (\\sqrt{a}+\\sqrt{b})(\\sqrt{a}-\\sqrt{b}) = a-b$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bx",
+    "question": "Factoriza totalmente: $x^4 - 16$.",
+    "image": null,
+    "options": [
+      { "text": "$(x-2)(x+2)(x^2+4)$", "correct": true },
+      { "text": "$(x^2-4)(x^2+4)$", "correct": false },
+      { "text": "$(x-2)^2(x+2)^2$", "correct": false },
+      { "text": "$(x-2)(x+2)(x-2)(x+2)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Aplica diferencia de cuadrados dos veces.",
+    "explanation": "Primero: $(x^2-4)(x^2+4)$. Segundo: $(x^2-4)$ se factoriza en $(x-2)(x+2)$. $x^2+4$ no se factoriza en reales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00by",
+    "question": "Resuelve para x: $\\frac{1}{x} + \\frac{1}{x-1} = \\frac{3}{x^2-x}$",
+    "image": null,
+    "options": [
+      { "text": "$x = 2$", "correct": true },
+      { "text": "$x = 3$", "correct": false },
+      { "text": "$x = 1$", "correct": false },
+      { "text": "No tiene solución", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Multiplica toda la ecuación por el MCM: $x(x-1)$.",
+    "explanation": "Multiplicando: $(x-1) + x = 3$. $2x - 1 = 3$. $2x = 4$. $x = 2$. Verificamos que no haga 0 el denominador. Es válida.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00bz",
+    "question": "Simplifica: $\\frac{x^3 - 1}{x^2 - 1}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{x^2+x+1}{x+1}$", "correct": true },
+      { "text": "$\\frac{x^2-x+1}{x+1}$", "correct": false },
+      { "text": "$x^2+1$", "correct": false },
+      { "text": "$\\frac{x-1}{x+1}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Factoriza la diferencia de cubos en el numerador y diferencia de cuadrados en el denominador.",
+    "explanation": "Numerador: $(x-1)(x^2+x+1)$. Denominador: $(x-1)(x+1)$. Cancela $(x-1)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ca",
+    "question": "Si $a+b=5$ y $ab=6$, calcula $a^2+b^2$ sin encontrar $a$ y $b$.",
+    "image": null,
+    "options": [
+      { "text": "13", "correct": true },
+      { "text": "25", "correct": false },
+      { "text": "19", "correct": false },
+      { "text": "11", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Usa $(a+b)^2 = a^2+2ab+b^2$.",
+    "explanation": "$5^2 = a^2 + 2(6) + b^2$. $25 = a^2 + 12 + b^2$. $25 - 12 = a^2 + b^2$. Resultado: 13.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00cb",
+    "question": "Racionaliza el denominador: $\\frac{1}{\\sqrt[3]{x} - 1}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{\\sqrt[3]{x^2} + \\sqrt[3]{x} + 1}{x-1}$", "correct": true },
+      { "text": "$\\frac{\\sqrt[3]{x} + 1}{x-1}$", "correct": false },
+      { "text": "$\\frac{\\sqrt[3]{x^2} - 1}{x-1}$", "correct": false },
+      { "text": "$\\sqrt[3]{x} + 1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Usa la identidad de diferencia de cubos para eliminar la raíz cúbica: $(a-b)(a^2+ab+b^2) = a^3-b^3$.",
+    "explanation": "Multiplicamos por el trinomio complementario: $\\sqrt[3]{x^2} + \\sqrt[3]{x} + 1$. El denominador se convierte en $(\\sqrt[3]{x})^3 - 1^3 = x-1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00cc",
+    "question": "Simplifica la expresión con exponentes fraccionarios: $\\left(\\frac{8x^3}{27y^6}\\right)^{-2/3}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{9y^4}{4x^2}$", "correct": true },
+      { "text": "$\\frac{4x^2}{9y^4}$", "correct": false },
+      { "text": "$\\frac{2x}{3y^2}$", "correct": false },
+      { "text": "$-\\frac{4x^2}{9y^4}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Primero invierte la fracción por el signo negativo, luego aplica la raíz cúbica y finalmente eleva al cuadrado.",
+    "explanation": "Invertir: $(27y^6 / 8x^3)^{2/3}$. Raíz cúbica: $(3y^2 / 2x)^2$. Cuadrado: $9y^4 / 4x^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00cd",
+    "question": "Selecciona las operaciones válidas para simplificar la fracción algebraica compleja $\\frac{1 - \\frac{1}{x}}{1 + \\frac{1}{x}}$:\n* Multiplicar numerador y denominador por $x$\n* Restar 1 al numerador y sumar 1 al denominador\n* Convertir a $\\frac{x-1}{x} \\div \\frac{x+1}{x}$\n* Cancelar los unos",
+    "image": null,
+    "options": [
+      { "text": "Multiplicar por $x$ y Convertir a división", "correct": true },
+      { "text": "Restar/Sumar 1 y Cancelar unos", "correct": false },
+      { "text": "Solo cancelar los unos", "correct": false },
+      { "text": "Ninguna de las anteriores", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Recuerda que no puedes cancelar términos sumados, solo factores.",
+    "explanation": "Multiplicar por $x$ es el método más rápido ($x-1)/(x+1)$. Convertir a división de fracciones comunes también es válido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ce",
+    "question": "Para dividir polinomios usando la Regla de Ruffini, el divisor debe ser necesariamente de la forma ______.",
+    "image": null,
+    "options": [
+      { "text": "$x - a$ o $x + a$", "correct": true },
+      { "text": "$ax^2 + bx + c$", "correct": false },
+      { "text": "$x^n$", "correct": false },
+      { "text": "Cualquier polinomio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ruffini es una simplificación de la división sintética para divisores lineales.",
+    "explanation": "La Regla de Ruffini solo aplica cuando el divisor es un binomio de primer grado de la forma $x \\pm a$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00cf",
+    "question": "El discriminante de una ecuación cuadrática $ax^2+bx+c=0$ está dado por la fórmula ______.",
+    "image": null,
+    "options": [
+      { "text": "$b^2 - 4ac$", "correct": true },
+      { "text": "$\\sqrt{b^2 - 4ac}$", "correct": false },
+      { "text": "$2a$", "correct": false },
+      { "text": "$-b$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Es la parte dentro de la raíz cuadrada en la fórmula general.",
+    "explanation": "El discriminante determina la naturaleza de las raíces (reales, iguales o imaginarias).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00cg",
+    "question": "Simplifica la expresión: $\\sqrt{x^2 - 10x + 25}$ asumiendo $x > 5$.",
+    "image": null,
+    "options": [
+      { "text": "$x - 5$", "correct": true },
+      { "text": "$x + 5$", "correct": false },
+      { "text": "$x - 25$", "correct": false },
+      { "text": "$\\pm(x - 5)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Factoriza el radicando primero.",
+    "explanation": "El radicando es $(x-5)^2$. La raíz cuadrada de un cuadrado es el valor absoluto, pero como $x>5$, es positivo: $x-5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "ALG00ch",
+    "question": "Relaciona el caso de factorización con su ejemplo complejo:\nA) $x^4 + x^2 + 1$\nB) $x^6 - 1$\nC) $a^2 + 2ab + b^2 - c^2$\n\nI) Diferencia de cuadrados (agrupación)\nII) Diferencia de cuadrados y Suma/Resta de cubos combinadas\nIII) Trinomio cuadrado incompleto (sumar y restar)",
+    "image": null,
+    "options": [
+      { "text": "A-III, B-II, C-I", "correct": true },
+      { "text": "A-I, B-III, C-II", "correct": false },
+      { "text": "A-II, B-I, C-III", "correct": false },
+      { "text": "A-III, B-I, C-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "A requiere completar cuadrados. B es potencia sexta (cuadrado de cubo o cubo de cuadrado). C es $(a+b)^2 - c^2$.",
+    "explanation": "A es un caso especial donde se suma y resta $x^2$. B se factoriza totalmente usando ambas reglas. C es un TCP menos un cuadrado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
