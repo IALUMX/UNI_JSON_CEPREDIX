@@ -1,0 +1,427 @@
+[
+  {
+    "id": "CDS00aa",
+    "question": "Un estudiante del CEPREDIX presenta dolor de garganta, malestar general y fiebre leve. Estos síntomas aparecieron dos días después de que su compañero de salón fuera diagnosticado con influenza. ¿En qué fase del período patogénico se encuentra el estudiante?",
+    "image": null,
+    "options": [
+      { "text": "Horizonte clínico", "correct": true },
+      { "text": "Convalecencia", "correct": false },
+      { "text": "Incubación", "correct": false },
+      { "text": "Periodo prodrómico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la etapa donde comienzan a manifestarse los primeros síntomas de la enfermedad.",
+    "explanation": "El horizonte clínico es la fase en la que el agente patógeno ha interactuado con el huésped y se manifiestan los primeros signos y síntomas específicos de la enfermedad, como el dolor de garganta y la fiebre.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ab",
+    "question": "Según la tríada ecológica, ¿a qué factor pertenecen las características sociales y económicas que facilitan la propagación de una enfermedad en una comunidad?",
+    "image": null,
+    "options": [
+      { "text": "Medio ambiente", "correct": true },
+      { "text": "Huésped", "correct": false },
+      { "text": "Agente causal", "correct": false },
+      { "text": "Vector", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Este factor engloba todo el entorno que rodea al huésped y al agente.",
+    "explanation": "El medio ambiente en la tríada ecológica incluye no solo factores físicos y biológicos, sino también las condiciones sociales, económicas y culturales que influyen en la presencia y transmisión de enfermedades.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ac",
+    "question": "Completa el siguiente enunciado sobre terminología médica: El término ______ se refiere al dolor de cabeza, mientras que ______ se refiere al dolor en las articulaciones.",
+    "image": null,
+    "options": [
+      { "text": "cefalalgia, artralgia", "correct": true },
+      { "text": "neuralgia, mialgia", "correct": false },
+      { "text": "cervicalgia, artritis", "correct": false },
+      { "text": "odinofagia, osteoporosis", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los sufijos '-algia' indican dolor. 'Cefal-' se relaciona con la cabeza.",
+    "explanation": "Cefalalgia (de 'cefal-' cabeza y '-algia' dolor) es el término técnico para dolor de cabeza. Artralgia (de 'artr-' articulación y '-algia' dolor) se refiere al dolor articular.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ad",
+    "question": "Relaciona correctamente los órganos del sistema endocrino con la hormona que secretan: A) Páncreas, B) Tiroides, C) Glándulas suprarrenales; I) Insulina, II) Tiroxina, III) Adrenalina",
+    "image": null,
+    "options": [
+      { "text": "A-I; B-II; C-III", "correct": true },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La insulina regula la glucosa, la tiroxina el metabolismo y la adrenalina la respuesta al estrés.",
+    "explanation": "El páncreas secreta insulina, la glándula tiroides secreta tiroxina (T4) y las glándulas suprarrenales secretan adrenalina (epinefrina) como parte de la respuesta de 'lucha o huida'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ae",
+    "question": "La capacidad de los virus, como el de la influenza o el SARS-CoV-2, de cambiar su material genético y evadir la respuesta inmune previa se conoce como:",
+    "image": null,
+    "options": [
+      { "text": "Mutación", "correct": true },
+      { "text": "Patogenicidad", "correct": false },
+      { "text": "Virulencia", "correct": false },
+      { "text": "Inmunogenicidad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es un cambio en la secuencia de ADN o ARN.",
+    "explanation": "La mutación es una alteración en la secuencia genética de un organismo. En los virus, estas mutaciones pueden dar lugar a nuevas variantes con diferentes propiedades, como una mayor transmisibilidad o la capacidad de evadir anticuerpos generados contra versiones anteriores del virus.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00af",
+    "question": "De las siguientes opciones, ¿cuáles son funciones principales del sistema tegumentario? 1) Termorregulación 2) Producción de gametos 3) Protección contra patógenos 4) Digestión de lípidos 5) Excreción de desechos",
+    "image": null,
+    "options": [
+      { "text": "1, 3 y 5", "correct": true },
+      { "text": "2, 3 y 4", "correct": false },
+      { "text": "1, 2 y 5", "correct": false },
+      { "text": "3, 4 y 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Considera las funciones de la piel y sus anexos (glándulas sudoríparas, sebáceas).",
+    "explanation": "El sistema tegumentario (la piel) regula la temperatura corporal (termorregulación) a través del sudor y el flujo sanguíneo, actúa como barrera física contra microorganismos (protección) y permite la excreción de agua, electrolitos y pequeñas cantidades de urea a través del sudor (excreción).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ag",
+    "question": "Un paciente del CEPREDIX es diagnosticado con anemia y se le indica que debe aumentar su consumo de hierro. ¿Qué órgano, además del intestino delgado, es crucial para el metabolismo y almacenamiento de este mineral?",
+    "image": null,
+    "options": [
+      { "text": "Hígado", "correct": true },
+      { "text": "Páncreas", "correct": false },
+      { "text": "Bazo", "correct": false },
+      { "text": "Riñón", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Este órgano almacena hierro en forma de ferritina.",
+    "explanation": "El hígado es el principal sitio de almacenamiento de hierro en el cuerpo, donde se guarda en forma de ferritina. También sintetiza proteínas importantes para el transporte de hierro en la sangre, como la transferrina.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ah",
+    "question": "Una campaña de salud que promueve la aplicación de la vacuna contra el Virus del Papiloma Humano (VPH) en adolescentes es un ejemplo de:",
+    "image": null,
+    "options": [
+      { "text": "Prevención primaria", "correct": true },
+      { "text": "Prevención secundaria", "correct": false },
+      { "text": "Prevención terciaria", "correct": false },
+      { "text": "Rehabilitación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca evitar la enfermedad antes de que ocurra.",
+    "explanation": "La prevención primaria tiene como objetivo evitar la aparición de una enfermedad. La vacunación es su máximo exponente, ya que prepara al sistema inmune para combatir una infección específica antes de que la persona se exponga al patógeno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ai",
+    "question": "Un joven sufre una quemadura de segundo grado con ampollas tras una larga exposición al sol sin protección. El agente causal de esta lesión se clasifica como:",
+    "image": null,
+    "options": [
+      { "text": "Físico", "correct": true },
+      { "text": "Químico", "correct": false },
+      { "text": "Biológico", "correct": false },
+      { "text": "Mecánico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La radiación ultravioleta es una forma de energía.",
+    "explanation": "Los agentes físicos causan enfermedad o lesión a través de mecanismos energéticos como la temperatura (quemaduras por calor o frío), la radiación (solar, radiactiva), la electricidad o el ruido.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00aj",
+    "question": "¿Qué glóbulos blancos son los primeros en llegar al sitio de una infección bacteriana y combaten principalmente mediante fagocitosis y liberación de enzimas desde sus gránulos?",
+    "image": null,
+    "options": [
+      { "text": "Neutrófilos", "correct": true },
+      { "text": "Linfocitos", "correct": false },
+      { "text": "Monocitos", "correct": false },
+      { "text": "Eosinófilos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Son un tipo de granulocito y son los más abundantes.",
+    "explanation": "Los neutrófilos son granulocitos que constituyen la primera línea de defensa celular contra las infecciones bacterianas. Su principal mecanismo de acción es la fagocitosis (ingestión) de bacterias, ayudada por enzimas y sustancias bactericidas contenidas en sus gránulos citoplasmáticos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ak",
+    "question": "Completa la frase sobre el sistema reproductor femenino: La fecundación del óvulo por el espermatozoide ocurre en la ______, mientras que la implantación del blastocisto y el desarrollo fetal ocurren en el ______.",
+    "image": null,
+    "options": [
+      { "text": "tuba uterina, útero", "correct": true },
+      { "text": "vagina, ovario", "correct": false },
+      { "text": "útero, cervix", "correct": false },
+      { "text": "ovario, placenta", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El óvulo es liberado del ovario y viaja por un conducto.",
+    "explanation": "Tras la ovulación, el óvulo es captado por la fimbria de la tuba uterina (trompa de Falopio), donde normalmente ocurre la fecundación. El cigoto resultante viaja hacia el útero, donde se implanta en el endometrio y se desarrolla durante la gestación.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00al",
+    "question": "Relaciona las siguientes medidas de promoción de la salud con su nivel de prevención correspondiente: A) Fluoración del agua, B) Mamografía anual después de los 40 años, C) Fisioterapia posterior a un accidente cerebrovascular; I) Primaria, II) Secundaria, III) Terciaria.",
+    "image": null,
+    "options": [
+      { "text": "A-I; B-II; C-III", "correct": true },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La fluoración evita caries (antes), la mamografía detecta cáncer temprano (durante), la fisioterapia ayuda después del daño (después).",
+    "explanation": "A) Fluoración del agua: Prevención Primaria (evita la aparición de caries). B) Mamografía: Prevención Secundaria (diagnóstico temprano del cáncer de mama). C) Fisioterapia post-ACV: Prevención Terciaria (rehabilitación y reducción de secuelas una vez que la enfermedad ha ocurrido).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00am",
+    "question": "Un estudiante del CEPREDIX tiene una rutina obsesiva de ejercicio y una dieta extremadamente restrictiva, evitando todos los carbohidratos y grasas, lo que ha llevado a una pérdida de peso peligrosa. Este comportamiento es característico de:",
+    "image": null,
+    "options": [
+      { "text": "Anorexia nerviosa", "correct": true },
+      { "text": "Ortorexia", "correct": false },
+      { "text": "Bulimia nerviosa", "correct": false },
+      { "text": "Vigorexia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Se centra en una restricción extrema de la ingesta calórica y un miedo intenso a ganar peso.",
+    "explanation": "La anorexia nerviosa se caracteriza por una restricción de la ingesta energética que conduce a un peso corporal significativamente bajo, un miedo intenso a aumentar de peso y una alteración en la percepción del peso o la silueta corporales. La obsesión por el ejercicio es un comportamiento compensatorio común.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00an",
+    "question": "¿Cuál de las siguientes estructuras del sistema nervioso central es responsable de coordinar los movimientos voluntarios, el equilibrio y la postura?",
+    "image": null,
+    "options": [
+      { "text": "Cerebelo", "correct": true },
+      { "text": "Bulbo raquídeo", "correct": false },
+      { "text": "Hipotálamo", "correct": false },
+      { "text": "Tálamo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se localiza en la parte posterior e inferior del encéfalo.",
+    "explanation": "El cerebelo, ubicado debajo del cerebro y detrás del tronco encefálico, es esencial para la coordinación motora fina, el equilibrio, la postura y el aprendizaje de habilidades motoras. Recibe información sobre la posición de las articulaciones y la tensión muscular para ajustar los movimientos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ao",
+    "question": "Para prevenir la propagación de una gastroenteritis por Salmonella en un comedor escolar del CEPREDIX, ¿cuáles son las dos medidas de higiene más efectivas?",
+    "image": null,
+    "options": [
+      { "text": "Lavado correcto de manos y cocción adecuada de los alimentos", "correct": true },
+      { "text": "Uso de cubrebocas y ventilación de espacios", "correct": false },
+      { "text": "Desinfección de pupitres y aislamiento del paciente", "correct": false },
+      { "text": "Refrigeración de alimentos y limpieza de ventanas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La Salmonella se transmite principalmente por la vía fecal-oral a través de alimentos o manos contaminadas.",
+    "explanation": "El lavado de manos con agua y jabón interrumpe la transmisión por contacto. Cocinar completamente los alimentos (especialmente carnes, huevos y aves) a temperaturas superiores a 70°C destruye las bacterias de Salmonella, previniendo la infección.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ap",
+    "question": "El término anatómico 'esplénico' hace referencia a:",
+    "image": null,
+    "options": [
+      { "text": "El bazo", "correct": true },
+      { "text": "El hígado", "correct": false },
+      { "text": "El páncreas", "correct": false },
+      { "text": "La vesícula biliar", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Proviene del griego 'splen', que significa bazo.",
+    "explanation": "'Esplénico' es el adjetivo utilizado en terminología anatómica y médica para describir cualquier estructura, vaso sanguíneo o proceso relacionado con el bazo (por ejemplo, la arteria esplénica, el hilio esplénico).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00aq",
+    "question": "De la lista siguiente, selecciona los componentes que pertenecen específicamente al sistema linfático: 1) Timo 2) Bazo 3) Hígado 4) Ganglios linfáticos 5) Páncreas",
+    "image": null,
+    "options": [
+      { "text": "1, 2 y 4", "correct": true },
+      { "text": "2, 3 y 5", "correct": false },
+      { "text": "1, 3 y 4", "correct": false },
+      { "text": "2, 4 y 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El sistema linfático está involucrado en la inmunidad y el drenaje de fluidos.",
+    "explanation": "El sistema linfático está formado por la linfa, los vasos linfáticos, los ganglios linfáticos (filtran la linfa) y los órganos linfoides primarios (timo, donde maduran los linfocitos T) y secundarios (bazo, ganglios, tejido linfoide asociado a mucosas). El hígado y el páncreas son órganos digestivos/endocrinos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ar",
+    "question": "Un paciente con hipertensión arterial debe modificar su estilo de vida. ¿Cuál de las siguientes medidas es la más importante dentro de la prevención terciaria para evitar complicaciones como un infarto cerebral?",
+    "image": null,
+    "options": [
+      { "text": "Adherencia estricta al tratamiento farmacológico antihipertensivo", "correct": true },
+      { "text": "Realizarse chequeos de presión arterial mensuales", "correct": false },
+      { "text": "Iniciar una dieta baja en sal", "correct": false },
+      { "text": "Evitar el consumo de alcohol", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La prevención terciaria busca minimizar el impacto de una enfermedad ya establecida.",
+    "explanation": "La prevención terciaria se enfoca en el manejo de enfermedades crónicas para prevenir complicaciones y discapacidad. En la hipertensión establecida, la adherencia al tratamiento farmacológico es fundamental para mantener la presión controlada y reducir directamente el riesgo de eventos vasculares graves como el accidente cerebrovascular (infarto cerebral). Las otras opciones son importantes, pero la medicación es la piedra angular del control.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00as",
+    "question": "Completa el enunciado sobre hormonas: La hormona ______, producida por las células beta de los islotes de Langerhans del ______, permite la entrada de glucosa a las células, bajando su nivel en sangre.",
+    "image": null,
+    "options": [
+      { "text": "insulina, páncreas", "correct": true },
+      { "text": "glucagón, hígado", "correct": false },
+      { "text": "tiroxina, tiroides", "correct": false },
+      { "text": "cortisol, suprarrenales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Esta hormona es clave en la diabetes mellitus.",
+    "explanation": "La insulina es una hormona peptídica sintetizada y secretada por las células β del páncreas endocrino (islotes de Langerhans). Su principal función es facilitar el transporte de glucosa desde la sangre al interior de las células (musculares, adiposas), reduciendo así la glucemia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00at",
+    "question": "Relaciona el tipo de agente causal con un ejemplo de lesión que produce: A) Físico, B) Químico, C) Biológico; I) Quemadura por ácido, II) Tuberculosis, III) Fractura por caída.",
+    "image": null,
+    "options": [
+      { "text": "A-III; B-I; C-II", "correct": true },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false },
+      { "text": "A-III; B-II; C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un agente físico implica energía o fuerza; un químico, sustancias; un biológico, organismos vivos.",
+    "explanation": "A) Físico: La fractura por caída es causada por energía mecánica (fuerza). B) Químico: La quemadura por ácido es causada por la acción corrosiva de una sustancia química. C) Biológico: La tuberculosis es una enfermedad infecciosa causada por la bacteria Mycobacterium tuberculosis.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00au",
+    "question": "Durante una clase de biología en el CEPREDIX, un estudiante pregunta qué sucede durante la fase de 'incubación' de una enfermedad infecciosa. La respuesta correcta es:",
+    "image": null,
+    "options": [
+      { "text": "Es el período entre la exposición al patógeno y la aparición de los primeros síntomas.", "correct": true },
+      { "text": "Es el momento en que los síntomas son más intensos y específicos.", "correct": false },
+      { "text": "Es la etapa de recuperación donde desaparecen los síntomas.", "correct": false },
+      { "text": "Es el intervalo breve con síntomas generales antes de la enfermedad declarada.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "En esta fase, el patógeno se multiplica pero aún no hay manifestaciones clínicas.",
+    "explanation": "El período de incubación es el tiempo que transcurre desde la entrada del agente patógeno en el huésped (infección) hasta la aparición de los primeros signos o síntomas de la enfermedad. Durante este tiempo, el microorganismo se está multiplicando y el sistema inmune puede estar iniciando su respuesta, pero de manera asintomática.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00av",
+    "question": "¿Qué acción corresponde específicamente al nivel de prevención secundaria en el control del cáncer cervicouterino?",
+    "image": null,
+    "options": [
+      { "text": "Realización de la prueba de Papanicolaou (citología cervical)", "correct": true },
+      { "text": "Vacunación contra el Virus del Papiloma Humano (VPH)", "correct": false },
+      { "text": "Cirugía para extirpar un tumor invasivo", "correct": false },
+      { "text": "Educación sobre la importancia de la monogamia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca detectar la enfermedad en una etapa temprana, incluso antes de que cause síntomas.",
+    "explanation": "La prevención secundaria se centra en el diagnóstico temprano y el tratamiento oportuno para detener o retrasar el progreso de la enfermedad. La prueba de Papanicolaou permite detectar células anormales en el cuello uterino que pueden ser precancerosas, lo que posibilita un tratamiento antes de que se desarrolle un cáncer invasivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00aw",
+    "question": "Un brote de hepatitis A en el CEPREDIX se ha vinculado al consumo de agua contaminada. Según la tríada ecológica, el agua contaminada actúa principalmente como:",
+    "image": null,
+    "options": [
+      { "text": "Medio ambiente", "correct": true },
+      { "text": "Huésped", "correct": false },
+      { "text": "Agente causal", "correct": false },
+      { "text": "Vector", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El agua es parte del entorno que permite la transmisión del agente.",
+    "explanation": "En este escenario, el agente causal es el virus de la hepatitis A. El agua contaminada constituye el 'medio ambiente' que facilita la transmisión del virus desde su reservorio (heces humanas) hasta los huéspedes susceptibles (los estudiantes), actuando como vehículo de contagio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ax",
+    "question": "¿Cuál de los siguientes pares de términos médicos son correctos? 1) Odontalgia - dolor de muelas. 2) Hemoptisis - sangrado en las heces. 3) Disnea - dificultad para respirar. 4) Otalgia - dolor en los ojos.",
+    "image": null,
+    "options": [
+      { "text": "1 y 3", "correct": true },
+      { "text": "2 y 4", "correct": false },
+      { "text": "1 y 2", "correct": false },
+      { "text": "3 y 4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO"],
+    "hint": "'Odont-' se refiere a dientes, 'dis-' dificultad, '-pnea' respiración.",
+    "explanation": "1) CORRECTO. Odontalgia (de 'odont-' diente y '-algia' dolor) significa dolor de muelas o dientes. 2) INCORRECTO. Hemoptisis es la expectoración de sangre procedente de las vías respiratorias. El sangrado en las heces se llama melena o rectorragia. 3) CORRECTO. Disnea (de 'dis-' dificultad y '-pnea' respiración) es la sensación subjetiva de dificultad o falta de aire. 4) INCORRECTO. Otalgia (de 'ot-' oído y '-algia' dolor) es dolor de oído. El dolor en los ojos es oftalmalgia o dolor ocular.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CDS00ay",
+    "question": "Un estudiante presenta fiebre, dolor articular y una erupción cutánea después de un viaje a una zona endémica. El médico sospecha dengue. En este caso, el mosquito Aedes aegypti actúa como:",
+    "image": null,
+    "options": [
+      { "text": "Vector", "correct": true },
+      { "text": "Agente causal", "correct": false },
+      { "text": "Huésped definitivo", "correct": false },
+      { "text": "Reservorio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es un organismo que transmite un patógeno de un huésped a otro.",
+    "explanation": "Un vector es un organismo, generalmente un artrópodo (como mosquitos, garrapatas), que transmite un agente infeccioso (en este caso, el virus del dengue) desde un huésped infectado a un nuevo huésped. El agente causal es el virus mismo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
