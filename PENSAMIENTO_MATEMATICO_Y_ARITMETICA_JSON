@@ -1630,5 +1630,1841 @@
     "explanation": "El opuesto de $z=a+bi$ es $-z = -a-bi$. Así, el opuesto de $5-3i$ es $-(5-3i) = -5+3i$. El conjugado de $z=a+bi$ es $\\bar{z}=a-bi$. Así, el conjugado de $5-3i$ es $5+3i$.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "PMA00ds",
+    "question": "Resuelve la siguiente operación respetando la jerarquía de operaciones: $15 - 3(4^2 - 10) + \\frac{18}{3}$",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "1", "correct": false },
+      { "text": "9", "correct": false },
+      { "text": "7", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda el acrónimo PEMDAS: Paréntesis, Exponentes, Multiplicación/División, Suma/Resta.",
+    "explanation": "Primero el paréntesis: $4^2-10 = 16-10=6$. La expresión queda $15 - 3(6) + 18/3$. Luego multiplicaciones y divisiones: $3(6)=18$ y $18/3=6$. Finalmente sumas y restas de izquierda a derecha: $15 - 18 + 6 = 3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dt",
+    "question": "¿Cuál es el resultado simplificado de la resta de fracciones $\\frac{7}{8} - \\frac{5}{12}$?",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{11}{24}$", "correct": true },
+      { "text": "$\\frac{2}{4}$", "correct": false },
+      { "text": "$\\frac{1}{2}$", "correct": false },
+      { "text": "$\\frac{13}{24}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Encuentra el Mínimo Común Múltiplo (MCM) de los denominadores 8 y 12.",
+    "explanation": "El MCM de 8 y 12 es 24. Convertimos las fracciones: $\\frac{7}{8} = \\frac{21}{24}$ y $\\frac{5}{12} = \\frac{10}{24}$. Restamos: $\\frac{21-10}{24} = \\frac{11}{24}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00du",
+    "question": "Un artículo cuesta $800. Si primero se le aplica un descuento del 20% y al nuevo precio se le aplica otro descuento del 10%, ¿cuál es el precio final?",
+    "image": null,
+    "options": [
+      { "text": "$576", "correct": true },
+      { "text": "$560", "correct": false },
+      { "text": "$600", "correct": false },
+      { "text": "$580", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "No sumes los porcentajes. Calcula el primer descuento y sobre el resultado aplica el segundo.",
+    "explanation": "Precio tras primer descuento: $800 \\times 0.80 = 640$. Precio tras segundo descuento: $640 \\times 0.90 = 576$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dv",
+    "question": "Si 4 impresoras tardan 6 horas en imprimir un lote de libros, ¿cuántas horas tardarán 8 impresoras del mismo tipo en imprimir el mismo lote?",
+    "image": null,
+    "options": [
+      { "text": "3 horas", "correct": true },
+      { "text": "12 horas", "correct": false },
+      { "text": "4 horas", "correct": false },
+      { "text": "8 horas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una regla de tres inversa: a más impresoras, menos tiempo.",
+    "explanation": "Relación inversa: $4 \\text{ imp} \\times 6 \\text{ h} = 24 \\text{ horas-impresora}$. Si hay 8 impresoras: $24 / 8 = 3$ horas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dw",
+    "question": "Determina el Mínimo Común Múltiplo (MCM) de 12, 18 y 30.",
+    "image": null,
+    "options": [
+      { "text": "180", "correct": true },
+      { "text": "90", "correct": false },
+      { "text": "360", "correct": false },
+      { "text": "60", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Descompón cada número en sus factores primos y toma los factores comunes y no comunes con su mayor exponente.",
+    "explanation": "$12=2^2\\cdot3$, $18=2\\cdot3^2$, $30=2\\cdot3\\cdot5$. MCM = $2^2 \\cdot 3^2 \\cdot 5 = 4 \\cdot 9 \\cdot 5 = 180$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dx",
+    "question": "Realiza la siguiente operación con notación científica: $(2.5 \\times 10^4) \\times (4.0 \\times 10^{-7})$",
+    "image": null,
+    "options": [
+      { "text": "$1.0 \\times 10^{-2}$", "correct": true },
+      { "text": "$1.0 \\times 10^{-3}$", "correct": false },
+      { "text": "$10 \\times 10^{-3}$", "correct": false },
+      { "text": "$6.5 \\times 10^{-3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica los coeficientes y suma los exponentes de la base 10.",
+    "explanation": "$2.5 \\times 4.0 = 10$. Exponentes: $4 + (-7) = -3$. Resultado preliminar $10 \\times 10^{-3}$. En notación científica estándar: $1.0 \\times 10^{-2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dy",
+    "question": "¿Cuál es el siguiente número en la sucesión aritmética: 5/2, 7/2, 9/2, ...?",
+    "image": null,
+    "options": [
+      { "text": "11/2", "correct": true },
+      { "text": "10/2", "correct": false },
+      { "text": "5", "correct": false },
+      { "text": "13/2", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Identifica la diferencia constante entre los términos.",
+    "explanation": "La diferencia es $7/2 - 5/2 = 2/2 = 1$. El siguiente término es $9/2 + 2/2 = 11/2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00dz",
+    "question": "Selecciona la opción que contenga únicamente números primos.",
+    "image": null,
+    "options": [
+      { "text": "2, 11, 23, 29", "correct": true },
+      { "text": "1, 3, 5, 9", "correct": false },
+      { "text": "2, 4, 11, 13", "correct": false },
+      { "text": "3, 13, 17, 21", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un número primo solo tiene dos divisores: 1 y sí mismo. El 1 no es primo y el 21 es divisible por 3 y 7.",
+    "explanation": "El conjunto (2, 11, 23, 29) solo contiene números divisibles por sí mismos y la unidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ea",
+    "question": "En la división de fracciones, se utiliza el método de multiplicación ______ o 'sándwich', mientras que para sumar fracciones con diferente denominador se busca el ______.",
+    "image": null,
+    "options": [
+      { "text": "cruzada, mínimo común múltiplo", "correct": true },
+      { "text": "directa, máximo común divisor", "correct": false },
+      { "text": "inversa, producto cruzado", "correct": false },
+      { "text": "paralela, numerador común", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Propiedades de las operaciones con racionales.",
+    "explanation": "Para dividir $\\frac{a}{b} \\div \\frac{c}{d}$ se multiplica cruzado ($a \\cdot d$ y $b \\cdot c$). Para sumar, necesitamos igualar denominadores usando el MCM.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00eb",
+    "question": "La propiedad ______ indica que el orden de los factores no altera el producto, mientras que la propiedad ______ permite agrupar términos de diferentes formas sin alterar el resultado.",
+    "image": null,
+    "options": [
+      { "text": "conmutativa, asociativa", "correct": true },
+      { "text": "distributiva, conmutativa", "correct": false },
+      { "text": "asociativa, identidad", "correct": false },
+      { "text": "inversa, distributiva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Conmutar es cambiar de lugar, asociar es agrupar.",
+    "explanation": "Conmutativa: $a \\cdot b = b \\cdot a$. Asociativa: $(a+b)+c = a+(b+c)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ec",
+    "question": "En la expresión $\\sqrt[n]{a} = b$, 'n' se denomina ______, 'a' es el ______ y 'b' es la raíz.",
+    "image": null,
+    "options": [
+      { "text": "índice, radicando", "correct": true },
+      { "text": "exponente, base", "correct": false },
+      { "text": "coeficiente, potencia", "correct": false },
+      { "text": "radical, sustraendo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Son las partes formales de la radicación.",
+    "explanation": "El número pequeño en la raíz es el índice y el número dentro de la raíz es el radicando.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ed",
+    "question": "Relaciona el número con su clasificación más específica: A) $\\pi$, B) -5, C) 3/4; I) Entero, II) Racional, III) Irracional",
+    "image": null,
+    "options": [
+      { "text": "A-III, B-I, C-II", "correct": true },
+      { "text": "A-II, B-I, C-III", "correct": false },
+      { "text": "A-III, B-II, C-I", "correct": false },
+      { "text": "A-I, B-III, C-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Pi no puede escribirse como fracción. -5 no tiene decimales. 3/4 es una fracción.",
+    "explanation": "$\\pi$ es irracional (no se puede escribir como fracción), -5 es un entero negativo, y 3/4 es un racional (cociente de enteros).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ee",
+    "question": "Calcula el valor de $\\frac{3^{-2} \\cdot 3^5}{3^2}$.",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "9", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "27", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa las leyes de los exponentes: $a^m \\cdot a^n = a^{m+n}$ y $\\frac{a^m}{a^n} = a^{m-n}$.",
+    "explanation": "Numerador: $3^{-2+5} = 3^3$. División: $\\frac{3^3}{3^2} = 3^{3-2} = 3^1 = 3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ef",
+    "question": "Un tanque de agua tiene dos grifos. El grifo A lo llena en 4 horas y el grifo B en 6 horas. Si se abren ambos al mismo tiempo, ¿en cuánto tiempo se llenará el tanque?",
+    "image": null,
+    "options": [
+      { "text": "2.4 horas", "correct": true },
+      { "text": "5 horas", "correct": false },
+      { "text": "2 horas", "correct": false },
+      { "text": "10 horas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Suma las tasas de trabajo: $\\frac{1}{T} = \\frac{1}{T_A} + \\frac{1}{T_B}$.",
+    "explanation": "Tasa combinada: $\\frac{1}{4} + \\frac{1}{6} = \\frac{3+2}{12} = \\frac{5}{12}$. El tiempo total es el inverso: $\\frac{12}{5} = 2.4$ horas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00eg",
+    "question": "¿Cuánto es el 15% del 40% de 2000?",
+    "image": null,
+    "options": [
+      { "text": "120", "correct": true },
+      { "text": "150", "correct": false },
+      { "text": "80", "correct": false },
+      { "text": "300", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica sucesivamente: $2000 \\times 0.40 \\times 0.15$.",
+    "explanation": "$2000 \\times 0.40 = 800$. Luego, $800 \\times 0.15 = 120$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00eh",
+    "question": "Simplifica la expresión radical $\\sqrt{75} - \\sqrt{12}$.",
+    "image": null,
+    "options": [
+      { "text": "$3\\sqrt{3}$", "correct": true },
+      { "text": "$\\sqrt{63}$", "correct": false },
+      { "text": "$2\\sqrt{3}$", "correct": false },
+      { "text": "$5\\sqrt{3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Factoriza los números dentro de la raíz buscando cuadrados perfectos (25 y 4).",
+    "explanation": "$\\sqrt{75} = \\sqrt{25 \\cdot 3} = 5\\sqrt{3}$. $\\sqrt{12} = \\sqrt{4 \\cdot 3} = 2\\sqrt{3}$. Resta: $5\\sqrt{3} - 2\\sqrt{3} = 3\\sqrt{3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ei",
+    "question": "Si la razón entre dos números es 3:5 y su suma es 64, ¿cuál es el número mayor?",
+    "image": null,
+    "options": [
+      { "text": "40", "correct": true },
+      { "text": "24", "correct": false },
+      { "text": "30", "correct": false },
+      { "text": "35", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Considera los números como $3k$ y $5k$.",
+    "explanation": "$3k + 5k = 64 \\to 8k = 64 \\to k = 8$. El número mayor es $5k = 5(8) = 40$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ej",
+    "question": "Convierte el número decimal periódico $0.333...$ a fracción y súmale $\\frac{1}{6}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{1}{2}$", "correct": true },
+      { "text": "$\\frac{1}{3}$", "correct": false },
+      { "text": "$\\frac{4}{9}$", "correct": false },
+      { "text": "$\\frac{2}{3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$0.333...$ es equivalente a un tercio.",
+    "explanation": "$0.333... = \\frac{1}{3}$. La suma es $\\frac{1}{3} + \\frac{1}{6} = \\frac{2}{6} + \\frac{1}{6} = \\frac{3}{6} = \\frac{1}{2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ek",
+    "question": "Un mapa tiene una escala de 1:50,000. Si dos ciudades están separadas por 4 cm en el mapa, ¿cuál es la distancia real en kilómetros?",
+    "image": null,
+    "options": [
+      { "text": "2 km", "correct": true },
+      { "text": "20 km", "correct": false },
+      { "text": "0.2 km", "correct": false },
+      { "text": "200 km", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica la distancia del mapa por el factor de escala y convierte cm a km (1 km = 100,000 cm).",
+    "explanation": "$4 \\text{ cm} \\times 50,000 = 200,000 \\text{ cm}$. Dividiendo entre 100,000 cm/km, obtenemos 2 km.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00el",
+    "question": "Identifica cuáles de los siguientes números son divisibles por 6.",
+    "image": null,
+    "options": [
+      { "text": "132, 216", "correct": true },
+      { "text": "124, 303", "correct": false },
+      { "text": "100, 215", "correct": false },
+      { "text": "130, 218", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Para ser divisible por 6, un número debe ser divisible por 2 (par) y por 3 (suma de dígitos múltiplo de 3) simultáneamente.",
+    "explanation": "132: Par y $1+3+2=6$ (múltiplo de 3). 216: Par y $2+1+6=9$ (múltiplo de 3). Ambos cumplen.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00em",
+    "question": "El valor absoluto de un número representa su ______ al cero en la recta numérica y siempre es ______ o cero.",
+    "image": null,
+    "options": [
+      { "text": "distancia, positivo", "correct": true },
+      { "text": "posición, negativo", "correct": false },
+      { "text": "cercanía, entero", "correct": false },
+      { "text": "valor, fraccionario", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Geométricamente, $|x|$ es cuánto tienes que caminar desde el 0 hasta x.",
+    "explanation": "El valor absoluto es una medida de distancia, por lo tanto, no puede ser negativo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00en",
+    "question": "Una proporción es la ______ de dos ______. Se lee 'a es a b como c es a d'.",
+    "image": null,
+    "options": [
+      { "text": "igualdad, razones", "correct": true },
+      { "text": "suma, fracciones", "correct": false },
+      { "text": "diferencia, productos", "correct": false },
+      { "text": "multiplicación, divisiones", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Definición básica de proporción: $a/b = c/d$.",
+    "explanation": "Una proporción se define matemáticamente como la igualdad entre dos razones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00eo",
+    "question": "El Máximo Común Divisor (MCD) de dos números primos diferentes es siempre ______ , mientras que su Mínimo Común Múltiplo (MCM) es su ______.",
+    "image": null,
+    "options": [
+      { "text": "1, producto", "correct": true },
+      { "text": "0, suma", "correct": false },
+      { "text": "el menor, diferencia", "correct": false },
+      { "text": "infinito, cociente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Piensa en los números 3 y 5.",
+    "explanation": "Como no comparten factores aparte del 1, el MCD es 1. El MCM será la multiplicación de ambos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ep",
+    "question": "Relaciona la operación con su resultado correcto: A) $(-2)^3$, B) $-2^4$, C) $(-2)^4$; I) -8, II) 16, III) -16",
+    "image": null,
+    "options": [
+      { "text": "A-I, B-III, C-II", "correct": true },
+      { "text": "A-III, B-II, C-I", "correct": false },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cuidado con los paréntesis y el signo menos fuera de la potencia.",
+    "explanation": "A) $(-2)(-2)(-2) = -8$. B) $-(2^4) = -16$. C) $(-2)(-2)(-2)(-2) = 16$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00eq",
+    "question": "¿Cuál es el residuo de dividir 45 entre 7?",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca el múltiplo de 7 más cercano a 45 sin pasarse.",
+    "explanation": "$7 \\times 6 = 42$. La diferencia para llegar a 45 es $45 - 42 = 3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00er",
+    "question": "Si $a=3$ y $b=-2$, calcula el valor de $a^2 - 2ab + b^2$.",
+    "image": null,
+    "options": [
+      { "text": "25", "correct": true },
+      { "text": "1", "correct": false },
+      { "text": "13", "correct": false },
+      { "text": "49", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sustituye los valores con cuidado de los signos o reconoce el binomio al cuadrado.",
+    "explanation": "Sustitución: $(3)^2 - 2(3)(-2) + (-2)^2 = 9 - (-12) + 4 = 9 + 12 + 4 = 25$. Alternativamente: $(a-b)^2 = (3 - (-2))^2 = (5)^2 = 25$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00es",
+    "question": "¿Cuántos números enteros hay entre $\\sqrt{5}$ y $\\sqrt{50}$?",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "7", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Estima las raíces. $\\sqrt{4}=2$ y $\\sqrt{49}=7$.",
+    "explanation": "$\\sqrt{5} \\approx 2.2$ y $\\sqrt{50} \\approx 7.07$. Los enteros entre 2.2 y 7.07 son: 3, 4, 5, 6, 7. En total hay 5 números.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00et",
+    "question": "Un capital de $1,000 genera un interés simple del 5% anual. ¿Cuánto dinero habrá en total después de 3 años?",
+    "image": null,
+    "options": [
+      { "text": "$1,150", "correct": true },
+      { "text": "$1,157", "correct": false },
+      { "text": "$1,050", "correct": false },
+      { "text": "$1,300", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Fórmula interés simple: $I = C \\cdot i \\cdot t$. El monto total es $C + I$.",
+    "explanation": "Interés = $1000 \\times 0.05 \\times 3 = 150$. Monto total = $1000 + 150 = 1150$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00eu",
+    "question": "En una clase de 30 estudiantes, 12 son mujeres. ¿Cuál es la razón de hombres a mujeres?",
+    "image": null,
+    "options": [
+      { "text": "3:2", "correct": true },
+      { "text": "2:3", "correct": false },
+      { "text": "3:5", "correct": false },
+      { "text": "2:5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Primero calcula cuántos hombres hay, luego simplifica la fracción hombres/mujeres.",
+    "explanation": "Hombres = $30 - 12 = 18$. Razón Hombres:Mujeres = $18:12$. Dividiendo ambos por 6 obtenemos $3:2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ev",
+    "question": "Calcula el valor de $x$ en la igualdad de razones (sin usar álgebra compleja): $\\frac{x}{12} = \\frac{5}{4}$.",
+    "image": null,
+    "options": [
+      { "text": "15", "correct": true },
+      { "text": "20", "correct": false },
+      { "text": "10", "correct": false },
+      { "text": "60", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "¿Por qué número multiplicas a 4 para que sea 12? Haz lo mismo con el 5.",
+    "explanation": "El denominador se triplicó ($4 \\times 3 = 12$). El numerador debe triplicarse también: $5 \\times 3 = 15$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ew",
+    "question": "Si el día de ayer fue jueves, ¿qué día será dentro de 100 días?",
+    "image": null,
+    "options": [
+      { "text": "Sábado", "correct": true },
+      { "text": "Viernes", "correct": false },
+      { "text": "Domingo", "correct": false },
+      { "text": "Lunes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa la aritmética modular con base 7 (días de la semana).",
+    "explanation": "Si ayer fue jueves, hoy es viernes. $100 \\div 7 = 14$ semanas con un residuo de 2 días. Viernes + 2 días = Sábado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ex",
+    "question": "Selecciona los números que son cuadrados perfectos.",
+    "image": null,
+    "options": [
+      { "text": "1, 36, 64, 81", "correct": true },
+      { "text": "2, 4, 8, 16", "correct": false },
+      { "text": "25, 49, 70, 100", "correct": false },
+      { "text": "9, 16, 27, 36", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Un cuadrado perfecto es el resultado de multiplicar un entero por sí mismo.",
+    "explanation": "$1^2=1$, $6^2=36$, $8^2=64$, $9^2=81$. En las otras opciones, 2, 70 y 27 no tienen raíz cuadrada exacta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ey",
+    "question": "La notación $A \\cup B$ representa la ______ de conjuntos, que contiene elementos que están en A, en B o en ______.",
+    "image": null,
+    "options": [
+      { "text": "unión, ambos", "correct": true },
+      { "text": "intersección, ninguno", "correct": false },
+      { "text": "diferencia, solo uno", "correct": false },
+      { "text": "unión, ninguno", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Unión significa juntar todo.",
+    "explanation": "La unión de conjuntos agrupa todos los elementos presentes en al menos uno de los conjuntos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ez",
+    "question": "En la expresión $5^0 = 1$, el 5 es la ______, el 0 es el ______ y el 1 es la potencia.",
+    "image": null,
+    "options": [
+      { "text": "base, exponente", "correct": true },
+      { "text": "raíz, índice", "correct": false },
+      { "text": "factor, multiplicador", "correct": false },
+      { "text": "coeficiente, grado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Terminología básica de la potenciación.",
+    "explanation": "En una potencia $a^n$, 'a' se llama base y 'n' exponente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fa",
+    "question": "Un número es divisible por 5 si termina en ______ o ______, y por 10 si termina en ______.",
+    "image": null,
+    "options": [
+      { "text": "0, 5, 0", "correct": true },
+      { "text": "1, 5, 0", "correct": false },
+      { "text": "2, 5, 5", "correct": false },
+      { "text": "0, 2, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Reglas de divisibilidad básicas.",
+    "explanation": "La regla del 5 exige terminación en 0 o 5. La regla del 10 exige terminación exclusiva en 0.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fb",
+    "question": "Relaciona el símbolo con su significado en teoría de conjuntos: A) $\\in$, B) $\\subset$, C) $\\emptyset$; I) Subconjunto, II) Pertenece, III) Conjunto vacío",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-I, C-III", "correct": true },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false },
+      { "text": "A-III, B-I, C-II", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Epsilon se usa para elementos, la C alargada para conjuntos.",
+    "explanation": "$\\in$ indica pertenencia de un elemento. $\\subset$ indica que un conjunto está contenido en otro. $\\emptyset$ es el símbolo del vacío.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fc",
+    "question": "Calcula el perímetro de un rectángulo cuya base es 3.5 cm y su altura es el doble de la base.",
+    "image": null,
+    "options": [
+      { "text": "21 cm", "correct": true },
+      { "text": "10.5 cm", "correct": false },
+      { "text": "24.5 cm", "correct": false },
+      { "text": "14 cm", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si la base es 3.5, la altura es 7. $P = 2b + 2h$.",
+    "explanation": "Altura = $2 \\times 3.5 = 7$. Perímetro = $2(3.5) + 2(7) = 7 + 14 = 21$ cm.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fd",
+    "question": "Evalúa el factorial de 5 ($5!$) dividido entre el factorial de 3 ($3!$).",
+    "image": null,
+    "options": [
+      { "text": "20", "correct": true },
+      { "text": "60", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "120", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$n! = n \\times (n-1) \\times ... \\times 1$. Simplifica la fracción.",
+    "explanation": "$\\frac{5!}{3!} = \\frac{5 \\times 4 \\times 3!}{3!} = 5 \\times 4 = 20$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fe",
+    "question": "En una caja hay 3 bolas rojas, 2 azules y 5 verdes. ¿Cuál es la probabilidad de sacar una bola que NO sea verde?",
+    "image": null,
+    "options": [
+      { "text": "1/2", "correct": true },
+      { "text": "5/10", "correct": false },
+      { "text": "3/10", "correct": false },
+      { "text": "1/5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula el total de bolas y cuántas cumplen la condición (rojas + azules).",
+    "explanation": "Total = $3+2+5=10$. Bolas no verdes (Rojas+Azules) = $3+2=5$. Probabilidad = $5/10 = 1/2$. (Nota: 5/10 es correcto numéricamente pero siempre se busca la simplificada en opciones óptimas, aunque aquí 1/2 es la opción simplificada).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ff",
+    "question": "¿Cuál es el valor de $\\frac{0.003}{0.1}$?",
+    "image": null,
+    "options": [
+      { "text": "0.03", "correct": true },
+      { "text": "0.0003", "correct": false },
+      { "text": "0.3", "correct": false },
+      { "text": "3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Dividir por 0.1 es lo mismo que multiplicar por 10, o mover el punto decimal un lugar a la derecha.",
+    "explanation": "Moviendo el punto decimal un lugar a la derecha: $0.003 \\to 0.03$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fg",
+    "question": "Simplifica la expresión: $2(3+2\\times4) - 5$.",
+    "image": null,
+    "options": [
+      { "text": "17", "correct": true },
+      { "text": "35", "correct": false },
+      { "text": "15", "correct": false },
+      { "text": "5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Jerarquía: primero la multiplicación dentro del paréntesis.",
+    "explanation": "Dentro paréntesis: $3 + (2\\times4) = 3 + 8 = 11$. Luego multiplicar: $2(11) = 22$. Finalmente restar: $22 - 5 = 17$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fh",
+    "question": "¿Qué porcentaje de 60 es 9?",
+    "image": null,
+    "options": [
+      { "text": "15%", "correct": true },
+      { "text": "12%", "correct": false },
+      { "text": "9%", "correct": false },
+      { "text": "18%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Divide la parte entre el todo y multiplica por 100.",
+    "explanation": "$\\frac{9}{60} = \\frac{3}{20}$. En decimal: $3/20 = 0.15$. En porcentaje: 15%.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fi",
+    "question": "Calcula la media aritmética (promedio) de los datos: 10, 15, 20, 35.",
+    "image": null,
+    "options": [
+      { "text": "20", "correct": true },
+      { "text": "17.5", "correct": false },
+      { "text": "25", "correct": false },
+      { "text": "30", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Suma todos los valores y divide entre la cantidad de datos (4).",
+    "explanation": "Suma: $10+15+20+35 = 80$. Promedio: $80 / 4 = 20$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fj",
+    "question": "Identifica el grupo de fracciones que son equivalentes a $\\frac{2}{3}$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{4}{6}, \\frac{10}{15}, \\frac{20}{30}$", "correct": true },
+      { "text": "$\\frac{3}{4}, \\frac{6}{8}, \\frac{9}{12}$", "correct": false },
+      { "text": "$\\frac{4}{5}, \\frac{6}{7}, \\frac{8}{9}$", "correct": false },
+      { "text": "$\\frac{2}{6}, \\frac{2}{9}, \\frac{2}{12}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica numerador y denominador por el mismo número entero.",
+    "explanation": "$2/3 \\times 2/2 = 4/6$; $2/3 \\times 5/5 = 10/15$; $2/3 \\times 10/10 = 20/30$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fk",
+    "question": "En la expresión $x > 5$, el símbolo '>' significa ______ y excluye el valor ______.",
+    "image": null,
+    "options": [
+      { "text": "mayor que, 5", "correct": true },
+      { "text": "mayor o igual que, 4", "correct": false },
+      { "text": "menor que, 5", "correct": false },
+      { "text": "diferente de, 0", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una desigualdad estricta.",
+    "explanation": "El símbolo $>$ denota 'mayor que'. Al no tener la línea abajo ($\\ge$), no incluye el número límite (5).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fl",
+    "question": "El inverso aditivo de un número $x$ es ______, mientras que el inverso multiplicativo (para $x \\neq 0$) es ______.",
+    "image": null,
+    "options": [
+      { "text": "$-x, 1/x$", "correct": true },
+      { "text": "$x, -x$", "correct": false },
+      { "text": "$0, 1$", "correct": false },
+      { "text": "$1/x, -x$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El inverso aditivo suma 0, el multiplicativo multiplica a 1.",
+    "explanation": "El inverso aditivo cambia el signo ($-x$). El inverso multiplicativo o recíproco invierte la fracción ($1/x$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fm",
+    "question": "Un número es ______ si no se puede expresar como una fracción de dos enteros, un ejemplo clásico es ______.",
+    "image": null,
+    "options": [
+      { "text": "irracional, $\\pi$", "correct": true },
+      { "text": "racional, 0.5", "correct": false },
+      { "text": "entero, -1", "correct": false },
+      { "text": "imaginario, $i$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Números con decimales infinitos no periódicos.",
+    "explanation": "Los números irracionales, como $\\pi$ o $\\sqrt{2}$, no pueden escribirse como $a/b$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fn",
+    "question": "Relaciona la cantidad con su conversión correcta: A) 1 hora, B) 1 km, C) 1 kg; I) 1000 m, II) 3600 s, III) 1000 g",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-I, C-III", "correct": true },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-III, B-I, C-II", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Equivalencias básicas del sistema métrico y tiempo.",
+    "explanation": "1 hora = 60 min = 3600 s. 1 km = 1000 m. 1 kg = 1000 g.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fo",
+    "question": "Si se reparten 3 pizzas entre 4 personas, ¿cuánta pizza le toca a cada uno más la mitad de otra porción igual?",
+    "image": null,
+    "options": [
+      { "text": "9/8", "correct": true },
+      { "text": "3/4", "correct": false },
+      { "text": "1/2", "correct": false },
+      { "text": "6/4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Primero calcula la porción base ($3/4$) y luego súmale su mitad.",
+    "explanation": "Porción base: $3/4$. La mitad de esto es $\\frac{1}{2} \\times \\frac{3}{4} = \\frac{3}{8}$. Suma: $\\frac{3}{4} + \\frac{3}{8} = \\frac{6}{8} + \\frac{3}{8} = \\frac{9}{8}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fp",
+    "question": "En el sistema binario, el número 101 equivale al número ______ en decimal.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "7", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Posiciones: $1(2^2) + 0(2^1) + 1(2^0)$.",
+    "explanation": "$1 \\times 4 + 0 \\times 2 + 1 \\times 1 = 4 + 0 + 1 = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fq",
+    "question": "¿Cuál es el resultado de $|-7| + |5| - |-3|$?",
+    "image": null,
+    "options": [
+      { "text": "9", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "15", "correct": false },
+      { "text": "-5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El valor absoluto convierte todo a positivo antes de operar.",
+    "explanation": "$7 + 5 - 3 = 12 - 3 = 9$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fr",
+    "question": "Calcula el valor numérico de $\\frac{x^3 + 1}{x}$ cuando $x=2$.",
+    "image": null,
+    "options": [
+      { "text": "4.5", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "5", "correct": false },
+      { "text": "3.5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sustituye x por 2.",
+    "explanation": "Numerador: $2^3 + 1 = 8 + 1 = 9$. Denominador: 2. Resultado: $9/2 = 4.5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fs",
+    "question": "Un ciclista viaja a 20 km/h. ¿Cuántos kilómetros recorrerá en 150 minutos?",
+    "image": null,
+    "options": [
+      { "text": "50 km", "correct": true },
+      { "text": "30 km", "correct": false },
+      { "text": "300 km", "correct": false },
+      { "text": "40 km", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Convierte los minutos a horas antes de multiplicar. $d = v \\times t$.",
+    "explanation": "150 minutos = $150/60 = 2.5$ horas. Distancia = $20 \\text{ km/h} \\times 2.5 \\text{ h} = 50 \\text{ km}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ft",
+    "question": "Si el producto de dos números es negativo, entonces:",
+    "image": null,
+    "options": [
+      { "text": "Uno es positivo y el otro negativo", "correct": true },
+      { "text": "Ambos son negativos", "correct": false },
+      { "text": "Ambos son positivos", "correct": false },
+      { "text": "Al menos uno es cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Regla de los signos: signos diferentes dan menos.",
+    "explanation": "Para que la multiplicación dé negativo, los factores deben tener signos opuestos ($+ \\times - = -$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fu",
+    "question": "Encuentra el valor que falta en la analogía numérica: 4 es a 16 como 7 es a ______.",
+    "image": null,
+    "options": [
+      { "text": "49", "correct": true },
+      { "text": "28", "correct": false },
+      { "text": "14", "correct": false },
+      { "text": "21", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Identifica la relación. $4^2 = 16$.",
+    "explanation": "La relación es el cuadrado del número. $7^2 = 49$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fv",
+    "question": "Selecciona los elementos que pertenecen al conjunto de los números enteros ($\\mathbb{Z}$).",
+    "image": null,
+    "options": [
+      { "text": "-10, 0, 5", "correct": true },
+      { "text": "0, 1.5, 2", "correct": false },
+      { "text": "-3, 1/2, 4", "correct": false },
+      { "text": "$\\sqrt{2}, 5, 8$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los enteros no tienen parte decimal.",
+    "explanation": "El conjunto $\\mathbb{Z}$ incluye negativos exactos, el cero y positivos exactos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fw",
+    "question": "El área de un triángulo se calcula como base por ______ sobre ______.",
+    "image": null,
+    "options": [
+      { "text": "altura, 2", "correct": true },
+      { "text": "lado, 2", "correct": false },
+      { "text": "altura, 3", "correct": false },
+      { "text": "ancho, 4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Fórmula básica $A = (b \\cdot h) / 2$.",
+    "explanation": "La fórmula geométrica estándar para el área de un triángulo es $\\frac{b \\cdot h}{2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fx",
+    "question": "En una potencia con exponente fraccionario $x^{m/n}$, 'm' representa la ______ y 'n' representa la ______.",
+    "image": null,
+    "options": [
+      { "text": "potencia, raíz", "correct": true },
+      { "text": "raíz, potencia", "correct": false },
+      { "text": "base, inverso", "correct": false },
+      { "text": "división, multiplicación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El denominador del exponente fraccionario siempre indica el índice del radical.",
+    "explanation": "$x^{m/n} = \\sqrt[n]{x^m}$. El numerador es la potencia, el denominador la raíz.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fy",
+    "question": "La regla de tres ______ se usa cuando una cantidad aumenta y la otra disminuye en la misma proporción, mientras que la regla de tres ______ se usa cuando ambas aumentan o disminuyen.",
+    "image": null,
+    "options": [
+      { "text": "inversa, directa", "correct": true },
+      { "text": "directa, inversa", "correct": false },
+      { "text": "compuesta, simple", "correct": false },
+      { "text": "simple, compuesta", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Piensa en velocidad-tiempo (inversa) vs cantidad-precio (directa).",
+    "explanation": "Relación inversa: más velocidad, menos tiempo. Relación directa: más manzanas, más costo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00fz",
+    "question": "Relaciona el número decimal con su notación científica: A) 0.005, B) 5000, C) 0.5; I) $5 \\times 10^3$, II) $5 \\times 10^{-3}$, III) $5 \\times 10^{-1}$",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-I, C-III", "correct": true },
+      { "text": "A-III, B-II, C-I", "correct": false },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Exponente negativo mueve el punto a la izquierda, positivo a la derecha.",
+    "explanation": "0.005 es $5 \\times 10^{-3}$. 5000 es $5 \\times 10^3$. 0.5 es $5 \\times 10^{-1}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ga",
+    "question": "Un automóvil consume 12 litros de gasolina para recorrer 180 km. Si mantiene el mismo rendimiento, ¿cuántos litros necesitará para recorrer 420 km?",
+    "image": null,
+    "options": [
+      { "text": "28 litros", "correct": true },
+      { "text": "30 litros", "correct": false },
+      { "text": "24 litros", "correct": false },
+      { "text": "35 litros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una proporcionalidad directa. Establece la razón km/litro o usa una regla de tres simple.",
+    "explanation": "Rendimiento: $180 \\text{ km} / 12 \\text{ L} = 15 \\text{ km/L}$. Para 420 km: $420 / 15 = 28$ litros. O regla de tres: $(12 \\times 420) / 180 = 28$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gb",
+    "question": "Seis trabajadores construyen un muro en 12 días. Si se quiere terminar el mismo muro en 8 días, ¿cuántos trabajadores se necesitan en total (asumiendo el mismo ritmo de trabajo)?",
+    "image": null,
+    "options": [
+      { "text": "9 trabajadores", "correct": true },
+      { "text": "8 trabajadores", "correct": false },
+      { "text": "4 trabajadores", "correct": false },
+      { "text": "12 trabajadores", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es proporcionalidad inversa: menos tiempo requiere más trabajadores.",
+    "explanation": "Constante de trabajo: $6 \\text{ trab} \\times 12 \\text{ días} = 72 \\text{ días-trabajador}$. Para hacerlo en 8 días: $72 / 8 = 9$ trabajadores.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gc",
+    "question": "Realiza la siguiente multiplicación expresando el resultado en notación científica: $(4.5 \\times 10^6)(2.0 \\times 10^{-9})$.",
+    "image": null,
+    "options": [
+      { "text": "$9.0 \\times 10^{-3}$", "correct": true },
+      { "text": "$9.0 \\times 10^{-2}$", "correct": false },
+      { "text": "$6.5 \\times 10^{-3}$", "correct": false },
+      { "text": "$9.0 \\times 10^{3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica los coeficientes y suma los exponentes de la base 10.",
+    "explanation": "Coeficientes: $4.5 \\times 2.0 = 9.0$. Exponentes: $6 + (-9) = -3$. Resultado: $9.0 \\times 10^{-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gd",
+    "question": "Calcula el resultado de la división en notación científica: $\\frac{8.4 \\times 10^5}{4.0 \\times 10^8}$.",
+    "image": null,
+    "options": [
+      { "text": "$2.1 \\times 10^{-3}$", "correct": true },
+      { "text": "$2.1 \\times 10^{3}$", "correct": false },
+      { "text": "$4.4 \\times 10^{-3}$", "correct": false },
+      { "text": "$2.1 \\times 10^{13}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Divide los coeficientes y resta el exponente del denominador al del numerador.",
+    "explanation": "Coeficientes: $8.4 / 4.0 = 2.1$. Exponentes: $5 - 8 = -3$. Resultado: $2.1 \\times 10^{-3}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ge",
+    "question": "En un plano de arquitectura, 2 cm representan 5 metros en la realidad. Si una habitación mide 6 cm de largo en el plano, ¿cuál es su longitud real?",
+    "image": null,
+    "options": [
+      { "text": "15 metros", "correct": true },
+      { "text": "10 metros", "correct": false },
+      { "text": "12 metros", "correct": false },
+      { "text": "20 metros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Establece una proporción directa entre las medidas del plano y las reales.",
+    "explanation": "La escala es $2 \\text{ cm} : 5 \\text{ m}$. Si tenemos 6 cm (el triple de 2 cm), la longitud real será el triple de 5 m, es decir, 15 m.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gf",
+    "question": "Para recorrer una distancia fija, un tren que viaja a 80 km/h tarda 3 horas. ¿A qué velocidad debe viajar para recorrer la misma distancia en 2 horas?",
+    "image": null,
+    "options": [
+      { "text": "120 km/h", "correct": true },
+      { "text": "100 km/h", "correct": false },
+      { "text": "160 km/h", "correct": false },
+      { "text": "90 km/h", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Velocidad y tiempo son inversamente proporcionales para una distancia fija ($d = v \\cdot t$).",
+    "explanation": "Distancia total: $80 \\times 3 = 240 \\text{ km}$. Nueva velocidad: $240 \\text{ km} / 2 \\text{ h} = 120 \\text{ km/h}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gg",
+    "question": "Suma las siguientes cantidades expresadas en notación científica: $3.2 \\times 10^4 + 5.0 \\times 10^3$.",
+    "image": null,
+    "options": [
+      { "text": "$3.7 \\times 10^4$", "correct": true },
+      { "text": "$8.2 \\times 10^4$", "correct": false },
+      { "text": "$3.7 \\times 10^7$", "correct": false },
+      { "text": "$8.2 \\times 10^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Iguala los exponentes antes de sumar los coeficientes.",
+    "explanation": "Convierte $5.0 \\times 10^3$ a $0.5 \\times 10^4$. Suma: $(3.2 + 0.5) \\times 10^4 = 3.7 \\times 10^4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gh",
+    "question": "Selecciona las variables que mantienen una relación de proporcionalidad directa.",
+    "image": null,
+    "options": [
+      { "text": "Costo de manzanas y peso total, Distancia y tiempo (velocidad constante)", "correct": true },
+      { "text": "Velocidad y tiempo (distancia fija), Altura y presión atmosférica", "correct": false },
+      { "text": "Obreros y días de trabajo, Base y altura (área fija)", "correct": false },
+      { "text": "Radio y área del círculo, Edad y estatura", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "En la directa, si una aumenta, la otra aumenta en la misma proporción (cociente constante).",
+    "explanation": "Costo/Peso es constante y Distancia/Tiempo es constante. Las otras opciones son inversas o no lineales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gi",
+    "question": "Dos magnitudes son inversamente proporcionales si al ______ una de ellas, la otra ______ en la misma proporción, de modo que su ______ es constante.",
+    "image": null,
+    "options": [
+      { "text": "aumentar, disminuye, producto", "correct": true },
+      { "text": "aumentar, aumenta, cociente", "correct": false },
+      { "text": "disminuir, disminuye, suma", "correct": false },
+      { "text": "multiplicar, divide, resta", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Piensa en $xy = k$.",
+    "explanation": "En la proporcionalidad inversa, si x aumenta, y disminuye, y el producto $x \\cdot y$ se mantiene constante.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gj",
+    "question": "La notación científica expresa un número como el producto de un coeficiente 'a' tal que ______ y una potencia de base ______.",
+    "image": null,
+    "options": [
+      { "text": "$1 \\le a < 10$, 10", "correct": true },
+      { "text": "$0 < a < 1$, 10", "correct": false },
+      { "text": "$1 < a \\le 10$, 2", "correct": false },
+      { "text": "$a > 0$, e", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El coeficiente debe tener un solo dígito diferente de cero a la izquierda del punto decimal.",
+    "explanation": "La forma estándar requiere que el coeficiente sea mayor o igual a 1 y estrictamente menor que 10.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gk",
+    "question": "En la proporcionalidad directa, la relación entre las variables $y$ y $x$ se expresa como ______, donde $k$ es la constante de ______.",
+    "image": null,
+    "options": [
+      { "text": "$y = kx$, proporcionalidad", "correct": true },
+      { "text": "$y = k/x$, integración", "correct": false },
+      { "text": "$y = x/k$, variación", "correct": false },
+      { "text": "$xy = k$, equilibrio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una función lineal que pasa por el origen.",
+    "explanation": "La ecuación $y=kx$ modela la proporcionalidad directa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gl",
+    "question": "Relaciona el problema con el tipo de proporcionalidad: A) Repartir un pastel entre más personas toca a menos; B) Comprar el doble de tela cuesta el doble; C) A mayor velocidad, menor tiempo.",
+    "image": null,
+    "options": [
+      { "text": "A-Inversa, B-Directa, C-Inversa", "correct": true },
+      { "text": "A-Directa, B-Inversa, C-Directa", "correct": false },
+      { "text": "A-Inversa, B-Inversa, C-Directa", "correct": false },
+      { "text": "A-Directa, B-Directa, C-Inversa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Analiza si las variables se mueven en la misma dirección (Directa) o en direcciones opuestas (Inversa).",
+    "explanation": "A y C son inversas (más personas-menos pastel; más velocidad-menos tiempo). B es directa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gm",
+    "question": "Tres grifos iguales tardan 10 horas en llenar un depósito. ¿Cuánto tardarían 5 grifos iguales en llenar el mismo depósito?",
+    "image": null,
+    "options": [
+      { "text": "6 horas", "correct": true },
+      { "text": "16 horas", "correct": false },
+      { "text": "15 horas", "correct": false },
+      { "text": "2 horas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "A más grifos, menos tiempo (Inversa). $3 \\times 10 = 30$ horas-grifo.",
+    "explanation": "Total trabajo requerido: 30 horas-grifo. Con 5 grifos: $30 / 5 = 6$ horas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gn",
+    "question": "Si 500 gramos de un químico cuestan $350, ¿cuánto costarán 2.5 kg del mismo químico?",
+    "image": null,
+    "options": [
+      { "text": "$1750", "correct": true },
+      { "text": "$1400", "correct": false },
+      { "text": "$875", "correct": false },
+      { "text": "$700", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Convierte kg a gramos primero (2.5 kg = 2500 g) y usa proporción directa.",
+    "explanation": "2500 g es 5 veces 500 g. El costo será $5 \\times 350 = 1750$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00go",
+    "question": "Simplifica la expresión $(3 \\times 10^4)^3$ y expresa el resultado en notación científica.",
+    "image": null,
+    "options": [
+      { "text": "$2.7 \\times 10^{13}$", "correct": true },
+      { "text": "$9 \\times 10^{12}$", "correct": false },
+      { "text": "$2.7 \\times 10^{7}$", "correct": false },
+      { "text": "$27 \\times 10^{12}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Eleva el coeficiente al cubo y multiplica el exponente por 3. Luego ajusta a notación científica.",
+    "explanation": "$3^3 = 27$. $(10^4)^3 = 10^{12}$. Tenemos $27 \\times 10^{12}$, que se ajusta a $2.7 \\times 10^{13}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gp",
+    "question": "¿Cómo se escribe el número 0.00000482 en notación científica?",
+    "image": null,
+    "options": [
+      { "text": "$4.82 \\times 10^{-6}$", "correct": true },
+      { "text": "$4.82 \\times 10^{-5}$", "correct": false },
+      { "text": "$48.2 \\times 10^{-7}$", "correct": false },
+      { "text": "$4.82 \\times 10^{6}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Cuenta cuántos lugares mueves el punto decimal hacia la derecha hasta pasar el primer dígito no cero.",
+    "explanation": "Se mueve el punto 6 lugares a la derecha, por lo que el exponente es -6.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gq",
+    "question": "Dos engranajes están conectados. El engranaje A tiene 24 dientes y gira a 600 RPM. Si el engranaje B tiene 48 dientes, ¿a qué velocidad gira?",
+    "image": null,
+    "options": [
+      { "text": "300 RPM", "correct": true },
+      { "text": "1200 RPM", "correct": false },
+      { "text": "450 RPM", "correct": false },
+      { "text": "150 RPM", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es proporcionalidad inversa: más dientes, menor velocidad. $D_A \\cdot V_A = D_B \\cdot V_B$.",
+    "explanation": "$24 \\times 600 = 14400$. Velocidad B = $14400 / 48 = 300$ RPM.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gr",
+    "question": "Un poste de 3 metros proyecta una sombra de 1.5 metros. A la misma hora, ¿cuánto mide un edificio que proyecta una sombra de 15 metros?",
+    "image": null,
+    "options": [
+      { "text": "30 metros", "correct": true },
+      { "text": "45 metros", "correct": false },
+      { "text": "7.5 metros", "correct": false },
+      { "text": "20 metros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La altura y la sombra son directamente proporcionales (semejanza de triángulos).",
+    "explanation": "Razón Altura/Sombra = $3 / 1.5 = 2$. Edificio: $H / 15 = 2 \\implies H = 30$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gs",
+    "question": "Resta $1.5 \\times 10^{-4}$ de $6.5 \\times 10^{-4}$.",
+    "image": null,
+    "options": [
+      { "text": "$5.0 \\times 10^{-4}$", "correct": true },
+      { "text": "$5.0 \\times 10^{-8}$", "correct": false },
+      { "text": "$4.0 \\times 10^{-4}$", "correct": false },
+      { "text": "$-5.0 \\times 10^{-4}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Como los exponentes son iguales, simplemente resta los coeficientes.",
+    "explanation": "$6.5 - 1.5 = 5.0$. La base se mantiene: $5.0 \\times 10^{-4}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gt",
+    "question": "Identifica cuáles de los siguientes números están escritos en notación científica correcta.",
+    "image": null,
+    "options": [
+      { "text": "$1.5 \\times 10^3, 9.99 \\times 10^{-2}$", "correct": true },
+      { "text": "$12 \\times 10^5, 0.3 \\times 10^{-1}$", "correct": false },
+      { "text": "$10 \\times 10^2, 5.5 \\times 10^{1.5}$", "correct": false },
+      { "text": "$2.4 \\times 5^3, 1.0 \\times 100$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda: coeficiente entre 1 y 9.99..., base 10, exponente entero.",
+    "explanation": "La opción correcta tiene coeficientes $1 \\le a < 10$. Las otras tienen coeficientes incorrectos (12, 0.3, 10) o base incorrecta.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gu",
+    "question": "La gráfica de una proporcionalidad inversa $y = k/x$ corresponde a una curva llamada ______ que nunca toca los ejes coordenados.",
+    "image": null,
+    "options": [
+      { "text": "hipérbola", "correct": true },
+      { "text": "parábola", "correct": false },
+      { "text": "línea recta", "correct": false },
+      { "text": "elipse", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una curva discontinua con dos ramas.",
+    "explanation": "La función recíproca o inversa genera una hipérbola equilátera.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gv",
+    "question": "La gráfica de una proporcionalidad directa es siempre una línea ______ que pasa por el ______.",
+    "image": null,
+    "options": [
+      { "text": "recta, origen", "correct": true },
+      { "text": "curva, origen", "correct": false },
+      { "text": "recta, infinito", "correct": false },
+      { "text": "parábola, vértice", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si $x=0$, entonces $y=0$ en $y=kx$.",
+    "explanation": "La relación lineal sin ordenada al origen caracteriza la proporcionalidad directa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gw",
+    "question": "Para multiplicar números en notación científica, se ______ los coeficientes y se ______ los exponentes.",
+    "image": null,
+    "options": [
+      { "text": "multiplican, suman", "correct": true },
+      { "text": "suman, multiplican", "correct": false },
+      { "text": "multiplican, multiplican", "correct": false },
+      { "text": "dividen, restan", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Reglas de los exponentes: $a^m \\cdot a^n = a^{m+n}$.",
+    "explanation": "Se aplica la aritmética básica a los coeficientes y las leyes de exponentes a la base 10.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gx",
+    "question": "Relaciona el número estándar con su notación científica correcta: A) 3400, B) 0.034, C) 340; I) $3.4 \\times 10^2$, II) $3.4 \\times 10^3$, III) $3.4 \\times 10^{-2}$",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-III, C-I", "correct": true },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-III, B-I, C-II", "correct": false },
+      { "text": "A-II, B-I, C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "3400 -> punto 3 lugares izq. 0.034 -> punto 2 lugares der.",
+    "explanation": "A ($3.4 \\times 10^3$), B ($3.4 \\times 10^{-2}$), C ($3.4 \\times 10^2$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gy",
+    "question": "Para hacer 20 galletas se necesitan 150g de azúcar. ¿Cuánta azúcar se necesita para hacer 35 galletas?",
+    "image": null,
+    "options": [
+      { "text": "262.5 g", "correct": true },
+      { "text": "300 g", "correct": false },
+      { "text": "225 g", "correct": false },
+      { "text": "250 g", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Proporcionalidad directa. $150/20 = 7.5$ gramos por galleta.",
+    "explanation": "$7.5 \\text{ g/galleta} \\times 35 \\text{ galletas} = 262.5 \\text{ g}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00gz",
+    "question": "En un campamento hay comida para 12 personas durante 10 días. Si llegan 3 personas más (total 15), ¿para cuántos días alcanzará la comida?",
+    "image": null,
+    "options": [
+      { "text": "8 días", "correct": true },
+      { "text": "12.5 días", "correct": false },
+      { "text": "6 días", "correct": false },
+      { "text": "9 días", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Inversa: más personas, menos días. $12 \\times 10 = 120$ raciones.",
+    "explanation": "Total raciones = 120. Con 15 personas: $120 / 15 = 8$ días.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ha",
+    "question": "La luz viaja aproximadamente a $3.0 \\times 10^5$ km/s. ¿Qué distancia recorre en un año (aprox. $3.15 \\times 10^7$ segundos)?",
+    "image": null,
+    "options": [
+      { "text": "$9.45 \\times 10^{12}$ km", "correct": true },
+      { "text": "$9.45 \\times 10^{15}$ km", "correct": false },
+      { "text": "$6.15 \\times 10^{12}$ km", "correct": false },
+      { "text": "$1.05 \\times 10^{-2}$ km", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica velocidad por tiempo. Suma exponentes 5 y 7.",
+    "explanation": "$(3.0 \\times 3.15) \\times 10^{5+7} = 9.45 \\times 10^{12}$ km.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hb",
+    "question": "La masa de un protón es aprox. $1.67 \\times 10^{-27}$ kg. ¿Cuál es la masa total de $1 \\times 10^{20}$ protones?",
+    "image": null,
+    "options": [
+      { "text": "$1.67 \\times 10^{-7}$ kg", "correct": true },
+      { "text": "$1.67 \\times 10^{-47}$ kg", "correct": false },
+      { "text": "$1.67 \\times 10^{7}$ kg", "correct": false },
+      { "text": "$2.67 \\times 10^{-7}$ kg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica la masa individual por la cantidad.",
+    "explanation": "$1.67 \\times 10^{-27} \\times 10^{20} = 1.67 \\times 10^{-27+20} = 1.67 \\times 10^{-7}$ kg.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hc",
+    "question": "Un coche gasta 8 litros de gasolina cada 100 km. ¿Cuántos km puede recorrer con 20 litros?",
+    "image": null,
+    "options": [
+      { "text": "250 km", "correct": true },
+      { "text": "160 km", "correct": false },
+      { "text": "200 km", "correct": false },
+      { "text": "220 km", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Rendimiento: 100km/8L = 12.5 km/L. O regla de tres.",
+    "explanation": "Regla de tres: $(20 \\times 100) / 8 = 2000 / 8 = 250$ km.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hd",
+    "question": "La longitud de onda ($\\lambda$) y la frecuencia ($f$) son inversamente proporcionales ($c = \\lambda f$). Si una onda tiene $f=100$ Hz y $\\lambda=3$ m, ¿cuál es $\\lambda$ si $f=200$ Hz?",
+    "image": null,
+    "options": [
+      { "text": "1.5 m", "correct": true },
+      { "text": "6 m", "correct": false },
+      { "text": "1.0 m", "correct": false },
+      { "text": "0.5 m", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si la frecuencia se duplica, la longitud de onda se reduce a la mitad.",
+    "explanation": "Producto constante: $100 \\times 3 = 300$. Nuevo $\\lambda = 300 / 200 = 1.5$ m.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00he",
+    "question": "Ordena de menor a mayor: A) $2.5 \\times 10^{-3}$, B) $2.5 \\times 10^{-4}$, C) $1.5 \\times 10^{-3}$.",
+    "image": null,
+    "options": [
+      { "text": "B < C < A", "correct": true },
+      { "text": "A < B < C", "correct": false },
+      { "text": "C < B < A", "correct": false },
+      { "text": "B < A < C", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Compara primero los exponentes. Si son iguales, compara coeficientes. $-4$ es menor que $-3$.",
+    "explanation": "$10^{-4}$ es el orden menor, así que B es el menor. Entre A y C (ambos $-3$), $1.5 < 2.5$. Orden: B, C, A.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hf",
+    "question": "Selecciona las situaciones que modelan una proporcionalidad inversa.",
+    "image": null,
+    "options": [
+      { "text": "Velocidad y tiempo para una distancia fija, Presión y volumen (gas ideal a T cte)", "correct": true },
+      { "text": "Cantidad comprada y precio a pagar, Masa y peso", "correct": false },
+      { "text": "Horas de estudio y calificación (generalmente), Lado y perímetro", "correct": false },
+      { "text": "Radio y circunferencia, Voltaje y corriente (Resistencia cte)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Busca dónde al aumentar una variable, la otra disminuye necesariamente.",
+    "explanation": "Velocidad-tiempo y Presión-Volumen (Ley de Boyle) son ejemplos clásicos de inversa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hg",
+    "question": "La ecuación $xy = 24$ representa una relación de proporcionalidad ______, donde 24 es la ______.",
+    "image": null,
+    "options": [
+      { "text": "inversa, constante", "correct": true },
+      { "text": "directa, variable", "correct": false },
+      { "text": "lineal, pendiente", "correct": false },
+      { "text": "exponencial, base", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si el producto es constante, es inversa.",
+    "explanation": "El producto constante $k=24$ define la inversa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hh",
+    "question": "Un exponente negativo $10^{-n}$ indica que el número es ______ y equivale a la fracción ______.",
+    "image": null,
+    "options": [
+      { "text": "pequeño (entre 0 y 1), $1/10^n$", "correct": true },
+      { "text": "negativo, $-n/10$", "correct": false },
+      { "text": "grande, $10^n/1$", "correct": false },
+      { "text": "imaginario, $1/n$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Ejemplo $10^{-1} = 0.1 = 1/10$.",
+    "explanation": "La notación científica con exponente negativo denota números decimales menores a 1 (positivos).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hi",
+    "question": "Para encontrar la constante de proporcionalidad directa $k$ en una tabla de datos, se divide ______ entre ______ para cada par de valores.",
+    "image": null,
+    "options": [
+      { "text": "$y, x$", "correct": true },
+      { "text": "$x, y$", "correct": false },
+      { "text": "$y, x^2$", "correct": false },
+      { "text": "$x, y^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "De la ecuación $y = kx$, despeja $k$.",
+    "explanation": "$k = y/x$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hj",
+    "question": "Relaciona la operación con su resultado aproximado: A) $(2\\times10^3)(3\\times10^2)$, B) $(6\\times10^6)/(2\\times10^2)$, C) $(2\\times10^2)^3$.",
+    "image": null,
+    "options": [
+      { "text": "A-$6\\times10^5$, B-$3\\times10^4$, C-$8\\times10^6$", "correct": true },
+      { "text": "A-$5\\times10^5$, B-$3\\times10^3$, C-$6\\times10^6$", "correct": false },
+      { "text": "A-$6\\times10^6$, B-$3\\times10^8$, C-$8\\times10^5$", "correct": false },
+      { "text": "A-$5\\times10^6$, B-$4\\times10^4$, C-$2\\times10^6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "A: Suma exp 3+2. B: Resta exp 6-2. C: Mult exp 2*3 y cubo de 2.",
+    "explanation": "A: $6 \\times 10^5$. B: $3 \\times 10^4$. C: $8 \\times 10^6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hk",
+    "question": "Según la Ley de Boyle, para un gas a temperatura constante, $P_1 V_1 = P_2 V_2$. Si un gas ocupa 4 L a 2 atm, ¿qué volumen ocupará a 4 atm?",
+    "image": null,
+    "options": [
+      { "text": "2 L", "correct": true },
+      { "text": "8 L", "correct": false },
+      { "text": "1 L", "correct": false },
+      { "text": "6 L", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Al duplicar la presión, el volumen se reduce a la mitad (inversa).",
+    "explanation": "$2 \\text{ atm} \\times 4 \\text{ L} = 8$. Volumen nuevo = $8 / 4 \\text{ atm} = 2 \\text{ L}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hl",
+    "question": "Si el tipo de cambio es 1 USD = 20 MXN, ¿cuántos dólares recibes por 5000 MXN?",
+    "image": null,
+    "options": [
+      { "text": "250 USD", "correct": true },
+      { "text": "100 USD", "correct": false },
+      { "text": "200 USD", "correct": false },
+      { "text": "500 USD", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Divide la cantidad de pesos entre el precio del dólar.",
+    "explanation": "$5000 / 20 = 250$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hm",
+    "question": "Simplifica la fracción compleja: $\\frac{4 \\times 10^{-3}}{2 \\times 10^{-5}}$.",
+    "image": null,
+    "options": [
+      { "text": "$2 \\times 10^2$", "correct": true },
+      { "text": "$2 \\times 10^{-8}$", "correct": false },
+      { "text": "$2 \\times 10^{-2}$", "correct": false },
+      { "text": "$0.5 \\times 10^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Resta exponentes: $-3 - (-5) = -3 + 5$.",
+    "explanation": "$4/2 = 2$. Exponente: $-3 + 5 = 2$. Resultado $2 \\times 10^2$ (o 200).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hn",
+    "question": "Estima el orden de magnitud del producto $(8.1 \\times 10^4) \\times (5.9 \\times 10^3)$.",
+    "image": null,
+    "options": [
+      { "text": "$10^8$ (aprox)", "correct": true },
+      { "text": "$10^7$ (aprox)", "correct": false },
+      { "text": "$10^9$ (aprox)", "correct": false },
+      { "text": "$10^{12}$ (aprox)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "$8 \\times 6 \\approx 48$, que es $4.8 \\times 10^1$. Suma eso a los exponentes $4+3$.",
+    "explanation": "Coeficientes $\\approx 48 = 4.8 \\times 10^1$. Exponentes $10^7$. Total $\\approx 10^1 \\times 10^7 = 10^8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ho",
+    "question": "En una palanca, la fuerza ($F$) y la distancia al fulcro ($d$) son inversamente proporcionales para mantener el equilibrio ($F_1 d_1 = F_2 d_2$). Si aplicas 50 N a 2 m, ¿qué fuerza necesitas a 0.5 m?",
+    "image": null,
+    "options": [
+      { "text": "200 N", "correct": true },
+      { "text": "100 N", "correct": false },
+      { "text": "25 N", "correct": false },
+      { "text": "12.5 N", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Al reducir la distancia a la cuarta parte, la fuerza se cuadruplica.",
+    "explanation": "Momento constante: $50 \\times 2 = 100$. Fuerza nueva: $100 / 0.5 = 200$ N.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hp",
+    "question": "La masa de un objeto es directamente proporcional a su volumen (densidad constante). Si 10 $cm^3$ de oro pesan 193 g, ¿cuánto pesan 5 $cm^3$?",
+    "image": null,
+    "options": [
+      { "text": "96.5 g", "correct": true },
+      { "text": "386 g", "correct": false },
+      { "text": "100 g", "correct": false },
+      { "text": "193 g", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La mitad del volumen corresponde a la mitad del peso.",
+    "explanation": "$193 / 2 = 96.5$ g.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hq",
+    "question": "Calcula la raíz cuadrada de $9 \times 10^{16}$.",
+    "image": null,
+    "options": [
+      { "text": "$3 \\times 10^8$", "correct": true },
+      { "text": "$3 \\times 10^4$", "correct": false },
+      { "text": "$81 \\times 10^8$", "correct": false },
+      { "text": "$4.5 \\times 10^8$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Raíz del coeficiente y mitad del exponente.",
+    "explanation": "$\\sqrt{9} = 3$. Exponente: $16 / 2 = 8$. Resultado $3 \\times 10^8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hr",
+    "question": "Identifica qué par de valores (x, y) pertenece a la relación de proporcionalidad directa $y = 5x$.",
+    "image": null,
+    "options": [
+      { "text": "(2, 10), (3, 15)", "correct": true },
+      { "text": "(2, 7), (3, 8)", "correct": false },
+      { "text": "(5, 1), (10, 2)", "correct": false },
+      { "text": "(1, 5), (2, 2.5)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sustituye x en la ecuación y verifica y.",
+    "explanation": "Si $x=2$, $y=5(2)=10$. Si $x=3$, $y=5(3)=15$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hs",
+    "question": "En una proporción $\\frac{a}{b} = \\frac{c}{d}$, la propiedad fundamental establece que el producto de los ______ es igual al producto de los ______ ($a \\cdot d = b \\cdot c$).",
+    "image": null,
+    "options": [
+      { "text": "extremos, medios", "correct": true },
+      { "text": "numeradores, denominadores", "correct": false },
+      { "text": "sumandos, restandos", "correct": false },
+      { "text": "antecedentes, consecuentes (en resta)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es la base de la 'multiplicación cruzada'.",
+    "explanation": "Se conocen como extremos a 'a' y 'd', y medios a 'b' y 'c'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00ht",
+    "question": "En la proporcionalidad inversa, la constante de proporcionalidad $k$ se obtiene mediante la operación de ______ entre las variables.",
+    "image": null,
+    "options": [
+      { "text": "multiplicación", "correct": true },
+      { "text": "división", "correct": false },
+      { "text": "suma", "correct": false },
+      { "text": "potenciación", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda la fórmula $y = k/x$, despeja $k$.",
+    "explanation": "$k = x \\cdot y$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hu",
+    "question": "Al sumar o restar en notación científica, el resultado debe redondearse según el término con ______ precisión (menor número de decimales), respetando las cifras significativas.",
+    "image": null,
+    "options": [
+      { "text": "menor", "correct": true },
+      { "text": "mayor", "correct": false },
+      { "text": "absoluta", "correct": false },
+      { "text": "infinita", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "No puedes tener más precisión que tu medida menos precisa.",
+    "explanation": "El resultado no puede ser más preciso que el componente menos preciso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00hv",
+    "question": "Relaciona la descripción gráfica con el tipo de relación: A) Línea recta que pasa por el origen, B) Hipérbola en el primer cuadrante.",
+    "image": null,
+    "options": [
+      { "text": "A-Proporcionalidad Directa, B-Proporcionalidad Inversa", "correct": true },
+      { "text": "A-Proporcionalidad Inversa, B-Proporcionalidad Directa", "correct": false },
+      { "text": "A-Ecuación Cuadrática, B-Ecuación Lineal", "correct": false },
+      { "text": "A-Constante, B-Exponencial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recta = $y=kx$. Hipérbola = $y=k/x$.",
+    "explanation": "La recta por el origen es la firma de la directa; la curva decreciente (hipérbola) es la inversa.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
