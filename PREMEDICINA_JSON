@@ -737,7 +737,7 @@
     "options": [
       { "text": "A-II; B-III; C-I", "correct": true },
       { "text": "A-I; B-II; C-III", "correct": false },
-      { "text": "A-III; B-I; C-II", "correct: false },
+      { "text": "A-III; B-I; C-II", "correct": false },
       { "text": "A-II; B-I; C-III", "correct": false }
     ],
     "uni_tags": ["GENERAL"],
