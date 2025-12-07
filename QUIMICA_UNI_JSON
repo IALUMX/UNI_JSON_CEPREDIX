@@ -256,7 +256,7 @@
   },
   {
     "id": "QUI00ap",
-    "question": "Calcula el calor necesario para elevar la temperatura de $100 \\text{ g}$ de agua de $20^\\circ C$ a $25^\\circ C$. (Calor específico del agua $c_e = 1 \\text{ cal/g}^\circ C$).",
+    "question": "Calcula el calor necesario para elevar la temperatura de $100 \\text{ g}$ de agua de $20°C$ a $25°C$. (Calor espec\u00edfico del agua $c_e = 1 \\text{ cal/g}°C$).",
     "image": null,
     "options": [
       { "text": "500 cal", "correct": true },
