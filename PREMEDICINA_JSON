@@ -1239,5 +1239,1263 @@
     "explanation": "Los mecanismos de defensa inespecíficos o innatos son aquellos con los que se nace y que responden de manera general a cualquier patógeno. Incluyen: Barreras físicas y químicas (piel, mucosas, pH gástrico), células fagocíticas (neutrófilos, macrófagos), la respuesta inflamatoria, proteínas del complemento y fiebre. La producción de anticuerpos (1) y la memoria inmunológica (4) son características de la inmunidad específica o adaptativa, que es más lenta, específica para cada patógeno y genera memoria.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "PRE00bV",
+    "question": "Identifique el ejemplo de lesión causada por un agente físico.",
+    "image": null,
+    "options": [
+      { "text": "Úlceras corneales por exposición a las soldaduras sin protección ocular", "correct": true },
+      { "text": "Úlcera gástrica ocasionada por Helicobacter pylori", "correct": false },
+      { "text": "Esofagitis ocasionada por beber un producto de limpieza", "correct": false },
+      { "text": "Intoxicación por inhalación de vapores de mercurio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Los agentes físicos suelen ser formas de energía (calor, radiación, ruido) o fuerzas mecánicas.",
+    "explanation": "Los agentes causales se clasifican en biológicos, químicos y físicos. Helicobacter pylori es biológico; los productos de limpieza y el mercurio son químicos. La radiación ultravioleta y térmica de la soldadura es un agente físico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00bW",
+    "question": "¿Cuál es la definición de historia natural de la enfermedad emitida por la OPS?",
+    "image": null,
+    "options": [
+      { "text": "Curso de la afección desde el inicio hasta su resolución", "correct": true },
+      { "text": "Momento en el que el padecimiento inicia sus manifestaciones clínicas", "correct": false },
+      { "text": "Curso de la afección que comprende signos, síntomas, complicaciones y recuperación", "correct": false },
+      { "text": "Estudio estadístico de las causas de muerte en una población", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "El concepto abarca la evolución completa del proceso sin intervención médica.",
+    "explanation": "La Historia Natural de la Enfermedad se define como la evolución de un proceso patológico sin intervención médica, desde que empieza hasta su fin (recuperación, cronicidad o muerte). La opción correcta engloba todo el proceso, no solo la etapa clínica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00bX",
+    "question": "Un individuo asintomático y sin antecedentes de vacunas, que ha convivido en la misma habitación con un enfermo de sarampión, se encuentra en el periodo _______ de la historia natural de la enfermedad.",
+    "image": null,
+    "options": [
+      { "text": "prepatogénico", "correct": true },
+      { "text": "subclínico", "correct": false },
+      { "text": "de incubación", "correct": false },
+      { "text": "de resolución", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "En esta fase interactúa la tríada ecológica (Agente, Huésped y Ambiente) antes de que se inicie la patología.",
+    "explanation": "El periodo prepatogénico precede a las manifestaciones y cambios tisulares de la enfermedad. Al convivir con el enfermo, el individuo está en la fase de riesgo y exposición a los factores antes de romperse el equilibrio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00bY",
+    "question": "¿A qué nivel de prevención corresponde el lavado de manos para prevenir la salmonelosis?",
+    "image": null,
+    "options": [
+      { "text": "Primaria", "correct": true },
+      { "text": "Secundaria", "correct": false },
+      { "text": "Terciaria", "correct": false },
+      { "text": "Cuaternaria", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Busca evitar la aparición de la enfermedad (disminuir incidencia) mediante protección específica.",
+    "explanation": "La Prevención Primaria busca evitar que la enfermedad aparezca. El lavado de manos es una medida de promoción de la salud y protección específica destinada a evitar la infección inicial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00bZ",
+    "question": "¿Cuál definición corresponde con la que emite la OMS para el concepto de salud?",
+    "image": null,
+    "options": [
+      { "text": "Estado de completo bienestar social, físico y mental que posee un individuo", "correct": true },
+      { "text": "Condición existente ante la ausencia de padecimientos y discapacidades de una persona", "correct": false },
+      { "text": "Adaptación dinámica al ambiente que permite un óptimo funcionamiento individual", "correct": false },
+      { "text": "Capacidad del organismo para mantener la homeostasis frente a agresores externos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Recuerda la definición de 1948: '...y no solamente la ausencia de afecciones o enfermedades'.",
+    "explanation": "La definición clásica de la OMS establece que la salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ca",
+    "question": "¿Cuál de las definiciones corresponde a la de enfermedad emitida por la OMS?",
+    "image": null,
+    "options": [
+      { "text": "Desviación del estado fisiológico por causas generalmente conocidas, cuya evolución es previsible", "correct": true },
+      { "text": "Herida o daño en los tejidos de un organismo que puede ser de tipo físico o psíquico", "correct": false },
+      { "text": "Fase que atraviesan los seres vivos cuando padecen una afección que atenta contra su bienestar y modifica su salud", "correct": false },
+      { "text": "Alteración del material genético que provoca malformaciones congénitas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Implica una alteración fisiológica con etiología conocida y curso predecible.",
+    "explanation": "La enfermedad se define como la desviación del estado fisiológico por causas generalmente conocidas, manifestada por síntomas y signos característicos, y cuya evolución es más o menos previsible.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cb",
+    "question": "¿Cuál es un elemento de la tríada ecológica?",
+    "image": null,
+    "options": [
+      { "text": "Hospedero", "correct": true },
+      { "text": "Patología", "correct": false },
+      { "text": "Alteración", "correct": false },
+      { "text": "Virulencia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Los tres elementos son Agente, Medio Ambiente y...",
+    "explanation": "La tríada ecológica está compuesta por tres elementos fundamentales: Agente (quien causa), Huésped u Hospedero (quien recibe) y Medio Ambiente (donde ocurre).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cc",
+    "question": "La Salmonella typhi requiere que las personas funcionen como un hábitat en donde puede crecer y reproducirse para que tenga la capacidad de provocar enfermedad. ¿A qué eslabón de la cadena epidemiológica hace referencia el ejemplo?",
+    "image": null,
+    "options": [
+      { "text": "Reservorio", "correct": true },
+      { "text": "Mecanismo de transmisión", "correct": false },
+      { "text": "Puerta de entrada", "correct": false },
+      { "text": "Puerta de salida", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Es el lugar natural donde vive y se multiplica el agente infeccioso.",
+    "explanation": "El reservorio es el hábitat natural (humano, animal, etc.) donde vive el agente infeccioso, se multiplica y del cual depende para su supervivencia. En este caso, las personas son el reservorio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cd",
+    "question": "De acuerdo con los términos anatómicos direccionales, las costillas guardan una posición _______ y _______ en la región del tórax.",
+    "image": null,
+    "options": [
+      { "text": "anterior - lateral", "correct": true },
+      { "text": "medial - distal", "correct": false },
+      { "text": "medial - inferior", "correct": false },
+      { "text": "posterior - proximal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Visualiza la caja torácica: se expande hacia los lados y se cierra hacia el frente.",
+    "explanation": "Las costillas ocupan una posición lateral (a los lados) y se curvan hacia anterior (hacia el frente) para unirse al esternón. Medial se refiere a la línea media.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ce",
+    "question": "Es un componente del sistema nervioso periférico.",
+    "image": null,
+    "options": [
+      { "text": "Nervio espinal", "correct": true },
+      { "text": "Cerebelo", "correct": false },
+      { "text": "Médula espinal", "correct": false },
+      { "text": "Diencéfalo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "El Sistema Nervioso Central (SNC) incluye encéfalo y médula. El periférico conecta el SNC con los miembros y órganos.",
+    "explanation": "El Sistema Nervioso Periférico (SNP) incluye los nervios (craneales y espinales) y ganglios. El cerebelo, médula espinal y diencéfalo son partes del Sistema Nervioso Central.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cf",
+    "question": "Identifique la función que lleva a cabo el sistema nervioso.",
+    "image": null,
+    "options": [
+      { "text": "Controla el reflejo de la náusea", "correct": true },
+      { "text": "Sirve de barrera con el exterior", "correct": false },
+      { "text": "Realiza la masticación", "correct": false },
+      { "text": "Filtra la sangre para producir orina", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "El sistema nervioso regula respuestas involuntarias y reflejos.",
+    "explanation": "La náusea es un reflejo controlado por el centro del vómito en el sistema nervioso (bulbo raquídeo). La barrera es la piel (tegumentario), la masticación es muscular y la filtración renal es del sistema urinario.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cg",
+    "question": "¿Qué función realiza la hormona tiroidea?",
+    "image": null,
+    "options": [
+      { "text": "Estimular la termogénesis", "correct": true },
+      { "text": "Permitir el aumento de la síntesis proteica muscular de forma directa", "correct": false },
+      { "text": "Permitir el aprovechamiento de la glucosa disminuyendo la glucemia", "correct": false },
+      { "text": "Regular el ciclo circadiano del sueño", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Incrementa el metabolismo basal y la producción de calor.",
+    "explanation": "Las hormonas tiroideas estimulan el metabolismo de la mayoría de las células del cuerpo, aumentando la producción de calor (termogénesis) y el consumo de oxígeno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ch",
+    "question": "¿Qué dato clínico corresponde a un síntoma?",
+    "image": null,
+    "options": [
+      { "text": "Cansancio", "correct": true },
+      { "text": "Aparición de un tumor de grasa", "correct": false },
+      { "text": "Presión arterial alta", "correct": false },
+      { "text": "Eritema (enrojecimiento)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "El síntoma es subjetivo, solo el paciente lo siente.",
+    "explanation": "El síntoma es una manifestación subjetiva (ej. dolor, cansancio, mareo) que refiere el paciente. Los signos (tumor, presión, enrojecimiento) son objetivos y observables por el médico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ci",
+    "question": "Un paciente adulto acude a consulta con los siguientes signos: tensión arterial de $120/80 \\text{ mmHg}$, temperatura de $37.1^{\\circ}C$ y frecuencia respiratoria de $21 \\text{ rpm}$. ¿Cuál de los signos corresponde a un parámetro fuera de la normalidad?",
+    "image": null,
+    "options": [
+      { "text": "Frecuencia respiratoria", "correct": true },
+      { "text": "Tensión arterial", "correct": false },
+      { "text": "Temperatura", "correct": false },
+      { "text": "Ninguno, todos son normales", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "La frecuencia respiratoria normal en adultos en reposo es de 12 a 20 respiraciones por minuto.",
+    "explanation": "$120/80 \\text{ mmHg}$ y $37.1^{\\circ}C$ son valores normales. $21 \\text{ rpm}$ indica una frecuencia respiratoria elevada (taquipnea leve), ya que el rango superior es 20.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cj",
+    "question": "En la historia natural de la enfermedad, el periodo ______ se caracteriza por la aparición de signos y síntomas específicos, permitiendo un diagnóstico clínico, mientras que el periodo ______ ocurre antes de que el agente rompa el equilibrio del huésped.",
+    "image": null,
+    "options": [
+      { "text": "Patogénico, prepatogénico", "correct": true },
+      { "text": "De incubación, clínico", "correct": false },
+      { "text": "Prepatogénico, patogénico", "correct": false },
+      { "text": "De resolución, subclínico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El primer espacio se refiere a la fase de enfermedad manifiesta, el segundo a la fase de riesgo.",
+    "explanation": "El periodo patogénico incluye la fase sintomática. El periodo prepatogénico es la fase previa a la enfermedad donde interactúa la tríada ecológica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ck",
+    "question": "¿Qué tipo de inmunidad se adquiere a través de la vacunación?",
+    "image": null,
+    "options": [
+      { "text": "Activa artificial", "correct": true },
+      { "text": "Pasiva natural", "correct": false },
+      { "text": "Activa natural", "correct": false },
+      { "text": "Pasiva artificial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El cuerpo produce sus propios anticuerpos (activa) pero el estímulo fue introducido médicamente (artificial).",
+    "explanation": "Es 'Activa' porque el sistema inmune del individuo genera los anticuerpos y memoria, y es 'Artificial' porque el antígeno se introduce mediante una vacuna, no por infección natural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cl",
+    "question": "Relaciona los planos anatómicos con la división del cuerpo que realizan: A) Sagital, B) Coronal, C) Transversal; I) Superior e Inferior, II) Derecha e Izquierda, III) Anterior y Posterior.",
+    "image": null,
+    "options": [
+      { "text": "A-II; B-III; C-I", "correct": true },
+      { "text": "A-III; B-II; C-I", "correct": false },
+      { "text": "A-I; B-III; C-II", "correct": false },
+      { "text": "A-II; B-I; C-III", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sagital pasa por la línea media (D/I), Coronal como una corona (A/P), Transversal cruza el cuerpo (Sup/Inf).",
+    "explanation": "Plano Sagital divide en derecha/izquierda. Plano Coronal (o Frontal) divide en anterior/posterior. Plano Transversal (o Axial) divide en superior/inferior.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cm",
+    "question": "Son ejemplos de agentes causales biológicos:",
+    "image": null,
+    "options": [
+      { "text": "Bacterias, virus, hongos", "correct": true },
+      { "text": "Pesticidas, ácidos, gases", "correct": false },
+      { "text": "Radiación, ruido, calor", "correct": false },
+      { "text": "Bacterias, radiación, plomo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Deben ser organismos vivos o partículas virales.",
+    "explanation": "Los agentes biológicos son organismos vivos (como bacterias y hongos) o virus capaces de causar enfermedad. Los otros grupos corresponden a agentes químicos o físicos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cn",
+    "question": "El organelo celular encargado de la respiración celular y producción de ATP es:",
+    "image": null,
+    "options": [
+      { "text": "Mitocondria", "correct": true },
+      { "text": "Ribosoma", "correct": false },
+      { "text": "Aparato de Golgi", "correct": false },
+      { "text": "Lisosoma", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se le conoce como la 'central energética' de la célula.",
+    "explanation": "La mitocondria realiza la respiración celular aerobia, proceso mediante el cual se genera la mayor cantidad de energía en forma de ATP.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00co",
+    "question": "Identifique el tejido conectivo especializado que transporta oxígeno y nutrientes a través del cuerpo.",
+    "image": null,
+    "options": [
+      { "text": "Sangre", "correct": true },
+      { "text": "Cartílago", "correct": false },
+      { "text": "Hueso", "correct": false },
+      { "text": "Adiposo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es un tejido líquido compuesto por plasma y células (eritrocitos, leucocitos).",
+    "explanation": "La sangre es considerada un tejido conectivo especializado fluido, cuya función principal es el transporte de gases, nutrientes y desechos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cp",
+    "question": "La hemostasia es el proceso fisiológico que detiene el sangrado. ¿Qué célula sanguínea es fundamental para este proceso?",
+    "image": null,
+    "options": [
+      { "text": "Plaquetas (Trombocitos)", "correct": true },
+      { "text": "Glóbulos rojos (Eritrocitos)", "correct": false },
+      { "text": "Neutrófilos", "correct": false },
+      { "text": "Linfocitos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Son fragmentos celulares que forman el tapón inicial en una herida.",
+    "explanation": "Las plaquetas o trombocitos son responsables de la coagulación y formación del tapón hemostático para detener hemorragias.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cq",
+    "question": "El ______ es la unidad funcional del riñón, encargada de filtrar la sangre y producir orina.",
+    "image": null,
+    "options": [
+      { "text": "Nefrona", "correct": true },
+      { "text": "Neurona", "correct": false },
+      { "text": "Alvéolo", "correct": false },
+      { "text": "Hepatocito", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su nombre es similar a 'neurona' pero con 'f' de filtro (aunque la etimología es griega 'nephros').",
+    "explanation": "La nefrona es la unidad estructural y funcional básica del riñón. La neurona es del sistema nervioso, el alvéolo del respiratorio y el hepatocito del hígado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cr",
+    "question": "Un estudiante del CEPREDIX investiga una enfermedad genética recesiva. Si ambos padres son portadores heterocigotos ($Aa$), ¿cuál es la probabilidad de que su hijo manifieste la enfermedad ($aa$)?",
+    "image": null,
+    "options": [
+      { "text": "25%", "correct": true },
+      { "text": "50%", "correct": false },
+      { "text": "75%", "correct": false },
+      { "text": "0%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Realiza un cuadro de Punnett cruzando Aa x Aa. La enfermedad solo se expresa en homocigotos recesivos.",
+    "explanation": "Al cruzar $Aa \\times Aa$, las combinaciones son: $AA$ (25%), $Aa$ (50%), $aa$ (25%). Solo el genotipo $aa$ manifiesta la enfermedad recesiva. Por tanto, la probabilidad es del 25% (1/4).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cs",
+    "question": "¿Cuál es la función principal de la insulina en el cuerpo humano?",
+    "image": null,
+    "options": [
+      { "text": "Disminuir los niveles de glucosa en sangre permitiendo su entrada a las células", "correct": true },
+      { "text": "Aumentar los niveles de glucosa en sangre degradando glucógeno", "correct": false },
+      { "text": "Regular la concentración de calcio en los huesos", "correct": false },
+      { "text": "Estimular la producción de glóbulos rojos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una hormona producida por el páncreas que actúa cuando el azúcar en sangre está alto.",
+    "explanation": "La insulina facilita la entrada de glucosa a las células para ser usada como energía, reduciendo así la glucemia. El glucagón hace lo contrario (aumenta glucosa).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ct",
+    "question": "En la anatomía del corazón, la sangre desoxigenada ingresa a la aurícula ______ a través de las venas cavas y pasa al ventrículo ______.",
+    "image": null,
+    "options": [
+      { "text": "Derecha, derecho", "correct": true },
+      { "text": "Izquierda, izquierdo", "correct": false },
+      { "text": "Derecha, izquierdo", "correct": false },
+      { "text": "Izquierda, derecho", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El lado derecho del corazón maneja sangre venosa (desoxigenada) hacia los pulmones.",
+    "explanation": "La circulación pulmonar inicia en el lado derecho. La sangre pobre en oxígeno llega a la aurícula derecha, pasa al ventrículo derecho y de ahí se bombea a los pulmones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cu",
+    "question": "Identifique la estructura que NO pertenece al sistema respiratorio.",
+    "image": null,
+    "options": [
+      { "text": "Esófago", "correct": true },
+      { "text": "Tráquea", "correct": false },
+      { "text": "Bronquios", "correct": false },
+      { "text": "Faringe", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es un conducto muscular que transporta alimentos, no aire.",
+    "explanation": "El esófago es parte del sistema digestivo. La tráquea, bronquios y faringe (compartida, pero funcionalmente respiratoria) son vías aéreas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cv",
+    "question": "Un paciente debe tomar un medicamento a una dosis de $15 \\text{ mg/kg}$ de peso corporal. Si el paciente pesa $60 \\text{ kg}$, ¿cuántos miligramos debe ingerir?",
+    "image": null,
+    "options": [
+      { "text": "900 mg", "correct": true },
+      { "text": "400 mg", "correct": false },
+      { "text": "750 mg", "correct": false },
+      { "text": "600 mg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Multiplica la dosis unitaria por el peso total del paciente.",
+    "explanation": "Se realiza una multiplicación directa: $15 \\text{ mg/kg} \\times 60 \\text{ kg} = 900 \\text{ mg}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cw",
+    "question": "Calcula el Índice de Masa Corporal (IMC) de una persona que pesa $80 \\text{ kg}$ y mide $1.60 \\text{ m}$.",
+    "image": null,
+    "options": [
+      { "text": "31.25", "correct": true },
+      { "text": "25.00", "correct": false },
+      { "text": "28.50", "correct": false },
+      { "text": "50.00", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "La fórmula del IMC es $IMC = \\frac{\\text{peso (kg)}}{\\text{altura (m)}^2}$.",
+    "explanation": "Primero elevamos la altura al cuadrado: $1.60^2 = 2.56$. Luego dividimos el peso entre este valor: $80 / 2.56 = 31.25$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cx",
+    "question": "Un estudiante del CEPREDIX está preparando una solución salina. Si necesita preparar $500 \\text{ mL}$ de solución al $0.9\\% \\text{ p/v}$ (peso/volumen), ¿cuántos gramos de sal ($NaCl$) necesita?",
+    "image": null,
+    "options": [
+      { "text": "4.5 g", "correct": true },
+      { "text": "9 g", "correct": false },
+      { "text": "45 g", "correct": false },
+      { "text": "0.45 g", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "El porcentaje $0.9\\%$ significa $0.9 \\text{ g}$ por cada $100 \\text{ mL}$. Usa una regla de tres.",
+    "explanation": "Si hay $0.9 \\text{ g}$ en $100 \\text{ mL}$, en $500 \\text{ mL}$ habrá 5 veces más: $0.9 \\times 5 = 4.5 \\text{ g}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cy",
+    "question": "En un cultivo bacteriano, la población se duplica cada 30 minutos. Si iniciamos con 100 bacterias, ¿cuántas habrá después de 2 horas?",
+    "image": null,
+    "options": [
+      { "text": "1600", "correct": true },
+      { "text": "800", "correct": false },
+      { "text": "400", "correct": false },
+      { "text": "3200", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "En 2 horas hay cuatro periodos de 30 minutos. La fórmula es $P_f = P_i \\times 2^n$.",
+    "explanation": "El número de periodos ($n$) es $120 \\text{ min} / 30 \\text{ min} = 4$. Entonces $100 \\times 2^4 = 100 \\times 16 = 1600$ bacterias.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00cz",
+    "question": "El Gasto Cardíaco ($GC$) se calcula multiplicando la Frecuencia Cardíaca ($FC$) por el Volumen Sistólico ($VS$). Si un atleta tiene $FC = 50 \\text{ lpm}$ y $GC = 5000 \\text{ mL/min}$, ¿cuál es su Volumen Sistólico?",
+    "image": null,
+    "options": [
+      { "text": "100 mL", "correct": true },
+      { "text": "50 mL", "correct": false },
+      { "text": "150 mL", "correct": false },
+      { "text": "250 mL", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Despeja $VS$ de la fórmula $GC = FC \\times VS$.",
+    "explanation": "$VS = GC / FC$. Sustituyendo los valores: $5000 / 50 = 100 \\text{ mL}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00da",
+    "question": "Si una persona consume 2000 kcal al día y el 50% proviene de carbohidratos, ¿cuántos gramos de carbohidratos consume? (Considera que $1 \\text{ g}$ de carbohidratos aporta $4 \\text{ kcal}$).",
+    "image": null,
+    "options": [
+      { "text": "250 g", "correct": true },
+      { "text": "500 g", "correct": false },
+      { "text": "1000 g", "correct": false },
+      { "text": "125 g", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Primero calcula las calorías totales de carbohidratos y luego divide entre 4.",
+    "explanation": "El 50% de 2000 es 1000 kcal. Como cada gramo aporta 4 kcal: $1000 / 4 = 250 \\text{ g}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00db",
+    "question": "Un tanque de oxígeno tiene una presión de $2000 \\text{ psi}$. Si se consume a razón de $100 \\text{ psi}$ por hora, ¿cuánto tiempo durará el tanque hasta quedar vacío?",
+    "image": null,
+    "options": [
+      { "text": "20 horas", "correct": true },
+      { "text": "10 horas", "correct": false },
+      { "text": "200 horas", "correct": false },
+      { "text": "5 horas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Divide la cantidad total entre la tasa de consumo.",
+    "explanation": "Tiempo = Cantidad / Tasa. $2000 \\text{ psi} / 100 \\text{ psi/h} = 20 \\text{ horas}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dc",
+    "question": "Un médico receta $5 \\text{ mL}$ de jarabe cada 8 horas por 5 días. ¿Cuál es el volumen total de jarabe que el paciente necesita comprar?",
+    "image": null,
+    "options": [
+      { "text": "75 mL", "correct": true },
+      { "text": "40 mL", "correct": false },
+      { "text": "120 mL", "correct": false },
+      { "text": "60 mL", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Calcula cuántas tomas hay en total durante los 5 días y multiplica por la dosis.",
+    "explanation": "En un día (24h) hay $24/8 = 3$ tomas. En 5 días hay $3 \\times 5 = 15$ tomas. Volumen total = $15 \\text{ tomas} \\times 5 \\text{ mL/toma} = 75 \\text{ mL}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dd",
+    "question": "La temperatura corporal de un paciente es $38.5^{\\circ}C$. Un estudiante del CEPREDIX necesita convertirla a Fahrenheit. Usa la fórmula $F = (C \\times 1.8) + 32$.",
+    "image": null,
+    "options": [
+      { "text": "101.3 °F", "correct": true },
+      { "text": "100.0 °F", "correct": false },
+      { "text": "98.6 °F", "correct": false },
+      { "text": "102.5 °F", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Sustituye 38.5 en C y sigue el orden de operaciones.",
+    "explanation": "$F = (38.5 \\times 1.8) + 32 = 69.3 + 32 = 101.3^{\\circ}F$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00de",
+    "question": "En un grupo de 200 personas, 150 tienen factor Rh positivo (+). ¿Cuál es el porcentaje de personas con Rh negativo (-)?",
+    "image": null,
+    "options": [
+      { "text": "25%", "correct": true },
+      { "text": "75%", "correct": false },
+      { "text": "15%", "correct": false },
+      { "text": "50%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Primero encuentra cuántas personas son Rh negativo restando del total.",
+    "explanation": "Personas Rh negativo = $200 - 150 = 50$. El porcentaje es $(50/200) \\times 100 = 0.25 \\times 100 = 25\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00df",
+    "question": "Si la probabilidad de que un hijo herede una enfermedad es del $25\\%$ ($1/4$), ¿cuál es la probabilidad de que NO la herede?",
+    "image": null,
+    "options": [
+      { "text": "75%", "correct": true },
+      { "text": "50%", "correct": false },
+      { "text": "25%", "correct": false },
+      { "text": "100%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "La suma de probabilidades de todos los eventos posibles debe ser 100%.",
+    "explanation": "$100\\% - 25\\% = 75\\%$. Es el complemento de la probabilidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dg",
+    "question": "La vida media de un fármaco es de 4 horas. Si se administran $200 \\text{ mg}$, ¿cuántos mg quedan en el organismo después de 12 horas?",
+    "image": null,
+    "options": [
+      { "text": "25 mg", "correct": true },
+      { "text": "50 mg", "correct": false },
+      { "text": "100 mg", "correct": false },
+      { "text": "12.5 mg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Calcula cuántas vidas medias pasan en 12 horas y reduce la cantidad a la mitad esa cantidad de veces.",
+    "explanation": "En 12 horas hay $12/4 = 3$ vidas medias. Inicio: 200 mg. 1ª vida media: 100 mg. 2ª vida media: 50 mg. 3ª vida media: 25 mg.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dh",
+    "question": "Se debe pasar $1000 \\text{ mL}$ de solución salina en 8 horas. ¿Cuál es la velocidad de infusión en $mL/hora$?",
+    "image": null,
+    "options": [
+      { "text": "125 mL/h", "correct": true },
+      { "text": "100 mL/h", "correct": false },
+      { "text": "150 mL/h", "correct": false },
+      { "text": "80 mL/h", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Divide el volumen total entre el tiempo total.",
+    "explanation": "$1000 \\text{ mL} / 8 \\text{ h} = 125 \\text{ mL/h}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00di",
+    "question": "Un niño pesa $44 \\text{ libras}$. ¿Cuál es su peso en kilogramos? (Considera $1 \\text{ kg} \\approx 2.2 \\text{ libras}$).",
+    "image": null,
+    "options": [
+      { "text": "20 kg", "correct": true },
+      { "text": "22 kg", "correct": false },
+      { "text": "40 kg", "correct": false },
+      { "text": "15 kg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Divide el peso en libras entre el factor de conversión 2.2.",
+    "explanation": "$44 \\text{ lb} / 2.2 = 20 \\text{ kg}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dj",
+    "question": "La 'Regla de los 9' se usa para estimar quemaduras. Si un paciente se quema toda la pierna derecha ($18\\%$) y todo el brazo derecho ($9\\%$), ¿qué porcentaje total de superficie corporal está quemada?",
+    "image": null,
+    "options": [
+      { "text": "27%", "correct": true },
+      { "text": "18%", "correct": false },
+      { "text": "36%", "correct": false },
+      { "text": "9%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Simplemente suma los porcentajes de las áreas afectadas.",
+    "explanation": "$18\\% + 9\\% = 27\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dk",
+    "question": "Un estudio del CEPREDIX muestra que por cada 10 pacientes diagnosticados con diabetes, 2 desarrollan complicaciones renales en un año. Si en una población hay 500 pacientes con diabetes, ¿cuántos se espera que desarrollen complicaciones?",
+    "image": null,
+    "options": [
+      { "text": "100", "correct": true },
+      { "text": "50", "correct": false },
+      { "text": "200", "correct": false },
+      { "text": "20", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Establece una proporción directa: 2 es a 10, como X es a 500.",
+    "explanation": "La razón es $2/10 = 0.2$ (o el 20%). $500 \\times 0.2 = 100$ pacientes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dl",
+    "question": "Si la frecuencia respiratoria normal es de $16 \\text{ rpm}$, ¿cuántas respiraciones realiza una persona en 15 minutos?",
+    "image": null,
+    "options": [
+      { "text": "240", "correct": true },
+      { "text": "160", "correct": false },
+      { "text": "320", "correct": false },
+      { "text": "60", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Multiplica las respiraciones por minuto por el número total de minutos.",
+    "explanation": "$16 \\text{ rpm} \\times 15 \\text{ min} = 240 \\text{ respiraciones}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dm",
+    "question": "Para desinfectar instrumental, se requiere una solución de cloro al $10\\%$. Si tienes $1 \\text{ litro}$ ($1000 \\text{ mL}$) de agua, ¿cuántos mL de cloro puro debes agregar para acercarte a esta proporción (considerando el volumen final aditivo simplificado)?",
+    "image": null,
+    "options": [
+      { "text": "100 mL", "correct": true },
+      { "text": "10 mL", "correct": false },
+      { "text": "50 mL", "correct": false },
+      { "text": "1 mL", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Calcula el 10% de 1000.",
+    "explanation": "El 10% de 1000 mL es $0.10 \\times 1000 = 100 \\text{ mL}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dn",
+    "question": "El volumen total de sangre en un adulto promedio es aproximadamente el $7\\%$ de su peso corporal. Si una persona pesa $70 \\text{ kg}$, ¿cuál es su volumen sanguíneo estimado en litros? (Asume densidad de sangre $\\approx 1 \\text{ kg/L}$).",
+    "image": null,
+    "options": [
+      { "text": "4.9 L", "correct": true },
+      { "text": "7.0 L", "correct": false },
+      { "text": "3.5 L", "correct": false },
+      { "text": "5.5 L", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Calcula el 7% de 70.",
+    "explanation": "$70 \\times 0.07 = 4.9 \\text{ kg}$. Como la densidad es aprox 1 kg/L, son $4.9 \\text{ litros}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00do",
+    "question": "Un microscopio aumenta una imagen 400 veces ($400x$). Si una célula mide realmente $0.01 \\text{ mm}$, ¿de qué tamaño se verá a través del microscopio?",
+    "image": null,
+    "options": [
+      { "text": "4 mm", "correct": true },
+      { "text": "40 mm", "correct": false },
+      { "text": "0.4 mm", "correct": false },
+      { "text": "400 mm", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Multiplica el tamaño real por el aumento.",
+    "explanation": "$0.01 \\text{ mm} \\times 400 = 4 \\text{ mm}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dp",
+    "question": "La tasa de mortalidad de una enfermedad es del $5\\%$. Si en una ciudad se enferman 2000 personas, ¿cuántas muertes se esperan?",
+    "image": null,
+    "options": [
+      { "text": "100", "correct": true },
+      { "text": "200", "correct": false },
+      { "text": "50", "correct": false },
+      { "text": "10", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Calcula el 5% de 2000.",
+    "explanation": "$2000 \\times 0.05 = 100$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dq",
+    "question": "Un medicamento viene en presentación de $500 \\text{ mg}$ por cada $2 \\text{ mL}$. Si se necesita administrar $250 \\text{ mg}$, ¿cuántos mL se deben inyectar?",
+    "image": null,
+    "options": [
+      { "text": "1 mL", "correct": true },
+      { "text": "2 mL", "correct": false },
+      { "text": "0.5 mL", "correct": false },
+      { "text": "4 mL", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Usa una regla de tres: Si 500 mg están en 2 mL, 250 mg (que es la mitad) estarán en...",
+    "explanation": "Como $250 \\text{ mg}$ es la mitad de $500 \\text{ mg}$, el volumen necesario es la mitad de $2 \\text{ mL}$, es decir, $1 \\text{ mL}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dr",
+    "question": "En un análisis de sangre, los neutrófilos representan el $60\\%$ de los leucocitos totales. Si un paciente tiene 8000 leucocitos/$\\mu L$, ¿cuál es el conteo absoluto de neutrófilos?",
+    "image": null,
+    "options": [
+      { "text": "4800", "correct": true },
+      { "text": "4000", "correct": false },
+      { "text": "5000", "correct": false },
+      { "text": "3200", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Calcula el 60% de 8000.",
+    "explanation": "$8000 \\times 0.60 = 4800$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ds",
+    "question": "Un estudiante del CEPREDIX aprende que la presión arterial media (PAM) se estima con la fórmula $PAM = \\text{Diastólica} + \\frac{\\text{Sistólica} - \\text{Diastólica}}{3}$. Si la presión es $120/90 \\text{ mmHg}$, ¿cuál es la PAM?",
+    "image": null,
+    "options": [
+      { "text": "100 mmHg", "correct": true },
+      { "text": "110 mmHg", "correct": false },
+      { "text": "105 mmHg", "correct": false },
+      { "text": "95 mmHg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO", "HIBRI-MATE"],
+    "hint": "Sustituye Sistólica=120 y Diastólica=90 en la fórmula.",
+    "explanation": "$PAM = 90 + (120 - 90)/3 = 90 + 30/3 = 90 + 10 = 100 \\text{ mmHg}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dt",
+    "question": "Si el hueso fémur representa aproximadamente el $25\\%$ de la altura de una persona, estima la altura de un individuo cuyo fémur mide $45 \\text{ cm}$.",
+    "image": null,
+    "options": [
+      { "text": "180 cm", "correct": true },
+      { "text": "160 cm", "correct": false },
+      { "text": "170 cm", "correct": false },
+      { "text": "200 cm", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Si 45 cm es el 25% (un cuarto), multiplica por 4 para obtener el 100%.",
+    "explanation": "$45 \\times 4 = 180 \\text{ cm}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00du",
+    "question": "La capacidad pulmonar total es la suma de: Capacidad Vital + Volumen Residual. Si la Capacidad Vital es $4.8 \\text{ L}$ y el Volumen Residual es $1.2 \\text{ L}$, ¿cuál es la Capacidad Pulmonar Total?",
+    "image": null,
+    "options": [
+      { "text": "6.0 L", "correct": true },
+      { "text": "5.0 L", "correct": false },
+      { "text": "3.6 L", "correct": false },
+      { "text": "7.0 L", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Realiza una suma simple de los volúmenes.",
+    "explanation": "$4.8 + 1.2 = 6.0 \\text{ L}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dv",
+    "question": "En genética, si cruzamos dos plantas heterocigotas ($Bb \\times Bb$) donde $B$ (alto) domina sobre $b$ (bajo), ¿qué fracción de la descendencia será fenotípicamente baja?",
+    "image": null,
+    "options": [
+      { "text": "1/4", "correct": true },
+      { "text": "1/2", "correct": false },
+      { "text": "3/4", "correct": false },
+      { "text": "0", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Haz el cuadro de Punnett. Solo el genotipo 'bb' será bajo.",
+    "explanation": "Los genotipos posibles son BB, Bb, Bb, bb. Solo 1 de 4 (bb) muestra el rasgo recesivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dw",
+    "question": "Se requiere diluir alcohol del $96\\%$ al $70\\%$. Si usamos la fórmula $C_1 V_1 = C_2 V_2$ y tenemos $100 \\text{ mL}$ de alcohol al $96\\%$, ¿cuál será el volumen final ($V_2$) de la solución al $70\\%$, si se agrega agua?",
+    "image": null,
+    "options": [
+      { "text": "137 mL", "correct": true },
+      { "text": "150 mL", "correct": false },
+      { "text": "120 mL", "correct": false },
+      { "text": "200 mL", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO", "HIBRI-MATE"],
+    "hint": "Despeja $V_2 = (C_1 \\times V_1) / C_2$.",
+    "explanation": "$V_2 = (96 \\times 100) / 70 = 9600 / 70 \\approx 137.14 \\text{ mL}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dx",
+    "question": "Un nutriólogo recomienda que las grasas no excedan el $30\\%$ de las calorías totales. Si una dieta es de $1800 \\text{ kcal}$, ¿cuál es el máximo de kcal provenientes de grasas?",
+    "image": null,
+    "options": [
+      { "text": "540 kcal", "correct": true },
+      { "text": "600 kcal", "correct": false },
+      { "text": "450 kcal", "correct": false },
+      { "text": "300 kcal", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Calcula el 30% de 1800.",
+    "explanation": "$1800 \\times 0.30 = 540 \\text{ kcal}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dy",
+    "question": "La fracción de eyección del corazón es el porcentaje de sangre que sale del ventrículo en cada latido. Si el volumen diastólico final es $120 \\text{ mL}$ y el volumen sistólico es $70 \\text{ mL}$, ¿cuál es la fracción de eyección?",
+    "image": null,
+    "options": [
+      { "text": "58.3%", "correct": true },
+      { "text": "50%", "correct": false },
+      { "text": "40%", "correct": false },
+      { "text": "70%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Divide el volumen sistólico entre el volumen diastólico y multiplica por 100.",
+    "explanation": "$(70 / 120) \\times 100 \\approx 0.5833 \\times 100 = 58.3\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00dz",
+    "question": "Un paciente excretó $1500 \\text{ mL}$ de orina en 24 horas. ¿Cuál es su flujo urinario promedio en $mL/hora$?",
+    "image": null,
+    "options": [
+      { "text": "62.5 mL/h", "correct": true },
+      { "text": "100 mL/h", "correct": false },
+      { "text": "50 mL/h", "correct": false },
+      { "text": "75 mL/h", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Divide el volumen total entre las 24 horas.",
+    "explanation": "$1500 / 24 = 62.5 \\text{ mL/h}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ea",
+    "question": "Si una enzima cataliza 500 reacciones por segundo, ¿cuántas reacciones catalizará en 1 minuto?",
+    "image": null,
+    "options": [
+      { "text": "30,000", "correct": true },
+      { "text": "5,000", "correct": false },
+      { "text": "3,000", "correct": false },
+      { "text": "50,000", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Multiplica la tasa por segundo por los 60 segundos que tiene un minuto.",
+    "explanation": "$500 \\times 60 = 30,000$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00eb",
+    "question": "En un estudio epidemiológico del CEPREDIX, se encontró que de 1000 personas expuestas a un virus, 200 enfermaron. ¿Cuál es la tasa de ataque?",
+    "image": null,
+    "options": [
+      { "text": "20%", "correct": true },
+      { "text": "2%", "correct": false },
+      { "text": "10%", "correct": false },
+      { "text": "50%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Divide los enfermos entre el total de expuestos y multiplica por 100.",
+    "explanation": "$(200 / 1000) \\times 100 = 0.2 \\times 100 = 20\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ec",
+    "question": "El agua corporal total de un hombre es el $60\\%$ de su peso. Si un hombre pesa $80 \\text{ kg}$ y pierde el $10\\%$ de su agua corporal por deshidratación, ¿cuántos litros de agua perdió?",
+    "image": null,
+    "options": [
+      { "text": "4.8 L", "correct": true },
+      { "text": "8.0 L", "correct": false },
+      { "text": "6.0 L", "correct": false },
+      { "text": "2.4 L", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO", "HIBRI-MATE"],
+    "hint": "Primero calcula el agua total ($60\\%$ de 80) y luego el $10\\%$ de ese resultado.",
+    "explanation": "Agua total = $80 \\times 0.6 = 48 \\text{ L}$. Pérdida = $10\\%$ de 48 = $4.8 \\text{ L}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ed",
+    "question": "La relación compresión:ventilación en RCP para adultos es de 30:2. Si realizas 5 ciclos, ¿cuántas compresiones habrás hecho?",
+    "image": null,
+    "options": [
+      { "text": "150", "correct": true },
+      { "text": "100", "correct": false },
+      { "text": "60", "correct": false },
+      { "text": "300", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Multiplica el número de compresiones por ciclo (30) por el número de ciclos (5).",
+    "explanation": "$30 \\text{ compresiones} \\times 5 \\text{ ciclos} = 150 \\text{ compresiones}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ee",
+    "question": "Un organelo celular mide 2 micrómetros ($\\mu m$). Si $1 \\text{ mm} = 1000 \\text{ }\\mu m$, ¿cuántos organelos cabrían alineados en $1 \\text{ mm}$?",
+    "image": null,
+    "options": [
+      { "text": "500", "correct": true },
+      { "text": "200", "correct": false },
+      { "text": "1000", "correct": false },
+      { "text": "2000", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Divide el espacio total (1000 micras) entre el tamaño del organelo (2 micras).",
+    "explanation": "$1000 / 2 = 500$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ef",
+    "question": "Si la dosis tóxica de una sustancia es $10 \\text{ mg/kg}$ y una persona pesa $70 \\text{ kg}$, ¿cuál es la dosis total que resultaría tóxica?",
+    "image": null,
+    "options": [
+      { "text": "700 mg", "correct": true },
+      { "text": "70 mg", "correct": false },
+      { "text": "100 mg", "correct": false },
+      { "text": "7000 mg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Multiplicación directa de dosis unitaria por peso.",
+    "explanation": "$10 \\times 70 = 700 \\text{ mg}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00eg",
+    "question": "Un paciente tiene $14 \\text{ g/dL}$ de hemoglobina. Si tiene $5 \\text{ Litros}$ ($50dL$) de sangre, ¿cuánta hemoglobina total tiene en gramos?",
+    "image": null,
+    "options": [
+      { "text": "700 g", "correct": true },
+      { "text": "140 g", "correct": false },
+      { "text": "500 g", "correct": false },
+      { "text": "280 g", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Multiplica la concentración por el volumen total en decilitros.",
+    "explanation": "$14 \\text{ g/dL} \\times 50 \\text{ dL} = 700 \\text{ g}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00eh",
+    "question": "La velocidad de conducción nerviosa es de $50 \\text{ m/s}$. ¿Cuánto tarda un impulso en recorrer $1 \\text{ metro}$?",
+    "image": null,
+    "options": [
+      { "text": "0.02 s", "correct": true },
+      { "text": "0.2 s", "correct": false },
+      { "text": "0.5 s", "correct": false },
+      { "text": "2.0 s", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Usa la fórmula $t = d/v$.",
+    "explanation": "$t = 1 \\text{ m} / 50 \\text{ m/s} = 0.02 \\text{ segundos}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ei",
+    "question": "En un hospital hay 3 enfermeras por cada 15 pacientes. Si llegan 45 pacientes más, ¿cuántas enfermeras adicionales se necesitan para mantener la misma proporción?",
+    "image": null,
+    "options": [
+      { "text": "9", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "15", "correct": false },
+      { "text": "6", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "La proporción es 1 enfermera por cada 5 pacientes. Calcula cuántas se requieren para 45.",
+    "explanation": "Relación 3:15 se simplifica a 1:5. Para 45 pacientes: $45 / 5 = 9$ enfermeras.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ej",
+    "question": "Un estudiante del CEPREDIX observa que el pH gástrico es 2. Si el pH sanguíneo es 7.4 (aprox 7), ¿cuántas veces es más ácida la concentración de iones $H^+$ en el estómago comparada con la sangre? (Recuerda que cada unidad de pH es una potencia de 10).",
+    "image": null,
+    "options": [
+      { "text": "100,000 veces", "correct": true },
+      { "text": "5 veces", "correct": false },
+      { "text": "100 veces", "correct": false },
+      { "text": "1000 veces", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO", "HIBRI-MATE"],
+    "hint": "La diferencia de pH es $7 - 2 = 5$. La diferencia en concentración es $10^5$.",
+    "explanation": "Una diferencia de 5 unidades de pH equivale a un factor de $10^5 = 100,000$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ek",
+    "question": "Si una caja de 30 tabletas cuesta $150 pesos, ¿cuál es el costo por tableta?",
+    "image": null,
+    "options": [
+      { "text": "$5", "correct": true },
+      { "text": "$3", "correct": false },
+      { "text": "$10", "correct": false },
+      { "text": "$2", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Divide el costo total entre el número de unidades.",
+    "explanation": "$150 / 30 = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00el",
+    "question": "El área de superficie de absorción del intestino delgado se incrementa por las microvellosidades en un factor de 600. Si el área lisa fuera de $0.5 \\text{ m}^2$, ¿cuál es el área real de absorción?",
+    "image": null,
+    "options": [
+      { "text": "300 m²", "correct": true },
+      { "text": "30 m²", "correct": false },
+      { "text": "600 m²", "correct": false },
+      { "text": "150 m²", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Multiplica el área base por el factor de incremento.",
+    "explanation": "$0.5 \\times 600 = 300 \\text{ m}^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00em",
+    "question": "Una bacteria mide $3 \\text{ micras}$ de largo. Si se observa en una fotografía donde mide $6 \\text{ cm}$, ¿cuántas veces fue ampliada la imagen? ($1 \\text{ cm} = 10,000 \\text{ micras}$).",
+    "image": null,
+    "options": [
+      { "text": "20,000x", "correct": true },
+      { "text": "2,000x", "correct": false },
+      { "text": "200x", "correct": false },
+      { "text": "5,000x", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO", "HIBRI-MATE"],
+    "hint": "Convierte los cm a micras y divide el tamaño de la imagen entre el tamaño real.",
+    "explanation": "$6 \\text{ cm} = 60,000 \\text{ micras}$. Aumento = $60,000 / 3 = 20,000$ veces.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00en",
+    "question": "Si el $45\\%$ de la sangre son células (hematocrito) y tienes una muestra de $10 \\text{ mL}$, ¿cuántos mL corresponden al plasma sanguíneo?",
+    "image": null,
+    "options": [
+      { "text": "5.5 mL", "correct": true },
+      { "text": "4.5 mL", "correct": false },
+      { "text": "6.0 mL", "correct": false },
+      { "text": "5.0 mL", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "El plasma es el resto del porcentaje ($100\\% - 45\\% = 55\\%$).",
+    "explanation": "Si el $45\\%$ son células, el $55\\%$ es plasma. $10 \\text{ mL} \\times 0.55 = 5.5 \\text{ mL}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00eo",
+    "question": "Un par de pulmones humanos pesan en promedio $1000 \\text{ g}$ en conjunto. Si el pulmón derecho pesa un $10\\%$ más que el izquierdo, ¿cuánto pesa aproximadamente el izquierdo?",
+    "image": null,
+    "options": [
+      { "text": "476 g", "correct": true },
+      { "text": "500 g", "correct": false },
+      { "text": "450 g", "correct": false },
+      { "text": "550 g", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["AVANZADO", "HIBRI-MATE"],
+    "hint": "Plantea la ecuación: $x + 1.1x = 1000$.",
+    "explanation": "$2.1x = 1000 \\to x = 1000 / 2.1 \\approx 476 \\text{ g}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00ep",
+    "question": "La probabilidad de tener gemelos idénticos es de 1 en 250 partos. En una maternidad con 1000 partos al año, ¿cuántos pares de gemelos idénticos se esperan?",
+    "image": null,
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "10", "correct": false },
+      { "text": "25", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["BÁSICO", "HIBRI-MATE"],
+    "hint": "Divide el total de partos entre 250.",
+    "explanation": "$1000 / 250 = 4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PRE00eq",
+    "question": "Un estudiante del CEPREDIX calcula la dosis pediátrica usando la regla de Clark: $\\text{Dosis Niño} = \\frac{\\text{Peso (lb)} \\times \\text{Dosis Adulto}}{150}$. Si el niño pesa $75 \\text{ lb}$ y la dosis de adulto es $500 \\text{ mg}$, ¿cuál es la dosis del niño?",
+    "image": null,
+    "options": [
+      { "text": "250 mg", "correct": true },
+      { "text": "150 mg", "correct": false },
+      { "text": "300 mg", "correct": false },
+      { "text": "100 mg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI_II"],
+    "level_tag": ["INTERMEDIO", "HIBRI-MATE"],
+    "hint": "Sustituye los valores en la fórmula: $(75 \\times 500) / 150$.",
+    "explanation": "$75$ es la mitad de $150$, por lo que la dosis será la mitad de la del adulto. $500 / 2 = 250 \\text{ mg}$.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
