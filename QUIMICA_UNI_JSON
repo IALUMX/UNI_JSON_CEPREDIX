@@ -256,7 +256,7 @@
   },
   {
     "id": "QUI00ap",
-    "question": "Calcula el calor necesario para elevar la temperatura de $100 \\text{ g}$ de agua de $20°C$ a $25°C$. (Calor espec\u00edfico del agua $c_e = 1 \\text{ cal/g}°C$).",
+    "question": "Calcula el calor necesario para elevar la temperatura de $100 \\text{ g}$ de agua de $20^{\\circ}C$ a $25^{\\circ}C$. (Calor espec\u00edfico del agua $c_e = 1 \\text{ cal/g}^{\\circ}C$).",
     "image": null,
     "options": [
       { "text": "500 cal", "correct": true },
@@ -267,7 +267,7 @@
     "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Usa la fórmula $Q = m \\cdot c_e \\cdot \\Delta T$. Despeja si fuera necesario, aquí es directa.",
-    "explanation": "Calculamos $\\Delta T = 25 - 20 = 5^\\circ C$. Luego $Q = 100 \\text{ g} \\times 1 \\text{ cal/g}^\circ C \\times 5^\\circ C = 500 \\text{ cal}$.",
+    "explanation": "Calculamos $\\Delta T = 25 - 20 = 5^{\\circ}C$. Luego $Q = 100 \\text{ g} \\times 1 \\text{ cal/g}^{\\circ}C \\times 5^{\\circ}C = 500 \\text{ cal}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -324,7 +324,7 @@
   },
   {
     "id": "QUI00at",
-    "question": "En el CEPREDIX se realiza un experimento con gases. Se tiene un gas a $27^\\circ C$. ¿A qué temperatura en Kelvin equivale?",
+    "question": "En el CEPREDIX se realiza un experimento con gases. Se tiene un gas a $27^{\\circ}C$. ¿A qué temperatura en Kelvin equivale?",
     "image": null,
     "options": [
       { "text": "300 K", "correct": true },
@@ -334,7 +334,7 @@
     ],
     "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "La fórmula de conversión es $K = ^\\circ C + 273.15$.",
+    "hint": "La fórmula de conversión es $K = ^{\\circ}C + 273.15$.",
     "explanation": "$K = 27 + 273 = 300 \\text{ K}$.",
     "explanative_video": null,
     "collapsible_text": null
@@ -573,7 +573,7 @@
     "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
     "hint": "Es un valor constante conocido como volumen molar a TPN.",
-    "explanation": "A $0^\\circ C$ (273 K) y 1 atm, un mol de gas ideal ocupa 22.4 litros.",
+    "explanation": "A $0^{\\circ}C$ (273 K) y 1 atm, un mol de gas ideal ocupa 22.4 litros.",
     "explanative_video": null,
     "collapsible_text": null
   },
