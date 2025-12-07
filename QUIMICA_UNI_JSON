@@ -1,0 +1,460 @@
+[
+  {
+    "id": "QUI00da",
+    "question": "¿Cuál es el órgano que se encarga principalmente de procesar la información sensitiva, coordinar el movimiento y controlar las funciones superiores, siendo el centro del sistema nervioso central?",
+    "image": null,
+    "options": [
+      {
+        "text": "El cerebro",
+        "correct": true
+      },
+      {
+        "text": "El cerebelo",
+        "correct": false
+      },
+      {
+        "text": "El tronco encefálico",
+        "correct": false
+      },
+      {
+        "text": "La médula espinal",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "BÁSICO"
+    ],
+    "hint": "Se divide en dos hemisferios. Es el asiento de las funciones cognitivas.",
+    "explanation": "El **cerebro** es la estructura más grande y superior del encéfalo, responsable de las funciones cognitivas, la memoria y el control voluntario. El cerebelo se enfoca en la coordinación y el equilibrio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00db",
+    "question": "Identifique el grupo de fármacos antiinflamatorios no esteroideos ($\text{AINEs}$) que inhiben selectivamente la enzima Ciclooxigenasa-2 ($\text{COX-2}$) para reducir el dolor y la inflamación con menor riesgo de irritación gástrica.",
+    "image": null,
+    "options": [
+      {
+        "text": "Coxibs",
+        "correct": true
+      },
+      {
+        "text": "Opioides",
+        "correct": false
+      },
+      {
+        "text": "Glucocorticoides",
+        "correct": false
+      },
+      {
+        "text": "Antihistamínicos",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "INTERMEDIO"
+    ],
+    "hint": "Estos fármacos fueron desarrollados para evitar los efectos adversos gastrointestinales asociados a la inhibición de $\text{COX-1}$.",
+    "explanation": "Los **Coxibs** (como el Celecoxib) son inhibidores específicos de $\text{COX-2}$, lo que permite mantener la función protectora de $\text{COX-1}$ en el estómago. Son una subclase de $\text{AINEs}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00dc",
+    "question": "Un estudiante del **CEPREDIX** con una masa corporal de $85 \text{ kg}$ y una estatura de $1.75 \text{ m}$ desea saber su Índice de Masa Corporal ($\text{IMC}$). ¿Cuál es el valor resultante?",
+    "image": null,
+    "options": [
+      {
+        "text": "$27.75 \text{ kg/m}^2$",
+        "correct": true
+      },
+      {
+        "text": "$24.28 \text{ kg/m}^2$",
+        "correct": false
+      },
+      {
+        "text": "$20.40 \text{ kg/m}^2$",
+        "correct": false
+      },
+      {
+        "text": "$30.12 \text{ kg/m}^2$",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "AVANZADO",
+      "REAL"
+    ],
+    "hint": "La fórmula para calcular el $\text{IMC}$ es $\text{Estatura}^2 = \frac{\text{Masa}}{\text{IMC}}$.",
+    "explanation": "La fórmula del $\text{IMC}$ es $\text{IMC} = \frac{\text{Masa}}{\text{Estatura}^2}$. Sustituyendo los valores: $\text{IMC} = \\frac{85 \text{ kg}}{(1.75 \text{ m})^2} = \\frac{85 \text{ kg}}{3.0625 \text{ m}^2} \\approx 27.75 \text{ kg/m}^2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00dd",
+    "question": "La función biológica principal del Ácido Desoxirribonucleico ($\text{ADN}$) en las células eucariotas es:",
+    "image": null,
+    "options": [
+      {
+        "text": "Almacenar la información genética y herencia",
+        "correct": true
+      },
+      {
+        "text": "Sintetizar proteínas en el citoplasma",
+        "correct": false
+      },
+      {
+        "text": "Formar la estructura de la membrana celular",
+        "correct": false
+      },
+      {
+        "text": "Catalizar reacciones metabólicas",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "BÁSICO"
+    ],
+    "hint": "Contiene el código para la vida. Se encuentra principalmente en el núcleo.",
+    "explanation": "El $\text{ADN}$ es el material hereditario que lleva las instrucciones (genes) para el desarrollo, funcionamiento, crecimiento y reproducción de un organismo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00de",
+    "question": "Durante el ciclo celular, ¿en qué fase se duplica el material genético ($\text{ADN}$) de la célula, asegurando que las células hijas reciban una copia completa?",
+    "image": null,
+    "options": [
+      {
+        "text": "Fase S (Síntesis)",
+        "correct": true
+      },
+      {
+        "text": "Fase $\\text{G}_1$ (Gap 1)",
+        "correct": false
+      },
+      {
+        "text": "Fase $\\text{G}_2$ (Gap 2)",
+        "correct": false
+      },
+      {
+        "text": "Fase M (Mitosis)",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "INTERMEDIO"
+    ],
+    "hint": "La letra $\\text{S}$ dentro del ciclo celular es el acrónimo para la replicación del $\\text{ADN}$.",
+    "explanation": "La **Fase S** o de **Síntesis** es la etapa de la interfase donde ocurre la replicación del $\text{ADN}$, resultando en cromosomas duplicados (dos cromátidas hermanas).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00df",
+    "question": "¿Cuál de los siguientes procesos metabólicos produce la mayor cantidad neta de moléculas de Adenosín Trifosfato ($\text{ATP}$) por molécula de glucosa?",
+    "image": null,
+    "options": [
+      {
+        "text": "Fosforilación oxidativa",
+        "correct": true
+      },
+      {
+        "text": "Glucólisis",
+        "correct": false
+      },
+      {
+        "text": "Ciclo de Krebs",
+        "correct": false
+      },
+      {
+        "text": "Fermentación láctica",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "AVANZADO"
+    ],
+    "hint": "Es el paso final de la respiración celular que requiere oxígeno y ocurre en la membrana interna de la mitocondria.",
+    "explanation": "La **Fosforilación Oxidativa**, a través de la cadena de transporte de electrones, es la principal fuente de $\\text{ATP}$, generando entre $30$ y $34$ moléculas, mientras que la glucólisis y el ciclo de Krebs solo producen una pequeña fracción.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00dg",
+    "question": "En fisiología, el concepto de **homeostasis** hace referencia a:",
+    "image": null,
+    "options": [
+      {
+        "text": "La capacidad de un organismo para mantener un estado interno relativamente estable",
+        "correct": true
+      },
+      {
+        "text": "El aumento de la actividad metabólica de un organismo",
+        "correct": false
+      },
+      {
+        "text": "La respuesta de un organismo a un estímulo externo",
+        "correct": false
+      },
+      {
+        "text": "El proceso de crecimiento y desarrollo celular",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "BÁSICO"
+    ],
+    "hint": "Es un equilibrio dinámico que se regula mediante mecanismos de retroalimentación.",
+    "explanation": "La **homeostasis** es el conjunto de fenómenos de autorregulación que mantienen las condiciones internas de un organismo, como la temperatura corporal o el $\\text{pH}$, constantes para la vida.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00dh",
+    "question": "Son hormonas liberadas por la hipófisis anterior (adenohipófisis):",
+    "image": null,
+    "options": [
+      {
+        "text": "Hormona de crecimiento ($\text{GH}$), Prolactina ($\text{PRL}$), Hormona Luteinizante ($\text{LH}$)",
+        "correct": true
+      },
+      {
+        "text": "Oxitocina, Vasopresina ($\text{ADH}$), Hormona estimulante de la tiroides ($\text{TSH}$)",
+        "correct": false
+      },
+      {
+        "text": "Somatostatina, Cortisol, Prolactina ($\text{PRL}$)",
+        "correct": false
+      },
+      {
+        "text": "Hormona liberadora de gonadotropina ($\text{GnRH}$), Hormona de crecimiento ($\text{GH}$), Vasopresina ($\text{ADH}$)",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "INTERMEDIO"
+    ],
+    "hint": "La Oxitocina y la Vasopresina ($\text{ADH}$) son liberadas por la neurohipófisis, no producidas por la adenohipófisis.",
+    "explanation": "La adenohipófisis produce $\\text{GH}$, $\\text{PRL}$, Hormona Adrenocorticotropa ($\text{ACTH}$), Hormona estimulante de la tiroides ($\text{TSH}$), Hormona Folículo Estimulante ($\text{FSH}$) y $\\text{LH}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00di",
+    "question": "Una ______ es una preparación biológica que proporciona inmunidad activa ______ a una determinada enfermedad, y se administra con el objetivo de estimular el sistema ______ para que reconozca al agente patógeno.",
+    "image": null,
+    "options": [
+      {
+        "text": "vacuna, adquirida, inmunológico",
+        "correct": true
+      },
+      {
+        "text": "inyección, natural, nervioso",
+        "correct": false
+      },
+      {
+        "text": "antibiótico, pasiva, circulatorio",
+        "correct": false
+      },
+      {
+        "text": "pastilla, innata, digestivo",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "BÁSICO"
+    ],
+    "hint": "Es una herramienta de prevención primaria que induce la memoria celular, imitando la infección sin causar enfermedad.",
+    "explanation": "Una **vacuna** induce una respuesta del sistema **inmunológico** que lleva a una inmunidad **activa adquirida** duradera.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00dj",
+    "question": "Un médico del **CEPREDIX** atiende a un paciente con diarrea intensa. La pérdida de grandes cantidades de líquido isotónico se conoce como deshidratación de tipo ______ y clínicamente conduce a una pérdida de volumen plasmático, que si no se corrige a tiempo puede llevar a un estado de ______ y, potencialmente, a la falla ______.",
+    "image": null,
+    "options": [
+      {
+        "text": "isotónica, choque hipovolémico, renal",
+        "correct": true
+      },
+      {
+        "text": "hipertónica, hipertensión, hepática",
+        "correct": false
+      },
+      {
+        "text": "hipotónica, acidosis metabólica, pulmonar",
+        "correct": false
+      },
+      {
+        "text": "osmótica, alcalosis respiratoria, cardiaca",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "INTERMEDIO",
+      "REAL"
+    ],
+    "hint": "En la diarrea se pierde agua y sales en proporciones similares. Un bajo volumen sanguíneo compromete la perfusión de órganos.",
+    "explanation": "La pérdida de agua y sales en proporciones iguales es deshidratación **isotónica**. La reducción del volumen plasmático genera **choque hipovolémico**, que lleva a la reducción del flujo sanguíneo a los riñones, causando una falla **renal** aguda.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00dk",
+    "question": "La bomba $\\text{Na}^+/ \\text{K}^+-\\text{ATPasa}$ es un ejemplo de transporte activo ______ que mueve ______ iones $\\text{Na}^+$ al exterior y ______ iones $\\text{K}^+$ al interior de la célula por cada molécula de $\\text{ATP}$ hidrolizada.",
+    "image": null,
+    "options": [
+      {
+        "text": "primario, tres, dos",
+        "correct": true
+      },
+      {
+        "text": "secundario, dos, tres",
+        "correct": false
+      },
+      {
+        "text": "pasivo, tres, dos",
+        "correct": false
+      },
+      {
+        "text": "facilitado, dos, dos",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "AVANZADO"
+    ],
+    "hint": "Este mecanismo mantiene el potencial de membrana. Gasta energía directamente.",
+    "explanation": "La $\\text{Na}^+/ \\text{K}^+-\\text{ATPasa}$ es transporte activo **primario** que bombea **tres** iones $\\text{Na}^+$ hacia afuera y **dos** iones $\\text{K}^+$ hacia adentro por cada $\\text{ATP}$, creando un gradiente electroquímico.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00dl",
+    "question": "Relaciona correctamente el neurotransmisor con su función principal en el sistema nervioso:\n\n$\text{A) Acetilcolina}$\n$\text{B) Dopamina}$\n$\text{C) Serotonina}$\n\n$\text{I) Regulación del estado de ánimo y el sueño}$\n$\text{II) Control motor, recompensa y placer}$\n$\text{III) Contracción muscular y función parasimpática}$",
+    "image": null,
+    "options": [
+      {
+        "text": "A-III; B-II; C-I",
+        "correct": true
+      },
+      {
+        "text": "A-I; B-II; C-III",
+        "correct": false
+      },
+      {
+        "text": "A-II; B-III; C-I",
+        "correct": false
+      },
+      {
+        "text": "A-III; B-I; C-II",
+        "correct": false
+      }
+    ],
+    "uni_tags": [
+      "GENERAL",
+      "UNAM",
+      "EXANI",
+      "IPN",
+      "BUAP",
+      "UAM"
+    ],
+    "level_tag": [
+      "INTERMEDIO"
+    ],
+    "hint": "La $\\text{Acetilcolina}$ es el principal neurotransmisor en la unión neuromuscular. La $\\text{Serotonina}$ es clave en los antidepresivos.",
+    "explanation": "La **Acetilcolina (A)** es clave en la contracción muscular y el sistema parasimpático (**III**). La **Dopamina (B)** se asocia al control motor y el sistema de recompensa (**II**). La **Serotonina (C)** modula el estado de ánimo, apetito y ciclos de sueño (**I**).",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
