@@ -1,1741 +1,1191 @@
 [
   {
     "id": "QUI00aa",
-    "question": "Identifique la estructura química que representa al 2-penteno.",
+    "question": "Identifique la estructura que representa al 2-buteno.",
     "image": null,
     "options": [
-      {
-        "text": "$CH_3 - CH = CH - CH_2 - CH_3$",
-        "correct": true
-      },
-      {
-        "text": "$CH_3 - CH_2 - CH_2 - CH_2 - CH_3$",
-        "correct": false
-      },
-      {
-        "text": "$CH_3 - C \\equiv C - CH_2 - CH_3$",
-        "correct": false
-      },
-      {
-        "text": "$CH_2 = CH - CH_2 - CH_2 - CH_3$",
-        "correct": false
-      }
+      { "text": "$CH_3 - CH = CH - CH_3$", "correct": true },
+      { "text": "$CH_2 = CH - CH_2 - CH_3$", "correct": false },
+      { "text": "$CH_3 - CH_2 - CH_2 - CH_3$", "correct": false },
+      { "text": "$CH \\equiv C - CH_2 - CH_3$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Recuerda que el prefijo 'pent-' indica 5 carbonos y el número localizador indica dónde inicia la insaturación.",
-    "explanation": "La estructura representa la molécula del 2-penteno, llamado así porque es un alqueno (doble enlace) de 5 carbonos y el doble enlace comienza en el carbono 2 de la cadena principal.",
+    "hint": "El prefijo 'but-' indica 4 carbonos y el sufijo '-eno' un doble enlace. El número 2 indica la posición del doble enlace.",
+    "explanation": "El 2-buteno tiene 4 carbonos y un doble enlace que comienza en el segundo carbono: $CH_3 - CH = CH - CH_3$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ab",
-    "question": "Identifique el compuesto que contiene el grupo funcional éster en su estructura.",
+    "question": "En la tabla periódica, ¿cómo varía el radio atómico dentro de un grupo (columna) al aumentar el número atómico?",
     "image": null,
     "options": [
-      {
-        "text": "Propanoato de etilo",
-        "correct": true
-      },
-      {
-        "text": "Acetileno",
-        "correct": false
-      },
-      {
-        "text": "Acetona",
-        "correct": false
-      },
-      {
-        "text": "Ácido acético",
-        "correct": false
-      }
+      { "text": "Aumenta de arriba hacia abajo", "correct": true },
+      { "text": "Disminuye de arriba hacia abajo", "correct": false },
+      { "text": "Permanece constante", "correct": false },
+      { "text": "Aumenta de abajo hacia arriba", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Busca la terminación '-ato de -ilo' en la nomenclatura.",
-    "explanation": "El propanoato de etilo es un compuesto derivado de la reacción entre un ácido carboxílico y un alcohol, presentando el grupo funcional éster ($-COO-$).",
+    "hint": "Considera qué sucede con los niveles de energía (capas) a medida que bajas en un grupo.",
+    "explanation": "Al descender en un grupo, aumenta el número de niveles de energía ocupados por electrones, lo que incrementa la distancia entre el núcleo y los electrones de valencia, aumentando el radio atómico.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ac",
-    "question": "¿Cuál de los siguientes compuestos presenta un enlace predominantemente iónico?",
+    "question": "¿Cuál es la partícula subatómica con carga eléctrica negativa que orbita alrededor del núcleo?",
     "image": null,
     "options": [
-      {
-        "text": "$NaCl$",
-        "correct": true
-      },
-      {
-        "text": "$CO$",
-        "correct": false
-      },
-      {
-        "text": "$O_2$",
-        "correct": false
-      },
-      {
-        "text": "$H_2O$",
-        "correct": false
-      }
+      { "text": "Electrón", "correct": true },
+      { "text": "Protón", "correct": false },
+      { "text": "Neutrón", "correct": false },
+      { "text": "Positrón", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Considera la unión entre un metal del grupo IA y un no metal del grupo VIIA.",
-    "explanation": "El enlace iónico se presenta generalmente cuando la diferencia de electronegatividad es mayor a 1.7. En el $NaCl$, la diferencia es de 2.1 (Cl=3.0, Na=0.9), formando una red cristalina iónica.",
+    "hint": "Es la partícula involucrada en los enlaces químicos.",
+    "explanation": "El electrón es la partícula subatómica con carga negativa que se encuentra en la corteza del átomo.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ad",
-    "question": "¿Cuál es la concentración en partes por millón (ppm) de sulfatos ($SO_4$) si hay $2.25 \\text{ mg}$ disueltos en una muestra de $350 \\text{ mL}$ de agua?",
+    "question": "Selecciona la opción que contiene únicamente cambios químicos.",
     "image": null,
     "options": [
-      {
-        "text": "$6.428 \\text{ ppm}$",
-        "correct": true
-      },
-      {
-        "text": "$0.006 \\text{ ppm}$",
-        "correct": false
-      },
-      {
-        "text": "$0.064 \\text{ ppm}$",
-        "correct": false
-      },
-      {
-        "text": "$64.28 \\text{ ppm}$",
-        "correct": false
-      }
+      { "text": "Combustión de madera, oxidación de un clavo", "correct": true },
+      { "text": "Fusión de hielo, evaporación de agua", "correct": false },
+      { "text": "Disolución de azúcar, rotura de un vaso", "correct": false },
+      { "text": "Sublimación de yodo, corte de papel", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "La fórmula de partes por millón para soluciones acuosas diluidas relaciona la masa del soluto en mg con el volumen de la muestra en litros (o masa en kg): $mg_{\\text{soluto}} = ppm \\times L_{\\text{solución}}$.",
-    "explanation": "Primero convertimos $350 \\text{ mL}$ a $0.35 \\text{ kg}$ (asumiendo densidad del agua $1 \\text{ g/mL}$). Luego aplicamos la definición: $ppm = \\frac{2.25 \\text{ mg}}{0.35 \\text{ kg}} \\approx 6.428 \\text{ ppm}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Un cambio químico altera la composición íntima de la materia, formando nuevas sustancias.",
+    "explanation": "La combustión y la oxidación son reacciones químicas donde se transforman las sustancias originales en otras nuevas (cenizas, óxidos). Los otros ejemplos son cambios físicos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ae",
-    "question": "Calcule la entalpía de reacción ($\\Delta H_r^0$) para la combustión del metano: $CH_4(g) + 2O_2 \\rightarrow CO_2(g) + 2H_2O(l)$. Considere las entalpías de formación: $\\Delta H_f^0(CH_4) = -74.81 \\text{ kJ/mol}$, $\\Delta H_f^0(H_2O) = -285.8 \\text{ kJ/mol}$, $\\Delta H_f^0(CO_2) = -393.5 \\text{ kJ/mol}$.",
+    "question": "¿Cuál es la fórmula del ácido sulfúrico?",
     "image": null,
     "options": [
-      {
-        "text": "$-890.29 \\text{ kJ/mol}$",
-        "correct": true
-      },
-      {
-        "text": "$-604.49 \\text{ kJ/mol}$",
-        "correct": false
-      },
-      {
-        "text": "$890.29 \\text{ kJ/mol}$",
-        "correct": false
-      },
-      {
-        "text": "$-965.10 \\text{ kJ/mol}$",
-        "correct": false
-      }
+      { "text": "$H_2SO_4$", "correct": true },
+      { "text": "$H_2SO_3$", "correct": false },
+      { "text": "$H_2S$", "correct": false },
+      { "text": "$HCl$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["AVANZADO"],
-    "hint": "Utiliza la ley de Hess en su forma de sumatoria: $\\sum \\Delta H_f^0(\\text{reactivos}) = \\sum \\Delta H_f^0(\\text{productos}) - \\Delta H_r^0$ (Despeja la entalpía de reacción).",
-    "explanation": "$\\Delta H_r^0 = [1(-393.5) + 2(-285.8)] - [1(-74.81) + 2(0)] = [-393.5 - 571.6] - [-74.81] = -965.1 + 74.81 = -890.29 \\text{ kJ/mol}$. Recuerda que el $O_2$ elemental tiene entalpía de cero.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Proviene del ion sulfato ($SO_4^{-2}$).",
+    "explanation": "El ácido sulfúrico se forma con dos hidrógenos y el ion sulfato: $H_2SO_4$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00af",
-    "question": "Un químico calienta carbonato de plata ($Ag_2CO_3$) produciendo óxido de plata ($Ag_2O$) y dióxido de carbono. ¿Cuál ecuación representa correctamente este proceso balanceado?",
+    "question": "Un estudiante del CEPREDIX necesita preparar una solución salina. Si disuelve $58.5 \\text{ g}$ de $NaCl$ en agua suficiente para completar $1 \\text{ L}$ de solución, ¿cuál es la molaridad resultante? (Masa molar $NaCl = 58.5 \\text{ g/mol}$)",
     "image": null,
     "options": [
-      {
-        "text": "$Ag_2CO_3 \\rightarrow Ag_2O + CO_2$",
-        "correct": true
-      },
-      {
-        "text": "$AgCO_3 \\rightarrow Ag_2O + CO_2$",
-        "correct": false
-      },
-      {
-        "text": "$Ag_2CO_3 \\rightarrow AgO + CO_2$",
-        "correct": false
-      },
-      {
-        "text": "$2Ag_2CO_3 \\rightarrow 2Ag + 2CO_2 + O_2$",
-        "correct": false
-      }
+      { "text": "$1.0 \\text{ M}$", "correct": true },
+      { "text": "$0.5 \\text{ M}$", "correct": false },
+      { "text": "$58.5 \\text{ M}$", "correct": false },
+      { "text": "$0.1 \\text{ M}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Verifica que el número de oxidación de la plata sea +1 y el del oxígeno -2 en todos los compuestos.",
-    "explanation": "La ecuación $Ag_2CO_3 \\rightarrow Ag_2O + CO_2$ está correctamente escrita y balanceada. La plata mantiene su estado de oxidación +1 y se conservan los átomos: 2 Ag, 1 C y 3 O en ambos lados.",
+    "hint": "Usa la fórmula de Molaridad $M = \\frac{n}{V}$. Tienes que $n = \\frac{m}{PM}$.",
+    "explanation": "Primero calculamos los moles: $n = \\frac{58.5 \\text{ g}}{58.5 \\text{ g/mol}} = 1 \\text{ mol}$. Luego la molaridad: $M = \\frac{1 \\text{ mol}}{1 \\text{ L}} = 1.0 \\text{ M}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ag",
-    "question": "Identifique el ejemplo que describe un proceso exotérmico.",
+    "question": "Identifique el tipo de enlace presente en la molécula de oxígeno ($O_2$).",
     "image": null,
     "options": [
-      {
-        "text": "Congelar agua",
-        "correct": true
-      },
-      {
-        "text": "Evaporar agua",
-        "correct": false
-      },
-      {
-        "text": "Fundir hierro",
-        "correct": false
-      },
-      {
-        "text": "Cocinar un huevo",
-        "correct": false
-      }
+      { "text": "Covalente no polar", "correct": true },
+      { "text": "Covalente polar", "correct": false },
+      { "text": "Iónico", "correct": false },
+      { "text": "Metálico", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "En estos procesos, el sistema pierde energía hacia el entorno para cambiar de fase.",
-    "explanation": "Al congelar agua (paso de líquido a sólido), el sistema debe liberar calor hacia el entorno para disminuir la energía cinética de sus moléculas, por lo tanto, es exotérmico. La evaporación y fusión son endotérmicos.",
+    "hint": "La diferencia de electronegatividad entre dos átomos iguales es cero.",
+    "explanation": "Al unirse dos átomos del mismo elemento, la diferencia de electronegatividad es 0, por lo que comparten los electrones equitativamente, formando un enlace covalente no polar.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ah",
-    "question": "Selecciona las características que corresponden a los gases ideales:\n1. Choques elásticos\n2. Fuerzas de atracción altas\n3. Volumen de partículas despreciable\n4. Movimiento ordenado",
+    "question": "¿Qué nombre recibe el cambio de estado de sólido a gas sin pasar por líquido?",
     "image": null,
     "options": [
-      {
-        "text": "1 y 3",
-        "correct": true
-      },
-      {
-        "text": "2 y 4",
-        "correct": false
-      },
-      {
-        "text": "1 y 2",
-        "correct": false
-      },
-      {
-        "text": "3 y 4",
-        "correct": false
-      }
+      { "text": "Sublimación", "correct": true },
+      { "text": "Fusión", "correct": false },
+      { "text": "Condensación", "correct": false },
+      { "text": "Solidificación", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "La teoría cinético-molecular asume que no hay pérdida de energía en las colisiones.",
-    "explanation": "Los gases ideales se modelan asumiendo que las partículas tienen choques perfectamente elásticos (sin pérdida de energía) y que el volumen de las partículas individuales es despreciable comparado con el volumen del recipiente.",
+    "hint": "Es lo que le ocurre al hielo seco ($CO_2$ sólido) a temperatura ambiente.",
+    "explanation": "La sublimación es el paso directo del estado sólido al gaseoso.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ai",
-    "question": "La propiedad del átomo de carbono que le permite combinar orbitales atómicos puros (s y p) para formar nuevos orbitales con características mixtas se denomina ______.",
+    "question": "Calcula el pH de una solución cuya concentración de iones hidrógeno $[H^+]$ es $1 \\times 10^{-3} \\text{ M}$.",
     "image": null,
     "options": [
-      {
-        "text": "Hibridación",
-        "correct": true
-      },
-      {
-        "text": "Isomería",
-        "correct": false
-      },
-      {
-        "text": "Alotropía",
-        "correct": false
-      },
-      {
-        "text": "Resonancia",
-        "correct": false
-      }
+      { "text": "3", "correct": true },
+      { "text": "-3", "correct": false },
+      { "text": "11", "correct": false },
+      { "text": "1", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Es el proceso matemático de mezclar funciones de onda.",
-    "explanation": "La hibridación (como $sp^3$, $sp^2$, $sp$) explica la geometría molecular y la equivalencia de los enlaces en los compuestos orgánicos.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Utiliza la fórmula $pH = -\\log[H^+]$.",
+    "explanation": "$pH = -\\log(1 \\times 10^{-3}) = -(-3) = 3$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00aj",
-    "question": "Una solución se considera ______ cuando contiene una cantidad pequeña de soluto respecto a la cantidad máxima que el disolvente puede admitir a esa temperatura, mientras que una solución ______ contiene la máxima cantidad posible.",
+    "question": "En la reacción $N_2 + 3H_2 \\to 2NH_3$, ¿cuántos moles de hidrógeno ($H_2$) se necesitan para reaccionar completamente con 2 moles de nitrógeno ($N_2$)?",
     "image": null,
     "options": [
-      {
-        "text": "diluida - saturada",
-        "correct": true
-      },
-      {
-        "text": "concentrada - insaturada",
-        "correct": false
-      },
-      {
-        "text": "sobresaturada - diluida",
-        "correct": false
-      },
-      {
-        "text": "saturada - sobresaturada",
-        "correct": false
-      }
+      { "text": "6 moles", "correct": true },
+      { "text": "3 moles", "correct": false },
+      { "text": "2 moles", "correct": false },
+      { "text": "1 mol", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Piensa en un vaso de agua al que le agregas solo un grano de sal versus uno donde ya no se disuelve más.",
-    "explanation": "Las soluciones diluidas tienen poco soluto. Las soluciones saturadas han llegado al límite de solubilidad del disolvente a una temperatura dada.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Observa la relación estequiométrica en la ecuación balanceada: 1 mol de $N_2$ reacciona con 3 moles de $H_2$.",
+    "explanation": "Si 1 mol de $N_2$ requiere 3 moles de $H_2$, entonces 2 moles de $N_2$ requerirán $2 \\times 3 = 6$ moles de $H_2$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ak",
-    "question": "El número de ______ determina la identidad del elemento, mientras que la variación en el número de ______ da lugar a los isótopos.",
+    "question": "Identifique el grupo funcional de los alcoholes.",
     "image": null,
     "options": [
-      {
-        "text": "protones - neutrones",
-        "correct": true
-      },
-      {
-        "text": "electrones - protones",
-        "correct": false
-      },
-      {
-        "text": "neutrones - electrones",
-        "correct": false
-      },
-      {
-        "text": "protones - electrones",
-        "correct": false
-      }
+      { "text": "$-OH$ (Hidroxilo)", "correct": true },
+      { "text": "$-COOH$ (Carboxilo)", "correct": false },
+      { "text": "$-CHO$ (Aldehído)", "correct": false },
+      { "text": "$-NH_2$ (Amino)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "El número atómico Z se basa en las partículas con carga positiva.",
-    "explanation": "Los protones definen el número atómico (Z) y el elemento. Los neutrones, al variar, cambian la masa atómica sin cambiar la identidad química, creando isótopos.",
+    "hint": "Está presente en el etanol y metanol.",
+    "explanation": "El grupo funcional característico de los alcoholes es el grupo hidroxilo ($-OH$) unido a un carbono saturado.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00al",
-    "question": "Relaciona el tipo de enlace con su característica principal:\nA) Iónico\nB) Covalente\nC) Metálico\n\nI) Compartición de electrones\nII) Mar de electrones deslocalizados\nIII) Transferencia de electrones",
+    "question": "¿Cuál es el número de oxidación del Cloro en el compuesto $KClO_3$?",
     "image": null,
     "options": [
-      {
-        "text": "A-III, B-I, C-II",
-        "correct": true
-      },
-      {
-        "text": "A-I, B-II, C-III",
-        "correct": false
-      },
-      {
-        "text": "A-III, B-II, C-I",
-        "correct": false
-      },
-      {
-        "text": "A-II, B-III, C-I",
-        "correct": false
-      }
+      { "text": "+5", "correct": true },
+      { "text": "+1", "correct": false },
+      { "text": "-1", "correct": false },
+      { "text": "+7", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Los metales conducen electricidad debido a la movilidad de sus electrones.",
-    "explanation": "El enlace iónico implica transferencia por diferencia de electronegatividad. El covalente comparte electrones entre no metales. El metálico se describe como iones positivos en un mar de electrones.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda que la suma de los números de oxidación en un compuesto neutro es 0. $K=+1$, $O=-2$.",
+    "explanation": "La suma algebraica es: $(+1) + Cl + 3(-2) = 0 \\Rightarrow 1 + Cl - 6 = 0 \\Rightarrow Cl - 5 = 0 \\Rightarrow Cl = +5$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00am",
-    "question": "Un estudiante del CEPREDIX prepara una solución disolviendo $1 \\text{ g}$ de $NaOH$ (Masa molar = $40 \\text{ g/mol}$) en agua hasta completar $100 \\text{ mL}$. ¿Cuál es la concentración molar resultante?",
+    "question": "La Ley de Lavoisier se conoce también como:",
     "image": null,
     "options": [
-      {
-        "text": "$0.25 \\text{ M}$",
-        "correct": true
-      },
-      {
-        "text": "$0.025 \\text{ M}$",
-        "correct": false
-      },
-      {
-        "text": "$2.5 \\text{ M}$",
-        "correct": false
-      },
-      {
-        "text": "$0.40 \\text{ M}$",
-        "correct": false
-      }
+      { "text": "Ley de conservación de la materia", "correct": true },
+      { "text": "Ley de las proporciones definidas", "correct": false },
+      { "text": "Ley de las proporciones múltiples", "correct": false },
+      { "text": "Ley de los volúmenes de combinación", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN", "UNAM"],
-    "level_tag": ["INTERMEDIO", "REAL"],
-    "hint": "Usa la fórmula de molaridad invertida para hallar los moles primero: $n = \\frac{m}{MM}$, y luego $M = \\frac{n}{V(L)}$.",
-    "explanation": "Primero calculamos moles: $n = \\frac{1 \\text{ g}}{40 \\text{ g/mol}} = 0.025 \\text{ mol}$. Luego dividimos entre el volumen en litros ($0.1 \\text{ L}$): $M = \\frac{0.025}{0.1} = 0.25 \\text{ M}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "\"La materia no se crea ni se destruye...\"",
+    "explanation": "Antoine Lavoisier postuló la Ley de la conservación de la materia, indicando que en una reacción química la masa de los reactivos es igual a la masa de los productos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00an",
-    "question": "Identifique el tipo de reacción que ocurre en la siguiente ecuación: $H_2SO_4 + 2KOH \\rightarrow K_2SO_4 + 2H_2O$",
+    "question": "En el laboratorio del CEPREDIX se investiga una reacción. Si la constante de equilibrio $K_{eq}$ es extremadamente grande ($K_{eq} >> 1$), ¿qué indica sobre la reacción?",
     "image": null,
     "options": [
-      {
-        "text": "Neutralización",
-        "correct": true
-      },
-      {
-        "text": "Descomposición",
-        "correct": false
-      },
-      {
-        "text": "Combustión",
-        "correct": false
-      },
-      {
-        "text": "Síntesis",
-        "correct": false
-      }
+      { "text": "El equilibrio favorece a los productos", "correct": true },
+      { "text": "El equilibrio favorece a los reactivos", "correct": false },
+      { "text": "La reacción es muy lenta", "correct": false },
+      { "text": "La reacción no ocurre", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Observa que reacciona un ácido y una base para formar sal y agua.",
-    "explanation": "Es una reacción de neutralización ácido-base, donde el ácido sulfúrico reacciona con el hidróxido de potasio.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda que $K_{eq} = \\frac{[Productos]}{[Reactivos]}$.",
+    "explanation": "Si $K_{eq}$ es muy grande, el numerador (productos) es mucho mayor que el denominador (reactivos), lo que indica que en el equilibrio predominan los productos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ao",
-    "question": "Identifique los coeficientes estequiométricos que balancean correctamente la ecuación: $\\_H_2SO_4 + \\_NaHCO_3 \\rightarrow \\_Na_2SO_4 + \\_CO_2 + \\_H_2O$",
+    "question": "¿Qué tipo de isómero es el n-butano respecto al isobutano (metilpropano)?",
     "image": null,
     "options": [
-      {
-        "text": "1, 2, 1, 2, 2",
-        "correct": true
-      },
-      {
-        "text": "1, 1, 1, 2, 1",
-        "correct": false
-      },
-      {
-        "text": "2, 1, 2, 1, 2",
-        "correct": false
-      },
-      {
-        "text": "1, 2, 1, 1, 1",
-        "correct": false
-      }
+      { "text": "Isómero de cadena", "correct": true },
+      { "text": "Isómero de posición", "correct": false },
+      { "text": "Isómero funcional", "correct": false },
+      { "text": "Estereoisómero", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN", "UNAM"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Comienza balanceando el sodio (Na) que aparece en un solo compuesto en ambos lados.",
-    "explanation": "Al colocar un 2 en $NaHCO_3$, obtenemos 2 Na, lo que balancea el $Na_2SO_4$. Esto nos da 2 C, requiriendo 2 $CO_2$. Finalmente balanceamos hidrógenos y oxígenos obteniendo la serie 1, 2, 1, 2, 2.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Ambos son alcanos $C_4H_{10}$ pero difieren en la estructura de su esqueleto de carbono.",
+    "explanation": "Difieren en la disposición de la cadena de carbonos (lineal vs ramificada), por lo tanto son isómeros de cadena o estructurales.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ap",
-    "question": "En la fórmula química $3Ca_3(PO_4)_2$, ¿cuántos átomos de fósforo hay en total?",
+    "question": "Calcula el calor necesario para elevar la temperatura de $100 \\text{ g}$ de agua de $20^\\circ C$ a $25^\\circ C$. (Calor específico del agua $c_e = 1 \\text{ cal/g}^\circ C$).",
     "image": null,
     "options": [
-      {
-        "text": "6",
-        "correct": true
-      },
-      {
-        "text": "2",
-        "correct": false
-      },
-      {
-        "text": "3",
-        "correct": false
-      },
-      {
-        "text": "12",
-        "correct": false
-      }
+      { "text": "500 cal", "correct": true },
+      { "text": "50 cal", "correct": false },
+      { "text": "2000 cal", "correct": false },
+      { "text": "2500 cal", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Multiplica el coeficiente principal por el subíndice del fósforo dentro y fuera del paréntesis.",
-    "explanation": "El coeficiente 3 multiplica a toda la molécula. Dentro de la molécula $Ca_3(PO_4)_2$, hay 2 átomos de P. Total: $3 \\times 2 = 6$ átomos de fósforo.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa la fórmula $Q = m \\cdot c_e \\cdot \\Delta T$. Despeja si fuera necesario, aquí es directa.",
+    "explanation": "Calculamos $\\Delta T = 25 - 20 = 5^\\circ C$. Luego $Q = 100 \\text{ g} \\times 1 \\text{ cal/g}^\circ C \\times 5^\\circ C = 500 \\text{ cal}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00aq",
-    "question": "Considere la reacción de combustión del propano: $C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O$. ¿Cuántos moles de $CO_2$ se producen al quemar 3 moles de $C_3H_8$?",
+    "question": "¿Cuál es el compuesto que actúa como 'base' en la teoría de Brønsted-Lowry?",
     "image": null,
     "options": [
-      {
-        "text": "9 mol",
-        "correct": true
-      },
-      {
-        "text": "3 mol",
-        "correct": false
-      },
-      {
-        "text": "6 mol",
-        "correct": false
-      },
-      {
-        "text": "12 mol",
-        "correct": false
-      }
+      { "text": "Aceptor de protones ($H^+$)", "correct": true },
+      { "text": "Donador de protones ($H^+$)", "correct": false },
+      { "text": "Donador de electrones", "correct": false },
+      { "text": "Liberador de iones $OH^-$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Usa la relación molar estequiométrica: $1 \\text{ mol } C_3H_8$ produce $3 \\text{ mol } CO_2$.",
-    "explanation": "Si la relación es 1:3, entonces al tener 3 moles de reactivo, se multiplica por 3: $3 \\times 3 = 9 \\text{ moles de } CO_2$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Piensa en quién 'recibe' el ión hidrógeno.",
+    "explanation": "Según Brønsted-Lowry, un ácido dona protones y una base acepta protones.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ar",
-    "question": "Calcule la masa de $Al_2O_3$ producida si se descomponen 2 moles de $Al_2(CO_3)_3$. (Masas molares: $Al_2(CO_3)_3 = 234 \\text{ g/mol}$, $Al_2O_3 = 102 \\text{ g/mol}$).\nReacción: $Al_2(CO_3)_3 \\rightarrow Al_2O_3 + 3CO_2$",
+    "question": "Una mezcla homogénea también se conoce como:",
     "image": null,
     "options": [
-      {
-        "text": "$204 \\text{ g}$",
-        "correct": true
-      },
-      {
-        "text": "$102 \\text{ g}$",
-        "correct": false
-      },
-      {
-        "text": "$468 \\text{ g}$",
-        "correct": false
-      },
-      {
-        "text": "$234 \\text{ g}$",
-        "correct": false
-      }
+      { "text": "Solución o Disolución", "correct": true },
+      { "text": "Suspensión", "correct": false },
+      { "text": "Coloide", "correct": false },
+      { "text": "Emulsión", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN", "UNAM"],
-    "level_tag": ["AVANZADO"],
-    "hint": "Establece la relación estequiométrica mol a mol primero ($1:1$) y luego convierte los moles del producto a gramos usando $m = n \\times MM$.",
-    "explanation": "Según la ecuación, 1 mol de carbonato produce 1 mol de óxido. Por tanto, 2 moles de carbonato producen 2 moles de óxido. Masa = $2 \\text{ mol} \\times 102 \\text{ g/mol} = 204 \\text{ g}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una mezcla donde no se distinguen sus componentes a simple vista ni al microscopio.",
+    "explanation": "Las mezclas homogéneas, donde los componentes están distribuidos uniformemente a nivel molecular, se denominan disoluciones.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00as",
-    "question": "Calcule la constante de equilibrio ($K_{eq}$) para la reacción $3O_2(g) \\rightleftharpoons 2O_3(g)$ si en el equilibrio las concentraciones son $[O_2] = 3 \\text{ M}$ y $[O_3] = 3 \\text{ M}$.",
+    "question": "¿Qué gas se produce principalmente durante la combustión completa de un hidrocarburo?",
     "image": null,
     "options": [
-      {
-        "text": "$0.33$",
-        "correct": true
-      },
-      {
-        "text": "$3.0$",
-        "correct": false
-      },
-      {
-        "text": "$1.0$",
-        "correct": false
-      },
-      {
-        "text": "$0.66$",
-        "correct": false
-      }
+      { "text": "Dióxido de carbono ($CO_2$)", "correct": true },
+      { "text": "Monóxido de carbono ($CO$)", "correct": false },
+      { "text": "Óxido de azufre ($SO_2$)", "correct": false },
+      { "text": "Metano ($CH_4$)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["AVANZADO"],
-    "hint": "La expresión de equilibrio es $K_{eq} = \\frac{[Productos]^{coef}}{[Reactivos]^{coef}}$.",
-    "explanation": "$K_{eq} = \\frac{[O_3]^2}{[O_2]^3}$. Sustituyendo: $\\frac{(3)^2}{(3)^3} = \\frac{9}{27} = \\frac{1}{3} \\approx 0.33$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La combustión completa oxida totalmente al carbono.",
+    "explanation": "En una combustión completa, todo el carbono del combustible se oxida a $CO_2$. Si fuera incompleta se produciría $CO$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00at",
-    "question": "Son ejemplos de cambios químicos:\n1. Combustión de madera\n2. Evaporación de alcohol\n3. Oxidación de un clavo\n4. Disolución de azúcar",
+    "question": "En el CEPREDIX se realiza un experimento con gases. Se tiene un gas a $27^\\circ C$. ¿A qué temperatura en Kelvin equivale?",
     "image": null,
     "options": [
-      {
-        "text": "1 y 3",
-        "correct": true
-      },
-      {
-        "text": "2 y 4",
-        "correct": false
-      },
-      {
-        "text": "1 y 2",
-        "correct": false
-      },
-      {
-        "text": "3 y 4",
-        "correct": false
-      }
+      { "text": "300 K", "correct": true },
+      { "text": "273 K", "correct": false },
+      { "text": "27 K", "correct": false },
+      { "text": "327 K", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Un cambio químico altera la estructura molecular y la identidad de la sustancia.",
-    "explanation": "La combustión y la oxidación generan nuevas sustancias. La evaporación y la disolución son cambios físicos donde la identidad química se conserva.",
+    "hint": "La fórmula de conversión es $K = ^\\circ C + 273.15$.",
+    "explanation": "$K = 27 + 273 = 300 \\text{ K}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00au",
-    "question": "El modelo atómico de ______ propone que los electrones giran alrededor del núcleo en órbitas circulares definidas llamadas niveles de energía, mientras que el modelo de ______ introduce el concepto de orbitales y probabilidad.",
+    "question": "¿Qué tipo de reacción es: $2KClO_3 \\to 2KCl + 3O_2$?",
     "image": null,
     "options": [
-      {
-        "text": "Bohr - Schrödinger",
-        "correct": true
-      },
-      {
-        "text": "Rutherford - Bohr",
-        "correct": false
-      },
-      {
-        "text": "Thomson - Dalton",
-        "correct": false
-      },
-      {
-        "text": "Dalton - Schrödinger",
-        "correct": false
-      }
+      { "text": "Descomposición", "correct": true },
+      { "text": "Síntesis", "correct": false },
+      { "text": "Sustitución simple", "correct": false },
+      { "text": "Sustitución doble", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "El primer modelo mencionado explica las líneas espectrales del hidrógeno; el segundo es el modelo mecanocuántico actual.",
-    "explanation": "Niels Bohr propuso los niveles de energía cuantizados. Schrödinger desarrolló la mecánica ondulatoria que define los orbitales como zonas de probabilidad.",
+    "hint": "Un solo reactivo se rompe en dos o más productos.",
+    "explanation": "Es una reacción de descomposición o análisis, ya que una sustancia compleja se divide en sustancias más simples.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00av",
-    "question": "En la tabla periódica, la ______ aumenta de izquierda a derecha en un periodo y disminuye de arriba hacia abajo en un grupo, indicando la capacidad de un átomo para atraer electrones.",
+    "question": "¿Cuál es la masa molar del agua ($H_2O$)? (Pesos atómicos: H=1, O=16).",
     "image": null,
     "options": [
-      {
-        "text": "Electronegatividad",
-        "correct": true
-      },
-      {
-        "text": "Radio atómico",
-        "correct": false
-      },
-      {
-        "text": "Masa atómica",
-        "correct": false
-      },
-      {
-        "text": "Carácter metálico",
-        "correct": false
-      }
+      { "text": "18 g/mol", "correct": true },
+      { "text": "17 g/mol", "correct": false },
+      { "text": "20 g/mol", "correct": false },
+      { "text": "16 g/mol", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "El flúor es el elemento con el valor más alto de esta propiedad.",
-    "explanation": "La electronegatividad es la tendencia a atraer electrones. El radio atómico sigue la tendencia opuesta (aumenta hacia abajo y hacia la izquierda).",
+    "hint": "Suma las masas atómicas: 2 hidrógenos y 1 oxígeno.",
+    "explanation": "$2(1) + 16 = 18 \\text{ g/mol}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00aw",
-    "question": "Según la Ley de Boyle, para una masa fija de gas a temperatura constante, si la presión ______ el volumen ______ proporcionalmente.",
+    "question": "Un isótopo se caracteriza por tener:",
     "image": null,
     "options": [
-      {
-        "text": "aumenta - disminuye",
-        "correct": true
-      },
-      {
-        "text": "aumenta - aumenta",
-        "correct": false
-      },
-      {
-        "text": "disminuye - disminuye",
-        "correct": false
-      },
-      {
-        "text": "se mantiene - cambia",
-        "correct": false
-      }
+      { "text": "Mismo número de protones, diferente número de neutrones", "correct": true },
+      { "text": "Mismo número de neutrones, diferente número de protones", "correct": false },
+      { "text": "Diferente número de electrones", "correct": false },
+      { "text": "Mismo número másico", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Recuerda la fórmula $P_1V_1 = P_2V_2$. Son inversamente proporcionales.",
-    "explanation": "La Ley de Boyle establece una relación inversamente proporcional entre presión y volumen a temperatura constante.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Pertenecen al mismo elemento químico.",
+    "explanation": "Los isótopos son átomos del mismo elemento (igual número atómico/protones) pero con diferente masa (diferente número de neutrones).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ax",
-    "question": "Relaciona el estado de agregación con la descripción de sus partículas:\nA) Sólido\nB) Líquido\nC) Gas\n\nI) Partículas muy separadas, alta energía cinética\nII) Partículas ordenadas, vibran en posiciones fijas\nIII) Partículas próximas pero con libertad de movimiento",
+    "question": "En el modelo atómico de Bohr, los electrones:",
     "image": null,
     "options": [
-      {
-        "text": "A-II, B-III, C-I",
-        "correct": true
-      },
-      {
-        "text": "A-I, B-II, C-III",
-        "correct": false
-      },
-      {
-        "text": "A-III, B-I, C-II",
-        "correct": false
-      },
-      {
-        "text": "A-II, B-I, C-III",
-        "correct": false
-      }
+      { "text": "Giran en órbitas circulares definidas con energía cuantizada", "correct": true },
+      { "text": "Están incrustados en una esfera positiva", "correct": false },
+      { "text": "Se mueven aleatoriamente en una nube", "correct": false },
+      { "text": "Están en el núcleo junto con los protones", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Piensa en un cubo de hielo (ordenado) vs vapor (caótico).",
-    "explanation": "En los sólidos, las fuerzas de cohesión son fuertes (II). En los líquidos, son intermedias (III). En los gases, son casi nulas y prevalece la energía cinética (I).",
+    "hint": "Propuso niveles de energía como 'capas'.",
+    "explanation": "Bohr postuló que los electrones orbitan el núcleo en niveles de energía fijos y definidos, sin irradiar energía.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ay",
-    "question": "¿Cuál es el número de oxidación del Cloro en el compuesto $KClO_4$?",
+    "question": "Un estudiante del CEPREDIX calcula la masa de 0.5 moles de $CaCO_3$. ¿Cuál es el resultado? (Masas: Ca=40, C=12, O=16).",
     "image": null,
     "options": [
-      {
-        "text": "+7",
-        "correct": true
-      },
-      {
-        "text": "+5",
-        "correct": false
-      },
-      {
-        "text": "-1",
-        "correct": false
-      },
-      {
-        "text": "+3",
-        "correct": false
-      }
+      { "text": "50 g", "correct": true },
+      { "text": "100 g", "correct": false },
+      { "text": "25 g", "correct": false },
+      { "text": "75 g", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Recuerda que el oxígeno generalmente trabaja con -2 y el potasio (grupo 1) con +1. La suma debe ser cero.",
-    "explanation": "$K(+1) + Cl(x) + 4O(-2) = 0$. Entonces $1 + x - 8 = 0$, despejando $x = +7$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Primero calcula la masa molar del carbonato de calcio y luego multiplica por los moles. $m = n \\cdot MM$.",
+    "explanation": "La masa molar del $CaCO_3$ es $40 + 12 + 3(16) = 100 \\text{ g/mol}$. Para 0.5 moles: $0.5 \\text{ mol} \\times 100 \\text{ g/mol} = 50 \\text{ g}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00az",
-    "question": "Los compuestos butano ($C_4H_{10}$) y 2-metilpropano ($C_4H_{10}$) tienen la misma fórmula molecular pero diferente estructura. ¿Cómo se les denomina?",
+    "question": "¿Cuál es la configuración electrónica correcta para el Carbono (Z=6)?",
     "image": null,
     "options": [
-      {
-        "text": "Isómeros",
-        "correct": true
-      },
-      {
-        "text": "Isótopos",
-        "correct": false
-      },
-      {
-        "text": "Alótropos",
-        "correct": false
-      },
-      {
-        "text": "Homólogos",
-        "correct": false
-      }
+      { "text": "$1s^2 2s^2 2p^2$", "correct": true },
+      { "text": "$1s^2 2s^2 2p^4$", "correct": false },
+      { "text": "$1s^2 2s^1 2p^3$", "correct": false },
+      { "text": "$1s^2 2p^4$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "El prefijo 'iso' significa igual, y 'meros' partes.",
-    "explanation": "Los isómeros son compuestos que tienen la misma fórmula molecular pero diferente arreglo estructural de sus átomos.",
+    "hint": "Debes acomodar 6 electrones siguiendo el principio de Aufbau.",
+    "explanation": "Llenando orbitales: $1s$ (2e), $2s$ (2e), quedan 2 electrones para el $2p$. Total: $1s^2 2s^2 2p^2$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ba",
-    "question": "Si una solución de ácido clorhídrico tiene una concentración de iones hidrógeno $[H^+] = 1 \\times 10^{-4} \\text{ M}$, ¿cuál es su pH?",
+    "question": "¿Qué representa el número de Avogadro ($6.022 \\times 10^{23}$)?",
     "image": null,
     "options": [
-      {
-        "text": "4",
-        "correct": true
-      },
-      {
-        "text": "-4",
-        "correct": false
-      },
-      {
-        "text": "10",
-        "correct": false
-      },
-      {
-        "text": "1",
-        "correct": false
-      }
+      { "text": "El número de partículas en un mol de sustancia", "correct": true },
+      { "text": "La masa de un átomo de hidrógeno", "correct": false },
+      { "text": "El número de átomos en un gramo", "correct": false },
+      { "text": "La cantidad de moles en un litro", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Aplica la fórmula $pH = -\\log[H^+]$.",
-    "explanation": "$pH = -\\log(10^{-4}) = 4$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la constante fundamental para definir la unidad de cantidad de sustancia.",
+    "explanation": "El número de Avogadro indica cuántas entidades elementales (átomos, moléculas, iones) hay en un mol de cualquier sustancia.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bb",
-    "question": "Según el principio de Le Châtelier, si se aumenta la presión en la siguiente reacción en equilibrio: $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$, ¿hacia dónde se desplaza el equilibrio?",
+    "question": "¿Qué tipo de reacción termoquímica tiene $\\Delta H > 0$ (entalpía positiva)?",
     "image": null,
     "options": [
-      {
-        "text": "Hacia los productos (derecha)",
-        "correct": true
-      },
-      {
-        "text": "Hacia los reactivos (izquierda)",
-        "correct": false
-      },
-      {
-        "text": "No se desplaza",
-        "correct": false
-      },
-      {
-        "text": "La constante Keq disminuye",
-        "correct": false
-      }
+      { "text": "Endotérmica", "correct": true },
+      { "text": "Exotérmica", "correct": false },
+      { "text": "Espontánea", "correct": false },
+      { "text": "De neutralización", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN", "UNAM"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Al aumentar la presión, el sistema busca ocupar menos volumen. Cuenta los moles de gas a cada lado.",
-    "explanation": "Hay 4 moles de gas en los reactivos ($1 N_2 + 3 H_2$) y 2 moles en los productos ($2 NH_3$). Al aumentar la presión, el equilibrio se desplaza hacia donde hay menos moles gaseosos (derecha).",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Si la entalpía es positiva, el sistema 'gana' o absorbe calor.",
+    "explanation": "Las reacciones endotérmicas absorben calor del entorno, por lo que la entalpía de los productos es mayor que la de los reactivos ($\\Delta H > 0$).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bc",
-    "question": "Un estudiante del CEPREDIX necesita determinar la fórmula empírica de un óxido de nitrógeno que contiene 30.4% de nitrógeno y 69.6% de oxígeno. (Masas atómicas: N=14, O=16). ¿Cuál es la fórmula?",
+    "question": "En el CEPREDIX se analiza una muestra desconocida. Se determina que tiene enlaces covalentes, bajos puntos de fusión y es mal conductor de electricidad. Probablemente sea:",
     "image": null,
     "options": [
-      {
-        "text": "$NO_2$",
-        "correct": true
-      },
-      {
-        "text": "$NO$",
-        "correct": false
-      },
-      {
-        "text": "$N_2O_5$",
-        "correct": false
-      },
-      {
-        "text": "$N_2O$",
-        "correct": false
-      }
+      { "text": "Un compuesto molecular (covalente)", "correct": true },
+      { "text": "Un compuesto iónico", "correct": false },
+      { "text": "Un metal", "correct": false },
+      { "text": "Una aleación", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN", "BUAP"],
-    "level_tag": ["AVANZADO", "REAL"],
-    "hint": "Asume 100g de muestra, divide el porcentaje entre la masa atómica para obtener moles y luego simplifica la relación.",
-    "explanation": "Moles N: $30.4/14 = 2.17$. Moles O: $69.6/16 = 4.35$. Relación: $4.35 / 2.17 \\approx 2$. Fórmula $NO_2$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Los compuestos iónicos suelen tener altos puntos de fusión y conducir en disolución.",
+    "explanation": "Las propiedades descritas (bajos puntos de fusión, mala conductividad) son características típicas de los compuestos covalentes moleculares.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bd",
-    "question": "En la reacción $Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$, ¿qué elemento se oxida?",
+    "question": "Calcula el porcentaje en masa de Hidrógeno en el agua ($H_2O$). (Masas: H=1, O=16).",
     "image": null,
     "options": [
-      {
-        "text": "El Zinc ($Zn$)",
-        "correct": true
-      },
-      {
-        "text": "El Cobre ($Cu$)",
-        "correct": false
-      },
-      {
-        "text": "El Azufre ($S$)",
-        "correct": false
-      },
-      {
-        "text": "El Oxígeno ($O$)",
-        "correct": false
-      }
+      { "text": "11.11%", "correct": true },
+      { "text": "88.89%", "correct": false },
+      { "text": "5.55%", "correct": false },
+      { "text": "2.00%", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La oxidación implica la pérdida de electrones y aumento del número de oxidación.",
-    "explanation": "El Zinc pasa de estado de oxidación 0 (elemento libre) a +2 (en el sulfato), perdiendo 2 electrones, por lo tanto se oxida.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Fórmula: $\\%H = (\\text{masa H} / \\text{masa total}) \\times 100$.",
+    "explanation": "Masa total = 18 g/mol. Masa H = 2 g/mol. $\\% = (2/18) \\times 100 = 11.11\\%$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00be",
-    "question": "¿Cuál es el nombre IUPAC del alcano lineal de 6 carbonos?",
+    "question": "¿Cuál es la fórmula del nitrato de sodio?",
     "image": null,
     "options": [
-      {
-        "text": "Hexano",
-        "correct": true
-      },
-      {
-        "text": "Pentano",
-        "correct": false
-      },
-      {
-        "text": "Heptano",
-        "correct": false
-      },
-      {
-        "text": "Octano",
-        "correct": false
-      }
+      { "text": "$NaNO_3$", "correct": true },
+      { "text": "$NaNO_2$", "correct": false },
+      { "text": "$Na_2NO_3$", "correct": false },
+      { "text": "$Na_3N$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Los prefijos numéricos griegos se usan para indicar el número de carbonos.",
-    "explanation": "El prefijo para 6 es 'hex-', y la terminación para alcanos (enlaces simples) es '-ano'.",
+    "hint": "El ion nitrato tiene la fórmula $NO_3^{-}$ y el sodio $Na^{+}$.",
+    "explanation": "Al tener cargas +1 y -1, se combinan en proporción 1:1, resultando $NaNO_3$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bf",
-    "question": "Selecciona los ácidos que se consideran fuertes (se disocian completamente en agua):\n1. $HCl$\n2. $CH_3COOH$ (Vinagre)\n3. $H_2SO_4$\n4. $H_2CO_3$",
+    "question": "Si se tienen $10 \\text{ g}$ de Hidrógeno ($H_2$) y $10 \\text{ g}$ de Oxígeno ($O_2$) para formar agua ($2H_2 + O_2 \\to 2H_2O$), ¿cuál es el reactivo limitante?",
     "image": null,
     "options": [
-      {
-        "text": "1 y 3",
-        "correct": true
-      },
-      {
-        "text": "2 y 4",
-        "correct": false
-      },
-      {
-        "text": "1 y 2",
-        "correct": false
-      },
-      {
-        "text": "3 y 4",
-        "correct": false
-      }
+      { "text": "Oxígeno ($O_2$)", "correct": true },
+      { "text": "Hidrógeno ($H_2$)", "correct": false },
+      { "text": "Ambos se consumen igual", "correct": false },
+      { "text": "No hay reacción", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Los ácidos orgánicos (con carbono, excepto excepciones) suelen ser débiles, igual que el ácido carbónico.",
-    "explanation": "El ácido clorhídrico ($HCl$) y el sulfúrico ($H_2SO_4$) son ácidos fuertes clásicos. El acético y el carbónico son débiles.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula los moles de cada uno y divídelos entre su coeficiente estequiométrico. Moles = g / PM.",
+    "explanation": "Moles $H_2 = 10/2 = 5$. Moles $O_2 = 10/32 = 0.3125$. Relación estequiométrica: 2 mol $H_2$ por 1 mol $O_2$. Necesitaríamos $0.625$ mol $H_2$ para todo el $O_2$. Tenemos 5 mol de $H_2$ (exceso). El $O_2$ se acaba primero, es el limitante.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bg",
-    "question": "Un ______ es una sustancia que aumenta la velocidad de una reacción química sin consumirse en el proceso, disminuyendo la energía de ______.",
+    "question": "¿Qué propiedad periódica es la capacidad de un átomo para atraer electrones en un enlace químico?",
     "image": null,
     "options": [
-      {
-        "text": "catalizador - activación",
-        "correct": true
-      },
-      {
-        "text": "inhibidor - enlace",
-        "correct": false
-      },
-      {
-        "text": "reactivo - ionización",
-        "correct": false
-      },
-      {
-        "text": "producto - formación",
-        "correct": false
-      }
+      { "text": "Electronegatividad", "correct": true },
+      { "text": "Energía de ionización", "correct": false },
+      { "text": "Afinidad electrónica", "correct": false },
+      { "text": "Radio atómico", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Las enzimas son ejemplos biológicos de estas sustancias.",
-    "explanation": "Los catalizadores proporcionan una ruta alternativa de reacción con una menor energía de activación.",
+    "hint": "Pauling estableció una escala para medirla (F es el más alto).",
+    "explanation": "La electronegatividad mide la tendencia de un átomo a atraer electrones compartidos hacia sí mismo.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bh",
-    "question": "Un átomo neutro que pierde electrones se convierte en un ion con carga ______ llamado ______, mientras que si gana electrones se convierte en un ion con carga ______ llamado ______.",
+    "question": "En condiciones normales de presión y temperatura (TPN), ¿qué volumen ocupa 1 mol de cualquier gas ideal?",
     "image": null,
     "options": [
-      {
-        "text": "positiva, catión - negativa, anión",
-        "correct": true
-      },
-      {
-        "text": "negativa, anión - positiva, catión",
-        "correct": false
-      },
-      {
-        "text": "positiva, anión - negativa, catión",
-        "correct": false
-      },
-      {
-        "text": "neutra, isótopo - negativa, anión",
-        "correct": false
-      }
+      { "text": "22.4 L", "correct": true },
+      { "text": "1 L", "correct": false },
+      { "text": "100 L", "correct": false },
+      { "text": "24.2 L", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Piensa en 'cat' (positivo) y 'an' (negativo, como en ánodo de celda galvánica).",
-    "explanation": "La pérdida de electrones (cargas negativas) deja un exceso de carga positiva (catión). La ganancia genera exceso negativo (anión).",
+    "hint": "Es un valor constante conocido como volumen molar a TPN.",
+    "explanation": "A $0^\\circ C$ (273 K) y 1 atm, un mol de gas ideal ocupa 22.4 litros.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bi",
-    "question": "La Ley de Charles establece que para un gas a presión constante, el ______ es directamente proporcional a la ______ absoluta.",
+    "question": "Un estudiante del CEPREDIX desea neutralizar $50 \\text{ mL}$ de $HCl$ $0.1 \\text{ M}$ con $NaOH$ $0.1 \\text{ M}$. ¿Qué volumen de base necesita?",
     "image": null,
     "options": [
-      {
-        "text": "volumen - temperatura",
-        "correct": true
-      },
-      {
-        "text": "presión - volumen",
-        "correct": false
-      },
-      {
-        "text": "volumen - densidad",
-        "correct": false
-      },
-      {
-        "text": "número de moles - presión",
-        "correct": false
-      }
+      { "text": "50 mL", "correct": true },
+      { "text": "100 mL", "correct": false },
+      { "text": "25 mL", "correct": false },
+      { "text": "10 mL", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Imagina un globo que se calienta; este se expande ($V_1/T_1 = V_2/T_2$).",
-    "explanation": "A mayor temperatura, las moléculas se mueven más rápido y ocupan más espacio si la presión es constante.",
+    "hint": "Usa la fórmula de titulación: $C_a V_a = C_b V_b$ (para relación 1:1).",
+    "explanation": "Como las concentraciones son iguales y la estequiometría es 1:1 ($HCl + NaOH$), los volúmenes deben ser iguales. $(0.1)(50) = (0.1)V_b \\Rightarrow V_b = 50 \\text{ mL}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bj",
-    "question": "Relaciona el método de separación de mezclas con su principio físico:\nA) Filtración\nB) Destilación\nC) Decantación\n\nI) Diferencia de densidades (líquidos inmiscibles)\nII) Diferencia de tamaño de partícula (sólido-líquido)\nIII) Diferencia de puntos de ebullición",
+    "question": "¿Qué nombre recibe el hidrocarburo aromático más simple ($C_6H_6$)?",
     "image": null,
     "options": [
-      {
-        "text": "A-II, B-III, C-I",
-        "correct": true
-      },
-      {
-        "text": "A-I, B-II, C-III",
-        "correct": false
-      },
-      {
-        "text": "A-III, B-I, C-II",
-        "correct": false
-      },
-      {
-        "text": "A-II, B-I, C-III",
-        "correct": false
-      }
+      { "text": "Benceno", "correct": true },
+      { "text": "Ciclohexano", "correct": false },
+      { "text": "Fenol", "correct": false },
+      { "text": "Tolueno", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "La destilación se usa para separar alcohol del agua; la filtración para separar arena del agua.",
-    "explanation": "La filtración usa una barrera porosa (tamaño). La destilación evapora y condensa (ebullición). La decantación deja reposar para separar fases por densidad.",
+    "hint": "Tiene un anillo con dobles enlaces deslocalizados (resonancia).",
+    "explanation": "El benceno es el compuesto base de los aromáticos, con fórmula $C_6H_6$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bk",
-    "question": "¿Cuál es la estructura de Lewis correcta para el dióxido de carbono ($CO_2$)?",
+    "question": "En la reacción redox $Zn + CuSO_4 \\to ZnSO_4 + Cu$, ¿qué elemento se oxida?",
     "image": null,
     "options": [
-      {
-        "text": "$\\ddot{O}=C=\\ddot{O}$",
-        "correct": true
-      },
-      {
-        "text": "$O-C-O$",
-        "correct": false
-      },
-      {
-        "text": "$O=C-O$",
-        "correct": false
-      },
-      {
-        "text": "$O \\equiv C - O$",
-        "correct": false
-      }
+      { "text": "Zinc ($Zn$)", "correct": true },
+      { "text": "Cobre ($Cu$)", "correct": false },
+      { "text": "Azufre ($S$)", "correct": false },
+      { "text": "Oxígeno ($O$)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "El carbono tiene 4 electrones de valencia y necesita formar 4 enlaces para completar el octeto. Cada oxígeno necesita 2 enlaces.",
-    "explanation": "El carbono forma dobles enlaces con cada átomo de oxígeno, completando así el octeto para los tres átomos y minimizando la carga formal.",
+    "hint": "El que se oxida aumenta su número de oxidación (pierde electrones).",
+    "explanation": "El Zinc pasa de estado de oxidación 0 (elemento libre) a +2 (en el sulfato). Al aumentar su número de oxidación, se ha oxidado.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bl",
-    "question": "Se disuelven $20 \\text{ g}$ de sal en $80 \\text{ g}$ de agua. ¿Cuál es el porcentaje en masa ($\\text{% m/m}$) de la solución?",
+    "question": "¿Qué ley establece que la presión total de una mezcla de gases es la suma de las presiones parciales de cada gas?",
     "image": null,
     "options": [
-      {
-        "text": "20%",
-        "correct": true
-      },
-      {
-        "text": "25%",
-        "correct": false
-      },
-      {
-        "text": "80%",
-        "correct": false
-      },
-      {
-        "text": "16%",
-        "correct": false
-      }
+      { "text": "Ley de Dalton", "correct": true },
+      { "text": "Ley de Boyle", "correct": false },
+      { "text": "Ley de Charles", "correct": false },
+      { "text": "Ley de Gay-Lussac", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Recuerda que la masa total de la solución es la suma de soluto más solvente.",
-    "explanation": "Masa solución = $20 \\text{ g} + 80 \\text{ g} = 100 \\text{ g}$. Porcentaje = $(20/100) \\times 100 = 20\\%$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Habla de presiones aditivas.",
+    "explanation": "Dalton estableció que $P_{total} = P_1 + P_2 + ... + P_n$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bm",
-    "question": "¿Cuál es la principal diferencia estructural entre un alcohol y un éter?",
+    "question": "Balancea la siguiente ecuación por tanteo: $Fe + O_2 \\to Fe_2O_3$",
     "image": null,
     "options": [
-      {
-        "text": "El alcohol tiene un grupo $-OH$ terminal o intermedio; el éter tiene un oxígeno entre dos cadenas de carbono ($-O-$).",
-        "correct": true
-      },
-      {
-        "text": "El alcohol tiene doble enlace; el éter enlace simple.",
-        "correct": false
-      },
-      {
-        "text": "El alcohol contiene nitrógeno; el éter no.",
-        "correct": false
-      },
-      {
-        "text": "Son isómeros de función sin diferencias estructurales.",
-        "correct": false
-      }
+      { "text": "$4Fe + 3O_2 \\to 2Fe_2O_3$", "correct": true },
+      { "text": "$2Fe + 3O_2 \\to Fe_2O_3$", "correct": false },
+      { "text": "$Fe + O_2 \\to Fe_2O_3$", "correct": false },
+      { "text": "$4Fe + O_2 \\to 2Fe_2O_3$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Piensa en el etanol ($CH_3CH_2OH$) vs dimetil éter ($CH_3OCH_3$).",
-    "explanation": "Los alcoholes se caracterizan por el grupo hidroxilo ($-OH$) unido a un carbono, mientras que los éteres presentan un puente de oxígeno entre dos radicales alquilo o arilo ($R-O-R'$).",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Fíjate en el oxígeno: tienes 2 a la izquierda y 3 a la derecha. Busca el mínimo común múltiplo.",
+    "explanation": "Para balancear el oxígeno a 6 átomos: $3O_2$ y $2Fe_2O_3$. Esto genera 4 hierros, así que necesitamos $4Fe$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bn",
-    "question": "En la reacción $N_2 + 3H_2 \\rightarrow 2NH_3$, si reaccionan $28 \\text{ g}$ de $N_2$ (1 mol) con $10 \\text{ g}$ de $H_2$ (5 moles), ¿cuál es el reactivo limitante?",
+    "question": "¿Cuál es la hibridación del carbono en un triple enlace ($C \\equiv C$)?",
     "image": null,
     "options": [
-      {
-        "text": "$N_2$",
-        "correct": true
-      },
-      {
-        "text": "$H_2$",
-        "correct": false
-      },
-      {
-        "text": "$NH_3$",
-        "correct": false
-      },
-      {
-        "text": "No hay reactivo limitante",
-        "correct": false
-      }
+      { "text": "$sp$", "correct": true },
+      { "text": "$sp^2$", "correct": false },
+      { "text": "$sp^3$", "correct": false },
+      { "text": "$s^2p^2$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN", "UNAM"],
-    "level_tag": ["AVANZADO"],
-    "hint": "Compara la proporción de moles reales con la proporción estequiométrica (1:3).",
-    "explanation": "Tienes 1 mol de $N_2$. Para reaccionar completamente necesita 3 moles de $H_2$. Como tienes 5 moles de $H_2$, sobra hidrógeno. Por lo tanto, el $N_2$ se acaba primero y es el limitante.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Geometría lineal, ángulo de 180 grados.",
+    "explanation": "En un triple enlace (alquinos), el carbono presenta hibridación $sp$, formando un enlace sigma y dos pi.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bo",
-    "question": "En un diagrama de energía potencial para una reacción exotérmica, la energía de los productos es ______ que la energía de los reactivos.",
+    "question": "Un estudiante del CEPREDIX calcula la energía libre de Gibbs ($\\Delta G$) de una reacción y obtiene un valor negativo. ¿Qué significa esto?",
     "image": null,
     "options": [
-      {
-        "text": "menor",
-        "correct": true
-      },
-      {
-        "text": "mayor",
-        "correct": false
-      },
-      {
-        "text": "igual",
-        "correct": false
-      },
-      {
-        "text": "independiente",
-        "correct": false
-      }
+      { "text": "La reacción es espontánea", "correct": true },
+      { "text": "La reacción no es espontánea", "correct": false },
+      { "text": "El sistema está en equilibrio", "correct": false },
+      { "text": "La reacción es endotérmica", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Si libera energía ($\Delta H < 0$), ¿dónde terminan los productos energéticamente?",
-    "explanation": "En una reacción exotérmica se libera calor, por lo que el sistema pierde energía potencial. Los productos terminan en un nivel energético inferior a los reactivos.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La espontaneidad termodinámica depende del signo de $\\Delta G$.",
+    "explanation": "Si $\\Delta G < 0$, el proceso es exergónico y ocurre espontáneamente en sentido directo.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bp",
-    "question": "¿Cuántos neutrones tiene el isótopo Carbono-14 ($^{14}_6C$)?",
+    "question": "¿Cuál de los siguientes es un ácido fuerte?",
     "image": null,
     "options": [
-      {
-        "text": "8",
-        "correct": true
-      },
-      {
-        "text": "6",
-        "correct": false
-      },
-      {
-        "text": "14",
-        "correct": false
-      },
-      {
-        "text": "12",
-        "correct": false
-      }
+      { "text": "$HCl$ (Ácido clorhídrico)", "correct": true },
+      { "text": "$CH_3COOH$ (Ácido acético)", "correct": false },
+      { "text": "$H_2CO_3$ (Ácido carbónico)", "correct": false },
+      { "text": "$HF$ (Ácido fluorhídrico)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Resta el número atómico (Z) a la masa atómica (A).",
-    "explanation": "Número de neutrones = A - Z. Para el carbono-14: $14 - 6 = 8$ neutrones.",
+    "hint": "Se disocia completamente en agua.",
+    "explanation": "El ácido clorhídrico es un ácido fuerte que se ioniza al 100% en solución acuosa. El acético y carbónico son débiles; el fluorhídrico también es débil.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bq",
-    "question": "En el CEPREDIX se analiza un gas ideal que ocupa $4 \\text{ L}$ a $27^\\circ\\text{C}$. Si se calienta a $127^\\circ\\text{C}$ manteniendo la presión constante, ¿cuál será el nuevo volumen?",
+    "question": "¿Qué familia de la tabla periódica corresponde al Grupo 18 (VIII A)?",
     "image": null,
     "options": [
-      {
-        "text": "$5.33 \\text{ L}$",
-        "correct": true
-      },
-      {
-        "text": "$18.8 \\text{ L}$",
-        "correct": false
-      },
-      {
-        "text": "$3.0 \\text{ L}$",
-        "correct": false
-      },
-      {
-        "text": "$4.5 \\text{ L}$",
-        "correct": false
-      }
+      { "text": "Gases Nobles", "correct": true },
+      { "text": "Halógenos", "correct": false },
+      { "text": "Metales Alcalinos", "correct": false },
+      { "text": "Alcalinotérreos", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN", "UNAM"],
-    "level_tag": ["INTERMEDIO", "REAL"],
-    "hint": "Convierte siempre la temperatura a Kelvin ($K = ^\\circ C + 273$) antes de usar la Ley de Charles ($V_1/T_1 = V_2/T_2$).",
-    "explanation": "$T_1 = 300\\text{K}$, $T_2 = 400\\text{K}$. $V_2 = V_1(T_2/T_1) = 4(400/300) = 4(1.33) = 5.33 \\text{ L}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Son elementos inertes con su última capa llena.",
+    "explanation": "El grupo 18 contiene a los gases nobles (He, Ne, Ar...), caracterizados por su baja reactividad.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00br",
-    "question": "¿Cuáles de los siguientes elementos existen naturalmente como moléculas diatómicas?\n1. Oxígeno\n2. Helio\n3. Nitrógeno\n4. Hierro",
+    "question": "¿Cuál es la fórmula general de los alcanos?",
     "image": null,
     "options": [
-      {
-        "text": "1 y 3",
-        "correct": true
-      },
-      {
-        "text": "2 y 4",
-        "correct": false
-      },
-      {
-        "text": "1 y 2",
-        "correct": false
-      },
-      {
-        "text": "3 y 4",
-        "correct": false
-      }
+      { "text": "$C_nH_{2n+2}$", "correct": true },
+      { "text": "$C_nH_{2n}$", "correct": false },
+      { "text": "$C_nH_{2n-2}$", "correct": false },
+      { "text": "$C_nH_n$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Recuerda la regla mnemotécnica de los '7 magníficos' o gases comunes en la atmósfera.",
-    "explanation": "El oxígeno ($O_2$) y el nitrógeno ($N_2$) son diatómicos. El helio es monoatómico (gas noble) y el hierro forma redes metálicas.",
+    "hint": "Son hidrocarburos saturados, tienen el máximo número de hidrógenos posible.",
+    "explanation": "Para una cadena abierta saturada, por cada n carbonos hay $2n + 2$ hidrógenos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bs",
-    "question": "El ______ es la sustancia que se encuentra en menor proporción en una solución y se disuelve, mientras que el ______ es el componente mayoritario que disuelve.",
+    "question": "Se tiene una solución de glucosa ($C_6H_{12}O_6$) al 10% m/m. ¿Qué significa esto?",
     "image": null,
     "options": [
-      {
-        "text": "soluto - disolvente",
-        "correct": true
-      },
-      {
-        "text": "disolvente - soluto",
-        "correct": false
-      },
-      {
-        "text": "coloide - suspensión",
-        "correct": false
-      },
-      {
-        "text": "precipitado - sobrenadante",
-        "correct": false
-      }
+      { "text": "Hay 10 g de glucosa en 100 g de solución", "correct": true },
+      { "text": "Hay 10 g de glucosa en 100 g de agua", "correct": false },
+      { "text": "Hay 10 moles de glucosa en 1 L de agua", "correct": false },
+      { "text": "Hay 10 g de glucosa en 1 L de solución", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "En agua salada, la sal es el primero y el agua el segundo.",
-    "explanation": "Definición básica de los componentes de una solución.",
+    "hint": "El porcentaje masa/masa relaciona la masa del soluto con la masa total de la mezcla.",
+    "explanation": "El % m/m indica gramos de soluto por cada 100 gramos de solución total (soluto + solvente).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bt",
-    "question": "El ______ es la cantidad de calor necesaria para elevar la temperatura de 1 gramo de una sustancia en 1 grado Celsius.",
+    "question": "¿Qué método de separación se basa en la diferencia de puntos de ebullición?",
     "image": null,
     "options": [
-      {
-        "text": "calor específico",
-        "correct": true
-      },
-      {
-        "text": "calor latente",
-        "correct": false
-      },
-      {
-        "text": "punto de ebullición",
-        "correct": false
-      },
-      {
-        "text": "entalpía de formación",
-        "correct": false
-      }
+      { "text": "Destilación", "correct": true },
+      { "text": "Filtración", "correct": false },
+      { "text": "Decantación", "correct": false },
+      { "text": "Tamizado", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Para el agua, este valor es de $1 \\text{ cal/g}^\\circ\\text{C}$.",
-    "explanation": "El calor específico ($C_e$) es una propiedad intensiva que mide la inercia térmica de una sustancia.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se usa para separar el alcohol del agua o refinar petróleo.",
+    "explanation": "La destilación separa componentes de una mezcla líquida aprovechando sus diferentes volatilidades (puntos de ebullición).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bu",
-    "question": "El radio atómico ______ al descender en un grupo de la tabla periódica debido al aumento en el número de ______.",
+    "question": "En el CEPREDIX se estudia una reacción de segundo orden. Si se duplica la concentración del reactivo, ¿cómo cambia la velocidad de reacción?",
     "image": null,
     "options": [
-      {
-        "text": "aumenta - niveles de energía",
-        "correct": true
-      },
-      {
-        "text": "disminuye - protones",
-        "correct": false
-      },
-      {
-        "text": "aumenta - electrones de valencia",
-        "correct": false
-      },
-      {
-        "text": "disminuye - neutrones",
-        "correct": false
-      }
+      { "text": "Se cuadruplica", "correct": true },
+      { "text": "Se duplica", "correct": false },
+      { "text": "No cambia", "correct": false },
+      { "text": "Se reduce a la mitad", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Al bajar en la tabla, estás añadiendo 'capas' al átomo.",
-    "explanation": "Al bajar en un grupo, se añaden capas electrónicas (niveles de energía principal n), haciendo el átomo más grande a pesar del aumento de carga nuclear.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La ley de velocidad es $v = k[A]^2$. Sustituye $[2A]$.",
+    "explanation": "Si $v = k[A]^2$, entonces $v' = k[2A]^2 = k(4[A]^2) = 4v$. La velocidad aumenta por un factor de 4.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bv",
-    "question": "Relaciona la reacción orgánica con su descripción:\nA) Sustitución\nB) Adición\nC) Eliminación\n\nI) Un átomo o grupo reemplaza a otro.\nII) Se pierden átomos de una molécula formando un enlace doble.\nIII) Átomos se suman a un doble enlace rompiéndolo.",
+    "question": "¿Qué enlace une a los aminoácidos para formar proteínas?",
     "image": null,
     "options": [
-      {
-        "text": "A-I, B-III, C-II",
-        "correct": true
-      },
-      {
-        "text": "A-I, B-II, C-III",
-        "correct": false
-      },
-      {
-        "text": "A-II, B-I, C-III",
-        "correct": false
-      },
-      {
-        "text": "A-III, B-II, C-I",
-        "correct": false
-      }
+      { "text": "Enlace peptídico", "correct": true },
+      { "text": "Enlace glucosídico", "correct": false },
+      { "text": "Enlace éster", "correct": false },
+      { "text": "Puente de hidrógeno", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["AVANZADO"],
-    "hint": "La hidrogenación de aceites es una adición; la formación de alquenos es eliminación.",
-    "explanation": "Sustitución: cambio de grupo (ej. halogenación de alcanos). Adición: rompe pi, forma sigma (ej. hidrogenación). Eliminación: forma pi (ej. deshidratación de alcoholes).",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es un tipo de enlace amida entre el grupo carboxilo de uno y el amino de otro.",
+    "explanation": "El enlace peptídico ($R-CO-NH-R'$) es el enlace covalente que une aminoácidos en una cadena proteica.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bw",
-    "question": "¿Qué tipo de sólido forman los átomos de cobre ($Cu$) unidos entre sí?",
+    "question": "¿Qué fenómeno explica que el aceite y el agua no se mezclen?",
     "image": null,
     "options": [
-      {
-        "text": "Metálico",
-        "correct": true
-      },
-      {
-        "text": "Iónico",
-        "correct": false
-      },
-      {
-        "text": "Covalente molecular",
-        "correct": false
-      },
-      {
-        "text": "Covalente reticular",
-        "correct": false
-      }
+      { "text": "Diferencia de polaridad", "correct": true },
+      { "text": "Diferencia de densidad", "correct": false },
+      { "text": "Tensión superficial", "correct": false },
+      { "text": "Viscosidad", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Es un excelente conductor de electricidad y calor.",
-    "explanation": "El cobre es un metal, sus átomos se mantienen unidos mediante enlaces metálicos (mar de electrones).",
+    "hint": "\"Lo semejante disuelve a lo semejante\".",
+    "explanation": "El agua es polar y el aceite es no polar (hidrofóbico). Las interacciones moleculares no son compatibles para formar una solución.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bx",
-    "question": "Calcule la masa molar del ácido sulfúrico ($H_2SO_4$). (Masas atómicas: $H=1$, $S=32$, $O=16$).",
+    "question": "Calcula el volumen ocupado por $20 \\text{ g}$ de gas Neón a TPN. (Masa molar Ne = $20 \\text{ g/mol}$).",
     "image": null,
     "options": [
-      {
-        "text": "$98 \\text{ g/mol}$",
-        "correct": true
-      },
-      {
-        "text": "$49 \\text{ g/mol}$",
-        "correct": false
-      },
-      {
-        "text": "$96 \\text{ g/mol}$",
-        "correct": false
-      },
-      {
-        "text": "$194 \\text{ g/mol}$",
-        "correct": false
-      }
+      { "text": "22.4 L", "correct": true },
+      { "text": "44.8 L", "correct": false },
+      { "text": "11.2 L", "correct": false },
+      { "text": "20 L", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Suma las masas atómicas multiplicadas por la cantidad de átomos: $(2 \\times 1) + (1 \\times 32) + (4 \\times 16)$.",
-    "explanation": "$2(1) + 32 + 4(16) = 2 + 32 + 64 = 98 \\text{ g/mol}$.",
+    "hint": "Primero convierte gramos a moles.",
+    "explanation": "$n = 20 \\text{ g} / 20 \\text{ g/mol} = 1 \\text{ mol}$. Como es 1 mol a TPN, ocupa $22.4 \\text{ L}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00by",
-    "question": "La Ley de Hess establece que el cambio de entalpía total de una reacción química es ______ de la ruta por la cual ocurre la reacción.",
+    "question": "El número cuántico principal ($n$) indica:",
     "image": null,
     "options": [
-      {
-        "text": "independiente",
-        "correct": true
-      },
-      {
-        "text": "dependiente",
-        "correct": false
-      },
-      {
-        "text": "inverso",
-        "correct": false
-      },
-      {
-        "text": "proporcional",
-        "correct": false
-      }
+      { "text": "El nivel de energía y tamaño del orbital", "correct": true },
+      { "text": "La forma del orbital", "correct": false },
+      { "text": "La orientación espacial", "correct": false },
+      { "text": "El giro del electrón", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["AVANZADO"],
-    "hint": "La entalpía es una función de estado.",
-    "explanation": "Como función de estado, la entalpía solo depende de los estados inicial y final, no de los pasos intermedios. Esto permite sumar ecuaciones termoquímicas.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Toma valores enteros 1, 2, 3...",
+    "explanation": "El número cuántico $n$ define la capa principal de energía y determina el tamaño promedio del orbital.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00bz",
-    "question": "Según las reglas de solubilidad, los nitratos ($NO_3^-$) son sales que generalmente son:",
+    "question": "Un estudiante del CEPREDIX quema $16 \\text{ g}$ de metano ($CH_4$). Si la eficiencia de la reacción es del 80%, ¿cuántos gramos de $CO_2$ obtiene realmente? (Masa molar $CO_2 = 44 \\text{ g/mol}$, $CH_4 = 16 \\text{ g/mol}$).",
     "image": null,
     "options": [
-      {
-        "text": "Solubles en agua",
-        "correct": true
-      },
-      {
-        "text": "Insolubles en agua",
-        "correct": false
-      },
-      {
-        "text": "Gases a temperatura ambiente",
-        "correct": false
-      },
-      {
-        "text": "Reactivos explosivos",
-        "correct": false
-      }
+      { "text": "35.2 g", "correct": true },
+      { "text": "44 g", "correct": false },
+      { "text": "8.8 g", "correct": false },
+      { "text": "16 g", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Recuerda la regla general: 'Todos los nitratos y acetatos son...'",
-    "explanation": "Casi todos los nitratos son solubles en agua, no presentan excepciones comunes significativas en química general.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula el rendimiento teórico (estequiometría 1:1) y multiplícalo por 0.80.",
+    "explanation": "1 mol de $CH_4$ (16 g) produce teóricamente 1 mol de $CO_2$ (44 g). Rendimiento real = $44 \\text{ g} \\times 0.80 = 35.2 \\text{ g}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ca",
-    "question": "Un compuesto tiene fórmula empírica $CH_2$ y su masa molar es $42 \\text{ g/mol}$. ¿Cuál es su fórmula molecular? (C=12, H=1).",
+    "question": "Selecciona el compuesto que es una sal binaria.",
     "image": null,
     "options": [
-      {
-        "text": "$C_3H_6$",
-        "correct": true
-      },
-      {
-        "text": "$C_2H_4$",
-        "correct": false
-      },
-      {
-        "text": "$C_4H_8$",
-        "correct": false
-      },
-      {
-        "text": "$C_3H_8$",
-        "correct": false
-      }
+      { "text": "$KBr$", "correct": true },
+      { "text": "$NaOH$", "correct": false },
+      { "text": "$H_2SO_4$", "correct": false },
+      { "text": "$KNO_3$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Calcula la masa de la fórmula empírica y divídela entre la masa molar real para encontrar el factor multiplicador.",
-    "explanation": "Masa empírica ($CH_2$) = $12 + 2(1) = 14 \\text{ g/mol}$. Factor = $42 / 14 = 3$. Multiplica la fórmula empírica por 3: $C_3H_6$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Está formada por un metal y un no metal solamente (dos elementos).",
+    "explanation": "El bromuro de potasio ($KBr$) está compuesto únicamente por dos elementos, K y Br, siendo una sal haloidea o binaria.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00cb",
-    "question": "¿Qué representa el número cuántico principal ($n$)?",
+    "question": "¿Cuál es la función química de $CaO$ (óxido de calcio)?",
     "image": null,
     "options": [
-      {
-        "text": "El nivel de energía y tamaño del orbital",
-        "correct": true
-      },
-      {
-        "text": "La forma del orbital",
-        "correct": false
-      },
-      {
-        "text": "La orientación espacial",
-        "correct": false
-      },
-      {
-        "text": "El giro del electrón (spin)",
-        "correct": false
-      }
+      { "text": "Óxido básico", "correct": true },
+      { "text": "Óxido ácido", "correct": false },
+      { "text": "Hidróxido", "correct": false },
+      { "text": "Sal", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Es el primer número cuántico y toma valores enteros 1, 2, 3...",
-    "explanation": "El número cuántico principal ($n$) determina la energía principal y el tamaño o distancia promedio del electrón al núcleo.",
+    "hint": "Es un metal unido a oxígeno. Al reaccionar con agua forma una base.",
+    "explanation": "Los óxidos metálicos como el $CaO$ se clasifican como óxidos básicos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00cc",
-    "question": "Identifique las sustancias que actúan como electrolitos fuertes:\n1. $NaCl$ (acuoso)\n2. Glucosa (acuosa)\n3. $KOH$ (acuoso)\n4. Etanol (líquido)",
+    "question": "En la electrólisis del agua, ¿qué gas se recoge en el cátodo (electrodo negativo)?",
     "image": null,
     "options": [
-      {
-        "text": "1 y 3",
-        "correct": true
-      },
-      {
-        "text": "2 y 4",
-        "correct": false
-      },
-      {
-        "text": "1 y 2",
-        "correct": false
-      },
-      {
-        "text": "3 y 4",
-        "correct": false
-      }
+      { "text": "Hidrógeno", "correct": true },
+      { "text": "Oxígeno", "correct": false },
+      { "text": "Cloro", "correct": false },
+      { "text": "Nitrógeno", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Los electrolitos fuertes se disocian en ones capaces de conducir corriente eléctrica (sales, bases fuertes, ácidos fuertes).",
-    "explanation": "El cloruro de sodio (sal) y el hidróxido de potasio (base fuerte) se disocian completamente en iones. La glucosa y el etanol son compuestos covalentes que no se disocian en iones.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Los cationes $H^+$ van al cátodo para reducirse.",
+    "explanation": "En el cátodo ocurre la reducción: $2H^+ + 2e^- \\to H_2$. Se libera gas hidrógeno.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00cd",
-    "question": "En una reacción redox, el agente ______ es la sustancia que se reduce, provocando la ______ de otra sustancia.",
+    "question": "Un estudiante del CEPREDIX diluye $10 \\text{ mL}$ de una solución $2 \\text{ M}$ hasta un volumen final de $100 \\text{ mL}$. ¿Cuál es la nueva concentración?",
     "image": null,
     "options": [
-      {
-        "text": "oxidante - oxidación",
-        "correct": true
-      },
-      {
-        "text": "reductor - reducción",
-        "correct": false
-      },
-      {
-        "text": "oxidante - reducción",
-        "correct": false
-      },
-      {
-        "text": "reductor - neutralización",
-        "correct": false
-      }
+      { "text": "0.2 M", "correct": true },
+      { "text": "0.02 M", "correct": false },
+      { "text": "20 M", "correct": false },
+      { "text": "1 M", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El agente hace la acción sobre el otro. Si oxida al otro, él mismo debe sufrir lo contrario.",
-    "explanation": "El agente oxidante gana electrones (se reduce) y causa que la otra sustancia pierda electrones (se oxide).",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa la fórmula de dilución $C_1 V_1 = C_2 V_2$. Despeja $C_2$.",
+    "explanation": "$C_2 = \\frac{C_1 V_1}{V_2} = \\frac{2 \\text{ M} \\times 10 \\text{ mL}}{100 \\text{ mL}} = 0.2 \\text{ M}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ce",
-    "question": "La normalidad ($N$) se define como el número de ______ de soluto por litro de solución.",
+    "question": "¿Cómo se llama la energía mínima necesaria para iniciar una reacción química?",
     "image": null,
     "options": [
-      {
-        "text": "equivalentes-gramo",
-        "correct": true
-      },
-      {
-        "text": "moles",
-        "correct": false
-      },
-      {
-        "text": "gramos",
-        "correct": false
-      },
-      {
-        "text": "moléculas",
-        "correct": false
-      }
+      { "text": "Energía de activación", "correct": true },
+      { "text": "Entalpía de formación", "correct": false },
+      { "text": "Energía cinética", "correct": false },
+      { "text": "Energía potencial", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Es una unidad relacionada con la capacidad de reacción ($H^+$ o $OH^-$). Fórmula: $N = Eq/V$.",
-    "explanation": "La normalidad usa el concepto de peso equivalente, útil en titulaciones ácido-base y redox.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la barrera energética que deben superar los reactivos.",
+    "explanation": "La energía de activación es el umbral de energía que las moléculas deben alcanzar para romper enlaces y formar nuevos productos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00cf",
-    "question": "La ______ es un proceso físico para separar sólidos de líquidos utilizando un medio poroso, mientras que la ______ separa líquidos con diferentes puntos de ebullición.",
+    "question": "Para el equilibrio $2NO_2(g) \\rightleftharpoons N_2O_4(g)$ (exotérmico), ¿qué sucede si se aumenta la temperatura?",
     "image": null,
     "options": [
-      {
-        "text": "filtración - destilación",
-        "correct": true
-      },
-      {
-        "text": "decantación - filtración",
-        "correct": false
-      },
-      {
-        "text": "evaporación - centrifugación",
-        "correct": false
-      },
-      {
-        "text": "destilación - decantación",
-        "correct": false
-      }
+      { "text": "Se favorece la formación de reactivos ($NO_2$)", "correct": true },
+      { "text": "Se favorece la formación de productos ($N_2O_4$)", "correct": false },
+      { "text": "No hay cambios", "correct": false },
+      { "text": "Aumenta la presión solamente", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El café de grano se prepara con el primer método; el tequila con el segundo.",
-    "explanation": "Definiciones básicas de métodos de separación de mezclas.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Aplica el Principio de Le Chatelier. Si es exotérmico, considera el calor como un producto.",
+    "explanation": "Al añadir calor (aumentar T), el sistema busca consumirlo desplazándose hacia la izquierda (endotérmica), favoreciendo los reactivos ($NO_2$).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00cg",
-    "question": "Relaciona el científico con su aportación al modelo atómico:\nA) J.J. Thomson\nB) E. Rutherford\nC) J. Dalton\n\nI) Átomo como esfera sólida indivisible\nII) Descubrimiento del electrón (Budín de pasas)\nIII) Descubrimiento del núcleo (Experimento lámina de oro)",
+    "question": "¿Cuál es la partícula alfa ($\\alpha$)?",
     "image": null,
     "options": [
-      {
-        "text": "A-II, B-III, C-I",
-        "correct": true
-      },
-      {
-        "text": "A-III, B-II, C-I",
-        "correct": false
-      },
-      {
-        "text": "A-I, B-III, C-II",
-        "correct": false
-      },
-      {
-        "text": "A-II, B-I, C-III",
-        "correct": false
-      }
+      { "text": "Núcleo de Helio ($2p^+, 2n^0$)", "correct": true },
+      { "text": "Electrón de alta energía", "correct": false },
+      { "text": "Fotón de alta energía", "correct": false },
+      { "text": "Un protón aislado", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "Dalton fue el primero (clásico). Thomson usó rayos catódicos. Rutherford usó partículas alfa.",
-    "explanation": "Dalton retomó el atomismo griego. Thomson descubrió la primera partícula subatómica (electrón). Rutherford descubrió que la masa se concentra en un núcleo pequeño.",
+    "hint": "Tiene carga +2 y masa 4.",
+    "explanation": "Una partícula alfa consiste en dos protones y dos neutrones, idéntica a un núcleo de Helio-4.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "QUI00ch",
-    "question": "¿Cuál es la geometría molecular del metano ($CH_4$) según la teoría de repulsión de pares de electrones de valencia (RPECV)?",
+    "question": "Un estudiante del CEPREDIX titula $20 \\text{ mL}$ de $H_2SO_4$ de concentración desconocida con $40 \\text{ mL}$ de $NaOH$ $0.5 \\text{ M}$. ¿Cuál es la concentración del ácido?",
     "image": null,
     "options": [
-      {
-        "text": "Tetraédrica",
-        "correct": true
-      },
-      {
-        "text": "Plana trigonal",
-        "correct": false
-      },
-      {
-        "text": "Lineal",
-        "correct": false
-      },
-      {
-        "text": "Angular",
-        "correct": false
-      }
+      { "text": "0.5 M", "correct": true },
+      { "text": "1.0 M", "correct": false },
+      { "text": "0.25 M", "correct": false },
+      { "text": "0.1 M", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Cuidado con la estequiometría: 1 mol de $H_2SO_4$ reacciona con 2 moles de $NaOH$. Fórmula: $N_a V_a = N_b V_b$ o ajustar molaridad.",
+    "explanation": "Reacción: $H_2SO_4 + 2NaOH$. Moles base: $0.04 \\text{ L} \\times 0.5 \\text{ M} = 0.02 \\text{ mol}$. Moles ácido necesarios = $0.02 / 2 = 0.01 \\text{ mol}$. Molaridad ácido = $0.01 \\text{ mol} / 0.02 \\text{ L} = 0.5 \\text{ M}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00ci",
+    "question": "¿Qué elemento tiene mayor radio atómico?",
+    "image": null,
+    "options": [
+      { "text": "Francio (Fr)", "correct": true },
+      { "text": "Flúor (F)", "correct": false },
+      { "text": "Hierro (Fe)", "correct": false },
+      { "text": "Carbono (C)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "El carbono tiene hibridación $sp^3$ y 4 enlaces idénticos.",
-    "explanation": "Al tener 4 pares enlazantes y 0 libres, los ángulos de enlace se maximizan a $109.5^\\circ$ formando un tetraedro.",
+    "hint": "Está en la esquina inferior izquierda de la tabla periódica.",
+    "explanation": "El radio atómico aumenta hacia abajo y hacia la izquierda. El Francio es el elemento con mayor radio.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00cj",
+    "question": "¿Cuál es el nombre de $Fe(NO_3)_3$ según la nomenclatura Stock?",
+    "image": null,
+    "options": [
+      { "text": "Nitrato de hierro (III)", "correct": true },
+      { "text": "Nitrato férrico", "correct": false },
+      { "text": "Nitrato de hierro (II)", "correct": false },
+      { "text": "Trinitrato de hierro", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El ion nitrato tiene carga -1, por lo que el hierro debe compensar 3 cargas negativas.",
+    "explanation": "Como hay 3 nitratos (-1 cada uno), el hierro actúa con valencia +3. En Stock se indica con números romanos: Nitrato de hierro (III).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00ck",
+    "question": "En el CEPREDIX, al calcular la presión osmótica de una solución celular, ¿qué factor 'i' de Van't Hoff usarías para $CaCl_2$ asumiendo disociación completa?",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Cuenta en cuántos iones se rompe la fórmula: $Ca^{+2} + Cl^- + Cl^-$.",
+    "explanation": "El $CaCl_2$ se disocia en 1 ion calcio y 2 iones cloruro, totalizando 3 partículas por unidad fórmula, por lo que $i=3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00cl",
+    "question": "La reacción $A + B \\to AB$ libera calor. La energía de los productos es:",
+    "image": null,
+    "options": [
+      { "text": "Menor que la de los reactivos", "correct": true },
+      { "text": "Mayor que la de los reactivos", "correct": false },
+      { "text": "Igual a la de los reactivos", "correct": false },
+      { "text": "Cero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una reacción exotérmica.",
+    "explanation": "Al liberar energía al entorno, los productos quedan con un contenido energético (entalpía) menor que los reactivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00cm",
+    "question": "Calcula los moles de átomos de oxígeno en 2 moles de ácido nítrico ($HNO_3$).",
+    "image": null,
+    "options": [
+      { "text": "6 moles", "correct": true },
+      { "text": "3 moles", "correct": false },
+      { "text": "2 moles", "correct": false },
+      { "text": "5 moles", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Observa el subíndice del oxígeno en la fórmula y multiplica por los moles del compuesto.",
+    "explanation": "Cada mol de $HNO_3$ tiene 3 moles de O. En 2 moles de compuesto: $2 \\times 3 = 6$ moles de O.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00cn",
+    "question": "Identifica el alcano ramificado.",
+    "image": null,
+    "options": [
+      { "text": "Isobutano", "correct": true },
+      { "text": "n-pentano", "correct": false },
+      { "text": "Etano", "correct": false },
+      { "text": "Propano", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su nombre IUPAC es metilpropano.",
+    "explanation": "El isobutano tiene una ramificación metil en el carbono central, a diferencia de los alcanos lineales (n-).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00co",
+    "question": "En el CEPREDIX se tiene un gas a 2 atm de presión y volumen de 10 L. Si se comprime isotérmicamente a 5 L, ¿cuál es la nueva presión?",
+    "image": null,
+    "options": [
+      { "text": "4 atm", "correct": true },
+      { "text": "1 atm", "correct": false },
+      { "text": "2.5 atm", "correct": false },
+      { "text": "5 atm", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ley de Boyle: $P_1 V_1 = P_2 V_2$. Despeja $P_2$.",
+    "explanation": "$P_2 = \\frac{P_1 V_1}{V_2} = \\frac{2 \\text{ atm} \\times 10 \\text{ L}}{5 \\text{ L}} = 4 \\text{ atm}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00cp",
+    "question": "¿Cuál es la unidad de la Molaridad?",
+    "image": null,
+    "options": [
+      { "text": "mol/L", "correct": true },
+      { "text": "mol/kg", "correct": false },
+      { "text": "g/L", "correct": false },
+      { "text": "eq/L", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Moles de soluto por Litros de solución.",
+    "explanation": "La molaridad se define como la cantidad de sustancia (moles) por unidad de volumen (litros) de disolución.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00cq",
+    "question": "La regla del octeto establece que los átomos tienden a ganar, perder o compartir electrones para:",
+    "image": null,
+    "options": [
+      { "text": "Tener 8 electrones en su capa de valencia", "correct": true },
+      { "text": "Tener 8 protones en el núcleo", "correct": false },
+      { "text": "Formar 8 enlaces", "correct": false },
+      { "text": "Tener carga +8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Buscan la configuración electrónica de un gas noble.",
+    "explanation": "La estabilidad química se asocia generalmente con completar 8 electrones en el último nivel de energía ($ns^2 np^6$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "QUI00cr",
+    "question": "Un estudiante del CEPREDIX calcula los gramos de $O_2$ necesarios para quemar 1 mol de $C_3H_8$. La ecuación balanceada es $C_3H_8 + 5O_2 \\to 3CO_2 + 4H_2O$.",
+    "image": null,
+    "options": [
+      { "text": "160 g", "correct": true },
+      { "text": "32 g", "correct": false },
+      { "text": "80 g", "correct": false },
+      { "text": "100 g", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Necesitas 5 moles de $O_2$. Masa molar $O_2 = 32 \\text{ g/mol}$.",
+    "explanation": "De la estequiometría, 1 mol de propano requiere 5 moles de oxígeno. Masa = $5 \\text{ mol} \\times 32 \\text{ g/mol} = 160 \\text{ g}$.",
     "explanative_video": null,
     "collapsible_text": null
   }
