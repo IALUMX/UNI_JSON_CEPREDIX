@@ -89,10 +89,10 @@
     "question": "Identifique el conjunto de factores primos **distintos** del número $350$.",
     "image": null,
     "options": [
-      { "text": "$\{2, 5, 7\}$", "correct": true },
-      { "text": "$\{2, 3, 7\}$", "correct": false },
-      { "text": "$\{5, 7, 13\}$", "correct": false },
-      { "text": "$\{2, 5, 5, 7\}$", "correct": false }
+      { "text": "$\\{2, 5, 7\\}$", "correct": true },
+      { "text": "$\\{2, 3, 7\\}$", "correct": false },
+      { "text": "$\\{5, 7, 13\\}$", "correct": false },
+      { "text": "$\\{2, 5, 5, 7\\}$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
