@@ -148,7 +148,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Calcula el total de extensiones. El costo por extensión es $\\frac{\\text{Costo total}}{\\text{Extensiones totales}}$.",
-    "explanation": "El total de extensiones es $4 + 3 + 4 + 7 + 3 = 21$. El costo por extensión es $\\frac{\\$28,412.00}{21} \\approx \\$1352.95$. El costo de Ventas ($3$ extensiones) es $3 \\times \\$1352.95 \\approx \\$4,058.86$.",
+    "explanation": "El total de extensiones es $21$. El costo por extensión es $\\frac{\\$28,412.00}{21} \\approx \\$1352.95$. El costo de Ventas ($3$ extensiones) es $3 \\times \\$1352.95 \\approx \\$4,058.86$.",
     "explanative_video": null,
     "collapsible_text": null
   },
