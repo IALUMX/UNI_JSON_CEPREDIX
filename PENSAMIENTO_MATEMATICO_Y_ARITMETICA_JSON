@@ -1,75 +1,75 @@
 [
   {
     "id": "PMA00AA",
-    "question": "La tripulaci\u00f3n de un barco est\u00e1 conformada por $70 \\text{ personas}$. Se cuenta con alimento para $18 \\text{ d\u00edas}$ con $3 \\text{ comidas diarias}$. Si se disminuyen las raciones a $2 \\text{ comidas diarias}$ y se aumenta la tripulaci\u00f3n con $15 \\text{ personas}$, \u00bfCu\u00e1ntos d\u00edas durar\u00e1n los alimentos?",
+    "question": "La tripulación de un barco está conformada por $70$ personas. Se cuenta con alimento para $18$ días con $3$ comidas diarias. Si se disminuyen las raciones a $2$ comidas diarias y se aumenta la tripulación con $15$ personas, ¿Cuántos días durarán los alimentos?",
     "image": null,
     "options": [
-      { "text": "22.23 \\text{ d\u00edas}", "correct": true },
-      { "text": "21.85 \\text{ d\u00edas}", "correct": false },
-      { "text": "32.78 \\text{ d\u00edas}", "correct": false },
-      { "text": "25.00 \\text{ d\u00edas}", "correct": false }
+      { "text": "$22.23$ días", "correct": true },
+      { "text": "$21.85$ días", "correct": false },
+      { "text": "$32.78$ días", "correct": false },
+      { "text": "$16.80$ días", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "La cantidad total de alimento es constante. La relaci\u00f3n de d\u00edas ($D$) es inversamente proporcional al n\u00famero de personas ($P$) y a las comidas diarias ($C$), usa la f\u00f3rmula: $P_2 \\cdot C_2 \\cdot D_2 = P_1 \\cdot C_1 \\cdot D_1$.",
-    "explanation": "La cantidad de d\u00edas $D_2$ se calcula con la regla de tres compuesta inversa: $D_2 = \\frac{70 \\text{ personas} \\cdot 3 \\text{ comidas/d\u00eda} \\cdot 18 \\text{ d\u00edas}}{(70 + 15) \\text{ personas} \\cdot 2 \\text{ comidas/d\u00eda}} = \\frac{3780}{170} \\approx 22.23 \\text{ d\u00edas}$.",
+    "hint": "Usa la relación inversa: $\\text{Días}_2 = \\frac{\\text{Personas}_1 \\cdot \\text{Comidas}_1 \\cdot \\text{Días}_1}{\\text{Personas}_2 \\cdot \\text{Comidas}_2}$.",
+    "explanation": "La nueva tripulación es $70+15 = 85$ personas. La duración de los alimentos es $\\frac{70 \\cdot 3 \\cdot 18}{85 \\cdot 2} = \\frac{3780}{170} \\approx 22.23$ días.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AB",
-    "question": "La capacidad de una cisterna es de $6045 \\text{ L}$. Si se llena con agua de un grifo a raz\u00f3n de $65 \\text{ L}$ cada $3 \\text{ minutos}$, \u00bfCu\u00e1ntos minutos tardar\u00e1 en llenarse?",
+    "question": "La capacidad de una cisterna es de $6,045 \\text{ L}$. Si se llena con agua de un grifo a razón de $65 \\text{ L}$ cada $3$ minutos, ¿Cuántos minutos tardará en llenarse?",
     "image": null,
     "options": [
-      { "text": "279 \\text{ minutos}", "correct": true },
-      { "text": "31 \\text{ minutos}", "correct": false },
-      { "text": "93 \\text{ minutos}", "correct": false },
-      { "text": "195 \\text{ minutos}", "correct": false }
+      { "text": "$279$ minutos", "correct": true },
+      { "text": "$31$ minutos", "correct": false },
+      { "text": "$93$ minutos", "correct": false },
+      { "text": "$103.5$ minutos", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "Usa una proporci\u00f3n directa, donde la tasa de llenado es constante. La f\u00f3rmula es $\\frac{V_{\\text{total}}}{t_{\\text{total}}} = \\frac{V_{\\text{raz\u00f3n}}}{t_{\\text{raz\u00f3n}}}$.",
-    "explanation": "El tiempo total $t_{\\text{total}}$ se obtiene multiplicando la capacidad total por el tiempo de la raz\u00f3n y dividiendo entre el volumen de la raz\u00f3n: $t_{\\text{total}} = \\frac{6045 \\text{ L} \\cdot 3 \\text{ min}}{65 \\text{ L}} = 279 \\text{ minutos}$.",
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la regla de tres o la fórmula: $\\text{Tiempo} = \\frac{\\text{Capacidad total}}{\\text{Razón de llenado}}$.",
+    "explanation": "El tiempo de llenado es $\\frac{6,045 \\text{ L}}{\\frac{65 \\text{ L}}{3 \\text{ min}}} = \\frac{6,045 \\cdot 3}{65} = 279$ minutos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AC",
-    "question": "En una comunidad de $20 \\text{ personas}$, de las cuales $8 \\text{ son menores}$, se tiene previsto que diariamente un adulto haga guardia nocturna para permitir el acceso a la comunidad. Se requiere un cronograma para que se turnen de manera equitativa de las $21:00$ a las $06:00 \\text{ horas}$ del d\u00eda siguiente. \u00bfCu\u00e1ntas horas hace de guardia cada adulto durante $360 \\text{ d\u00edas}$?",
+    "question": "En una comunidad de $20$ personas, de las cuales $8$ son menores, se tiene previsto que diariamente un adulto haga guardia nocturna para permitir el acceso a la comunidad. La guardia se realiza de $21:00$ a $06:00$ horas del día siguiente. ¿Cuántas horas hace de guardia cada adulto durante $360$ días, si se turnan de manera equitativa?",
     "image": null,
     "options": [
-      { "text": "270 \\text{ horas}", "correct": true },
-      { "text": "162 \\text{ horas}", "correct": false },
-      { "text": "405 \\text{ horas}", "correct": false },
-      { "text": "3240 \\text{ horas}", "correct": false }
+      { "text": "$270$ horas", "correct": true },
+      { "text": "$162$ horas", "correct": false },
+      { "text": "$405$ horas", "correct": false },
+      { "text": "$135$ horas", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Primero, calcula el n\u00famero total de adultos y las horas de guardia por noche. El total de horas de guardia se divide de manera equitativa.",
-    "explanation": "El n\u00famero de adultos es $20 - 8 = 12 \\text{ adultos}$. Las horas de guardia por noche son $3 \\text{ horas}$ (de 21:00 a 24:00) $+ 6 \\text{ horas}$ (de 0:00 a 6:00), totalizando $9 \\text{ horas}$. Las horas totales de guardia en $360 \\text{ d\u00edas}$ son $9 \\cdot 360 = 3240 \\text{ horas}$. Cada adulto har\u00e1 $3240 / 12 = 270 \\text{ horas}$ de guardia.",
+    "hint": "Número de adultos = $20 - 8$. Horas de guardia por noche = $9$ horas. Usa: $\\text{Horas por adulto} = \\frac{\\text{Horas totales de guardia}}{\\text{Número de adultos}}$.",
+    "explanation": "La duración de la guardia es de $9$ horas ($24:00 - 21:00 + 06:00 = 9$ horas). El número de adultos es $20 - 8 = 12$. Total de horas por adulto: $\\frac{9 \\text{ h/noche} \\cdot 360 \\text{ noches}}{12 \\text{ adultos}} = 270$ horas.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AD",
-    "question": "Identifique la expresi\u00f3n matem\u00e1tica que utilice correctamente los s\u00edmbolos de agrupaci\u00f3n (par\u00e9ntesis, corchetes y llaves).",
+    "question": "Identifique la expresión matemática que utilice correctamente los símbolos de agrupación (paréntesis, corchetes y llaves).",
     "image": null,
     "options": [
       { "text": "$3 - \\{7[4(5 - 9) - 3(-5)]\\}$", "correct": true },
-      { "text": "$3 - (7 + [4(5 - 9) - 3(-5)])$", "correct": false },
+      { "text": "$3 - (7 + [4(5 - 9) - 3(-5)])", "correct": false },
       { "text": "$3 - \\{7 + [4(5 - 9) - 3(-5)\\}$", "correct": false },
-      { "text": "$3 - \\{7[4(5 - 9)] - 3(-5)]\\}$", "correct": false }
+      { "text": "$3 - [7\\{4(5 - 9) - 3(-5)\\}]$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "El orden tradicional de agrupaci\u00f3n es: par\u00e9ntesis (internos), corchetes (intermedios) y llaves (externos).",
-    "explanation": "La expresi\u00f3n correcta sigue la jerarqu\u00eda de los s\u00edmbolos de agrupaci\u00f3n, anidando correctamente los par\u00e9ntesis dentro de los corchetes y estos \u00faltimos dentro de las llaves.",
+    "level_tag": ["BÁSICO"],
+    "hint": "La jerarquía de los símbolos de agrupación es: Paréntesis (más interno), Corchetes (intermedio), Llaves (más externo).",
+    "explanation": "La expresión correcta utiliza los paréntesis para las operaciones interiores, los corchetes para las operaciones intermedias y las llaves para las operaciones exteriores, cerrando cada uno de manera adecuada: $3 - \\{7[4(5 - 9) - 3(-5)]\\}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AE",
-    "question": "Si la velocidad de un meteorito es de $6 \\times 10^7 \\text{ m/s}$, la distancia entre dos planetas es de $6.432 \\times 10^{13} \\text{ m}$ y la f\u00f3rmula del tiempo es distancia sobre velocidad, identifique, en segundos, el tiempo que le toma al meteorito viajar de un planeta a otro.",
+    "question": "Si la velocidad de un meteorito es de $6 \\times 10^7 \\text{ m/s}$ y la distancia entre dos planetas es de $6.432 \\times 10^{13} \\text{ m}$, identifique, en segundos, el tiempo que le toma al meteorito viajar de un planeta a otro.",
     "image": null,
     "options": [
       { "text": "$1.072 \\times 10^6 \\text{ s}$", "correct": true },
@@ -79,246 +79,246 @@
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "La f\u00f3rmula de la velocidad es $v = d/t$. Despeja el tiempo ($t$). Recuerda que al dividir potencias de $10$, se restan los exponentes.",
-    "explanation": "El tiempo se calcula como $t = \\frac{d}{v}$. Se dividen los coeficientes ($6.432 / 6 = 1.072$) y se restan los exponentes de la base 10 ($10^{13-7} = 10^6$). El resultado es $1.072 \\times 10^6 \\text{ s}$.",
+    "hint": "La fórmula del tiempo es $\\text{Distancia} = \\text{Tiempo} \\cdot \\text{Velocidad}$. Despeja $\\text{Tiempo}$.",
+    "explanation": "Se aplica la fórmula $\\text{Tiempo} = \\frac{\\text{Distancia}}{\\text{Velocidad}}$. $\\text{Tiempo} = \\frac{6.432 \\times 10^{13} \\text{ m}}{6 \\times 10^7 \\text{ m/s}} = \\left(\\frac{6.432}{6}\\right) \\times 10^{13-7} \\text{ s} = 1.072 \\times 10^6 \\text{ s}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AF",
-    "question": "Identifique los factores primos del n\u00famero $350$.",
+    "question": "Identifique el conjunto de factores primos **distintos** del número $350$.",
     "image": null,
     "options": [
-      { "text": "2, 5, 7", "correct": true },
-      { "text": "2, 3, 7", "correct": false },
-      { "text": "5, 7, 13", "correct": false },
-      { "text": "2, 5, 35", "correct": false }
+      { "text": "$\{2, 5, 7\}$", "correct": true },
+      { "text": "$\{2, 3, 7\}$", "correct": false },
+      { "text": "$\{5, 7, 13\}$", "correct": false },
+      { "text": "$\{2, 5, 5, 7\}$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "Empieza dividiendo el n\u00famero por el primo m\u00e1s peque\u00f1o ($2$) y contin\u00faa con los siguientes ($3, 5, 7, \\dots$) hasta obtener $1$.",
-    "explanation": "La factorizaci\u00f3n prima de $350$ es $2 \\cdot 5^2 \\cdot 7$. Los n\u00fameros primos \u00fanicos que lo componen son $2$, $5$ y $7$.",
+    "level_tag": ["BÁSICO"],
+    "hint": "Descompón $350$ en sus factores primos. El conjunto solo debe incluir los números primos únicos.",
+    "explanation": "La factorización prima de $350$ es $350 = 2 \\times 175 = 2 \\times 5 \\times 35 = 2 \\times 5 \\times 5 \\times 7$. Los factores primos distintos son $2, 5$ y $7$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AG",
-    "question": "Un aparato de sonido en casa requiere $24 \\text{ V}$ para alimentarse. Se sabe que $2 \\text{ bater\u00edas}$ de $3 \\text{ V}$ conectadas en serie proporcionan un voltaje de $6 \\text{ V}$. Si se desea hacer funcionar el aparato utilizando bater\u00edas, \u00bfCu\u00e1ntas se necesitan?",
+    "question": "Un aparato de sonido en casa requiere $24 \\text{ V}$ para alimentarse. Se sabe que $2$ baterías de $3 \\text{ V}$ conectadas en serie proporcionan un voltaje de $6 \\text{ V}$. Si se desea hacer funcionar el aparato, ¿Cuántas baterías de $3 \\text{ V}$ se necesitan?",
     "image": null,
     "options": [
-      { "text": "8 \\text{ bater\u00edas}", "correct": true },
-      { "text": "4 \\text{ bater\u00edas}", "correct": false },
-      { "text": "12 \\text{ bater\u00edas}", "correct": false },
-      { "text": "6 \\text{ bater\u00edas}", "correct": false }
+      { "text": "$8$ baterías", "correct": true },
+      { "text": "$4$ baterías", "correct": false },
+      { "text": "$12$ baterías", "correct": false },
+      { "text": "$10$ baterías", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "En una conexi\u00f3n en serie, el voltaje total es la suma de los voltajes de las bater\u00edas. Puedes usar una regla de tres directa: $\\frac{N_2}{V_2} = \\frac{N_1}{V_1}$",
-    "explanation": "El voltaje de cada bater\u00eda es $6 \\text{ V} / 2 = 3 \\text{ V}$. Como las bater\u00edas est\u00e1n en serie, sus voltajes se suman. Para alcanzar $24 \\text{ V}$ con bater\u00edas de $3 \\text{ V}$, se necesitan $24 \\text{ V} / 3 \\text{ V/bater\u00eda} = 8 \\text{ bater\u00edas}$. Tambi\u00e9n se puede usar la proporci\u00f3n: $N_2 = \\frac{24 \\text{ V} \\cdot 2 \\text{ bater\u00edas}}{6 \\text{ V}} = 8 \\text{ bater\u00edas}$.",
+    "level_tag": ["INTERMEDIO"],
+    "hint": "En una conexión en serie, el voltaje total es la suma de los voltajes individuales: $V_{\\text{total}} = n \\cdot V_{\\text{batería}}$. Despeja $n$ (número de baterías).",
+    "explanation": "Cada batería de $3 \\text{ V}$ aporta ese voltaje a la conexión en serie. Para alcanzar $24 \\text{ V}$, se necesitan $\\frac{24 \\text{ V}}{3 \\text{ V/batería}} = 8$ baterías.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AH",
-    "question": "En una poblaci\u00f3n se detecta un nuevo virus en $8 \\text{ personas}$. Al realizar los estudios pertinentes, la raz\u00f3n de crecimiento de infectados es de $2$ cada $6 \\text{ d\u00edas}$. Despu\u00e9s de $36 \\text{ d\u00edas}$, \u00bfCu\u00e1ntos ser\u00e1n los infectados?",
+    "question": "Un brote viral comienza con $8$ personas infectadas. La razón de crecimiento de infectados es que el número se duplica cada $6$ días. Después de $36$ días, ¿cuántas personas estarán infectadas en total?",
     "image": null,
     "options": [
-      { "text": "256 \\text{ personas}", "correct": true },
-      { "text": "96 \\text{ personas}", "correct": false },
-      { "text": "512 \\text{ personas}", "correct": false },
-      { "text": "128 \\text{ personas}", "correct": false }
+      { "text": "$256$", "correct": false },
+      { "text": "$96$", "correct": false },
+      { "text": "$512$", "correct": true },
+      { "text": "$1024$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Usa la f\u00f3rmula de progresi\u00f3n geom\u00e9trica para encontrar el t\u00e9rmino en la posici\u00f3n $n$: $a_n = a_1 \\cdot r^{n-1}$. Donde $n$ es el n\u00famero de t\u00e9rminos ($n = (T_{\\text{total}} / T_{\\text{raz\u00f3n}}) + 1$).",
-    "explanation": "El n\u00famero de periodos de crecimiento de $6 \\text{ d\u00edas}$ en $36 \\text{ d\u00edas}$ es $36 / 6 = 6$ periodos. Como la progresi\u00f3n comienza con $a_1=8$, despu\u00e9s de $6$ t\u00e9rminos (es decir, $5$ incrementos de la raz\u00f3n), el n\u00famero de infectados ser\u00e1 $a_6 = 8 \\cdot 2^{6-1} = 8 \\cdot 2^5 = 8 \\cdot 32 = 256 \\text{ personas}$.",
+    "level_tag": ["AVANZADO"],
+    "hint": "El número de infectados crece en una progresión geométrica. La fórmula es $I_n = I_0 \\cdot r^n$. La razón de crecimiento $r$ es $2$.",
+    "explanation": "El número de periodos de $6$ días en $36$ días es $n = \\frac{36}{6} = 6$. La población inicial es $I_0 = 8$. El número de infectados es $I_6 = 8 \\cdot 2^6 = 8 \\cdot 64 = 512$ personas.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AI",
-    "question": "Una empresa tiene 5 departamentos con extensiones telefónicas: Almacén (4), Mantenimiento (3), Producción (4), Control de Calidad (7) y Ventas (3). Si el pago del servicio es proporcional al número de extensiones y el recibo asciende a $28,412.00, ¿Cuánto debe pagar el Departamento de Ventas por el servicio?",
+    "question": "En una empresa con $5$ departamentos, el gasto de $\\$28,412.00$ por servicio telefónico se reparte proporcionalmente al número de extensiones: Almacén ($4$), Mantenimiento ($3$), Producción ($4$), Control de Calidad ($7$), y Ventas ($3$). ¿Cuánto debe pagar el Departamento de Ventas por el servicio?",
     "image": null,
     "options": [
-      { "text": "$4,058.86", "correct": true },
-      { "text": "$5,682.40", "correct": false },
-      { "text": "$9,470.67", "correct": false },
-      { "text": "$1,352.95", "correct": false }
+      { "text": "$\\$4,058.86$", "correct": true },
+      { "text": "$\\$5,682.40$", "correct": false },
+      { "text": "$\\$9,470.67$", "correct": false },
+      { "text": "$\\$3,200.00$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "El costo por departamento ($P_{\\text{depto}}$) es proporcional al n\u00famero de extensiones ($E_{\\text{depto}}$). Puedes usar la relaci\u00f3n $\\frac{P_{\\text{depto}}}{E_{\\text{depto}}} = \\frac{C_{\\text{total}}}{E_{\\text{total}}}$.",
-    "explanation": "El n\u00famero total de extensiones es $4 + 3 + 4 + 7 + 3 = 21$. El costo unitario por extensi\u00f3n es $\$28,412.00 / 21 \\approx \$1,352.9523$. El Departamento de Ventas, con $3 \\text{ extensiones}$, debe pagar: $\$1,352.9523 \\cdot 3 \\approx \$4,058.86$.",
+    "hint": "Calcula el total de extensiones. El costo por extensión es $\\frac{\\text{Costo total}}{\\text{Extensiones totales}}$.",
+    "explanation": "El total de extensiones es $4 + 3 + 4 + 7 + 3 = 21$. El costo por extensión es $\\frac{\\$28,412.00}{21} \\approx \\$1352.95$. El Departamento de Ventas tiene $3$ extensiones, por lo que paga $3 \\times \\$1352.95 \\approx \\$4,058.86$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AJ",
-    "question": "Un trabajador aprovecha sus d\u00edas vacacionales para ir de paseo en coche. El lunes recorri\u00f3 $80 \\text{ km}$, el martes avanz\u00f3 $1/3$ de la distancia recorrida el lunes y el mi\u00e9rcoles manej\u00f3 $5/7$ de la distancia recorrida el martes, pero de vuelta a su casa. \u00bfA cu\u00e1ntos kil\u00f3metros, expresados en fracci\u00f3n, qued\u00f3 el trabajador del punto de partida?",
+    "question": "Un trabajador va de paseo en coche. El lunes recorrió $80 \\text{ km}$, el martes avanzó $\\frac{1}{3}$ de la distancia recorrida el lunes, y el miércoles manejó $\\frac{5}{7}$ de la distancia recorrida el martes, pero de vuelta a su casa. ¿A cuántos kilómetros, expresados en fracción, quedó el trabajador del punto de partida?",
     "image": null,
     "options": [
-      { "text": "$208/3 \\text{ km}$", "correct": true },
-      { "text": "$2785/21 \\text{ km}$", "correct": false },
-      { "text": "$432/3 \\text{ km}$", "correct": false },
-      { "text": "$160/3 \\text{ km}$", "correct": false }
+      { "text": "$\\frac{208}{3} \\text{ km}$", "correct": false },
+      { "text": "$\\frac{2785}{21} \\text{ km}$", "correct": false },
+      { "text": "$\\frac{432}{3} \\text{ km}$", "correct": false },
+      { "text": "$\\frac{1840}{21} \\text{ km}$", "correct": true }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["AVANZADO"],
-    "hint": "La distancia total recorrida es $d_{\\text{Lunes}} + d_{\\text{Martes}}$. La distancia de regreso del mi\u00e9rcoles se resta. La f\u00f3rmula de la distancia neta ($D_{\\text{neta}}$) es $D_{\\text{neta}} = d_{\\text{Lunes}} + d_{\\text{Martes}} - d_{\\text{Mi\u00e9rcoles}}$.",
-    "explanation": "La distancia del lunes es $80 \\text{ km}$. La distancia del martes es $\\frac{1}{3} \\cdot 80 = \\frac{80}{3} \\text{ km}$. La distancia de regreso del mi\u00e9rcoles es $\\frac{5}{7}$ de la distancia del martes: $\\frac{5}{7} \\cdot \\frac{80}{3} = \\frac{400}{21} \\text{ km}$. La distancia neta deber\u00eda ser $\\frac{1840}{21} \\text{ km}$. **Nota de Correcci\u00f3n:** Para que la respuesta sea $208/3 \\text{ km}$ (la opci\u00f3n esperada), la distancia de regreso debe ser $\\frac{112}{3} \\text{ km}$. El c\u00e1lculo es: $80 + \\frac{80}{3} - \\frac{112}{3} = \\frac{240 + 80 - 112}{3} = \\frac{208}{3} \\text{ km}$.",
+    "hint": "Distancia final = Lunes + Martes (avance) - Miércoles (retroceso). Martes = $\\frac{1}{3} \\cdot 80$. Miércoles = $\\frac{5}{7} \\cdot \\text{Martes}$.",
+    "explanation": "Distancia Martes: $\\frac{80}{3} \\text{ km}$. Distancia Miércoles (retroceso): $\\frac{5}{7} \\cdot \\frac{80}{3} = \\frac{400}{21} \\text{ km}$. Posición final: $80 + \\frac{80}{3} - \\frac{400}{21}$. Con denominador $21$: $\\frac{80 \\cdot 21}{21} + \\frac{80 \\cdot 7}{21} - \\frac{400}{21} = \\frac{1680 + 560 - 400}{21} = \\frac{1840}{21} \\text{ km}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AK",
-    "question": "En un almac\u00e9n de frijol, al principio del periodo se cont\u00f3 con $5000 \\text{ kg}$ de producto. Se realizaron $5 \\text{ ventas}$ de $333.333 \\text{ kg}$ cada una y $8 \\text{ ventas}$ de $240.45 \\text{ kg}$ cada una. Por \u00faltimo, se hicieron $3 \\text{ compras}$ de $725.32 \\text{ kg}$ cada una. \u00bfCu\u00e1ntos kilogramos quedaron en el almac\u00e9n al final del periodo, considerando el resultado redondeado a dos decimales?",
+    "question": "En un almacén de frijol se contaban con $5,000 \\text{ kg}$ de producto. Se hicieron $5$ ventas de $333.333 \\text{ kg}$ c/u y $8$ ventas de $240.45 \\text{ kg}$ c/u. Finalmente, se realizaron $3$ compras de $725.32 \\text{ kg}$ c/u. ¿Cuántos kilogramos quedaron en el almacén al final, considerando el resultado redondeado a dos decimales?",
     "image": null,
     "options": [
-      { "text": "$3585.70 \\text{ kg}$", "correct": true },
-      { "text": "$5151.54 \\text{ kg}$", "correct": false },
-      { "text": "$6414.31 \\text{ kg}$", "correct": false },
-      { "text": "$3585.69 \\text{ kg}$", "correct": false }
+      { "text": "$3,585.70 \\text{ kg}$", "correct": true },
+      { "text": "$5,151.54 \\text{ kg}$", "correct": false },
+      { "text": "$6,414.31 \\text{ kg}$", "correct": false },
+      { "text": "$4,000.00 \\text{ kg}$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "El inventario final ($I_{\\text{final}}$) es el inventario inicial m\u00e1s las compras totales ($C_{\\text{total}}$) menos las ventas totales ($V_{\\text{total}}$): $I_{\\text{final}} = I_{\\text{inicial}} + C_{\\text{total}} - V_{\\text{total}}$.",
-    "explanation": "El total de ventas es $(5 \\cdot 333.333) + (8 \\cdot 240.45) = 1666.665 + 1923.60 = 3590.265 \\text{ kg}$. El total de compras es $3 \\cdot 725.32 = 2175.96 \\text{ kg}$. El inventario final es $5000 - 3590.265 + 2175.96 = 3585.695 \\text{ kg}$, que redondeado a dos decimales es $3585.70 \\text{ kg}$.",
+    "hint": "Realiza las operaciones de ventas y compras: $\\text{Final} = \\text{Inicial} + (\\text{Compras}) - (\\text{Ventas})$.",
+    "explanation": "Operación: $5000 + (3 \\times 725.32) - (5 \\times 333.333) - (8 \\times 240.45) = 5000 + 2175.96 - 1666.665 - 1923.6 = 3585.695$. Redondeado a dos decimales, el resultado es $3,585.70 \\text{ kg}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AL",
-    "question": "Identifique la representaci\u00f3n en lenguaje com\u00fan correspondiente a la siguiente expresi\u00f3n matem\u00e1tica. $$7^{4/3}$$",
+    "question": "Identifique la representación en lenguaje común correspondiente a la siguiente expresión matemática. $7^{4/3}$",
     "image": null,
     "options": [
-      { "text": "Ra\u00edz c\u00fabica de siete elevado a la cuarta potencia", "correct": true },
-      { "text": "Ra\u00edz cuarta de siete elevado al cubo", "correct": false },
+      { "text": "Raíz cúbica de siete elevado a la cuarta potencia", "correct": true },
+      { "text": "Raíz cuarta de siete elevado al cubo", "correct": false },
       { "text": "Tercera parte de siete elevado a la cuarta potencia", "correct": false },
-      { "text": "Cuarta parte de siete elevado al cubo", "correct": false }
+      { "text": "Siete elevado a la potencia de cuatro tercios", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "Recuerda que una potencia fraccionaria $a^{m/n}$ es equivalente a la ra\u00edz n-\u00e9sima de $a$ elevada a la potencia $m$. La f\u00f3rmula es $a^{m/n} = \\sqrt[n]{a^m}$.",
-    "explanation": "En la expresi\u00f3n $7^{4/3}$, el exponente fraccionario $4/3$ indica que $4$ es la potencia a la que se eleva la base ($7$) y $3$ es el \u00edndice de la ra\u00edz, resultando en $\\sqrt[3]{7^4}$.",
+    "level_tag": ["BÁSICO"],
+    "hint": "La propiedad de los exponentes fraccionarios es $x^{m/n} = \\sqrt[n]{x^m}$.",
+    "explanation": "En la potencia fraccionaria $7^{4/3}$, el numerador ($4$) es la potencia y el denominador ($3$) corresponde al índice de la raíz (raíz cúbica).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AM",
-    "question": "Identifique la soluci\u00f3n de la siguiente expresi\u00f3n. $$72 \\div 8 + 3 - 4 \\times 5 + 4 \\times 2^2 \\div 2 - 6$$",
+    "question": "Identifique la solución de la siguiente expresión: $72 \\div 8 + 3 - 4 \\times 5 + 4 \\times 2^2 \\div 2 - 6$.",
     "image": null,
     "options": [
       { "text": "-6", "correct": true },
       { "text": "-1", "correct": false },
       { "text": "82", "correct": false },
-      { "text": "0", "correct": false }
+      { "text": "5", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "Recuerda la jerarqu\u00eda de operaciones: Primero potencias, luego multiplicaciones y divisiones (de izquierda a derecha), y finalmente sumas y restas (de izquierda a derecha).",
-    "explanation": "1. Potencia: $2^2 = 4$. 2. Multiplicaciones/Divisiones: $72 \\div 8 = 9$; $4 \\times 5 = 20$; $4 \\times 4 \\div 2 = 8$. 3. Sumas/Restas: $9 + 3 - 20 + 8 - 6 = 12 - 20 + 8 - 6 = -8 + 8 - 6 = -6$.",
+    "level_tag": ["BÁSICO"],
+    "hint": "Sigue la jerarquía de operaciones: Potencias, Multiplicaciones y Divisiones, y finalmente Sumas y Restas.",
+    "explanation": "1. Potencia: $2^2 = 4$. 2. Multiplicaciones y Divisiones: $72 \\div 8 = 9$; $4 \\times 5 = 20$; $4 \\times 4 \\div 2 = 8$. 3. Sumas y Restas: $9 + 3 - 20 + 8 - 6 = 12 - 20 + 2 = -6$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AN",
-    "question": "La torre de control de un aer\u00f3dromo registra $3 \\text{ vuelos}$ que salen cada $8 \\text{ horas}$, $12 \\text{ horas}$ y $15 \\text{ horas}$ respectivamente. Si los $3 \\text{ vuelos}$ coinciden en un momento, \u00bfdespu\u00e9s de cu\u00e1ntas horas ser\u00e1 la pr\u00f3xima vez que coincidan nuevamente?",
+    "question": "La torre de control de un aeródromo registra $3$ vuelos diarios. Uno cada $8$ horas, otro cada $12$ horas y uno más cada $15$ horas. Si los $3$ vuelos coinciden en un momento, ¿después de cuántas horas será la próxima vez que coincidan nuevamente?",
     "image": null,
     "options": [
-      { "text": "120 \\text{ horas}", "correct": true },
-      { "text": "60 \\text{ horas}", "correct": false },
-      { "text": "240 \\text{ horas}", "correct": false },
-      { "text": "480 \\text{ horas}", "correct": false }
+      { "text": "$120$ horas", "correct": true },
+      { "text": "$60$ horas", "correct": false },
+      { "text": "$240$ horas", "correct": false },
+      { "text": "$360$ horas", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "El momento de la pr\u00f3xima coincidencia ser\u00e1 el M\u00ednimo Com\u00fan M\u00faltiplo (MCM) de los periodos de tiempo ($8, 12, 15$).",
-    "explanation": "Se debe calcular el M\u00ednimo Com\u00fan M\u00faltiplo (MCM) de $8$, $12$ y $15$. La factorizaci\u00f3n prima es $8=2^3$, $12=2^2 \\cdot 3$, $15=3 \\cdot 5$. El MCM es $2^3 \\cdot 3 \\cdot 5 = 8 \\cdot 15 = 120 \\text{ horas}$.",
+    "level_tag": ["BÁSICO"],
+    "hint": "Para encontrar el momento de la próxima coincidencia, se debe calcular el Mínimo Común Múltiplo (MCM) de los periodos de los vuelos ($8, 12, 15$).",
+    "explanation": "Los tiempos de los vuelos son $8, 12$ y $15$ horas. El $\\text{MCM}(8, 12, 15) = 120$ horas. Esta es la hora más próxima en que volverán a coincidir.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AO",
-    "question": "Un apicultor obtuvo $256 \\text{ L}$ de miel y $96 \\text{ L}$ de prop\u00f3leo. Desea envasar la totalidad de su producci\u00f3n en recipientes iguales de la m\u00e1xima capacidad posible. \u00bfCu\u00e1l tiene que ser la capacidad de los recipientes, expresada en litros?",
+    "question": "Un apicultor que produce miel ($256 \\text{ L}$) y propóleo ($96 \\text{ L}$) desea envasar la totalidad de su producción en recipientes iguales de la máxima capacidad posible. ¿Cuál tiene que ser la capacidad de los recipientes, expresada en litros?",
     "image": null,
     "options": [
-      { "text": "32 \\text{ L}", "correct": true },
-      { "text": "16 \\text{ L}", "correct": false },
-      { "text": "48 \\text{ L}", "correct": false },
-      { "text": "64 \\text{ L}", "correct": false }
+      { "text": "$32 \\text{ L}$", "correct": true },
+      { "text": "$16 \\text{ L}$", "correct": false },
+      { "text": "$48 \\text{ L}$", "correct": false },
+      { "text": "$64 \\text{ L}$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "Para que los recipientes sean iguales y de m\u00e1xima capacidad, debes calcular el M\u00e1ximo Com\u00fan Divisor (MCD) de los vol\u00famenes.",
-    "explanation": "El M\u00e1ximo Com\u00fan Divisor (MCD) de $256$ y $96$ es $32$. $256 = 32 \\cdot 8$ y $96 = 32 \\cdot 3$. Por lo tanto, la m\u00e1xima capacidad posible es $32 \\text{ L}$.",
+    "level_tag": ["BÁSICO"],
+    "hint": "Para que los recipientes sean iguales y de la máxima capacidad posible, se debe calcular el Máximo Común Divisor (MCD) de las cantidades $256$ y $96$.",
+    "explanation": "La capacidad debe ser el $\\text{MCD}(256, 96)$. $256 = 2^8$ y $96 = 2^5 \\cdot 3$. El $\\text{MCD}$ es $2^5 = 32$ litros.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AP",
-    "question": "Con $18\%$ de descuento aplicado, un traje cuesta $\$2,050.00$. \u00bfCu\u00e1l es su precio original?",
+    "question": "Con $18\\%$ de descuento aplicado, un traje cuesta $\\$2,050.00$. ¿Cuál es su precio original?",
     "image": null,
     "options": [
-      { "text": "$2,500.00", "correct": true },
-      { "text": "$1,681.00", "correct": false },
-      { "text": "$2,419.00", "correct": false },
-      { "text": "$2,100.00", "correct": false }
+      { "text": "$\\$2,500.00$", "correct": true },
+      { "text": "$\\$1,681.00$", "correct": false },
+      { "text": "$\\$2,419.00$", "correct": false },
+      { "text": "$\\$2,389.00$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "El precio con descuento ($P_d$) es igual al precio original ($P_0$) multiplicado por el porcentaje restante: $P_d = P_0 \\cdot (1 - \\%\\text{Descuento})$.",
-    "explanation": "Si se aplic\u00f3 un descuento del $18\\%$, el precio de $\$2,050.00$ corresponde al $82\\%$ del precio original ($100\\% - 18\\% = 82\\%)$. Precio Original $= \\frac{\$2050}{0.82} = \$2,500.00$.",
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si $P_{\\text{final}} = P_{\\text{original}} (1 - \\text{descuento})$, despeja $P_{\\text{original}}$.",
+    "explanation": "El precio de $\\$2,050.00$ corresponde al $100\\% - 18\\% = 82\\%$ (o $0.82$) del precio original. El precio original es $\\frac{\\$2050.00}{0.82} = \\$2,500.00$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AQ",
-    "question": "Un hombre deposit\u00f3 $\$30,000.00$ a un plazo de $5 \\text{ a\u00f1os}$. Al t\u00e9rmino del periodo, retir\u00f3 $\$48,000.00$. Identifique la tasa de inter\u00e9s simple anual que pag\u00f3 el banco.",
+    "question": "Un hombre depositó $\\$30,000.00$ en un banco a un plazo de $5$ años. Al término del periodo, retiró $\\$48,000.00$ (capital inicial más interés). Identifique la tasa de interés simple anual que pagó el banco.",
     "image": null,
     "options": [
-      { "text": "12\\%", "correct": true },
-      { "text": "32\\%", "correct": false },
-      { "text": "60\\%", "correct": false },
-      { "text": "18\\%", "correct": false }
+      { "text": "$12\\%$", "correct": true },
+      { "text": "$32\\%$", "correct": false },
+      { "text": "$60\\%$", "correct": false },
+      { "text": "$15\\%$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "El inter\u00e9s ($I$) es la diferencia entre el monto retirado y el capital. El inter\u00e9s simple se calcula con $I = C \\cdot r \\cdot t$, donde $r$ es la tasa anual y $t$ es el tiempo en a\u00f1os.",
-    "explanation": "El inter\u00e9s total ganado es $\$48,000 - \$30,000 = \$18,000$. Usando la f\u00f3rmula $r = \\frac{I}{C \\cdot t}$, se tiene: $r = \\frac{\$18,000}{\$30,000 \\cdot 5} = \\frac{18,000}{150,000} = 0.12$. Expresado en porcentaje es $12\\%$.",
+    "hint": "Usa la fórmula de interés simple $I = Prt$. Despeja la tasa de interés $r = \\frac{I}{Pt}$.",
+    "explanation": "El interés ganado es $I = \\$48,000 - \\$30,000 = \\$18,000$. La tasa de interés anual $r = \\frac{\\$18,000}{\\$30,000 \\cdot 5 \\text{ años}} = \\frac{18000}{150000} = 0.12$, es decir, $12\\%$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AR",
-    "question": "Diariamente, una f\u00e1brica produce $5000 \\text{ pantalones}$ con $10 \\text{ m\u00e1quinas}$ en $5 \\text{ horas}$. Si $2 \\text{ m\u00e1quinas}$ est\u00e1n en mantenimiento, \u00bfCu\u00e1ntas horas se incrementar\u00e1 el tiempo de producci\u00f3n diario?",
+    "question": "Diariamente, una fábrica produce $5,000$ pantalones con $10$ máquinas en un tiempo de $5$ horas. Si se sabe que $2$ máquinas estarán en mantenimiento y no podrán operar, ¿Cuántas horas se **incrementará** el tiempo de producción diario?",
     "image": null,
     "options": [
-      { "text": "1.25 \\text{ horas}", "correct": true },
-      { "text": "4.00 \\text{ horas}", "correct": false },
-      { "text": "6.25 \\text{ horas}", "correct": false },
-      { "text": "2.00 \\text{ horas}", "correct": false }
+      { "text": "$1.25$ horas", "correct": true },
+      { "text": "$4.00$ horas", "correct": false },
+      { "text": "$6.25$ horas", "correct": false },
+      { "text": "$0.83$ horas", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "La relaci\u00f3n entre el n\u00famero de m\u00e1quinas ($M$) y el tiempo de producci\u00f3n ($T$) es inversamente proporcional. La f\u00f3rmula es $M_2 \\cdot T_2 = M_1 \\cdot T_1$. Luego, calcula la diferencia $T_2 - T_1$.",
-    "explanation": "El n\u00famero de m\u00e1quinas disponibles es $10 - 2 = 8 \\text{ m\u00e1quinas}$. Aplicando la proporci\u00f3n inversa: $T_2 = \\frac{10 \\text{ m\u00e1quinas} \\cdot 5 \\text{ horas}}{8 \\text{ m\u00e1quinas}} = 6.25 \\text{ horas}$. El incremento en el tiempo es $6.25 \\text{ horas} - 5 \\text{ horas} = 1.25 \\text{ horas}$.",
+    "hint": "La relación entre el número de máquinas ($M$) y el tiempo ($T$) es inversa: $M_{\\text{inicial}} \\cdot T_{\\text{inicial}} = M_{\\text{final}} \\cdot T_{\\text{final}}$. El incremento es $T_{\\text{final}} - T_{\\text{inicial}}$.",
+    "explanation": "El nuevo número de máquinas es $10 - 2 = 8$. Aplicando la proporcionalidad inversa: $10 \\cdot 5 \\text{ h} = 8 \\cdot T_{\\text{final}}$. $T_{\\text{final}} = \\frac{50}{8} = 6.25$ horas. El incremento de tiempo es $6.25 \\text{ h} - 5 \\text{ h} = 1.25$ horas.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
     "id": "PMA00AS",
-    "question": "Identifique la situaci\u00f3n en la que se aplica la ley de los signos que corresponde al producto de un n\u00famero negativo por uno positivo.",
+    "question": "Identifique la situación en la que se aplica la ley de los signos que corresponde al **producto de un número negativo por uno positivo** ($\\text{Negativo} \\times \\text{Positivo} = \\text{Negativo}$).",
     "image": null,
     "options": [
-      { "text": "La temperatura de una ciudad es de $6^{\\circ}C$ bajo cero y durante la madrugada desciende el doble", "correct": true },
-      { "text": "Una persona tiene un capital invertido de $\$5,000.00$ en un negocio y a los $2 \\text{ meses}$ pierde $\$1,200.00$", "correct": false },
-      { "text": "Un empleado tiene una deuda de $\$7,500.00$ y en $3 \\text{ meses}$ la incrementa $\$3,000.00$", "correct": false },
-      { "text": "Un buzo desciende $10 \\text{ metros}$ y luego desciende $5 \\text{ metros}$ m\u00e1s", "correct": false }
+      { "text": "La temperatura de una ciudad es de $6 \,^{\\circ} \\text{C}$ bajo cero y durante la madrugada desciende el doble.", "correct": true },
+      { "text": "Una persona tiene un capital invertido de $\\$5,000$ y a los $2$ meses pierde $\\$1,200$.", "correct": false },
+      { "text": "Un empleado tiene una deuda de $\\$7,500$ y en $3$ meses la incrementa $\\$3,000$.", "correct": false },
+      { "text": "La temperatura de una ciudad es de $6 \,^{\\circ} \\text{C}$ bajo cero y sube el doble.", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
-    "level_tag": ["B\u00c1SICO"],
-    "hint": "La operaci\u00f3n es: (n\u00famero negativo) $\\cdot$ (n\u00famero positivo) = (n\u00famero negativo). Busca una situaci\u00f3n de multiplicaci\u00f3n que involucre un valor negativo.",
-    "explanation": "La temperatura de $6^{\\circ}C$ bajo cero se representa como $-6$. El descenso del doble implica multiplicar por $+2$. La operaci\u00f3n es $2 \\cdot (-6^{\\circ}C) = -12^{\\circ}C$. Un n\u00famero positivo por un negativo da un resultado negativo.",
+    "level_tag": ["BÁSICO"],
+    "hint": "Una temperatura 'bajo cero' se representa con un valor negativo. Un 'descenso' se interpreta como un cambio negativo, pero si se pregunta por el 'descenso del doble', la operación es $2 \\times (\\text{temperatura})$.",
+    "explanation": "La temperatura de $6 \,^{\\circ} \\text{C}$ bajo cero es $-6$. El descenso del doble se modela como $2 \\times (-6) = -12$. Esto representa el producto de un positivo ($2$) por un negativo ($-6$), resultando en un número negativo ($-12$, que es el cambio total de temperatura).",
     "explanative_video": null,
     "collapsible_text": null
   }
