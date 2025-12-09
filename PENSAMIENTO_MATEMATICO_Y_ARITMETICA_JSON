@@ -321,5 +321,1042 @@
     "explanation": "La temperatura de $6 \\,^{\\circ} \\text{C}$ bajo cero es $-6$. El descenso del doble se modela como $2 \\times (-6) = -12$. Esto es el producto de un positivo ($2$) por un negativo ($-6$), resultando en un número negativo.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "PMA00AT",
+    "question": "Un estudiante compró 5 libros a $\\$120$ cada uno. Si le hicieron un descuento del $10\\%$ en el total de la compra, ¿cuánto pagó en total?",
+    "image": null,
+    "options": [
+      { "text": "$\\$540$", "correct": true },
+      { "text": "$\\$600$", "correct": false },
+      { "text": "$\\$570$", "correct": false },
+      { "text": "$\\$550$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el total sin descuento y luego resta el $10\\%$.",
+    "explanation": "Total sin descuento: $5 \\times 120 = \\$600$. Descuento: $600 \\times 0.10 = \\$60$. Total a pagar: $600 - 60 = \\$540$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00AU",
+    "question": "Si 4 trabajadores construyen un muro en 12 días, ¿cuántos días tardarán 6 trabajadores en construir el mismo muro?",
+    "image": null,
+    "options": [
+      { "text": "8 días", "correct": true },
+      { "text": "18 días", "correct": false },
+      { "text": "6 días", "correct": false },
+      { "text": "10 días", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una proporción inversa: más trabajadores, menos días.",
+    "explanation": "Trabajadores × Días = constante. $4 \\times 12 = 48$. Con 6 trabajadores: $48 ÷ 6 = 8$ días.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00AV",
+    "question": "Un carro recorre 240 km con 20 litros de gasolina. ¿Cuántos kilómetros recorrerá con 35 litros?",
+    "image": null,
+    "options": [
+      { "text": "420 km", "correct": true },
+      { "text": "300 km", "correct": false },
+      { "text": "380 km", "correct": false },
+      { "text": "400 km", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es una proporción directa: más gasolina, más kilómetros.",
+    "explanation": "Razón: $240 \\text{ km} / 20 \\text{ L} = 12 \\text{ km/L}$. Con 35 L: $35 \\times 12 = 420$ km.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00AW",
+    "question": "Calcule: $15^2 - 12^2 + \\sqrt{144}$",
+    "image": null,
+    "options": [
+      { "text": "45", "correct": true },
+      { "text": "33", "correct": false },
+      { "text": "57", "correct": false },
+      { "text": "39", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula primero las potencias, luego la raíz, y finalmente suma/resta.",
+    "explanation": "$15^2 = 225$, $12^2 = 144$, $\\sqrt{144} = 12$. Entonces: $225 - 144 + 12 = 93$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00AX",
+    "question": "Un televisor cuesta $\\$8,000$. Si se paga de contado tiene un descuento del $15\\%$, ¿cuál es el precio final?",
+    "image": null,
+    "options": [
+      { "text": "$\\$6,800$", "correct": true },
+      { "text": "$\\$6,500$", "correct": false },
+      { "text": "$\\$7,200$", "correct": false },
+      { "text": "$\\$6,000$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el $15\\%$ de $8,000$ y réstalo.",
+    "explanation": "Descuento: $8,000 \\times 0.15 = 1,200$. Precio final: $8,000 - 1,200 = \\$6,800$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00AY",
+    "question": "Si 3 máquinas producen 600 piezas en 4 horas, ¿cuántas piezas producirán 5 máquinas en 6 horas?",
+    "image": null,
+    "options": [
+      { "text": "1,500 piezas", "correct": true },
+      { "text": "1,200 piezas", "correct": false },
+      { "text": "1,800 piezas", "correct": false },
+      { "text": "2,000 piezas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Primero calcula la producción por máquina por hora.",
+    "explanation": "Cada máquina por hora: $600 ÷ (3 × 4) = 50$ piezas/hora. Con 5 máquinas en 6 horas: $5 × 6 × 50 = 1,500$ piezas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00AZ",
+    "question": "Calcule el $25\\%$ del $40\\%$ de $\\$2,000$.",
+    "image": null,
+    "options": [
+      { "text": "$\\$200$", "correct": true },
+      { "text": "$\\$160$", "correct": false },
+      { "text": "$\\$250$", "correct": false },
+      { "text": "$\\$300$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula primero el $40\\%$ y luego el $25\\%$ de ese resultado.",
+    "explanation": "$40\\%$ de $2,000 = 800$. $25\\%$ de $800 = 200$. Respuesta: $\\$200$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BA",
+    "question": "Un recipiente se llena en 20 minutos con un grifo que arroja 5 litros por minuto. ¿Cuánto tardará en llenarse si se usa un grifo que arroja 8 litros por minuto?",
+    "image": null,
+    "options": [
+      { "text": "12.5 minutos", "correct": true },
+      { "text": "15 minutos", "correct": false },
+      { "text": "10 minutos", "correct": false },
+      { "text": "16 minutos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Primero calcula la capacidad del recipiente.",
+    "explanation": "Capacidad: $20 \\times 5 = 100$ litros. Con grifo de 8 L/min: $100 ÷ 8 = 12.5$ minutos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BB",
+    "question": "Si $\\frac{2}{3}$ de un número es 48, ¿cuál es el número?",
+    "image": null,
+    "options": [
+      { "text": "72", "correct": true },
+      { "text": "64", "correct": false },
+      { "text": "54", "correct": false },
+      { "text": "84", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Si $\\frac{2}{3}x = 48$, despeja $x$.",
+    "explanation": "$x = 48 × \\frac{3}{2} = 72$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BC",
+    "question": "Un automóvil viaja a 80 km/h. ¿Cuánto tiempo tardará en recorrer 360 km?",
+    "image": null,
+    "options": [
+      { "text": "4.5 horas", "correct": true },
+      { "text": "5 horas", "correct": false },
+      { "text": "4 horas", "correct": false },
+      { "text": "6 horas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la fórmula: tiempo = distancia ÷ velocidad.",
+    "explanation": "Tiempo = $360 ÷ 80 = 4.5$ horas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BD",
+    "question": "Un terreno rectangular mide 25 m de largo y 12 m de ancho. ¿Cuál es su área en metros cuadrados?",
+    "image": null,
+    "options": [
+      { "text": "300 m²", "correct": true },
+      { "text": "250 m²", "correct": false },
+      { "text": "350 m²", "correct": false },
+      { "text": "400 m²", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Área = largo × ancho.",
+    "explanation": "Área = $25 × 12 = 300$ m².",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BE",
+    "question": "Si 5 kg de manzanas cuestan $\\$75$, ¿cuánto costarán 8 kg?",
+    "image": null,
+    "options": [
+      { "text": "$\\$120$", "correct": true },
+      { "text": "$\\$100$", "correct": false },
+      { "text": "$\\$125$", "correct": false },
+      { "text": "$\\$115$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el precio por kilogramo primero.",
+    "explanation": "Precio por kg: $75 ÷ 5 = \\$15$. 8 kg: $8 × 15 = \\$120$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BF",
+    "question": "Calcule: $3^4 - 2^5 + 5^2$",
+    "image": null,
+    "options": [
+      { "text": "74", "correct": true },
+      { "text": "68", "correct": false },
+      { "text": "80", "correct": false },
+      { "text": "62", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula las potencias en orden.",
+    "explanation": "$3^4 = 81$, $2^5 = 32$, $5^2 = 25$. Entonces: $81 - 32 + 25 = 74$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BG",
+    "question": "Un producto que costaba $\\$500$ aumenta un 20%. ¿Cuál es su nuevo precio?",
+    "image": null,
+    "options": [
+      { "text": "$\\$600$", "correct": true },
+      { "text": "$\\$550$", "correct": false },
+      { "text": "$\\$520$", "correct": false },
+      { "text": "$\\$580$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el 20% de 500 y súmalo.",
+    "explanation": "Aumento: $500 × 0.20 = 100$. Nuevo precio: $500 + 100 = \\$600$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BH",
+    "question": "Si 12 obreros construyen una casa en 90 días, ¿cuántos obreros se necesitan para construirla en 60 días?",
+    "image": null,
+    "options": [
+      { "text": "18 obreros", "correct": true },
+      { "text": "15 obreros", "correct": false },
+      { "text": "20 obreros", "correct": false },
+      { "text": "24 obreros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Es una proporción inversa: menos días, más obreros.",
+    "explanation": "Obreros × Días = constante. $12 × 90 = 1,080$. Para 60 días: $1,080 ÷ 60 = 18$ obreros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BI",
+    "question": "El 15% de un número es 45. ¿Cuál es el número?",
+    "image": null,
+    "options": [
+      { "text": "300", "correct": true },
+      { "text": "250", "correct": false },
+      { "text": "350", "correct": false },
+      { "text": "400", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Si 15% = 45, entonces 100% = ?",
+    "explanation": "$x = 45 ÷ 0.15 = 300$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BJ",
+    "question": "Un ciclista recorre 15 km en 45 minutos. ¿Cuántos km recorrerá en 2 horas a la misma velocidad?",
+    "image": null,
+    "options": [
+      { "text": "40 km", "correct": true },
+      { "text": "35 km", "correct": false },
+      { "text": "45 km", "correct": false },
+      { "text": "50 km", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Convierte 2 horas a minutos o calcula la velocidad en km/h.",
+    "explanation": "Velocidad: $15 \\text{ km} / 0.75 \\text{ h} = 20 \\text{ km/h}$. En 2 horas: $2 × 20 = 40$ km.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BK",
+    "question": "Calcule: $\\frac{3}{4} + \\frac{2}{5} - \\frac{1}{2}$",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{13}{20}$", "correct": true },
+      { "text": "$\\frac{3}{5}$", "correct": false },
+      { "text": "$\\frac{7}{10}$", "correct": false },
+      { "text": "$\\frac{11}{20}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Encuentra un denominador común (20).",
+    "explanation": "$\\frac{3}{4} = \\frac{15}{20}$, $\\frac{2}{5} = \\frac{8}{20}$, $\\frac{1}{2} = \\frac{10}{20}$. Suma: $\\frac{15+8-10}{20} = \\frac{13}{20}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BL",
+    "question": "Un artículo cuesta $\\$800$ después de aplicarle un 20% de descuento. ¿Cuál era su precio original?",
+    "image": null,
+    "options": [
+      { "text": "$\\$1,000$", "correct": true },
+      { "text": "$\\$900$", "correct": false },
+      { "text": "$\\$960$", "correct": false },
+      { "text": "$\\$850$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si $800$ es el 80% del precio original, calcula el 100%.",
+    "explanation": "Precio original = $800 ÷ 0.80 = \\$1,000$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BM",
+    "question": "Si 8 metros de tela cuestan $\\$240$, ¿cuánto costarán 15 metros?",
+    "image": null,
+    "options": [
+      { "text": "$\\$450$", "correct": true },
+      { "text": "$\\$420$", "correct": false },
+      { "text": "$\\$480$", "correct": false },
+      { "text": "$\\$500$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Proporción directa. Calcula precio por metro.",
+    "explanation": "Precio por metro: $240 ÷ 8 = \\$30$. 15 metros: $15 × 30 = \\$450$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BN",
+    "question": "Calcule: $2.5 × 3.2 + 1.8 ÷ 0.6$",
+    "image": null,
+    "options": [
+      { "text": "11", "correct": true },
+      { "text": "10.5", "correct": false },
+      { "text": "9.2", "correct": false },
+      { "text": "12", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica y divide primero, luego suma.",
+    "explanation": "$2.5 × 3.2 = 8$, $1.8 ÷ 0.6 = 3$. Entonces: $8 + 3 = 11$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BO",
+    "question": "Un depósito se llena con 3 grifos en 8 horas. ¿Cuánto tardará en llenarse con 4 grifos?",
+    "image": null,
+    "options": [
+      { "text": "6 horas", "correct": true },
+      { "text": "7 horas", "correct": false },
+      { "text": "5.5 horas", "correct": false },
+      { "text": "6.5 horas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Proporción inversa: más grifos, menos tiempo.",
+    "explanation": "Grifos × Tiempo = constante. $3 × 8 = 24$. Con 4 grifos: $24 ÷ 4 = 6$ horas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BP",
+    "question": "¿Qué porcentaje de 80 es 20?",
+    "image": null,
+    "options": [
+      { "text": "25%", "correct": true },
+      { "text": "20%", "correct": false },
+      { "text": "30%", "correct": false },
+      { "text": "15%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide 20 entre 80 y multiplica por 100.",
+    "explanation": "$(20 ÷ 80) × 100 = 0.25 × 100 = 25\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BQ",
+    "question": "Si un trabajo lo realizan 6 personas en 18 días, ¿cuántas personas se necesitan para hacerlo en 12 días?",
+    "image": null,
+    "options": [
+      { "text": "9 personas", "correct": true },
+      { "text": "8 personas", "correct": false },
+      { "text": "10 personas", "correct": false },
+      { "text": "12 personas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Proporción inversa: menos días, más personas.",
+    "explanation": "Personas × Días = constante. $6 × 18 = 108$. Para 12 días: $108 ÷ 12 = 9$ personas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BR",
+    "question": "Calcule: $125 - 48 ÷ 6 × 3 + 7$",
+    "image": null,
+    "options": [
+      { "text": "108", "correct": true },
+      { "text": "112", "correct": false },
+      { "text": "104", "correct": false },
+      { "text": "116", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Realiza primero la división y multiplicación, luego suma/resta.",
+    "explanation": "$48 ÷ 6 = 8$, $8 × 3 = 24$. Entonces: $125 - 24 + 7 = 108$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BS",
+    "question": "Un producto se vende en $\\$360$ con una ganancia del 20% sobre el costo. ¿Cuál fue el costo del producto?",
+    "image": null,
+    "options": [
+      { "text": "$\\$300$", "correct": true },
+      { "text": "$\\$320$", "correct": false },
+      { "text": "$\\$280$", "correct": false },
+      { "text": "$\\$340$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si $360$ es el 120% del costo, calcula el 100%.",
+    "explanation": "Costo = $360 ÷ 1.20 = \\$300$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BT",
+    "question": "Si 5 cajas pesan 40 kg, ¿cuánto pesarán 9 cajas?",
+    "image": null,
+    "options": [
+      { "text": "72 kg", "correct": true },
+      { "text": "68 kg", "correct": false },
+      { "text": "75 kg", "correct": false },
+      { "text": "80 kg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Proporción directa. Calcula peso por caja.",
+    "explanation": "Peso por caja: $40 ÷ 5 = 8$ kg. 9 cajas: $9 × 8 = 72$ kg.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BU",
+    "question": "Calcule: $\\sqrt{169} + \\sqrt{64} - \\sqrt{25}$",
+    "image": null,
+    "options": [
+      { "text": "14", "correct": true },
+      { "text": "12", "correct": false },
+      { "text": "16", "correct": false },
+      { "text": "10", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula cada raíz cuadrada primero.",
+    "explanation": "$\\sqrt{169} = 13$, $\\sqrt{64} = 8$, $\\sqrt{25} = 5$. Entonces: $13 + 8 - 5 = 16$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BV",
+    "question": "Un salario de $\\$12,000$ aumenta un 15%. ¿Cuál es el nuevo salario?",
+    "image": null,
+    "options": [
+      { "text": "$\\$13,800$", "correct": true },
+      { "text": "$\\$13,500$", "correct": false },
+      { "text": "$\\$14,000$", "correct": false },
+      { "text": "$\\$13,200$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el 15% de 12,000 y súmalo.",
+    "explanation": "Aumento: $12,000 × 0.15 = 1,800$. Nuevo salario: $12,000 + 1,800 = \\$13,800$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BW",
+    "question": "Si 4 camiones transportan 80 toneladas en 5 viajes, ¿cuántas toneladas transportarán 6 camiones en 8 viajes?",
+    "image": null,
+    "options": [
+      { "text": "192 toneladas", "correct": true },
+      { "text": "180 toneladas", "correct": false },
+      { "text": "200 toneladas", "correct": false },
+      { "text": "160 toneladas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula toneladas por camión por viaje.",
+    "explanation": "Toneladas por camión por viaje: $80 ÷ (4 × 5) = 4$ toneladas. Con 6 camiones en 8 viajes: $6 × 8 × 4 = 192$ toneladas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BX",
+    "question": "¿Qué número es el 30% de 250?",
+    "image": null,
+    "options": [
+      { "text": "75", "correct": true },
+      { "text": "60", "correct": false },
+      { "text": "80", "correct": false },
+      { "text": "70", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica 250 por 0.30.",
+    "explanation": "$250 × 0.30 = 75$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BY",
+    "question": "Un tren recorre 420 km en 3.5 horas. ¿Cuál es su velocidad promedio en km/h?",
+    "image": null,
+    "options": [
+      { "text": "120 km/h", "correct": true },
+      { "text": "115 km/h", "correct": false },
+      { "text": "125 km/h", "correct": false },
+      { "text": "130 km/h", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Velocidad = distancia ÷ tiempo.",
+    "explanation": "Velocidad = $420 ÷ 3.5 = 120$ km/h.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00BZ",
+    "question": "Calcule: $7^2 × 2 - 5^2 + 18 ÷ 3$",
+    "image": null,
+    "options": [
+      { "text": "85", "correct": true },
+      { "text": "80", "correct": false },
+      { "text": "75", "correct": false },
+      { "text": "90", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sigue el orden de operaciones: potencias, multiplicación/división, suma/resta.",
+    "explanation": "$7^2 = 49$, $5^2 = 25$, $18 ÷ 3 = 6$. Entonces: $49 × 2 - 25 + 6 = 98 - 25 + 6 = 79$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CA",
+    "question": "Un artículo que costaba $\\$400$ se rebaja un 25%. ¿Cuál es su nuevo precio?",
+    "image": null,
+    "options": [
+      { "text": "$\\$300$", "correct": true },
+      { "text": "$\\$350$", "correct": false },
+      { "text": "$\\$320$", "correct": false },
+      { "text": "$\\$280$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el 25% de 400 y réstalo.",
+    "explanation": "Rebaja: $400 × 0.25 = 100$. Nuevo precio: $400 - 100 = \\$300$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CB",
+    "question": "Si 10 trabajadores terminan una obra en 24 días, ¿cuántos días tardarán 15 trabajadores?",
+    "image": null,
+    "options": [
+      { "text": "16 días", "correct": true },
+      { "text": "18 días", "correct": false },
+      { "text": "20 días", "correct": false },
+      { "text": "14 días", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Proporción inversa: más trabajadores, menos días.",
+    "explanation": "Trabajadores × Días = constante. $10 × 24 = 240$. Con 15 trabajadores: $240 ÷ 15 = 16$ días.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CC",
+    "question": "¿Qué porcentaje representa 45 de 180?",
+    "image": null,
+    "options": [
+      { "text": "25%", "correct": true },
+      { "text": "30%", "correct": false },
+      { "text": "20%", "correct": false },
+      { "text": "35%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide 45 entre 180 y multiplica por 100.",
+    "explanation": "$(45 ÷ 180) × 100 = 0.25 × 100 = 25\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CD",
+    "question": "Calcule: $\\frac{5}{8} × \\frac{4}{15} + \\frac{1}{3}$",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{1}{2}$", "correct": true },
+      { "text": "$\\frac{3}{5}$", "correct": false },
+      { "text": "$\\frac{7}{12}$", "correct": false },
+      { "text": "$\\frac{5}{9}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica primero, luego simplifica y suma.",
+    "explanation": "$\\frac{5}{8} × \\frac{4}{15} = \\frac{20}{120} = \\frac{1}{6}$. $\\frac{1}{6} + \\frac{1}{3} = \\frac{1}{6} + \\frac{2}{6} = \\frac{3}{6} = \\frac{1}{2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CE",
+    "question": "Un terreno cuadrado tiene un área de 144 m². ¿Cuánto mide su perímetro?",
+    "image": null,
+    "options": [
+      { "text": "48 m", "correct": true },
+      { "text": "36 m", "correct": false },
+      { "text": "42 m", "correct": false },
+      { "text": "52 m", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Primero calcula el lado del cuadrado.",
+    "explanation": "Lado = $\\sqrt{144} = 12$ m. Perímetro = $4 × 12 = 48$ m.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CF",
+    "question": "Si 3 lápices cuestan $\\$18$, ¿cuánto costarán 7 lápices?",
+    "image": null,
+    "options": [
+      { "text": "$\\$42$", "correct": true },
+      { "text": "$\\$38$", "correct": false },
+      { "text": "$\\$45$", "correct": false },
+      { "text": "$\\$40$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el precio por lápiz.",
+    "explanation": "Precio por lápiz: $18 ÷ 3 = \\$6$. 7 lápices: $7 × 6 = \\$42$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CG",
+    "question": "Calcule: $125 ÷ 25 + 3^3 - 4 × 5$",
+    "image": null,
+    "options": [
+      { "text": "12", "correct": true },
+      { "text": "10", "correct": false },
+      { "text": "14", "correct": false },
+      { "text": "8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Realiza operaciones en orden: división, potencia, multiplicación, suma/resta.",
+    "explanation": "$125 ÷ 25 = 5$, $3^3 = 27$, $4 × 5 = 20$. Entonces: $5 + 27 - 20 = 12$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CH",
+    "question": "Un vendedor gana el 15% de comisión sobre sus ventas. Si vendió $\\$8,000$, ¿cuánto ganó de comisión?",
+    "image": null,
+    "options": [
+      { "text": "$\\$1,200$", "correct": true },
+      { "text": "$\\$1,000$", "correct": false },
+      { "text": "$\\$1,500$", "correct": false },
+      { "text": "$\\$1,300$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el 15% de 8,000.",
+    "explanation": "Comisión = $8,000 × 0.15 = \\$1,200$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CI",
+    "question": "Si 5 máquinas producen 1,200 piezas en 6 horas, ¿cuántas piezas producirá 1 máquina en 8 horas?",
+    "image": null,
+    "options": [
+      { "text": "320 piezas", "correct": true },
+      { "text": "300 piezas", "correct": false },
+      { "text": "350 piezas", "correct": false },
+      { "text": "280 piezas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula la producción por máquina por hora.",
+    "explanation": "Producción por máquina por hora: $1,200 ÷ (5 × 6) = 40$ piezas. 1 máquina en 8 horas: $1 × 8 × 40 = 320$ piezas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CJ",
+    "question": "¿De qué número es 56 el 40%?",
+    "image": null,
+    "options": [
+      { "text": "140", "correct": true },
+      { "text": "120", "correct": false },
+      { "text": "160", "correct": false },
+      { "text": "150", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Si 56 es el 40%, calcula el 100%.",
+    "explanation": "Número = $56 ÷ 0.40 = 140$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CK",
+    "question": "Un auto consume 8 litros de gasolina cada 100 km. ¿Cuántos litros consumirá en un viaje de 350 km?",
+    "image": null,
+    "options": [
+      { "text": "28 litros", "correct": true },
+      { "text": "25 litros", "correct": false },
+      { "text": "30 litros", "correct": false },
+      { "text": "32 litros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el consumo por km primero.",
+    "explanation": "Consumo por km: $8 ÷ 100 = 0.08$ L/km. Para 350 km: $350 × 0.08 = 28$ litros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CL",
+    "question": "Calcule: $2.4 × 1.5 - 0.8 ÷ 0.4 + 3.2$",
+    "image": null,
+    "options": [
+      { "text": "6", "correct": true },
+      { "text": "5.5", "correct": false },
+      { "text": "6.5", "correct": false },
+      { "text": "7", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Realiza multiplicación y división primero, luego suma/resta.",
+    "explanation": "$2.4 × 1.5 = 3.6$, $0.8 ÷ 0.4 = 2$. Entonces: $3.6 - 2 + 3.2 = 4.8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CM",
+    "question": "Un producto se vende en $\\$540$ con una pérdida del 10% sobre el costo. ¿Cuál fue el costo del producto?",
+    "image": null,
+    "options": [
+      { "text": "$\\$600$", "correct": true },
+      { "text": "$\\$580$", "correct": false },
+      { "text": "$\\$620$", "correct": false },
+      { "text": "$\\$560$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si $540$ es el 90% del costo, calcula el 100%.",
+    "explanation": "Costo = $540 ÷ 0.90 = \\$600$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CN",
+    "question": "Si 6 albañiles construyen un muro en 10 días, ¿cuántos albañiles se necesitan para construirlo en 4 días?",
+    "image": null,
+    "options": [
+      { "text": "15 albañiles", "correct": true },
+      { "text": "12 albañiles", "correct": false },
+      { "text": "18 albañiles", "correct": false },
+      { "text": "20 albañiles", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Proporción inversa: menos días, más albañiles.",
+    "explanation": "Albañiles × Días = constante. $6 × 10 = 60$. Para 4 días: $60 ÷ 4 = 15$ albañiles.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CO",
+    "question": "Calcule: $\\frac{2}{3} + \\frac{3}{4} - \\frac{5}{6}$",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{7}{12}$", "correct": true },
+      { "text": "$\\frac{1}{2}$", "correct": false },
+      { "text": "$\\frac{5}{8}$", "correct": false },
+      { "text": "$\\frac{3}{4}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Encuentra un denominador común (12).",
+    "explanation": "$\\frac{2}{3} = \\frac{8}{12}$, $\\frac{3}{4} = \\frac{9}{12}$, $\\frac{5}{6} = \\frac{10}{12}$. Suma: $\\frac{8+9-10}{12} = \\frac{7}{12}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CP",
+    "question": "Un inversionista ganó $\\$750$ que representa el 15% de su inversión. ¿Cuánto invirtió?",
+    "image": null,
+    "options": [
+      { "text": "$\\$5,000$", "correct": true },
+      { "text": "$\\$4,500$", "correct": false },
+      { "text": "$\\$5,500$", "correct": false },
+      { "text": "$\\$6,000$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si 750 es el 15%, calcula el 100%.",
+    "explanation": "Inversión = $750 ÷ 0.15 = \\$5,000$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CQ",
+    "question": "Si 4 libros pesan 3.2 kg, ¿cuánto pesarán 10 libros?",
+    "image": null,
+    "options": [
+      { "text": "8 kg", "correct": true },
+      { "text": "7.5 kg", "correct": false },
+      { "text": "8.5 kg", "correct": false },
+      { "text": "7.2 kg", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el peso por libro.",
+    "explanation": "Peso por libro: $3.2 ÷ 4 = 0.8$ kg. 10 libros: $10 × 0.8 = 8$ kg.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CR",
+    "question": "Calcule: $\\sqrt{81} × \\sqrt{16} ÷ \\sqrt{36}$",
+    "image": null,
+    "options": [
+      { "text": "6", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "7", "correct": false },
+      { "text": "8", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula cada raíz cuadrada primero.",
+    "explanation": "$\\sqrt{81} = 9$, $\\sqrt{16} = 4$, $\\sqrt{36} = 6$. Entonces: $9 × 4 ÷ 6 = 36 ÷ 6 = 6$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CS",
+    "question": "Un almacén tiene 200 productos. Si el 35% son defectuosos, ¿cuántos productos están en buen estado?",
+    "image": null,
+    "options": [
+      { "text": "130", "correct": true },
+      { "text": "140", "correct": false },
+      { "text": "120", "correct": false },
+      { "text": "150", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el 65% de 200 (100% - 35%).",
+    "explanation": "Productos buenos = $200 × 0.65 = 130$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CT",
+    "question": "Si 8 obreros hacen una obra en 15 días, ¿cuántos obreros harán la misma obra en 6 días?",
+    "image": null,
+    "options": [
+      { "text": "20 obreros", "correct": true },
+      { "text": "18 obreros", "correct": false },
+      { "text": "22 obreros", "correct": false },
+      { "text": "24 obreros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Proporción inversa: menos días, más obreros.",
+    "explanation": "Obreros × Días = constante. $8 × 15 = 120$. Para 6 días: $120 ÷ 6 = 20$ obreros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CU",
+    "question": "Calcule: $1.25 × 8 - 3.6 ÷ 1.2 + 2.5$",
+    "image": null,
+    "options": [
+      { "text": "10.5", "correct": true },
+      { "text": "9.5", "correct": false },
+      { "text": "11", "correct": false },
+      { "text": "10", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Realiza multiplicación y división primero.",
+    "explanation": "$1.25 × 8 = 10$, $3.6 ÷ 1.2 = 3$. Entonces: $10 - 3 + 2.5 = 9.5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CV",
+    "question": "Un televisor se vende en $\\$3,600$ con una ganancia del 20% sobre el precio de venta. ¿Cuál fue el costo del televisor?",
+    "image": null,
+    "options": [
+      { "text": "$\\$2,880$", "correct": true },
+      { "text": "$\\$3,000$", "correct": false },
+      { "text": "$\\$2,700$", "correct": false },
+      { "text": "$\\$3,200$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si $3,600$ es el 120% del costo, calcula el 100%.",
+    "explanation": "Costo = $3,600 ÷ 1.20 = \\$3,000$. (Nota: corrección del cálculo) $3,600$ es el 120% del costo: $3,600 ÷ 1.20 = 3,000$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CW",
+    "question": "Si 12 metros de tela cuestan $\\$180$, ¿cuántos metros se pueden comprar con $\\$300$?",
+    "image": null,
+    "options": [
+      { "text": "20 metros", "correct": true },
+      { "text": "18 metros", "correct": false },
+      { "text": "22 metros", "correct": false },
+      { "text": "25 metros", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el precio por metro primero.",
+    "explanation": "Precio por metro: $180 ÷ 12 = \\$15$. Con $300$: $300 ÷ 15 = 20$ metros.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CX",
+    "question": "Calcule: $2^5 - 3^3 + 4^2 ÷ 2$",
+    "image": null,
+    "options": [
+      { "text": "21", "correct": true },
+      { "text": "19", "correct": false },
+      { "text": "23", "correct": false },
+      { "text": "17", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Calcula potencias, luego división, luego suma/resta.",
+    "explanation": "$2^5 = 32$, $3^3 = 27$, $4^2 ÷ 2 = 16 ÷ 2 = 8$. Entonces: $32 - 27 + 8 = 13$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CY",
+    "question": "Un empleado recibe un aumento del 12% sobre su salario de $\\$15,000$. ¿Cuál es su nuevo salario?",
+    "image": null,
+    "options": [
+      { "text": "$\\$16,800$", "correct": true },
+      { "text": "$\\$16,500$", "correct": false },
+      { "text": "$\\$17,000$", "correct": false },
+      { "text": "$\\$16,200$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula el 12% de 15,000 y súmalo.",
+    "explanation": "Aumento: $15,000 × 0.12 = 1,800$. Nuevo salario: $15,000 + 1,800 = \\$16,800$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00CZ",
+    "question": "Si 5 trabajadores pintan una casa en 8 días, ¿cuántos trabajadores pintarán la misma casa en 2 días?",
+    "image": null,
+    "options": [
+      { "text": "20 trabajadores", "correct": true },
+      { "text": "18 trabajadores", "correct": false },
+      { "text": "15 trabajadores", "correct": false },
+      { "text": "25 trabajadores", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Proporción inversa: menos días, más trabajadores.",
+    "explanation": "Trabajadores × Días = constante. $5 × 8 = 40$. Para 2 días: $40 ÷ 2 = 20$ trabajadores.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DA",
+    "question": "¿Qué porcentaje de 500 es 125?",
+    "image": null,
+    "options": [
+      { "text": "25%", "correct": true },
+      { "text": "20%", "correct": false },
+      { "text": "30%", "correct": false },
+      { "text": "15%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide 125 entre 500 y multiplica por 100.",
+    "explanation": "$(125 ÷ 500) × 100 = 0.25 × 100 = 25\\%$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "PMA00DB",
+    "question": "Calcule: $\\frac{7}{12} × \\frac{3}{14} + \\frac{1}{4}$",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{3}{8}$", "correct": true },
+      { "text": "$\\frac{1}{3}$", "correct": false },
+      { "text": "$\\frac{5}{12}$", "correct": false },
+      { "text": "$\\frac{7}{16}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica primero, simplifica y luego suma.",
+    "explanation": "$\\frac{7}{12} × \\frac{3}{14} = \\frac{21}{168} = \\frac{1}{8}$. $\\frac{1}{8} + \\frac{1}{4} = \\frac{1}{8} + \\frac{2}{8} = \\frac{3}{8}$.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
