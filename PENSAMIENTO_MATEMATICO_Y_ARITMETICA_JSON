@@ -871,7 +871,7 @@
     "question": "Calcule: $7^2 × 2 - 5^2 + 18 ÷ 3$",
     "image": null,
     "options": [
-      { "text": "85", "correct": true },
+      { "text": "79", "correct": true },
       { "text": "80", "correct": false },
       { "text": "75", "correct": false },
       { "text": "90", "correct": false }
