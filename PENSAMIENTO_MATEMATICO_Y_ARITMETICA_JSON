@@ -137,7 +137,7 @@
   },
   {
     "id": "PMA00AI",
-    "question": "Una empresa tiene $5 \\text{ departamentos}$ con extensiones telef\u00f3nicas: Almac\u00e9n ($4$), Mantenimiento ($3$), Producci\u00f3n ($4$), Control de Calidad ($7$), y Ventas ($3$). Si el pago del servicio es proporcional al n\u00famero de extensiones y el recibo asciende a $\$28,412.00$, \u00bfCu\u00e1nto debe pagar el Departamento de Ventas por el servicio?",
+    "question": "Una empresa tiene 5 departamentos con extensiones telefónicas: Almacén (4), Mantenimiento (3), Producción (4), Control de Calidad (7) y Ventas (3). Si el pago del servicio es proporcional al número de extensiones y el recibo asciende a $28,412.00, ¿Cuánto debe pagar el Departamento de Ventas por el servicio?",
     "image": null,
     "options": [
       { "text": "$4,058.86", "correct": true },
