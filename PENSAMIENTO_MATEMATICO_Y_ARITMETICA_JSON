@@ -1075,7 +1075,7 @@
     "question": "Calcule: $2.4 × 1.5 - 0.8 ÷ 0.4 + 3.2$",
     "image": null,
     "options": [
-      { "text": "6", "correct": true },
+      { "text": "4.8", "correct": true },
       { "text": "5.5", "correct": false },
       { "text": "6.5", "correct": false },
       { "text": "7", "correct": false }
