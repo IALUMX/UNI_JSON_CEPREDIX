@@ -28,7 +28,7 @@
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "Usa la regla de tres o la fórmula: $\\text{Tiempo} = \\frac{\\text{Capacidad total}}{\\text{Razón de llenado}}$.",
+    "hint": "Usa la regla de tres: $\\text{Tiempo} = \\frac{\\text{Capacidad total}}{\\text{Razón de llenado}}$.",
     "explanation": "El tiempo de llenado es $\\frac{6,045 \\text{ L}}{\\frac{65 \\text{ L}}{3 \\text{ min}}} = \\frac{6,045 \\cdot 3}{65} = 279$ minutos.",
     "explanative_video": null,
     "collapsible_text": null
@@ -45,8 +45,8 @@
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Número de adultos = $20 - 8$. Horas de guardia por noche = $9$ horas. Usa: $\\text{Horas por adulto} = \\frac{\\text{Horas totales de guardia}}{\\text{Número de adultos}}$.",
-    "explanation": "La duración de la guardia es de $9$ horas ($24:00 - 21:00 + 06:00 = 9$ horas). El número de adultos es $20 - 8 = 12$. Total de horas por adulto: $\\frac{9 \\text{ h/noche} \\cdot 360 \\text{ noches}}{12 \\text{ adultos}} = 270$ horas.",
+    "hint": "Horas totales por adulto $ = \\frac{\\text{Horas de guardia por noche} \\cdot \\text{Número de días}}{\\text{Número de adultos}}$.",
+    "explanation": "La duración de la guardia es de $9$ horas. El número de adultos es $20 - 8 = 12$. Total de horas por adulto: $\\frac{9 \\text{ h/noche} \\cdot 360 \\text{ noches}}{12 \\text{ adultos}} = 270$ horas.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -69,7 +69,7 @@
   },
   {
     "id": "PMA00AE",
-    "question": "Si la velocidad de un meteorito es de $6 \\times 10^7 \\text{ m/s}$ y la distancia entre dos planetas es de $6.432 \\times 10^{13} \\text{ m}$, identifique, en segundos, el tiempo que le toma al meteorito viajar de un planeta a otro.",
+    "question": "Si la velocidad de un meteorito es de $6 \\times 10^7 \\text{ m/s}$ y la distancia entre dos planetas es de $6.432 \\times 10^{13} \\text{ m}$, identifique, en segundos, el tiempo que le toma al meteorito viajar de un planeta a otro. Use la fórmula $\\text{Tiempo} = \\frac{\\text{Distancia}}{\\text{Velocidad}}$.",
     "image": null,
     "options": [
       { "text": "$1.072 \\times 10^6 \\text{ s}$", "correct": true },
@@ -79,8 +79,8 @@
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "La fórmula del tiempo es $\\text{Distancia} = \\text{Tiempo} \\cdot \\text{Velocidad}$. Despeja $\\text{Tiempo}$.",
-    "explanation": "Se aplica la fórmula $\\text{Tiempo} = \\frac{\\text{Distancia}}{\\text{Velocidad}}$. $\\text{Tiempo} = \\frac{6.432 \\times 10^{13} \\text{ m}}{6 \\times 10^7 \\text{ m/s}} = \\left(\\frac{6.432}{6}\\right) \\times 10^{13-7} \\text{ s} = 1.072 \\times 10^6 \\text{ s}$.",
+    "hint": "Para dividir notaciones científicas, resta el exponente del divisor al exponente del dividendo: $\\frac{a \\times 10^m}{b \\times 10^n} = \\frac{a}{b} \\times 10^{m-n}$.",
+    "explanation": "Aplicando la fórmula: $\\text{Tiempo} = \\frac{6.432 \\times 10^{13} \\text{ m}}{6 \\times 10^7 \\text{ m/s}} = \\left(\\frac{6.432}{6}\\right) \\times 10^{13-7} \\text{ s} = 1.072 \\times 10^6 \\text{ s}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -97,7 +97,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Descompón $350$ en sus factores primos. El conjunto solo debe incluir los números primos únicos.",
-    "explanation": "La factorización prima de $350$ es $350 = 2 \\times 175 = 2 \\times 5 \\times 35 = 2 \\times 5 \\times 5 \\times 7$. Los factores primos distintos son $2, 5$ y $7$.",
+    "explanation": "La factorización prima de $350$ es $2 \\times 5 \\times 5 \\times 7 = 2^1 \\times 5^2 \\times 7^1$. Los factores primos distintos son $2, 5$ y $7$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -114,7 +114,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
     "hint": "En una conexión en serie, el voltaje total es la suma de los voltajes individuales: $V_{\\text{total}} = n \\cdot V_{\\text{batería}}$. Despeja $n$ (número de baterías).",
-    "explanation": "Cada batería de $3 \\text{ V}$ aporta ese voltaje a la conexión en serie. Para alcanzar $24 \\text{ V}$, se necesitan $\\frac{24 \\text{ V}}{3 \\text{ V/batería}} = 8$ baterías.",
+    "explanation": "Cada batería de $3 \\text{ V}$ aporta ese voltaje a la conexión en serie. El número de baterías necesarias es $\\frac{24 \\text{ V}}{3 \\text{ V/batería}} = 8$ baterías.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -148,7 +148,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Calcula el total de extensiones. El costo por extensión es $\\frac{\\text{Costo total}}{\\text{Extensiones totales}}$.",
-    "explanation": "El total de extensiones es $4 + 3 + 4 + 7 + 3 = 21$. El costo por extensión es $\\frac{\\$28,412.00}{21} \\approx \\$1352.95$. El Departamento de Ventas tiene $3$ extensiones, por lo que paga $3 \\times \\$1352.95 \\approx \\$4,058.86$.",
+    "explanation": "El total de extensiones es $4 + 3 + 4 + 7 + 3 = 21$. El costo por extensión es $\\frac{\\$28,412.00}{21} \\approx \\$1352.95$. El costo de Ventas ($3$ extensiones) es $3 \\times \\$1352.95 \\approx \\$4,058.86$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -165,7 +165,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["AVANZADO"],
     "hint": "Distancia final = Lunes + Martes (avance) - Miércoles (retroceso). Martes = $\\frac{1}{3} \\cdot 80$. Miércoles = $\\frac{5}{7} \\cdot \\text{Martes}$.",
-    "explanation": "Distancia Martes: $\\frac{80}{3} \\text{ km}$. Distancia Miércoles (retroceso): $\\frac{5}{7} \\cdot \\frac{80}{3} = \\frac{400}{21} \\text{ km}$. Posición final: $80 + \\frac{80}{3} - \\frac{400}{21}$. Con denominador $21$: $\\frac{80 \\cdot 21}{21} + \\frac{80 \\cdot 7}{21} - \\frac{400}{21} = \\frac{1680 + 560 - 400}{21} = \\frac{1840}{21} \\text{ km}$.",
+    "explanation": "Distancia Martes: $\\frac{80}{3} \\text{ km}$. Distancia Miércoles (retroceso): $\\frac{5}{7} \\cdot \\frac{80}{3} = \\frac{400}{21} \\text{ km}$. Posición final: $80 + \\frac{80}{3} - \\frac{400}{21} = \\frac{1680 + 560 - 400}{21} = \\frac{1840}{21} \\text{ km}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -182,7 +182,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Realiza las operaciones de ventas y compras: $\\text{Final} = \\text{Inicial} + (\\text{Compras}) - (\\text{Ventas})$.",
-    "explanation": "Operación: $5000 + (3 \\times 725.32) - (5 \\times 333.333) - (8 \\times 240.45) = 5000 + 2175.96 - 1666.665 - 1923.6 = 3585.695$. Redondeado a dos decimales, el resultado es $3,585.70 \\text{ kg}$.",
+    "explanation": "Operación: $5000 + (3 \\times 725.32) - (5 \\times 333.333) - (8 \\times 240.45) = 3585.695$. Redondeado a dos decimales, el resultado es $3,585.70 \\text{ kg}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -199,7 +199,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "La propiedad de los exponentes fraccionarios es $x^{m/n} = \\sqrt[n]{x^m}$.",
-    "explanation": "En la potencia fraccionaria $7^{4/3}$, el numerador ($4$) es la potencia y el denominador ($3$) corresponde al índice de la raíz (raíz cúbica).",
+    "explanation": "En la potencia fraccionaria $7^{4/3}$, el denominador ($3$) es el índice de la raíz (raíz cúbica) y el numerador ($4$) es la potencia.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -216,7 +216,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Sigue la jerarquía de operaciones: Potencias, Multiplicaciones y Divisiones, y finalmente Sumas y Restas.",
-    "explanation": "1. Potencia: $2^2 = 4$. 2. Multiplicaciones y Divisiones: $72 \\div 8 = 9$; $4 \\times 5 = 20$; $4 \\times 4 \\div 2 = 8$. 3. Sumas y Restas: $9 + 3 - 20 + 8 - 6 = 12 - 20 + 2 = -6$.",
+    "explanation": "Resolviendo la expresión: $72 \\div 8 + 3 - 4 \\times 5 + 4 \\times 2^2 \\div 2 - 6 = 9 + 3 - 20 + 8 - 6 = -6$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -233,7 +233,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
     "hint": "Para encontrar el momento de la próxima coincidencia, se debe calcular el Mínimo Común Múltiplo (MCM) de los periodos de los vuelos ($8, 12, 15$).",
-    "explanation": "Los tiempos de los vuelos son $8, 12$ y $15$ horas. El $\\text{MCM}(8, 12, 15) = 120$ horas. Esta es la hora más próxima en que volverán a coincidir.",
+    "explanation": "El $\\text{MCM}(8, 12, 15) = 2^3 \\cdot 3 \\cdot 5 = 120$ horas.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -249,7 +249,7 @@
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "Para que los recipientes sean iguales y de la máxima capacidad posible, se debe calcular el Máximo Común Divisor (MCD) de las cantidades $256$ y $96$.",
+    "hint": "Calcula el Máximo Común Divisor (MCD) de las cantidades $256$ y $96$.",
     "explanation": "La capacidad debe ser el $\\text{MCD}(256, 96)$. $256 = 2^8$ y $96 = 2^5 \\cdot 3$. El $\\text{MCD}$ es $2^5 = 32$ litros.",
     "explanative_video": null,
     "collapsible_text": null
@@ -267,7 +267,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Si $P_{\\text{final}} = P_{\\text{original}} (1 - \\text{descuento})$, despeja $P_{\\text{original}}$.",
-    "explanation": "El precio de $\\$2,050.00$ corresponde al $100\\% - 18\\% = 82\\%$ (o $0.82$) del precio original. El precio original es $\\frac{\\$2050.00}{0.82} = \\$2,500.00$.",
+    "explanation": "El precio de $\\$2,050.00$ corresponde al $82\\%$ del precio original. El precio original es $\\frac{\\$2050.00}{0.82} = \\$2,500.00$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -284,7 +284,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
     "hint": "Usa la fórmula de interés simple $I = Prt$. Despeja la tasa de interés $r = \\frac{I}{Pt}$.",
-    "explanation": "El interés ganado es $I = \\$48,000 - \\$30,000 = \\$18,000$. La tasa de interés anual $r = \\frac{\\$18,000}{\\$30,000 \\cdot 5 \\text{ años}} = \\frac{18000}{150000} = 0.12$, es decir, $12\\%$.",
+    "explanation": "El interés ganado es $I = \\$48,000 - \\$30,000 = \\$18,000$. La tasa de interés anual $r = \\frac{\\$18,000}{\\$30,000 \\cdot 5 \\text{ años}} = 0.12$, es decir, $12\\%$.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -301,7 +301,7 @@
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
     "hint": "La relación entre el número de máquinas ($M$) y el tiempo ($T$) es inversa: $M_{\\text{inicial}} \\cdot T_{\\text{inicial}} = M_{\\text{final}} \\cdot T_{\\text{final}}$. El incremento es $T_{\\text{final}} - T_{\\text{inicial}}$.",
-    "explanation": "El nuevo número de máquinas es $10 - 2 = 8$. Aplicando la proporcionalidad inversa: $10 \\cdot 5 \\text{ h} = 8 \\cdot T_{\\text{final}}$. $T_{\\text{final}} = \\frac{50}{8} = 6.25$ horas. El incremento de tiempo es $6.25 \\text{ h} - 5 \\text{ h} = 1.25$ horas.",
+    "explanation": "El nuevo número de máquinas es $8$. El tiempo final es $T_{\\text{final}} = \\frac{10 \\cdot 5 \\text{ h}}{8} = 6.25$ horas. El incremento es $6.25 \\text{ h} - 5 \\text{ h} = 1.25$ horas.",
     "explanative_video": null,
     "collapsible_text": null
   },
@@ -310,15 +310,15 @@
     "question": "Identifique la situación en la que se aplica la ley de los signos que corresponde al **producto de un número negativo por uno positivo** ($\\text{Negativo} \\times \\text{Positivo} = \\text{Negativo}$).",
     "image": null,
     "options": [
-      { "text": "La temperatura de una ciudad es de $6 \,^{\\circ} \\text{C}$ bajo cero y durante la madrugada desciende el doble.", "correct": true },
+      { "text": "La temperatura de una ciudad es de $6 \\,^{\\circ} \\text{C}$ bajo cero y durante la madrugada desciende el doble.", "correct": true },
       { "text": "Una persona tiene un capital invertido de $\\$5,000$ y a los $2$ meses pierde $\\$1,200$.", "correct": false },
       { "text": "Un empleado tiene una deuda de $\\$7,500$ y en $3$ meses la incrementa $\\$3,000$.", "correct": false },
-      { "text": "La temperatura de una ciudad es de $6 \,^{\\circ} \\text{C}$ bajo cero y sube el doble.", "correct": false }
+      { "text": "La temperatura de una ciudad es de $6 \\,^{\\circ} \\text{C}$ bajo cero y sube el doble.", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "Una temperatura 'bajo cero' se representa con un valor negativo. Un 'descenso' se interpreta como un cambio negativo, pero si se pregunta por el 'descenso del doble', la operación es $2 \\times (\\text{temperatura})$.",
-    "explanation": "La temperatura de $6 \,^{\\circ} \\text{C}$ bajo cero es $-6$. El descenso del doble se modela como $2 \\times (-6) = -12$. Esto representa el producto de un positivo ($2$) por un negativo ($-6$), resultando en un número negativo ($-12$, que es el cambio total de temperatura).",
+    "hint": "Una temperatura 'bajo cero' se representa con un valor negativo. Un 'descenso del doble' implica una multiplicación por un número positivo ($2$).",
+    "explanation": "La temperatura de $6 \\,^{\\circ} \\text{C}$ bajo cero es $-6$. El descenso del doble se modela como $2 \\times (-6) = -12$. Esto es el producto de un positivo ($2$) por un negativo ($-6$), resultando en un número negativo.",
     "explanative_video": null,
     "collapsible_text": null
   }
