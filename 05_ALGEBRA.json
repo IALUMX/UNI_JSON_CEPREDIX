@@ -1,6 +1,6 @@
 [
   {
-    "id": "ALG00aa",
+    "id": "ALG00AA",
     "question": "Simplifica la siguiente expresión algebraica eliminando los signos de agrupación: $a - (b - c)$",
     "image": null,
     "options": [
@@ -17,7 +17,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ab",
+    "id": "ALG00AB",
     "question": "Desarrolla el siguiente binomio al cuadrado: $(x + 5)^2$",
     "image": null,
     "options": [
@@ -34,7 +34,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ac",
+    "id": "ALG00AC",
     "question": "Factoriza la expresión por factor común: $4x^2 - 8x$",
     "image": null,
     "options": [
@@ -51,7 +51,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ad",
+    "id": "ALG00AD",
     "question": "Identifica el resultado del producto de binomios conjugados: $(m - 3)(m + 3)$",
     "image": null,
     "options": [
@@ -68,7 +68,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ae",
+    "id": "ALG00AE",
     "question": "¿Cuál es la factorización de la diferencia de cuadrados $y^2 - 100$?",
     "image": null,
     "options": [
@@ -85,7 +85,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00af",
+    "id": "ALG00AF",
     "question": "Simplifica la expresión: $3x(x - 2) + 6x$",
     "image": null,
     "options": [
@@ -102,7 +102,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ag",
+    "id": "ALG00AG",
     "question": "Factoriza el trinomio $x^2 + 7x + 12$.",
     "image": null,
     "options": [
@@ -119,7 +119,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ah",
+    "id": "ALG00AH",
     "question": "Selecciona los términos que son semejantes a $3x^2y$: \n* $5x^2y$\n* $3xy^2$\n* $-x^2y$\n* $x^2$",
     "image": null,
     "options": [
@@ -136,7 +136,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ai",
+    "id": "ALG00AI",
     "question": "La propiedad ______ nos permite decir que $a(b + c) = ab + ac$. Esta propiedad es fundamental para la ______ de polinomios.",
     "image": null,
     "options": [
@@ -153,7 +153,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00aj",
+    "id": "ALG00AJ",
     "question": "Un Trinomio Cuadrado Perfecto se obtiene al elevar un ______ al ______.",
     "image": null,
     "options": [
@@ -170,7 +170,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ak",
+    "id": "ALG00AK",
     "question": "En la expresión $x^n \\cdot x^m$, la ley de los exponentes indica que se ______ los exponentes y la base ______.",
     "image": null,
     "options": [
@@ -187,7 +187,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00al",
+    "id": "ALG00AL",
     "question": "Relaciona el producto notable con su resultado:\nA) $(x+a)(x+b)$\nB) $(a+b)(a-b)$\nC) $(a+b)^2$\n\nI) Diferencia de cuadrados\nII) Trinomio Cuadrado Perfecto\nIII) Trinomio de la forma $x^2+bx+c$",
     "image": null,
     "options": [
@@ -204,7 +204,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00am",
+    "id": "ALG00AM",
     "question": "Factoriza completamente: $3x^2 - 27$",
     "image": null,
     "options": [
@@ -221,7 +221,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00an",
+    "id": "ALG00AN",
     "question": "Desarrolla el producto $(2x + 1)(x - 4)$.",
     "image": null,
     "options": [
@@ -238,7 +238,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ao",
+    "id": "ALG00AO",
     "question": "¿Cuál es el resultado de $(a^3)^2$?",
     "image": null,
     "options": [
@@ -255,7 +255,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ap",
+    "id": "ALG00AP",
     "question": "Simplifica la fracción algebraica: $\\frac{x^2 - 4}{x + 2}$",
     "image": null,
     "options": [
@@ -272,7 +272,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00aq",
+    "id": "ALG00AQ",
     "question": "Calcula el área de un rectángulo con base $(x + 5)$ y altura $(x - 5)$.",
     "image": null,
     "options": [
@@ -289,7 +289,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ar",
+    "id": "ALG00AR",
     "question": "Factoriza: $x^2 - 14x + 49$",
     "image": null,
     "options": [
@@ -306,7 +306,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00as",
+    "id": "ALG00AS",
     "question": "Despeja $x$ en la ecuación lineal simple: $3x - 9 = 0$",
     "image": null,
     "options": [
@@ -323,7 +323,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00at",
+    "id": "ALG00AT",
     "question": "¿Cuáles de las siguientes expresiones son polinomios?\n* $3x^2 + 2x - 1$\n* $\\sqrt{x} + 2$\n* $x^{-1} + 5$\n* $5x^3 - x$",
     "image": null,
     "options": [
@@ -340,7 +340,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00au",
+    "id": "ALG00AU",
     "question": "Al factorizar $x^2 + bx + c$, buscamos dos números que multiplicados den ______ y sumados den ______.",
     "image": null,
     "options": [
@@ -357,7 +357,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00av",
+    "id": "ALG00AV",
     "question": "La expresión $a^0$ es igual a ______ siempre que a sea diferente de ______.",
     "image": null,
     "options": [
@@ -374,7 +374,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00aw",
+    "id": "ALG00AW",
     "question": "El grado de un polinomio está determinado por el ______ exponente de la variable en sus términos.",
     "image": null,
     "options": [
@@ -391,7 +391,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ax",
+    "id": "ALG00AX",
     "question": "Relaciona la expresión verbal con su forma algebraica:\nA) El doble de un número más su cuadrado\nB) El cuadrado de la suma de dos números\nC) La suma de los cuadrados de dos números\n\nI) $(x+y)^2$\nII) $x^2 + y^2$\nIII) $2x + x^2$",
     "image": null,
     "options": [
@@ -408,7 +408,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ay",
+    "id": "ALG00AY",
     "question": "Factoriza el siguiente trinomio cuadrado: $3x^2 - 6x - 24$",
     "image": null,
     "options": [
@@ -425,7 +425,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00az",
+    "id": "ALG00AZ",
     "question": "¿Cuál es el resultado de simplificar $-4x^2 + 8x - 4$?",
     "image": null,
     "options": [
@@ -442,7 +442,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ba",
+    "id": "ALG00BA",
     "question": "Simplifica $d^{16} - 16$.",
     "image": null,
     "options": [
@@ -459,7 +459,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bb",
+    "id": "ALG00BB",
     "question": "Factoriza la expresión $7x^2 + 15x + 2$.",
     "image": null,
     "options": [
@@ -476,7 +476,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bc",
+    "id": "ALG00BC",
     "question": "Desarrolla el cubo del binomio $(x+2)^3$.",
     "image": null,
     "options": [
@@ -493,7 +493,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bd",
+    "id": "ALG00BD",
     "question": "Simplifica: $\\sqrt{25x^4y^6}$.",
     "image": null,
     "options": [
@@ -510,7 +510,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00be",
+    "id": "ALG00BE",
     "question": "Encuentra el valor numérico de $2x^2 - y$ si $x=3$ y $y=-2$.",
     "image": null,
     "options": [
@@ -527,7 +527,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bf",
+    "id": "ALG00BF",
     "question": "Indica cuáles de los siguientes binomios son una diferencia de cuadrados:\n* $x^2 - 9$\n* $x^2 + 4$\n* $4x^2 - 16$\n* $a^2 - b$",
     "image": null,
     "options": [
@@ -544,7 +544,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bg",
+    "id": "ALG00BG",
     "question": "Para racionalizar el denominador de $\\frac{1}{\\sqrt{x}+1}$, debemos multiplicar numerador y denominador por su ______.",
     "image": null,
     "options": [
@@ -561,7 +561,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bh",
+    "id": "ALG00BH",
     "question": "En la división de polinomios, si el residuo es ______, entonces el divisor es un factor del polinomio original.",
     "image": null,
     "options": [
@@ -578,7 +578,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bi",
+    "id": "ALG00BI",
     "question": "Una ecuación ______ es aquella en la que el mayor exponente de la incógnita es 1.",
     "image": null,
     "options": [
@@ -595,7 +595,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bj",
+    "id": "ALG00BJ",
     "question": "Relaciona la operación con su nombre:\nA) $\\frac{a}{b} + \\frac{c}{d} = \\frac{ad+bc}{bd}$\nB) $\\frac{a}{b} \\cdot \\frac{c}{d} = \\frac{ac}{bd}$\nC) $\\frac{a}{b} \\div \\frac{c}{d} = \\frac{ad}{bc}$\n\nI) Multiplicación de fracciones\nII) División de fracciones\nIII) Suma de fracciones",
     "image": null,
     "options": [
@@ -612,7 +612,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bk",
+    "id": "ALG00BK",
     "question": "Factoriza: $2x^2 + 7x + 3$.",
     "image": null,
     "options": [
@@ -629,7 +629,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bl",
+    "id": "ALG00BL",
     "question": "Simplifica la expresión racional: $\\frac{x^2 - 2x - 15}{x^2 - 9}$.",
     "image": null,
     "options": [
@@ -646,7 +646,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bm",
+    "id": "ALG00BM",
     "question": "Desarrolla $(2a - 3b)^3$.",
     "image": null,
     "options": [
@@ -663,7 +663,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bn",
+    "id": "ALG00BN",
     "question": "Factoriza la suma de cubos: $x^3 + 8$.",
     "image": null,
     "options": [
@@ -680,7 +680,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bo",
+    "id": "ALG00BO",
     "question": "Identifica la factorización de $b + c - 2\\sqrt{bc}$.",
     "image": null,
     "options": [
@@ -697,7 +697,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bp",
+    "id": "ALG00BP",
     "question": "Factoriza por agrupación: $ax + ay + bx + by$.",
     "image": null,
     "options": [
@@ -714,7 +714,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bq",
+    "id": "ALG00BQ",
     "question": "Encuentra el valor de $k$ para que $x^2 + kx + 16$ sea un Trinomio Cuadrado Perfecto.",
     "image": null,
     "options": [
@@ -731,7 +731,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00br",
+    "id": "ALG00BR",
     "question": "Selecciona las ecuaciones que son identidades algebraicas (verdaderas para cualquier valor):\n* $(x+y)^2 = x^2+y^2$\n* $\\sqrt{x^2+y^2} = x+y$\n* $(x+1)(x-1) = x^2-1$\n* $\\frac{a+b}{a} = 1 + \\frac{b}{a}$",
     "image": null,
     "options": [
@@ -748,7 +748,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bs",
+    "id": "ALG00BS",
     "question": "Para completar el cuadrado en $x^2 + 6x$, se debe sumar el número ______.",
     "image": null,
     "options": [
@@ -765,7 +765,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bt",
+    "id": "ALG00BT",
     "question": "Al simplificar fracciones complejas, es útil multiplicar el numerador y el denominador principal por el ______ de todas las fracciones internas.",
     "image": null,
     "options": [
@@ -782,7 +782,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bu",
+    "id": "ALG00BU",
     "question": "La expresión $x^{-n}$ es equivalente a ______.",
     "image": null,
     "options": [
@@ -799,7 +799,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bv",
+    "id": "ALG00BV",
     "question": "Relaciona el método de factorización más apropiado para cada polinomio:\nA) $x^2 - 16$\nB) $x^2 + 5x + 6$\nC) $x^3 + 27$\n\nI) Suma de cubos\nII) Diferencia de cuadrados\nIII) Trinomio de la forma $x^2+bx+c$",
     "image": null,
     "options": [
@@ -816,7 +816,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bw",
+    "id": "ALG00BW",
     "question": "Simplifica la expresión: $\\frac{a+b+2\\sqrt{ab}}{a-b} \\times (a+b-2\\sqrt{ab})$",
     "image": null,
     "options": [
@@ -833,7 +833,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bx",
+    "id": "ALG00BX",
     "question": "Factoriza totalmente: $x^4 - 16$.",
     "image": null,
     "options": [
@@ -850,7 +850,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00by",
+    "id": "ALG00BY",
     "question": "Resuelve para x: $\\frac{1}{x} + \\frac{1}{x-1} = \\frac{3}{x^2-x}$",
     "image": null,
     "options": [
@@ -867,7 +867,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00bz",
+    "id": "ALG00BZ",
     "question": "Simplifica: $\\frac{x^3 - 1}{x^2 - 1}$.",
     "image": null,
     "options": [
@@ -884,7 +884,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ca",
+    "id": "ALG00CA",
     "question": "Si $a+b=5$ y $ab=6$, calcula $a^2+b^2$ sin encontrar $a$ y $b$.",
     "image": null,
     "options": [
@@ -901,7 +901,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00cb",
+    "id": "ALG00CB",
     "question": "Racionaliza el denominador: $\\frac{1}{\\sqrt[3]{x} - 1}$.",
     "image": null,
     "options": [
@@ -918,7 +918,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00cc",
+    "id": "ALG00CC",
     "question": "Simplifica la expresión con exponentes fraccionarios: $\\left(\\frac{8x^3}{27y^6}\\right)^{-2/3}$.",
     "image": null,
     "options": [
@@ -935,7 +935,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00cd",
+    "id": "ALG00CD",
     "question": "Selecciona las operaciones válidas para simplificar la fracción algebraica compleja $\\frac{1 - \\frac{1}{x}}{1 + \\frac{1}{x}}$:\n* Multiplicar numerador y denominador por $x$\n* Restar 1 al numerador y sumar 1 al denominador\n* Convertir a $\\frac{x-1}{x} \\div \\frac{x+1}{x}$\n* Cancelar los unos",
     "image": null,
     "options": [
@@ -952,7 +952,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ce",
+    "id": "ALG00CE",
     "question": "Para dividir polinomios usando la Regla de Ruffini, el divisor debe ser necesariamente de la forma ______.",
     "image": null,
     "options": [
@@ -969,7 +969,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00cf",
+    "id": "ALG00CF",
     "question": "El discriminante de una ecuación cuadrática $ax^2+bx+c=0$ está dado por la fórmula ______.",
     "image": null,
     "options": [
@@ -986,7 +986,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00cg",
+    "id": "ALG00CG",
     "question": "Simplifica la expresión: $\\sqrt{x^2 - 10x + 25}$ asumiendo $x > 5$.",
     "image": null,
     "options": [
@@ -1003,7 +1003,7 @@
     "collapsible_text": null
   },
   {
-    "id": "ALG00ch",
+    "id": "ALG00CH",
     "question": "Relaciona el caso de factorización con su ejemplo complejo:\nA) $x^4 + x^2 + 1$\nB) $x^6 - 1$\nC) $a^2 + 2ab + b^2 - c^2$\n\nI) Diferencia de cuadrados (agrupación)\nII) Diferencia de cuadrados y Suma/Resta de cubos combinadas\nIII) Trinomio cuadrado incompleto (sumar y restar)",
     "image": null,
     "options": [
