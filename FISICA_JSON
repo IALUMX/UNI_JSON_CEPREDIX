@@ -1,1633 +1,1140 @@
 [
   {
-    "id": "FIS00aa",
-    "question": "En una onda mecánica transversal, ¿cómo vibran las partículas del medio con respecto a la dirección de propagación de la onda?",
+    "id": "FIS00AA",
+    "question": "Las partículas de una onda mecánica transversal vibran _______ a la dirección de la propagación.",
     "image": null,
     "options": [
-      { "text": "Perpendicularmente", "correct": true },
-      { "text": "Paralelamente", "correct": false },
-      { "text": "Oblicuamente", "correct": false },
-      { "text": "Circularmente", "correct": false }
+      { "text": "perpendicularmente", "correct": true },
+      { "text": "paralelamente", "correct": false },
+      { "text": "oblicuamente", "correct": false },
+      { "text": "circularmente", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI", "IPN", "BUAP", "UAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "Imagina una cuerda agitada de arriba a abajo mientras la onda avanza hacia adelante.",
-    "explanation": "En las ondas transversales, la oscilación de las partículas ocurre en ángulo recto (90 grados) respecto a la dirección en la que viaja la energía de la onda.",
+    "hint": "Visualiza una cuerda agitada de arriba a abajo mientras la onda avanza hacia el frente.",
+    "explanation": "En las ondas transversales, el desplazamiento del medio es perpendicular (90 grados) a la dirección de propagación de la onda.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00ab",
-    "question": "Para calcular la fuerza de fricción estática máxima ($f_s$) que impide que un objeto se deslice, ¿qué variables se relacionan?",
+    "id": "FIS00AB",
+    "question": "Se improvisa el montaje de una rampa metálica para bajar cubos de cemento de $10 \\text{ kg}$ por acción de la fuerza de gravedad. Si la inclinación de dicha rampa es de $30^\\circ$, ¿cuál es la fuerza de fricción que logra que los cubos se deslicen a una aceleración constante? (Considere $g = 10 \\text{ m/s}^2$, $\\sin 30^\\circ= 0.5$, $\\cos 30^\\circ= 0.87$ y $\\tan 30^\\circ= 0.58$).",
     "image": null,
     "options": [
-      { "text": "El coeficiente de fricción estática y la fuerza normal", "correct": true },
-      { "text": "El coeficiente de fricción cinética y el peso", "correct": false },
-      { "text": "La masa del objeto y la gravedad", "correct": false },
-      { "text": "El área de contacto y la velocidad", "correct": false }
+      { "text": "$50 \\text{ N}$", "correct": true },
+      { "text": "$87 \\text{ N}$", "correct": false },
+      { "text": "$100 \\text{ N}$", "correct": false },
+      { "text": "$58 \\text{ N}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La fórmula es $f_s \\leq \\mu_s N$.",
-    "explanation": "La fuerza de fricción depende de la rugosidad de las superficies (coeficiente de fricción $\\mu$) y de la fuerza con la que las superficies se presionan entre sí (Fuerza Normal $N$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ac",
-    "question": "Un estudiante del CEPREDIX necesita despejar el área ($A$) de la fórmula de densidad de flujo magnético $B = \\frac{\\phi}{A}$. ¿Cuál es la expresión correcta?",
-    "image": null,
-    "options": [
-      { "text": "$A = \\frac{\\phi}{B}$", "correct": true },
-      { "text": "$A = B \\cdot \\phi$", "correct": false },
-      { "text": "$A = \\frac{B}{\\phi}$", "correct": false },
-      { "text": "$A = B^2 \\cdot \\phi$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El área está dividiendo en el lado derecho, debe pasar multiplicando al lado izquierdo, y luego B pasa dividiendo.",
-    "explanation": "Al despejar $A$, multiplicamos ambos lados por $A$ para obtener $BA = \\phi$, y luego dividimos entre $B$, resultando en $A = \\frac{\\phi}{B}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ad",
-    "question": "Identifica la característica fundamental que define un Movimiento Armónico Simple (MAS).",
-    "image": null,
-    "options": [
-      { "text": "La fuerza restauradora es proporcional al desplazamiento y de sentido opuesto.", "correct": true },
-      { "text": "La aceleración es constante en todo el trayecto.", "correct": false },
-      { "text": "La velocidad es máxima en los extremos de la trayectoria.", "correct": false },
-      { "text": "El periodo depende de la amplitud del movimiento.", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Piensa en la Ley de Hooke $F = -kx$.",
-    "explanation": "En el MAS, la aceleración y la fuerza restauradora son directamente proporcionales al desplazamiento respecto a la posición de equilibrio y actúan en dirección opuesta.",
+    "hint": "Para velocidad constante, la fuerza neta es cero. Iguala la componente del peso en $x$ con la fricción: $F_f = P_x$.",
+    "explanation": "Para que los cubos se deslicen a aceleración constante (a=0), la fuerza de fricción debe equilibrar la componente del peso paralela al plano. $F_f = m g \\sin(\\theta)$. Sustituyendo: $10 \\text{ kg} \\times 10 \\text{ m/s}^2 \\times 0.5 = 50 \\text{ N}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00ae",
-    "question": "En la fórmula de la fuerza centrípeta $F_c = \\frac{mv^2}{r}$, si el radio de la curva se duplica manteniendo la velocidad constante, ¿qué sucede con la fuerza necesaria?",
+    "id": "FIS00AC",
+    "question": "Se coloca un imán dentro de una caja de cartón cuyas caras tienen un área de $0.01 \\text{ m}^2$ cada una. Si la densidad de flujo magnético es $B = 2 \\times 10^{-1} \\text{ T}$, ¿qué cantidad de líneas de carga atraviesan la tapa?",
     "image": null,
     "options": [
-      { "text": "Se reduce a la mitad", "correct": true },
-      { "text": "Se duplica", "correct": false },
-      { "text": "Se cuadruplica", "correct": false },
-      { "text": "Permanece igual", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "La fuerza es inversamente proporcional al radio $r$.",
-    "explanation": "Al ser $r$ el denominador, si $r$ aumenta al doble ($2r$), la fuerza resultante será dividida entre 2, es decir, se reduce a la mitad.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00af",
-    "question": "¿Cuál es la expresión correcta para calcular la longitud ($L$) de un péndulo simple si se conoce su periodo ($T$) y la gravedad ($g$)?",
-    "image": null,
-    "options": [
-      { "text": "$L = \\frac{g T^2}{4\\pi^2}$", "correct": true },
-      { "text": "$L = \\frac{T^2}{4\\pi^2 g}$", "correct": false },
-      { "text": "$L = \\sqrt{\\frac{gT}{2\\pi}}$", "correct": false },
-      { "text": "$L = \\frac{g}{T^2 4\\pi^2}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Parte de la fórmula $T = 2\\pi \\sqrt{\\frac{L}{g}}$ y eleva al cuadrado ambos lados.",
-    "explanation": "Elevando al cuadrado: $T^2 = 4\\pi^2 (\\frac{L}{g})$. Despejando $L$, pasamos $g$ multiplicando y $4\\pi^2$ dividiendo: $L = \\frac{g T^2}{4\\pi^2}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ag",
-    "question": "En el estudio de ondas electromagnéticas, ¿qué relación existe entre la velocidad de la luz ($c$), la longitud de onda ($\\lambda$) y la frecuencia ($f$)?",
-    "image": null,
-    "options": [
-      { "text": "$c = \\lambda f$", "correct": true },
-      { "text": "$c = \\frac{\\lambda}{f}$", "correct": false },
-      { "text": "$c = \\lambda + f$", "correct": false },
-      { "text": "$c = \\frac{f}{\\lambda}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La velocidad es distancia sobre tiempo, y en ondas, la distancia es $\\lambda$ y el tiempo es $1/f$.",
-    "explanation": "La velocidad de propagación de una onda es el producto de su longitud de onda por su frecuencia.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ah",
-    "question": "Selecciona las magnitudes que son vectoriales (requieren dirección y sentido).",
-    "image": null,
-    "options": [
-      { "text": "Desplazamiento, Fuerza, Aceleración", "correct": true },
-      { "text": "Masa, Tiempo, Temperatura", "correct": false },
-      { "text": "Energía, Trabajo, Rapidez", "correct": false },
-      { "text": "Distancia, Volumen, Densidad", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "¿Cuáles de estas necesitan una flecha para ser descritas completamente?",
-    "explanation": "Las magnitudes vectoriales quedan definidas por magnitud, dirección y sentido. Masa, tiempo y energía son escalares.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ai",
-    "question": "La Primera Ley de Newton, o Ley de ______, establece que un cuerpo permanecerá en reposo o movimiento rectilíneo uniforme a menos que una fuerza ______ actúe sobre él.",
-    "image": null,
-    "options": [
-      { "text": "Inercia, externa neta", "correct": true },
-      { "text": "Acción, interna", "correct": false },
-      { "text": "Gravitación, centrípeta", "correct": false },
-      { "text": "Fuerza, magnética", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Esta ley describe la resistencia de los objetos a cambiar su estado de movimiento.",
-    "explanation": "La inercia es la propiedad de los cuerpos de mantener su estado de reposo o movimiento. Se requiere una fuerza externa no equilibrada para cambiarlo.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00aj",
-    "question": "La ______ es el fenómeno ondulatorio que ocurre cuando una onda cambia de medio de propagación, modificando su ______ pero manteniendo constante su ______.",
-    "image": null,
-    "options": [
-      { "text": "Refracción, velocidad, frecuencia", "correct": true },
-      { "text": "Reflexión, frecuencia, velocidad", "correct": false },
-      { "text": "Difracción, amplitud, periodo", "correct": false },
-      { "text": "Interferencia, fase, longitud de onda", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "Piensa en la luz entrando al agua. La fuente emisora no cambia.",
-    "explanation": "En la refracción, la onda cambia de velocidad (y longitud de onda) al entrar a un nuevo medio, pero la frecuencia, determinada por la fuente, no cambia.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ak",
-    "question": "En un circuito eléctrico óhmico, si se mantiene la resistencia constante y se aumenta el ______, la ______ aumentará proporcionalmente.",
-    "image": null,
-    "options": [
-      { "text": "Voltaje, corriente", "correct": true },
-      { "text": "Tiempo, carga", "correct": false },
-      { "text": "Voltaje, resistencia", "correct": false },
-      { "text": "Calor, potencia", "correct": false }
+      { "text": "$2 \\times 10^{-3} \\text{ Wb}$", "correct": true },
+      { "text": "$2 \\times 10^1 \\text{ Wb}$", "correct": false },
+      { "text": "$5 \\times 10^{-2} \\text{ Wb}$", "correct": false },
+      { "text": "$2 \\times 10^{-2} \\text{ Wb}$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Ley de Ohm: $V = IR$.",
-    "explanation": "Según la Ley de Ohm, la corriente es directamente proporcional al voltaje aplicado si la resistencia es constante.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00al",
-    "question": "Relaciona las leyes de Newton con su descripción: A) Primera Ley, B) Segunda Ley, C) Tercera Ley; I) Acción y Reacción, II) Inercia, III) $F=ma$.",
-    "image": null,
-    "options": [
-      { "text": "A-II; B-III; C-I", "correct": true },
-      { "text": "A-I; B-II; C-III", "correct": false },
-      { "text": "A-III; B-I; C-II", "correct": false },
-      { "text": "A-II; B-I; C-III", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La 1ra es Inercia, la 2da define la Fuerza, la 3ra habla de pares de fuerzas.",
-    "explanation": "Primera Ley = Inercia. Segunda Ley = Relación Fuerza-Masa-Aceleración. Tercera Ley = A toda acción corresponde una reacción.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00am",
-    "question": "Un estudiante en el laboratorio de óptica observa una imagen a través de una lente divergente. ¿Qué características tendrá siempre la imagen formada?",
-    "image": null,
-    "options": [
-      { "text": "Virtual, derecha y de menor tamaño", "correct": true },
-      { "text": "Real, invertida y de mayor tamaño", "correct": false },
-      { "text": "Virtual, invertida y de igual tamaño", "correct": false },
-      { "text": "Real, derecha y de menor tamaño", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Las lentes divergentes (como las de los lentes para miopía) siempre \"alejan\" la luz y hacen ver las cosas más pequeñas.",
-    "explanation": "Las lentes divergentes dispersan los rayos de luz, por lo que las prolongaciones de los rayos forman imágenes virtuales, derechas (no invertidas) y reducidas.",
+    "hint": "La densidad de flujo magnético se define como $B = \\frac{\\Phi}{A}$. Despeja el flujo $\\Phi$.",
+    "explanation": "El flujo magnético $\\Phi$ es el producto del campo magnético $B$ y el área $A$ (asumiendo perpendicularidad). $\\Phi = (2 \\times 10^{-1} \\text{ T})(0.01 \\text{ m}^2) = 0.2 \\times 0.01 = 0.002 = 2 \\times 10^{-3} \\text{ Wb}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00an",
-    "question": "Para calcular la fuerza magnética sobre una carga en movimiento dentro de un campo magnético, se usa $F = qvB \\sin \\theta$. ¿Qué representa $\\theta$?",
+    "id": "FIS00AD",
+    "question": "Seleccione el ejemplo en el que se describe un movimiento armónico simple.",
     "image": null,
     "options": [
-      { "text": "El ángulo entre el vector velocidad y el vector campo magnético", "correct": true },
-      { "text": "El ángulo entre la fuerza y la velocidad", "correct": false },
-      { "text": "El ángulo de inclinación de la carga", "correct": false },
-      { "text": "El ángulo entre la fuerza y el campo magnético", "correct": false }
+      { "text": "La cuerda de una guitarra al ser rasgada", "correct": true },
+      { "text": "El aleteo de un ave al emprender el vuelo", "correct": false },
+      { "text": "Los pasos al descender de una pendiente", "correct": false },
+      { "text": "El lanzamiento de un proyectil", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "BUAP"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "La fuerza es máxima cuando la velocidad es perpendicular al campo.",
-    "explanation": "El ángulo $\\theta$ es el formado por la dirección del movimiento de la carga ($v$) y las líneas de campo magnético ($B$).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ao",
-    "question": "En el CEPREDIX se estudia la refracción. Si se desea calcular la velocidad de la luz en un medio ($v$) conociendo el índice de refracción ($n$) y la velocidad en el vacío ($c$), ¿cuál es el despeje correcto?",
-    "image": null,
-    "options": [
-      { "text": "$v = \\frac{c}{n}$", "correct": true },
-      { "text": "$v = n \\cdot c$", "correct": false },
-      { "text": "$v = \\frac{n}{c}$", "correct": false },
-      { "text": "$v = c - n$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "El índice de refracción se define como $n = c/v$.",
-    "explanation": "Partiendo de $n = c/v$, intercambiamos $n$ y $v$ para obtener $v = c/n$. Dado que $n > 1$, la velocidad en el medio siempre es menor que $c$.",
+    "hint": "Busca un movimiento periódico donde la fuerza restauradora sea proporcional al desplazamiento.",
+    "explanation": "Al rasgar la cuerda, esta vibra oscilando alrededor de su punto de equilibrio con una amplitud y frecuencia definidas, características del Movimiento Armónico Simple (MAS).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00ap",
-    "question": "Dos conductores rectos y paralelos experimentan una fuerza de atracción. ¿Qué indica esto sobre la dirección de las corrientes que circulan por ellos?",
+    "id": "FIS00AE",
+    "question": "Una masa de $90 \\text{ kg}$ se desliza $30^\\circ$ hacia abajo sobre un plano inclinado. ¿Cuál es el valor necesario de la fuerza de fricción para que la masa se mueva a una velocidad constante? (Considere $g = 10 \\text{ m/s}^2$, $\\sin 30^\\circ= 0.5$, $\\cos 30^\\circ= 0.87$).",
     "image": null,
     "options": [
-      { "text": "Circulan en el mismo sentido", "correct": true },
-      { "text": "Circulan en sentidos opuestos", "correct": false },
-      { "text": "Una es alterna y la otra directa", "correct": false },
-      { "text": "Son perpendiculares entre sí", "correct": false }
+      { "text": "$450 \\text{ N}$", "correct": true },
+      { "text": "$783 \\text{ N}$", "correct": false },
+      { "text": "$900 \\text{ N}$", "correct": false },
+      { "text": "$225 \\text{ N}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN", "UAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Aplica la primera ley de Newton: $\\sum F_x = 0$. La fricción se opone a la componente del peso en el eje del movimiento.",
+    "explanation": "Para velocidad constante, $W_x - f_r = 0$. $f_r = m g \\sin(30^\\circ) = 90 \\text{ kg} (10 \\text{ m/s}^2) (0.5) = 450 \\text{ N}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00AF",
+    "question": "Una persona y su moto, juntas, constituyen una masa de $300 \\text{ kg}$. Si el conductor toma una curva con radio de $20 \\text{ m}$ a una velocidad de $10 \\text{ m/s}$, ¿cuál es la fuerza centrípeta necesaria para que la moto consiga mantenerse en dicha curva?",
+    "image": null,
+    "options": [
+      { "text": "$1500 \\text{ N}$", "correct": true },
+      { "text": "$150 \\text{ N}$", "correct": false },
+      { "text": "$3000 \\text{ N}$", "correct": false },
+      { "text": "$6000 \\text{ N}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La fórmula de la aceleración centrípeta es $a_c = v^2/r$. Úsala en la segunda ley de Newton $F = m a_c$.",
+    "explanation": "$F_c = \\frac{m v^2}{r} = \\frac{300 \\text{ kg} (10 \\text{ m/s})^2}{20 \\text{ m}} = \\frac{300 \\times 100}{20} = 1500 \\text{ N}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00AG",
+    "question": "¿Cuál es la longitud de un péndulo que oscila con una frecuencia de $2.1 \\text{ Hz}$? (Considere $\\pi = 3.14$ y $g = 10 \\text{ m/s}^2$).",
+    "image": null,
+    "options": [
+      { "text": "$0.05 \\text{ m}$", "correct": true },
+      { "text": "$0.12 \\text{ m}$", "correct": false },
+      { "text": "$0.36 \\text{ m}$", "correct": false },
+      { "text": "$0.24 \\text{ m}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "La relación entre frecuencia y periodo es $T = 1/f$. La fórmula del periodo es $T = 2\\pi \\sqrt{\\frac{L}{g}}$. Despeja $L$.",
+    "explanation": "Despejando $L$: $L = \\frac{g}{4\\pi^2 f^2}$. Sustituyendo: $L = \\frac{10}{4(3.14)^2 (2.1)^2} \\approx \\frac{10}{39.43 \\times 4.41} \\approx \\frac{10}{173.8} \\approx 0.057 \\text{ m}$. La opción más cercana es $0.05 \\text{ m}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00AH",
+    "question": "Calcule la longitud de la onda electromagnética que se propaga a partir de una antena que emite una frecuencia de $6000 \\text{ Hz}$. (Considere $c = 3 \\times 10^8 \\text{ m/s}$).",
+    "image": null,
+    "options": [
+      { "text": "$5 \\times 10^4 \\text{ m}$", "correct": true },
+      { "text": "$2 \\times 10^{-5} \\text{ m}$", "correct": false },
+      { "text": "$1.8 \\times 10^{12} \\text{ m}$", "correct": false },
+      { "text": "$5 \\times 10^5 \\text{ m}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la relación fundamental de las ondas: $f = \\frac{v}{\\lambda}$. Despeja $\\lambda$.",
+    "explanation": "$\\lambda = \\frac{c}{f} = \\frac{3 \\times 10^8 \\text{ m/s}}{6000 \\text{ Hz}} = \\frac{300,000,000}{6,000} = 50,000 = 5 \\times 10^4 \\text{ m}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00AI",
+    "question": "Se coloca un objeto a $4 \\text{ cm}$ de una lente divergente cuya distancia focal es de $20 \\text{ cm}$. Calcule la distancia a la que se formará la imagen.",
+    "image": null,
+    "options": [
+      { "text": "$-3.33 \\text{ cm}$", "correct": true },
+      { "text": "$-5 \\text{ cm}$", "correct": false },
+      { "text": "$-0.3 \\text{ cm}$", "correct": false },
+      { "text": "$5 \\text{ cm}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Recuerda que para lentes divergentes la distancia focal $f$ es negativa. Usa la ecuación del fabricante de lentes: $\\frac{1}{f} = \\frac{1}{s} + \\frac{1}{s'}$.",
+    "explanation": "Con $f = -20 \\text{ cm}$ y $s = 4 \\text{ cm}$, despejamos $s'$: $\\frac{1}{s'} = \\frac{1}{f} - \\frac{1}{s} = \\frac{1}{-20} - \\frac{1}{4} = -0.05 - 0.25 = -0.3$. Entonces $s' = \\frac{1}{-0.3} \\approx -3.33 \\text{ cm}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00AJ",
+    "question": "Determine la magnitud de la fuerza magnética sobre una partícula cargada con $4 \\mu\\text{C}$ y que se mueve a una velocidad perpendicular de $1500 \\text{ m/s}$ respecto al campo magnético de $0.12 \\text{ T}$.",
+    "image": null,
+    "options": [
+      { "text": "$7.2 \\times 10^{-4} \\text{ N}$", "correct": true },
+      { "text": "$4.8 \\times 10^{-7} \\text{ N}$", "correct": false },
+      { "text": "$7.2 \\times 10^{-1} \\text{ N}$", "correct": false },
+      { "text": "$1.2 \\times 10^{-3} \\text{ N}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "IPN"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Usa la Ley de Lorentz: $B = \\frac{F}{qv\\sin(\\theta)}$. Despeja $F$. Recuerda convertir microcoulombs a Coulombs.",
+    "explanation": "$F = qvB\\sin(90^\\circ) = (4 \\times 10^{-6} \\text{ C})(1500 \\text{ m/s})(0.12 \\text{ T}) = 720 \\times 10^{-6} = 7.2 \\times 10^{-4} \\text{ N}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00AK",
+    "question": "Determine el índice de refracción de una sustancia cuando la velocidad de la luz en ella es de $2.56 \\times 10^8 \\text{ m/s}$. (Considere $c = 3 \\times 10^8 \\text{ m/s}$).",
+    "image": null,
+    "options": [
+      { "text": "$1.17$", "correct": true },
+      { "text": "$0.85$", "correct": false },
+      { "text": "$7.68$", "correct": false },
+      { "text": "$1.50$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El índice de refracción se define como $v = \\frac{c}{n}$. Despeja $n$.",
+    "explanation": "$n = \\frac{c}{v} = \\frac{3 \\times 10^8}{2.56 \\times 10^8} = \\frac{3}{2.56} \\approx 1.17$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00AL",
+    "question": "Calcule la distancia que separa a dos conductores rectos y paralelos que miden $0.5 \\text{ m}$ de largo, por cada uno de los cuales circula una corriente de $7 \\text{ A}$ en el mismo sentido y que resienten una fuerza de atracción de $2.25 \\times 10^{-4} \\text{ N}$. (Considere $\\mu_0 = 4\\pi \\times 10^{-7} \\text{ Tm/A}$).",
+    "image": null,
+    "options": [
+      { "text": "$0.022 \\text{ m}$", "correct": true },
+      { "text": "$0.003 \\text{ m}$", "correct": false },
+      { "text": "$0.087 \\text{ m}$", "correct": false },
+      { "text": "$0.500 \\text{ m}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "IPN"],
     "level_tag": ["AVANZADO"],
-    "hint": "Corrientes paralelas se atraen, antiparalelas se repelen.",
-    "explanation": "Según la ley de Ampère y la fuerza de Lorentz, dos corrientes paralelas que fluyen en la misma dirección generan campos magnéticos que producen fuerzas atractivas entre los conductores.",
+    "hint": "La fuerza entre conductores paralelos es $F = \\frac{\\mu_0 L I_1 I_2}{2\\pi r}$. Debes despejar $r$.",
+    "explanation": "Despejando $r$: $r = \\frac{\\mu_0 L I_1 I_2}{2\\pi F}$. Sustituyendo: $\\frac{(4\\pi \\times 10^{-7})(0.5)(7)(7)}{2\\pi (2.25 \\times 10^{-4})} = \\frac{2 \\times 10^{-7} \\times 24.5}{2.25 \\times 10^{-4}} \\approx 0.0217 \\text{ m}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00aq",
-    "question": "¿Cuál de los siguientes dispositivos basa su funcionamiento en la emisión de ondas electromagnéticas en el espectro visible o cercano?",
+    "id": "FIS00AM",
+    "question": "¿Cuál dispositivo emplea ondas electromagnéticas para su funcionamiento?",
     "image": null,
     "options": [
       { "text": "Apuntador láser", "correct": true },
       { "text": "Motor eléctrico", "correct": false },
-      { "text": "Prensa hidráulica", "correct": false },
-      { "text": "Brújula", "correct": false }
+      { "text": "Bocina", "correct": false },
+      { "text": "Prensa hidráulica", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "El láser emite luz.",
-    "explanation": "Un láser emite luz (ondas electromagnéticas) mediante la emisión estimulada de radiación. Los motores son electromecánicos y las brújulas magnetostáticas.",
+    "hint": "Piensa en un dispositivo que emita luz visible, la cual es una forma de radiación electromagnética.",
+    "explanation": "El láser emite luz (fotones), que son ondas electromagnéticas. El motor y la bocina funcionan por principios electromagnéticos pero su salida principal es movimiento mecánico y sonido (onda mecánica), respectivamente.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00ar",
-    "question": "En una colisión inelástica donde dos cuerpos se mantienen unidos después del choque, ¿qué principio físico se utiliza para hallar la velocidad final?",
+    "id": "FIS00AN",
+    "question": "Sobre una superficie horizontal 2 esferas sólidas se deslizan sin fricción, de forma colineal. La primera se desplaza hacia la derecha a $10 \\text{ m/s}$ y su masa es $m_1= 5 \\text{ kg}$. La segunda se desplaza hacia la izquierda a $5 \\text{ m/s}$ y su masa es $m_2 = 5 \\text{ kg}$. Si al colisionar ambas esferas se mantienen unidas, ¿cuál es la velocidad final después del choque? (Derecha positivo, izquierda negativo).",
     "image": null,
     "options": [
-      { "text": "Conservación del momento lineal", "correct": true },
-      { "text": "Conservación de la energía cinética", "correct": false },
-      { "text": "Segunda ley de Newton", "correct": false },
-      { "text": "Ley de Hooke", "correct": false }
+      { "text": "$2.5 \\text{ m/s}$", "correct": true },
+      { "text": "$7.5 \\text{ m/s}$", "correct": false },
+      { "text": "$15 \\text{ m/s}$", "correct": false },
+      { "text": "$0 \\text{ m/s}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "En choques inelásticos la energía cinética NO se conserva, pero el ímpetu sí.",
-    "explanation": "El momento lineal (o cantidad de movimiento) se conserva en todos los choques aislados. La ecuación es $m_1v_1 + m_2v_2 = (m_1+m_2)v_f$.",
+    "hint": "Usa la conservación del momento lineal: $p_{inicial} = p_{final}$. Recuerda considerar los signos de las velocidades.",
+    "explanation": "$v_f = \\frac{m_1 v_1 + m_2 v_2}{m_1 + m_2} = \\frac{(5)(10) + (5)(-5)}{5 + 5} = \\frac{50 - 25}{10} = \\frac{25}{10} = 2.5 \\text{ m/s}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00as",
-    "question": "¿Cómo se calcula la magnitud del campo magnético ($B$) en el interior de un solenoide (bobina) de longitud $L$ con $N$ vueltas y corriente $I$?",
+    "id": "FIS00AO",
+    "question": "Al observar un haz de luz que penetra un lago en total calma, pareciera como si el haz se doblara al entrar al agua, desviándose con un cierto ángulo de su trayectoria original. ¿Qué característica define a este fenómeno de la luz?",
     "image": null,
     "options": [
-      { "text": "$B = \\frac{\\mu_0 N I}{L}$", "correct": true },
-      { "text": "$B = \\frac{\\mu_0 I}{N L}$", "correct": false },
-      { "text": "$B = \\mu_0 N I L$", "correct": false },
-      { "text": "$B = \\frac{\\mu_0 L}{N I}$", "correct": false }
+      { "text": "Refracción", "correct": true },
+      { "text": "Difracción", "correct": false },
+      { "text": "Reflexión", "correct": false },
+      { "text": "Interferencia", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["AVANZADO"],
-    "hint": "El campo depende directamente del número de vueltas y la corriente, e inversamente de la longitud.",
-    "explanation": "La fórmula del solenoide ideal es $B = \\mu n I$, donde $n = N/L$ es la densidad de vueltas por unidad de longitud.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00at",
-    "question": "Selecciona el grupo que contiene únicamente magnitudes escalares.",
-    "image": null,
-    "options": [
-      { "text": "Temperatura, Masa, Tiempo", "correct": true },
-      { "text": "Velocidad, Aceleración, Fuerza", "correct": false },
-      { "text": "Desplazamiento, Área, Volumen", "correct": false },
-      { "text": "Peso, Densidad, Momento", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "Las magnitudes escalares solo necesitan un número y una unidad, no dirección.",
-    "explanation": "Temperatura, masa y tiempo quedan completamente definidos por su magnitud. El desplazamiento y el peso son vectoriales.",
+    "hint": "Es el cambio de dirección de una onda al pasar de un medio material a otro con distinta densidad óptica.",
+    "explanation": "La refracción es el cambio de dirección y velocidad que experimenta una onda al pasar de un medio a otro con distinto índice de refracción.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00au",
-    "question": "El teorema del impulso y la cantidad de movimiento establece que el ______ aplicado a un objeto es igual al cambio en su ______.",
+    "id": "FIS00AP",
+    "question": "Calcule la magnitud de la inducción magnética $B$ de una bobina helicoidal con $8000$ vueltas de $0.01 \\text{ m}$ de longitud y una corriente de $0.2 \\text{ A}$. (Considere $\\pi =3.14$ y $\\mu_0 = 4\\pi \\times 10^{-7} \\text{ T\\cdot m/A}$).",
     "image": null,
     "options": [
-      { "text": "Impulso, cantidad de movimiento", "correct": true },
-      { "text": "Trabajo, energía cinética", "correct": false },
-      { "text": "Fuerza, aceleración", "correct": false },
-      { "text": "Potencia, velocidad", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "$F \\Delta t = \\Delta p$.",
-    "explanation": "El impulso ($I = F\\Delta t$) produce una variación en la cantidad de movimiento ($\\Delta p = mv_f - mv_i$) del objeto.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00av",
-    "question": "El momento de fuerza o ______ es la tendencia de una fuerza a provocar la ______ de un cuerpo alrededor de un eje.",
-    "image": null,
-    "options": [
-      { "text": "Torque, rotación", "correct": true },
-      { "text": "Inercia, traslación", "correct": false },
-      { "text": "Trabajo, deformación", "correct": false },
-      { "text": "Potencia, aceleración", "correct": false }
+      { "text": "$2 \\times 10^{-1} \\text{ T}$", "correct": true },
+      { "text": "$5 \\times 10^{-4} \\text{ T}$", "correct": false },
+      { "text": "$1 \\times 10^{-1} \\text{ T}$", "correct": false },
+      { "text": "$4 \\times 10^{-2} \\text{ T}$", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Se usa una llave inglesa para aplicar esto a una tuerca.",
-    "explanation": "El torque (o torca) mide la capacidad de una fuerza para producir un giro o rotación sobre un cuerpo rígido.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00aw",
-    "question": "Las lentes ______ son más gruesas en el centro y convergen los rayos de luz, mientras que las lentes ______ son más delgadas en el centro y los dispersan.",
-    "image": null,
-    "options": [
-      { "text": "Convergentes, divergentes", "correct": true },
-      { "text": "Cóncavas, convexas", "correct": false },
-      { "text": "Divergentes, convergentes", "correct": false },
-      { "text": "Planas, esféricas", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Convergente une, Divergente separa.",
-    "explanation": "Las lentes convergentes (convexas) concentran la luz en un foco. Las divergentes (cóncavas) separan los rayos de luz.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ax",
-    "question": "Relaciona la magnitud física con su unidad en el Sistema Internacional (SI): A) Fuerza, B) Presión, C) Energía; I) Joule, II) Pascal, III) Newton.",
-    "image": null,
-    "options": [
-      { "text": "A-III; B-II; C-I", "correct": true },
-      { "text": "A-II; B-III; C-I", "correct": false },
-      { "text": "A-III; B-I; C-II", "correct": false },
-      { "text": "A-I; B-II; C-III", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Newton es fuerza, Pascal es presión, Joule es energía.",
-    "explanation": "Fuerza se mide en Newtons (N), Presión en Pascales (Pa) y Energía en Joules (J).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ay",
-    "question": "Para calcular el momento angular ($L$) de un cuerpo que gira, ¿qué fórmula se utiliza si se conoce su momento de inercia ($I$) y su velocidad angular ($\\omega$)?",
-    "image": null,
-    "options": [
-      { "text": "$L = I \\cdot \\omega$", "correct": true },
-      { "text": "$L = \\frac{I}{\\omega}$", "correct": false },
-      { "text": "$L = I \\cdot \\omega^2$", "correct": false },
-      { "text": "$L = \\frac{1}{2} I \\omega^2$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "BUAP"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Es el análogo rotacional de $p = mv$.",
-    "explanation": "El momento angular $L$ es el producto del momento de inercia $I$ (análogo a la masa) y la velocidad angular $\\omega$ (análoga a la velocidad lineal).",
+    "hint": "La fórmula para un solenoide es $B = \\frac{\\mu_0 N I}{L}$.",
+    "explanation": "$B = \\frac{(4\\pi \\times 10^{-7})(8000)(0.2)}{0.01} = \\frac{12.56 \\times 10^{-7} \\times 1600}{0.01} \\approx 0.201 \\text{ T}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00az",
-    "question": "El momento de inercia de un cuerpo depende de:",
+    "id": "FIS00AQ",
+    "question": "Un objeto colocado en la orilla de un disco tiene una cantidad de movimiento angular de $16 \\text{ kg\\cdot m}^2/\\text{s}$ y gira a $20 \\text{ rad/s}$. Calcule el momento de inercia que presenta el objeto.",
     "image": null,
     "options": [
-      { "text": "Su masa y cómo esta se distribuye respecto al eje de giro", "correct": true },
-      { "text": "Su velocidad angular y su masa", "correct": false },
-      { "text": "La fuerza aplicada y el radio", "correct": false },
-      { "text": "Únicamente de la cantidad de masa", "correct": false }
+      { "text": "$0.8 \\text{ kg\\cdot m}^2$", "correct": true },
+      { "text": "$0.04 \\text{ kg\\cdot m}^2$", "correct": false },
+      { "text": "$1.25 \\text{ kg\\cdot m}^2$", "correct": false },
+      { "text": "$320 \\text{ kg\\cdot m}^2$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Es más difícil girar una varilla larga que una esfera compacta de la misma masa.",
-    "explanation": "El momento de inercia es la medida de la resistencia de un objeto a cambiar su estado de rotación. Depende de la masa y de la distancia de la masa al eje de rotación ($I = \\sum mr^2$).",
+    "hint": "El momento angular se define como $L = I \\omega$. Despeja $I$.",
+    "explanation": "$I = \\frac{L}{\\omega} = \\frac{16}{20} = 0.8 \\text{ kg\\cdot m}^2$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00ba",
-    "question": "Si se desea calcular la fuerza promedio ($F$) ejercida sobre un balón de fútbol durante un tiempo de contacto ($\\Delta t$), conociendo el cambio de momento ($\\Delta p$), ¿qué despeje es el correcto?",
+    "id": "FIS00AR",
+    "question": "Un futbolista patea una pelota de $0.420 \\text{ kg}$ que se encuentra en reposo. La pelota avanza con una velocidad de $19 \\text{ m/s}$. Considerando que el tiempo de contacto entre el pie y el balón dura $0.8 \\text{ s}$, calcule la fuerza que se ejerce sobre el balón.",
     "image": null,
     "options": [
-      { "text": "$F = \\frac{\\Delta p}{\\Delta t}$", "correct": true },
-      { "text": "$F = \\Delta p \\cdot \\Delta t$", "correct": false },
-      { "text": "$F = \\frac{\\Delta t}{\\Delta p}$", "correct": false },
-      { "text": "$F = \\Delta p - \\Delta t$", "correct": false }
+      { "text": "$9.975 \\text{ N}$", "correct": true },
+      { "text": "$6.384 \\text{ N}$", "correct": false },
+      { "text": "$56.548 \\text{ N}$", "correct": false },
+      { "text": "$15.5 \\text{ N}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La fuerza es la rapidez con la que cambia el momento.",
-    "explanation": "Del teorema del impulso $F\\Delta t = \\Delta p$, despejamos $F$ dividiendo el cambio de momento entre el tiempo transcurrido.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bb",
-    "question": "En el taller del CEPREDIX, un estudiante usa una llave para apretar una tuerca. Para maximizar el torque (torca) producido con la misma fuerza, ¿dónde debe aplicar la fuerza?",
-    "image": null,
-    "options": [
-      { "text": "Lo más alejado posible del eje de giro", "correct": true },
-      { "text": "Lo más cerca posible del eje de giro", "correct": false },
-      { "text": "Exactamente en el punto medio de la llave", "correct": false },
-      { "text": "En un ángulo de 0 grados respecto al brazo de palanca", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Torque $\\tau = r F \\sin \\theta$. A mayor $r$, mayor torque.",
-    "explanation": "El torque es proporcional a la distancia desde el eje de rotación (brazo de palanca). Aplicar la fuerza en el extremo aumenta esta distancia, maximizando el torque.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bc",
-    "question": "Al usar la ecuación de las lentes $\\frac{1}{f} = \\frac{1}{s} + \\frac{1}{s'}$, ¿qué convención de signos se aplica a la distancia focal ($f$) de una lente divergente?",
-    "image": null,
-    "options": [
-      { "text": "Se considera negativa", "correct": true },
-      { "text": "Se considera positiva", "correct": false },
-      { "text": "Depende de la distancia del objeto", "correct": false },
-      { "text": "Es negativa solo si la imagen es real", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["AVANZADO"],
-    "hint": "Las lentes divergentes tienen focos virtuales.",
-    "explanation": "En la convención de signos usual, las lentes convergentes tienen distancia focal positiva y las divergentes (que dispersan la luz) tienen distancia focal negativa.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bd",
-    "question": "Un proyecto del CEPREDIX analiza el tiro parabólico. ¿A qué ángulo de lanzamiento se logra el alcance horizontal máximo (sin considerar fricción del aire)?",
-    "image": null,
-    "options": [
-      { "text": "45°", "correct": true },
-      { "text": "30°", "correct": false },
-      { "text": "60°", "correct": false },
-      { "text": "90°", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Es el ángulo medio entre vertical y horizontal.",
-    "explanation": "El alcance horizontal $R$ depende de $\\sin(2\\theta)$. El valor máximo de seno es 1, que ocurre cuando $2\\theta = 90°$, por lo tanto $\\theta = 45°$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00be",
-    "question": "En un experimento de caída libre realizado en el CEPREDIX, se deja caer un martillo y una pluma en una cámara de vacío. ¿Qué afirmación es correcta?",
-    "image": null,
-    "options": [
-      { "text": "Ambos caen con la misma aceleración y llegan al mismo tiempo", "correct": true },
-      { "text": "El martillo llega primero por tener mayor masa", "correct": false },
-      { "text": "La pluma llega primero por ser más aerodinámica", "correct": false },
-      { "text": "La aceleración depende de la masa del objeto", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "En el vacío no hay resistencia del aire.",
-    "explanation": "En ausencia de resistencia del aire, todos los objetos caen con la misma aceleración debida a la gravedad ($g$), independientemente de su masa.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bf",
-    "question": "Ordena las regiones del espectro electromagnético de menor a mayor frecuencia.",
-    "image": null,
-    "options": [
-      { "text": "Radio, Microondas, Infrarrojo, Visible, Ultravioleta, Rayos X, Gamma", "correct": true },
-      { "text": "Gamma, Rayos X, Ultravioleta, Visible, Infrarrojo, Microondas, Radio", "correct": false },
-      { "text": "Radio, Visible, Infrarrojo, Microondas, Ultravioleta, Gamma, Rayos X", "correct": false },
-      { "text": "Visible, Ultravioleta, Infrarrojo, Radio, Microondas, Rayos X, Gamma", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["INTERMEDIO"],
-    "hint": "Las ondas de radio son largas (baja frecuencia), los rayos gamma son muy energéticos (alta frecuencia).",
-    "explanation": "El orden creciente de energía y frecuencia es: Radio, Microondas, Infrarrojo, Visible, UV, Rayos X, Rayos Gamma.",
+    "hint": "Usa el teorema impulso-momento: $F \\Delta t = m(v_f - v_i)$.",
+    "explanation": "$F = \\frac{m v_f}{t} = \\frac{(0.420)(19)}{0.8} = \\frac{7.98}{0.8} = 9.975 \\text{ N}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bg",
-    "question": "La energía ______ está asociada al movimiento de un cuerpo, mientras que la energía ______ está asociada a su posición o configuración.",
+    "id": "FIS00AS",
+    "question": "Se desea apretar una tuerca que se encuentra floja. Para que exista un torque máximo, la manera de agarrar la llave es...",
     "image": null,
     "options": [
-      { "text": "Cinética, potencial", "correct": true },
-      { "text": "Potencial, cinética", "correct": false },
-      { "text": "Mecánica, térmica", "correct": false },
-      { "text": "Eléctrica, magnética", "correct": false }
+      { "text": "lo más alejado posible de la cabeza de la llave", "correct": true },
+      { "text": "lo más cerca posible de la cabeza de la llave", "correct": false },
+      { "text": "exactamente a la mitad de la llave", "correct": false },
+      { "text": "en cualquier punto es igual", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "Cinética viene de 'kinesis' (movimiento).",
-    "explanation": "La energía cinética ($K = 1/2 mv^2$) depende de la velocidad. La energía potencial ($U = mgh$ o $1/2 kx^2$) depende de la posición en un campo de fuerzas.",
+    "hint": "Recuerda la fórmula de torque $\\tau = F \\times r$. ¿Qué valor de $r$ maximiza $\\tau$?",
+    "explanation": "El torque es directamente proporcional a la distancia desde el eje de rotación (brazo de palanca). A mayor distancia, mayor torque con la misma fuerza.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bh",
-    "question": "En un circuito en ______, la corriente es la misma para todos los componentes, mientras que en un circuito en ______, el voltaje es el mismo para todos los componentes.",
+    "id": "FIS00AT",
+    "question": "Las lentes divergentes generan imágenes de...",
     "image": null,
     "options": [
-      { "text": "Serie, paralelo", "correct": true },
-      { "text": "Paralelo, serie", "correct": false },
-      { "text": "Mixto, serie", "correct": false },
-      { "text": "Corto, abierto", "correct": false }
+      { "text": "menor tamaño, virtuales y no invertidas", "correct": true },
+      { "text": "mayor tamaño, reales e invertidas", "correct": false },
+      { "text": "igual tamaño, reales e invertidas", "correct": false },
+      { "text": "menor tamaño, reales y no invertidas", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI"],
     "level_tag": ["BÁSICO"],
-    "hint": "En serie hay un solo camino. En paralelo hay bifurcaciones.",
-    "explanation": "En serie, la carga debe pasar por todos los elementos (I constante). En paralelo, los elementos están conectados a los mismos nodos (V constante).",
+    "hint": "Piensa en cómo se ve un objeto a través de una mirilla de puerta (que suele ser divergente).",
+    "explanation": "Las lentes divergentes siempre separan los rayos de luz, formando imágenes que son virtuales (del mismo lado del objeto), derechas (no invertidas) y más pequeñas.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bi",
-    "question": "El sonido es una onda ______ que requiere de un medio ______ para propagarse, por lo que no puede transmitirse en el vacío.",
+    "id": "FIS00AU",
+    "question": "¿Cuál de las siguientes unidades pertenece al Sistema Internacional (SI) para medir la temperatura?",
     "image": null,
     "options": [
-      { "text": "Mecánica, material", "correct": true },
-      { "text": "Electromagnética, elástico", "correct": false },
-      { "text": "Transversal, líquido", "correct": false },
-      { "text": "Estacionaria, gaseoso", "correct": false }
+      { "text": "Kelvin (K)", "correct": true },
+      { "text": "Celsius (°C)", "correct": false },
+      { "text": "Fahrenheit (°F)", "correct": false },
+      { "text": "Rankine (R)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "El sonido vibra el aire o sólidos.",
-    "explanation": "El sonido es una onda mecánica (generalmente longitudinal en fluidos) que necesita un medio material para transportar la energía de vibración.",
+    "hint": "Es la escala de temperatura absoluta usada en ciencia.",
+    "explanation": "El Kelvin es la unidad base de temperatura termodinámica en el Sistema Internacional de Unidades.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bj",
-    "question": "Relaciona la variable cinemática con su definición: A) Velocidad, B) Aceleración, C) Desplazamiento; I) Cambio de posición, II) Cambio de velocidad por unidad de tiempo, III) Cambio de posición por unidad de tiempo.",
+    "id": "FIS00AV",
+    "question": "Un vector se compone fundamentalmente de:",
     "image": null,
     "options": [
-      { "text": "A-III; B-II; C-I", "correct": true },
-      { "text": "A-II; B-III; C-I", "correct": false },
-      { "text": "A-I; B-II; C-III", "correct": false },
-      { "text": "A-III; B-I; C-II", "correct": false }
+      { "text": "Magnitud, dirección y sentido", "correct": true },
+      { "text": "Masa, tiempo y espacio", "correct": false },
+      { "text": "Magnitud y unidad", "correct": false },
+      { "text": "Velocidad y aceleración", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Velocidad es qué tan rápido cambias de lugar. Aceleración es qué tan rápido cambias de velocidad.",
-    "explanation": "Desplazamiento es el cambio de posición. Velocidad es la tasa de cambio del desplazamiento. Aceleración es la tasa de cambio de la velocidad.",
+    "hint": "Piensa en la diferencia entre rapidez (escalar) y velocidad (vectorial).",
+    "explanation": "Un vector es una entidad matemática definida por su magnitud (tamaño), dirección (línea de acción) y sentido (hacia dónde apunta).",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bk",
-    "question": "En física, el trabajo mecánico ($W$) se define como el producto de:",
+    "id": "FIS00AW",
+    "question": "La Tercera Ley de Newton establece que:",
     "image": null,
     "options": [
-      { "text": "La fuerza y el desplazamiento en la dirección de la fuerza", "correct": true },
-      { "text": "La fuerza y el tiempo de aplicación", "correct": false },
-      { "text": "La masa y la aceleración", "correct": false },
-      { "text": "La potencia y la distancia", "correct": false }
+      { "text": "A toda acción corresponde una reacción de igual magnitud y sentido opuesto", "correct": true },
+      { "text": "La aceleración es proporcional a la fuerza", "correct": false },
+      { "text": "Todo cuerpo permanece en reposo a menos que una fuerza actúe sobre él", "correct": false },
+      { "text": "La energía no se crea ni se destruye", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Formula $W = F d \\cos \\theta$.",
-    "explanation": "El trabajo es la transferencia de energía mediante una fuerza que provoca un desplazamiento. Solo cuenta la componente de la fuerza paralela al desplazamiento.",
+    "hint": "Conocida como la ley de acción y reacción.",
+    "explanation": "Esta ley indica que las fuerzas siempre ocurren en pares de interacción entre dos cuerpos distintos.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bl",
-    "question": "¿Qué magnitud física representa la rapidez con la que se realiza un trabajo?",
+    "id": "FIS00AX",
+    "question": "¿Qué tipo de energía posee un objeto debido a su posición en un campo gravitatorio?",
     "image": null,
     "options": [
-      { "text": "Potencia", "correct": true },
-      { "text": "Energía", "correct": false },
-      { "text": "Fuerza", "correct": false },
-      { "text": "Impulso", "correct": false }
+      { "text": "Energía Potencial", "correct": true },
+      { "text": "Energía Cinética", "correct": false },
+      { "text": "Energía Elástica", "correct": false },
+      { "text": "Energía Térmica", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "$P = W/t$.",
-    "explanation": "La potencia se define como la cantidad de trabajo realizado por unidad de tiempo, o la tasa de transferencia de energía.",
+    "hint": "Depende de la altura $h$.",
+    "explanation": "La energía potencial gravitatoria es la energía almacenada en un objeto debido a su altura vertical o posición.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bm",
-    "question": "¿Cuál es la fórmula para calcular la densidad ($\\rho$) de una sustancia?",
+    "id": "FIS00AY",
+    "question": "El mecanismo de transferencia de calor que ocurre a través del movimiento de fluidos (líquidos o gases) se llama:",
     "image": null,
     "options": [
-      { "text": "$\\rho = \\frac{m}{V}$", "correct": true },
-      { "text": "$\\rho = m \\cdot V$", "correct": false },
-      { "text": "$\\rho = \\frac{V}{m}$", "correct": false },
-      { "text": "$\\rho = m \\cdot g$", "correct": false }
+      { "text": "Convección", "correct": true },
+      { "text": "Conducción", "correct": false },
+      { "text": "Radiación", "correct": false },
+      { "text": "Sublimación", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Masa por unidad de volumen.",
-    "explanation": "La densidad es una propiedad intensiva que relaciona la masa de un cuerpo con el volumen que ocupa.",
+    "hint": "Es lo que hace que el aire caliente suba y el frío baje.",
+    "explanation": "La convección implica el transporte de calor por el movimiento macroscópico de masas de fluido.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bn",
+    "id": "FIS00AZ",
+    "question": "¿Cuál es la unidad de carga eléctrica en el Sistema Internacional?",
+    "image": null,
+    "options": [
+      { "text": "Coulomb (C)", "correct": true },
+      { "text": "Ampere (A)", "correct": false },
+      { "text": "Volt (V)", "correct": false },
+      { "text": "Ohm ($\\Omega$)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Nombrada en honor a Charles-Augustin de Coulomb.",
+    "explanation": "El Coulomb es la unidad de carga eléctrica, definida como la carga transportada por una corriente de un amperio en un segundo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BA",
+    "question": "La Ley de Ohm establece la relación entre:",
+    "image": null,
+    "options": [
+      { "text": "Voltaje, Corriente y Resistencia", "correct": true },
+      { "text": "Fuerza, Masa y Aceleración", "correct": false },
+      { "text": "Presión, Volumen y Temperatura", "correct": false },
+      { "text": "Carga, Campo y Fuerza", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su fórmula principal es $V = I R$.",
+    "explanation": "La Ley de Ohm relaciona las tres magnitudes fundamentales de un circuito eléctrico resistivo lineal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BB",
+    "question": "¿Qué partícula subatómica tiene carga negativa?",
+    "image": null,
+    "options": [
+      { "text": "Electrón", "correct": true },
+      { "text": "Protón", "correct": false },
+      { "text": "Neutrón", "correct": false },
+      { "text": "Fotón", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Orbita alrededor del núcleo.",
+    "explanation": "El electrón es la partícula fundamental portadora de carga eléctrica negativa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BC",
+    "question": "El sonido NO puede propagarse en:",
+    "image": null,
+    "options": [
+      { "text": "El vacío", "correct": true },
+      { "text": "El agua", "correct": false },
+      { "text": "El acero", "correct": false },
+      { "text": "El aire", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El sonido es una onda mecánica y requiere un medio material.",
+    "explanation": "Al ser una onda mecánica, el sonido necesita partículas para transmitir la vibración; en el vacío, no hay partículas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BD",
+    "question": "Un cuerpo cae libremente desde el reposo. Después de $3 \\text{ s}$, su velocidad aproximada es: (Considere $g = 9.8 \\text{ m/s}^2$)",
+    "image": null,
+    "options": [
+      { "text": "$29.4 \\text{ m/s}$", "correct": true },
+      { "text": "$9.8 \\text{ m/s}$", "correct": false },
+      { "text": "$19.6 \\text{ m/s}$", "correct": false },
+      { "text": "$44.1 \\text{ m/s}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la fórmula $v_f = g t$.",
+    "explanation": "$v_f = 9.8 \\text{ m/s}^2 \\times 3 \\text{ s} = 29.4 \\text{ m/s}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BE",
     "question": "La presión hidrostática en el fondo de un recipiente depende de:",
     "image": null,
     "options": [
-      { "text": "La densidad del fluido, la gravedad y la altura (profundidad)", "correct": true },
-      { "text": "El área del fondo del recipiente y el volumen total", "correct": false },
-      { "text": "La forma del recipiente y la masa total", "correct": false },
-      { "text": "Únicamente del peso del líquido", "correct": false }
+      { "text": "La densidad del líquido y la profundidad", "correct": true },
+      { "text": "El área de la base del recipiente", "correct": false },
+      { "text": "La forma del recipiente", "correct": false },
+      { "text": "El volumen total del líquido", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "$P = \\rho g h$.",
-    "explanation": "La presión hidrostática depende de la profundidad ($h$) y la densidad del líquido ($\\rho$), independientemente de la forma del recipiente (Paradoja hidrostática).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bo",
-    "question": "El Principio de Arquímedes establece que todo cuerpo sumergido en un fluido experimenta un empuje vertical hacia arriba igual a:",
-    "image": null,
-    "options": [
-      { "text": "El peso del fluido desalojado", "correct": true },
-      { "text": "El peso del cuerpo sumergido", "correct": false },
-      { "text": "La presión en el fondo del recipiente", "correct": false },
-      { "text": "La densidad del cuerpo multiplicada por la gravedad", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Este principio explica por qué los barcos flotan.",
-    "explanation": "La fuerza de flotación o empuje es equivalente al peso del volumen del fluido que el objeto desplaza al sumergirse ($E = \\rho_{fluido} g V_{sumergido}$).",
+    "hint": "La fórmula es $P = \\rho g h$.",
+    "explanation": "La presión en un fluido en reposo es proporcional a la densidad del fluido y a la altura de la columna de líquido sobre el punto.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bp",
-    "question": "Un sistema hidráulico del CEPREDIX funciona bajo el Principio de Pascal. ¿Qué establece este principio?",
+    "id": "FIS00BF",
+    "question": "¿Qué ley establece que 'La presión ejercida sobre un fluido incompresible y en equilibrio dentro de un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones'?",
     "image": null,
     "options": [
-      { "text": "La presión ejercida sobre un fluido encerrado se transmite íntegramente a todos sus puntos", "correct": true },
-      { "text": "La presión disminuye conforme aumenta la velocidad del fluido", "correct": false },
-      { "text": "Todo cuerpo sumergido recibe un empuje ascendente", "correct": false },
-      { "text": "El calor fluye del cuerpo de mayor temperatura al de menor temperatura", "correct": false }
+      { "text": "Principio de Pascal", "correct": true },
+      { "text": "Principio de Arquímedes", "correct": false },
+      { "text": "Ley de Boyle", "correct": false },
+      { "text": "Ley de Hooke", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Es la base de los frenos de los autos y gatos hidráulicos.",
-    "explanation": "Pascal descubrió que en un fluido incompresible y en reposo, los cambios de presión se transmiten sin disminución a todas las partes del fluido y a las paredes del recipiente.",
+    "hint": "Es el principio fundamental de la prensa hidráulica.",
+    "explanation": "El Principio de Pascal describe la transmisión de presión en fluidos confinados.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bq",
-    "question": "Un investigador del CEPREDIX estudia la transferencia de calor. Si toca una cuchara de metal que está dentro de una sopa caliente, el calor se transfiere a su mano principalmente por:",
+    "id": "FIS00BG",
+    "question": "La unidad de Potencia en el SI es el Watt, que equivale a:",
     "image": null,
     "options": [
-      { "text": "Conducción", "correct": true },
-      { "text": "Convección", "correct": false },
-      { "text": "Radiación", "correct": false },
-      { "text": "Evaporación", "correct": false }
+      { "text": "Joule sobre segundo (J/s)", "correct": true },
+      { "text": "Newton por metro (N·m)", "correct": false },
+      { "text": "Joule por segundo cuadrado (J/s²)", "correct": false },
+      { "text": "Kilogramo metro (kg·m)", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Ocurre a través del contacto directo en sólidos.",
-    "explanation": "La conducción es la transferencia de calor a través de un material por contacto directo de partículas, común en sólidos metálicos.",
+    "hint": "Potencia se define como trabajo realizado por unidad de tiempo: $P = \\frac{W}{t}$.",
+    "explanation": "Un Watt se define como la transferencia de energía de un Joule en un segundo.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00br",
-    "question": "Son los tres mecanismos de transferencia de calor:",
+    "id": "FIS00BH",
+    "question": "En un espejo plano, la imagen formada es:",
     "image": null,
     "options": [
-      { "text": "Conducción, Convección, Radiación", "correct": true },
-      { "text": "Evaporación, Condensación, Fusión", "correct": false },
-      { "text": "Dilatación, Contracción, Sublimación", "correct": false },
-      { "text": "Inducción, Refracción, Reflexión", "correct": false }
+      { "text": "Virtual, derecha y del mismo tamaño", "correct": true },
+      { "text": "Real, invertida y menor tamaño", "correct": false },
+      { "text": "Virtual, invertida y mayor tamaño", "correct": false },
+      { "text": "Real, derecha y del mismo tamaño", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Uno es por contacto, otro por fluidos y otro por ondas.",
-    "explanation": "El calor se transfiere por conducción (sólidos), convección (movimiento de fluidos) y radiación (ondas electromagnéticas).",
+    "hint": "Es la imagen que ves de ti mismo en el espejo del baño.",
+    "explanation": "Los espejos planos forman imágenes virtuales (detrás del espejo) que conservan la orientación vertical y el tamaño del objeto.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00bs",
-    "question": "La Ley de Coulomb establece que la fuerza eléctrica entre dos cargas puntuales es ______ proporcional al producto de las cargas e ______ proporcional al cuadrado de la distancia que las separa.",
-    "image": null,
-    "options": [
-      { "text": "Directamente, inversamente", "correct": true },
-      { "text": "Inversamente, directamente", "correct": false },
-      { "text": "Directamente, directamente", "correct": false },
-      { "text": "Inversamente, inversamente", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$F = k \\frac{q_1 q_2}{r^2}$.",
-    "explanation": "A mayor carga, mayor fuerza (directa). A mayor distancia, menor fuerza (inversa cuadrática).",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bt",
-    "question": "El ______ eléctrico se define como la fuerza eléctrica por unidad de carga y es una magnitud ______.",
-    "image": null,
-    "options": [
-      { "text": "Campo, vectorial", "correct": true },
-      { "text": "Potencial, escalar", "correct": false },
-      { "text": "Flujo, escalar", "correct": false },
-      { "text": "Trabajo, vectorial", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["INTERMEDIO"],
-    "hint": "$E = F/q$. Tiene dirección.",
-    "explanation": "El campo eléctrico ($E$) es un vector que indica la dirección y magnitud de la fuerza que sentiría una carga de prueba positiva en ese punto.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bu",
-    "question": "Un capacitor es un dispositivo diseñado para almacenar ______ en forma de ______.",
-    "image": null,
-    "options": [
-      { "text": "Energía, campo eléctrico", "correct": true },
-      { "text": "Corriente, campo magnético", "correct": false },
-      { "text": "Voltaje, resistencia", "correct": false },
-      { "text": "Calor, potencia", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Consiste en dos placas paralelas.",
-    "explanation": "Los capacitores almacenan carga eléctrica y energía potencial eléctrica mediante la creación de un campo eléctrico entre sus placas.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bv",
-    "question": "Relaciona el componente eléctrico con su función principal: A) Resistencia, B) Capacitor, C) Inductor; I) Almacenar energía en campo magnético, II) Oponerse al flujo de corriente, III) Almacenar carga eléctrica.",
-    "image": null,
-    "options": [
-      { "text": "A-II; B-III; C-I", "correct": true },
-      { "text": "A-I; B-II; C-III", "correct": false },
-      { "text": "A-III; B-I; C-II", "correct": false },
-      { "text": "A-II; B-I; C-III", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN", "UAM"],
-    "level_tag": ["AVANZADO"],
-    "hint": "Resistencia disipa, Capacitor (campo eléctrico), Inductor (campo magnético).",
-    "explanation": "Resistencia limita corriente (Ley de Ohm). Capacitor almacena carga ($Q=CV$). Inductor (bobina) almacena energía magnética.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bw",
-    "question": "Un automóvil recorre una distancia de $300 \\text{ km}$ en $3 \\text{ horas}$ a velocidad constante. ¿Cuál es su rapidez promedio?",
-    "image": null,
-    "options": [
-      { "text": "$100 \\text{ km/h}$", "correct": true },
-      { "text": "$90 \\text{ km/h}$", "correct": false },
-      { "text": "$300 \\text{ km/h}$", "correct": false },
-      { "text": "$150 \\text{ km/h}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Usa la fórmula $v = \\frac{d}{t}$.",
-    "explanation": "La rapidez se calcula dividiendo la distancia entre el tiempo: $v = \\frac{300}{3} = 100 \\text{ km/h}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bx",
-    "question": "Calcula la fuerza necesaria para acelerar una masa de $10 \\text{ kg}$ a razón de $5 \\text{ m/s}^2$.",
-    "image": null,
-    "options": [
-      { "text": "$50 \\text{ N}$", "correct": true },
-      { "text": "$2 \\text{ N}$", "correct": false },
-      { "text": "$15 \\text{ N}$", "correct": false },
-      { "text": "$0.5 \\text{ N}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Aplica la Segunda Ley de Newton: $F = ma$.",
-    "explanation": "Sustituyendo los valores: $F = (10 \\text{ kg})(5 \\text{ m/s}^2) = 50 \\text{ N}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00by",
-    "question": "¿Cuál es el peso de un objeto de $50 \\text{ kg}$ en la Tierra? (Considera $g = 9.8 \\text{ m/s}^2$).",
-    "image": null,
-    "options": [
-      { "text": "$490 \\text{ N}$", "correct": true },
-      { "text": "$50 \\text{ N}$", "correct": false },
-      { "text": "$500 \\text{ N}$", "correct": false },
-      { "text": "$9.8 \\text{ N}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "El peso se calcula con $W = mg$.",
-    "explanation": "$W = 50 \\text{ kg} \\times 9.8 \\text{ m/s}^2 = 490 \\text{ N}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00bz",
-    "question": "Un resorte se estira $0.2 \\text{ m}$ cuando se le aplica una fuerza de $10 \\text{ N}$. ¿Cuál es la constante elástica del resorte ($k$)?",
-    "image": null,
-    "options": [
-      { "text": "$50 \\text{ N/m}$", "correct": true },
-      { "text": "$2 \\text{ N/m}$", "correct": false },
-      { "text": "$0.02 \\text{ N/m}$", "correct": false },
-      { "text": "$20 \\text{ N/m}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Usa la Ley de Hooke: $F = kx$, despeja $k$.",
-    "explanation": "$k = \\frac{F}{x} = \\frac{10 \\text{ N}}{0.2 \\text{ m}} = 50 \\text{ N/m}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ca",
-    "question": "Calcula el trabajo realizado al empujar una caja con una fuerza de $40 \\text{ N}$ a lo largo de $5 \\text{ m}$ en la misma dirección.",
-    "image": null,
-    "options": [
-      { "text": "$200 \\text{ J}$", "correct": true },
-      { "text": "$8 \\text{ J}$", "correct": false },
-      { "text": "$45 \\text{ J}$", "correct": false },
-      { "text": "$2000 \\text{ J}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Trabajo $W = Fd$.",
-    "explanation": "$W = 40 \\text{ N} \\times 5 \\text{ m} = 200 \\text{ Joules}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cb",
-    "question": "Un objeto de $2 \\text{ kg}$ se mueve a una velocidad de $3 \\text{ m/s}$. ¿Cuál es su energía cinética?",
-    "image": null,
-    "options": [
-      { "text": "$9 \\text{ J}$", "correct": true },
-      { "text": "$6 \\text{ J}$", "correct": false },
-      { "text": "$18 \\text{ J}$", "correct": false },
-      { "text": "$3 \\text{ J}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La fórmula es $E_k = \\frac{1}{2}mv^2$.",
-    "explanation": "$E_k = 0.5 \\times 2 \\text{ kg} \\times (3 \\text{ m/s})^2 = 1 \\times 9 = 9 \\text{ J}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cc",
-    "question": "Calcula la energía potencial gravitacional de una roca de $10 \\text{ kg}$ situada a una altura de $5 \\text{ m}$. ($g = 10 \\text{ m/s}^2$).",
-    "image": null,
-    "options": [
-      { "text": "$500 \\text{ J}$", "correct": true },
-      { "text": "$50 \\text{ J}$", "correct": false },
-      { "text": "$200 \\text{ J}$", "correct": false },
-      { "text": "$15 \\text{ J}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$E_p = mgh$.",
-    "explanation": "$E_p = 10 \\text{ kg} \\times 10 \\text{ m/s}^2 \\times 5 \\text{ m} = 500 \\text{ J}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cd",
-    "question": "Por una resistencia de $10 \\, \\Omega$ circula una corriente de $2 \\text{ A}$. ¿Cuál es el voltaje aplicado?",
-    "image": null,
-    "options": [
-      { "text": "$20 \\text{ V}$", "correct": true },
-      { "text": "$5 \\text{ V}$", "correct": false },
-      { "text": "$0.2 \\text{ V}$", "correct": false },
-      { "text": "$12 \\text{ V}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Ley de Ohm: $V = I \\cdot R$.",
-    "explanation": "$V = 2 \\text{ A} \\times 10 \\, \\Omega = 20 \\text{ V}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ce",
-    "question": "Una onda tiene una frecuencia de $50 \\text{ Hz}$ y una longitud de onda de $2 \\text{ m}$. ¿Cuál es su velocidad de propagación?",
-    "image": null,
-    "options": [
-      { "text": "$100 \\text{ m/s}$", "correct": true },
-      { "text": "$25 \\text{ m/s}$", "correct": false },
-      { "text": "$4 \\text{ m/s}$", "correct": false },
-      { "text": "$52 \\text{ m/s}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$v = \\lambda f$.",
-    "explanation": "$v = 2 \\text{ m} \\times 50 \\text{ Hz} = 100 \\text{ m/s}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cf",
-    "question": "Calcula la densidad de un bloque de metal que tiene una masa de $400 \\text{ g}$ y ocupa un volumen de $50 \\text{ cm}^3$.",
-    "image": null,
-    "options": [
-      { "text": "$8 \\text{ g/cm}^3$", "correct": true },
-      { "text": "$0.125 \\text{ g/cm}^3$", "correct": false },
-      { "text": "$20000 \\text{ g/cm}^3$", "correct": false },
-      { "text": "$450 \\text{ g/cm}^3$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Densidad $\\rho = \\frac{m}{V}$.",
-    "explanation": "$\\rho = \\frac{400}{50} = 8 \\text{ g/cm}^3$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cg",
-    "question": "Una fuerza de $100 \\text{ N}$ se aplica sobre un área de $2 \\text{ m}^2$. ¿Cuál es la presión ejercida?",
-    "image": null,
-    "options": [
-      { "text": "$50 \\text{ Pa}$", "correct": true },
-      { "text": "$200 \\text{ Pa}$", "correct": false },
-      { "text": "$0.02 \\text{ Pa}$", "correct": false },
-      { "text": "$102 \\text{ Pa}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Presión $P = \\frac{F}{A}$.",
-    "explanation": "$P = \\frac{100 \\text{ N}}{2 \\text{ m}^2} = 50 \\text{ Pascales}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ch",
-    "question": "Un motor realiza un trabajo de $600 \\text{ J}$ en $2 \\text{ minutos}$ ($120 \\text{ s}$). ¿Cuál es su potencia?",
-    "image": null,
-    "options": [
-      { "text": "$5 \\text{ W}$", "correct": true },
-      { "text": "$300 \\text{ W}$", "correct": false },
-      { "text": "$1200 \\text{ W}$", "correct": false },
-      { "text": "$72000 \\text{ W}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Potencia $P = \\frac{W}{t}$. Recuerda usar segundos.",
-    "explanation": "$P = \\frac{600 \\text{ J}}{120 \\text{ s}} = 5 \\text{ Watts}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ci",
-    "question": "¿Cuánto calor se requiere para elevar la temperatura de $10 \\text{ g}$ de agua en $5 \\text{ °C}$? (Considera el calor específico del agua $c = 1 \\text{ cal/g°C}$).",
-    "image": null,
-    "options": [
-      { "text": "$50 \\text{ cal}$", "correct": true },
-      { "text": "$5 \\text{ cal}$", "correct": false },
-      { "text": "$2 \\text{ cal}$", "correct": false },
-      { "text": "$15 \\text{ cal}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$Q = m c \\Delta T$.",
-    "explanation": "$Q = 10 \\text{ g} \\times 1 \\frac{\\text{cal}}{\\text{g°C}} \\times 5 \\text{ °C} = 50 \\text{ cal}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cj",
-    "question": "Dos resistencias de $4 \\, \\Omega$ y $6 \\, \\Omega$ se conectan en serie. ¿Cuál es la resistencia total equivalente?",
-    "image": null,
-    "options": [
-      { "text": "$10 \\, \\Omega$", "correct": true },
-      { "text": "$2.4 \\, \\Omega$", "correct": false },
-      { "text": "$2 \\, \\Omega$", "correct": false },
-      { "text": "$24 \\, \\Omega$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "En serie las resistencias se suman: $R_t = R_1 + R_2$.",
-    "explanation": "$R_t = 4 \\, \\Omega + 6 \\, \\Omega = 10 \\, \\Omega$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00ck",
-    "question": "Un aparato eléctrico consume $60 \\text{ W}$ conectado a $120 \\text{ V}$. ¿Qué corriente circula por él?",
-    "image": null,
-    "options": [
-      { "text": "$0.5 \\text{ A}$", "correct": true },
-      { "text": "$2 \\text{ A}$", "correct": false },
-      { "text": "$7200 \\text{ A}$", "correct": false },
-      { "text": "$60 \\text{ A}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Potencia $P = V \\cdot I$, despeja $I$.",
-    "explanation": "$I = \\frac{P}{V} = \\frac{60}{120} = 0.5 \\text{ A}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cl",
-    "question": "Un péndulo realiza 20 oscilaciones en 10 segundos. ¿Cuál es su frecuencia?",
+    "id": "FIS00BI",
+    "question": "¿Cuál es la frecuencia de una onda si su periodo es de $0.5 \\text{ s}$?",
     "image": null,
     "options": [
       { "text": "$2 \\text{ Hz}$", "correct": true },
       { "text": "$0.5 \\text{ Hz}$", "correct": false },
-      { "text": "$200 \\text{ Hz}$", "correct": false },
-      { "text": "$10 \\text{ Hz}$", "correct": false }
+      { "text": "$5 \\text{ Hz}$", "correct": false },
+      { "text": "$1 \\text{ Hz}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Frecuencia $f = \\frac{\\text{número de ciclos}}{\\text{tiempo}}$.",
-    "explanation": "$f = \\frac{20}{10} = 2 \\text{ Hz}$.",
+    "hint": "Frecuencia y periodo son inversos: $f = \\frac{1}{T}$.",
+    "explanation": "$f = \\frac{1}{0.5} = 2 \\text{ Hz}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cm",
-    "question": "¿Cuál es la aceleración de un auto que cambia su velocidad de $10 \\text{ m/s}$ a $30 \\text{ m/s}$ en $5 \\text{ segundos}$?",
+    "id": "FIS00BJ",
+    "question": "Un imán permanente siempre tiene:",
     "image": null,
     "options": [
-      { "text": "$4 \\text{ m/s}^2$", "correct": true },
-      { "text": "$20 \\text{ m/s}^2$", "correct": false },
-      { "text": "$8 \\text{ m/s}^2$", "correct": false },
-      { "text": "$2 \\text{ m/s}^2$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$a = \\frac{v_f - v_i}{t}$.",
-    "explanation": "$a = \\frac{30 - 10}{5} = \\frac{20}{5} = 4 \\text{ m/s}^2$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cn",
-    "question": "Calcula el torque producido por una fuerza de $50 \\text{ N}$ aplicada perpendicularmente a $0.5 \\text{ m}$ del eje de giro.",
-    "image": null,
-    "options": [
-      { "text": "$25 \\text{ Nm}$", "correct": true },
-      { "text": "$100 \\text{ Nm}$", "correct": false },
-      { "text": "$10 \\text{ Nm}$", "correct": false },
-      { "text": "$50.5 \\text{ Nm}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Torque $\\tau = F \\cdot d$.",
-    "explanation": "$\\tau = 50 \\text{ N} \\times 0.5 \\text{ m} = 25 \\text{ Nm}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00co",
-    "question": "Si un cuerpo gira con una velocidad angular constante de $6 \\text{ rad/s}$ y el radio de giro es de $2 \\text{ m}$, ¿cuál es su velocidad lineal?",
-    "image": null,
-    "options": [
-      { "text": "$12 \\text{ m/s}$", "correct": true },
-      { "text": "$3 \\text{ m/s}$", "correct": false },
-      { "text": "$4 \\text{ m/s}$", "correct": false },
-      { "text": "$36 \\text{ m/s}$", "correct": false }
+      { "text": "Dos polos: Norte y Sur", "correct": true },
+      { "text": "Solo un polo Norte", "correct": false },
+      { "text": "Solo un polo Sur", "correct": false },
+      { "text": "Carga eléctrica positiva neta", "correct": false }
     ],
     "uni_tags": ["GENERAL", "EXANI", "IPN"],
     "level_tag": ["BÁSICO"],
-    "hint": "$v = \\omega \\cdot r$.",
-    "explanation": "$v = 6 \\text{ rad/s} \\times 2 \\text{ m} = 12 \\text{ m/s}$.",
+    "hint": "No existen los monopolos magnéticos aislados en la naturaleza clásica.",
+    "explanation": "Todos los imanes son dipolos, siempre poseen un polo norte y un polo sur inseparables.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cp",
-    "question": "Calcula la presión hidrostática en el fondo de una alberca de $2 \\text{ m}$ de profundidad. ($\\rho = 1000 \\text{ kg/m}^3, g = 10 \\text{ m/s}^2$).",
+    "id": "FIS00BK",
+    "question": "¿Qué modelo atómico introdujo los niveles de energía cuantizados?",
     "image": null,
     "options": [
-      { "text": "$20000 \\text{ Pa}$", "correct": true },
-      { "text": "$2000 \\text{ Pa}$", "correct": false },
-      { "text": "$500 \\text{ Pa}$", "correct": false },
-      { "text": "$10020 \\text{ Pa}$", "correct": false }
+      { "text": "Modelo de Bohr", "correct": true },
+      { "text": "Modelo de Dalton", "correct": false },
+      { "text": "Modelo de Thomson", "correct": false },
+      { "text": "Modelo de Rutherford", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "$P_h = \\rho g h$.",
-    "explanation": "$P = 1000 \\times 10 \\times 2 = 20000 \\text{ Pa}$.",
+    "hint": "Fue propuesto en 1913 para explicar el espectro del hidrógeno.",
+    "explanation": "Niels Bohr propuso que los electrones orbitan en niveles de energía específicos y estables.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cq",
-    "question": "Un cuerpo de $4 \\text{ kg}$ se mueve a $5 \\text{ m/s}$. ¿Cuál es la magnitud de su cantidad de movimiento (momento lineal)?",
+    "id": "FIS00BL",
+    "question": "La fuerza de fricción siempre actúa:",
     "image": null,
     "options": [
-      { "text": "$20 \\text{ kg m/s}$", "correct": true },
-      { "text": "$9 \\text{ kg m/s}$", "correct": false },
-      { "text": "$1.25 \\text{ kg m/s}$", "correct": false },
-      { "text": "$100 \\text{ kg m/s}$", "correct": false }
+      { "text": "En dirección opuesta al movimiento relativo", "correct": true },
+      { "text": "En la misma dirección del movimiento", "correct": false },
+      { "text": "Perpendicular a la superficie de contacto", "correct": false },
+      { "text": "Independientemente del movimiento", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Momento $p = mv$.",
-    "explanation": "$p = 4 \\text{ kg} \\times 5 \\text{ m/s} = 20 \\text{ kg m/s}$.",
+    "hint": "Es una fuerza disipativa que se 'opone' al deslizamiento.",
+    "explanation": "La fricción cinética se opone vectorialmente a la velocidad del objeto deslizante sobre la superficie.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cr",
-    "question": "Convierte una temperatura de $27 \\text{ °C}$ a escala Kelvin.",
+    "id": "FIS00BM",
+    "question": "¿Qué es un año luz?",
     "image": null,
     "options": [
-      { "text": "$300 \\text{ K}$", "correct": true },
-      { "text": "$273 \\text{ K}$", "correct": false },
-      { "text": "$327 \\text{ K}$", "correct": false },
-      { "text": "$246 \\text{ K}$", "correct": false }
+      { "text": "Una unidad de distancia", "correct": true },
+      { "text": "Una unidad de tiempo", "correct": false },
+      { "text": "Una unidad de velocidad", "correct": false },
+      { "text": "Una unidad de intensidad luminosa", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "$K = °C + 273$.",
-    "explanation": "$K = 27 + 273 = 300 \\text{ K}$.",
+    "hint": "Es la distancia que recorre la luz en un año.",
+    "explanation": "Aunque contiene la palabra 'año', mide la longitud del trayecto recorrido por la luz en el vacío durante un año terrestre.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cs",
-    "question": "Calcula la carga eléctrica que pasa por un conductor en $10 \\text{ segundos}$ si la corriente es de $5 \\text{ A}$.",
+    "id": "FIS00BN",
+    "question": "En un circuito en serie, la corriente eléctrica es:",
     "image": null,
     "options": [
-      { "text": "$50 \\text{ C}$", "correct": true },
-      { "text": "$2 \\text{ C}$", "correct": false },
-      { "text": "$0.5 \\text{ C}$", "correct": false },
-      { "text": "$15 \\text{ C}$", "correct": false }
+      { "text": "La misma en todos los componentes", "correct": true },
+      { "text": "Diferente en cada componente", "correct": false },
+      { "text": "Nula en el medio", "correct": false },
+      { "text": "Mayor cerca de la fuente", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "$Q = I \\cdot t$.",
-    "explanation": "$Q = 5 \\text{ A} \\times 10 \\text{ s} = 50 \\text{ Coulombs}$.",
+    "hint": "Solo hay un camino para que fluyan los electrones.",
+    "explanation": "Debido a la conservación de la carga, la corriente que entra a un componente en serie debe salir e ir al siguiente.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00ct",
-    "question": "Una fuerza de $20 \\text{ N}$ actúa sobre un cuerpo durante $0.5 \\text{ segundos}$. ¿Cuál es el impulso recibido?",
+    "id": "FIS00BO",
+    "question": "La capacidad de un material para recuperar su forma original después de ser deformado se llama:",
     "image": null,
     "options": [
-      { "text": "$10 \\text{ Ns}$", "correct": true },
-      { "text": "$40 \\text{ Ns}$", "correct": false },
-      { "text": "$100 \\text{ Ns}$", "correct": false },
-      { "text": "$9.8 \\text{ Ns}$", "correct": false }
+      { "text": "Elasticidad", "correct": true },
+      { "text": "Plasticidad", "correct": false },
+      { "text": "Viscosidad", "correct": false },
+      { "text": "Dureza", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Impulso $I = F \\cdot t$.",
-    "explanation": "$I = 20 \\text{ N} \\times 0.5 \\text{ s} = 10 \\text{ Ns}$.",
+    "hint": "Piensa en una liga o un resorte.",
+    "explanation": "La elasticidad es la propiedad mecánica de sufrir deformaciones reversibles.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cu",
-    "question": "Calcula el periodo de una onda si su frecuencia es de $4 \\text{ Hz}$.",
+    "id": "FIS00BP",
+    "question": "¿Cuál es el valor aproximado de la gravedad estándar en la superficie de la Tierra?",
     "image": null,
     "options": [
-      { "text": "$0.25 \\text{ s}$", "correct": true },
-      { "text": "$4 \\text{ s}$", "correct": false },
-      { "text": "$2 \\text{ s}$", "correct": false },
-      { "text": "$1 \\text{ s}$", "correct": false }
+      { "text": "$9.81 \\text{ m/s}^2$", "correct": true },
+      { "text": "$1.62 \\text{ m/s}^2$", "correct": false },
+      { "text": "$8.91 \\text{ m/s}^2$", "correct": false },
+      { "text": "$12.5 \\text{ m/s}^2$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "Periodo $T = \\frac{1}{f}$.",
-    "explanation": "$T = \\frac{1}{4} = 0.25 \\text{ s}$.",
+    "hint": "Es un valor cercano a 10.",
+    "explanation": "El valor estándar aceptado es $g \\approx 9.807 \\text{ m/s}^2$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cv",
-    "question": "Un rayo de luz viaja en un medio con una velocidad de $200,000 \\text{ km/s}$. Si $c = 300,000 \\text{ km/s}$, ¿cuál es el índice de refracción del medio?",
+    "id": "FIS00BQ",
+    "question": "En termodinámica, un proceso adiabático es aquel en el que:",
     "image": null,
     "options": [
-      { "text": "$1.5$", "correct": true },
-      { "text": "$0.66$", "correct": false },
-      { "text": "$1.0$", "correct": false },
-      { "text": "$2.0$", "correct": false }
+      { "text": "No hay intercambio de calor con el entorno", "correct": true },
+      { "text": "La temperatura permanece constante", "correct": false },
+      { "text": "La presión permanece constante", "correct": false },
+      { "text": "El volumen permanece constante", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
     "level_tag": ["BÁSICO"],
-    "hint": "$n = \\frac{c}{v}$.",
-    "explanation": "$n = \\frac{300,000}{200,000} = 1.5$.",
+    "hint": "El sistema está térmicamente aislado ($\u0394Q = 0$).",
+    "explanation": "Adiabático significa sin paso de calor. La energía interna cambia solo debido al trabajo.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cw",
-    "question": "¿Cuál es la eficiencia de una máquina que recibe $1000 \\text{ J}$ de energía y realiza un trabajo útil de $800 \\text{ J}$?",
+    "id": "FIS00BR",
+    "question": "¿Qué instrumento se utiliza para medir la presión atmosférica?",
     "image": null,
     "options": [
-      { "text": "$80\\%$", "correct": true },
+      { "text": "Barómetro", "correct": true },
+      { "text": "Manómetro", "correct": false },
+      { "text": "Termómetro", "correct": false },
+      { "text": "Dinamómetro", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Inventado por Torricelli.",
+    "explanation": "El barómetro mide específicamente la presión ejercida por la atmósfera terrestre.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BS",
+    "question": "La suma de la energía cinética y la energía potencial de un sistema conservativo se llama:",
+    "image": null,
+    "options": [
+      { "text": "Energía Mecánica", "correct": true },
+      { "text": "Energía Térmica", "correct": false },
+      { "text": "Energía Nuclear", "correct": false },
+      { "text": "Energía Interna", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es la energía total asociada al movimiento y posición.",
+    "explanation": "$E_m = E_c + E_p$. Se conserva en ausencia de fuerzas no conservativas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BT",
+    "question": "¿Cuál es la velocidad de la luz en el vacío aproximadamente?",
+    "image": null,
+    "options": [
+      { "text": "$300,000 \\text{ km/s}$", "correct": true },
+      { "text": "$3,000 \\text{ km/s}$", "correct": false },
+      { "text": "$30,000 \\text{ km/s}$", "correct": false },
+      { "text": "$340 \\text{ m/s}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Son 300 mil kilómetros por segundo.",
+    "explanation": "$c \\approx 3 \\times 10^8 \\text{ m/s} = 300,000 \\text{ km/s}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BU",
+    "question": "Si lanzas una pelota verticalmente hacia arriba, en el punto más alto de su trayectoria su velocidad es:",
+    "image": null,
+    "options": [
+      { "text": "Cero", "correct": true },
+      { "text": "Máxima", "correct": false },
+      { "text": "Igual a la inicial", "correct": false },
+      { "text": "La mitad de la inicial", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el instante en que deja de subir y empieza a bajar.",
+    "explanation": "En el punto de retorno, la velocidad instantánea es nula ($v_y = 0$), aunque la aceleración sigue siendo $g$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BV",
+    "question": "¿Qué físico formuló la teoría de la relatividad general?",
+    "image": null,
+    "options": [
+      { "text": "Albert Einstein", "correct": true },
+      { "text": "Isaac Newton", "correct": false },
+      { "text": "Galileo Galilei", "correct": false },
+      { "text": "Nikola Tesla", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Famoso por la ecuación $E=mc^2$.",
+    "explanation": "Einstein publicó la relatividad general en 1915, redefiniendo la gravedad como curvatura del espacio-tiempo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BW",
+    "question": "El fenómeno por el cual algunos materiales expulsan electrones al ser iluminados se llama:",
+    "image": null,
+    "options": [
+      { "text": "Efecto fotoeléctrico", "correct": true },
+      { "text": "Efecto Doppler", "correct": false },
+      { "text": "Efecto Joule", "correct": false },
+      { "text": "Efecto Invernadero", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Luz (foto) generando electricidad.",
+    "explanation": "Fue explicado por Einstein proponiendo la naturaleza corpuscular de la luz (fotones).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BX",
+    "question": "La unidad de medida del trabajo en el sistema MKS (metro-kilogramo-segundo) es:",
+    "image": null,
+    "options": [
+      { "text": "Joule", "correct": true },
+      { "text": "Ergio", "correct": false },
+      { "text": "Dina", "correct": false },
+      { "text": "Caloría", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Equivale a un Newton por metro.",
+    "explanation": "El Joule es la unidad derivada para energía y trabajo en el SI.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BY",
+    "question": "¿Qué establece la Primera Ley de la Termodinámica?",
+    "image": null,
+    "options": [
+      { "text": "La conservación de la energía en sistemas termodinámicos", "correct": true },
+      { "text": "El flujo de calor del cuerpo caliente al frío", "correct": false },
+      { "text": "La imposibilidad de llegar al cero absoluto", "correct": false },
+      { "text": "La relación entre presión y temperatura", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "$\u0394U = Q - W$.",
+    "explanation": "Es una reformulación de la ley de conservación de la energía, incluyendo el calor y la energía interna.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00BZ",
+    "question": "En un átomo neutro, el número de protones es igual al número de:",
+    "image": null,
+    "options": [
+      { "text": "Electrones", "correct": true },
+      { "text": "Neutrones", "correct": false },
+      { "text": "Positrones", "correct": false },
+      { "text": "Quarks", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Para que la carga neta sea cero, las cargas positivas deben cancelarse con las negativas.",
+    "explanation": "Los protones tienen carga $+1$ y los electrones $-1$. En un átomo neutro, deben estar en igual cantidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CA",
+    "question": "La densidad se define como:",
+    "image": null,
+    "options": [
+      { "text": "Masa por unidad de volumen", "correct": true },
+      { "text": "Peso por unidad de área", "correct": false },
+      { "text": "Volumen por unidad de masa", "correct": false },
+      { "text": "Masa por unidad de área", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Su fórmula es $\\rho = \\frac{m}{V}$.",
+    "explanation": "La densidad es una propiedad intensiva que relaciona la cantidad de materia en un espacio determinado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CB",
+    "question": "¿Qué es la inercia?",
+    "image": null,
+    "options": [
+      { "text": "La resistencia de un cuerpo a cambiar su estado de movimiento", "correct": true },
+      { "text": "La fuerza con la que la Tierra atrae a los cuerpos", "correct": false },
+      { "text": "La capacidad de realizar trabajo", "correct": false },
+      { "text": "La velocidad máxima de un objeto", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Relacionada con la Primera Ley de Newton y la masa.",
+    "explanation": "La inercia es la propiedad de la materia de resistir cambios en su velocidad (aceleración).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CC",
+    "question": "La aceleración es una magnitud que mide:",
+    "image": null,
+    "options": [
+      { "text": "El cambio de velocidad con respecto al tiempo", "correct": true },
+      { "text": "El cambio de posición con respecto al tiempo", "correct": false },
+      { "text": "La fuerza aplicada sobre un objeto", "correct": false },
+      { "text": "La distancia recorrida en total", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "$a = \\frac{\\Delta v}{\\Delta t}$.",
+    "explanation": "La aceleración es la derivada de la velocidad respecto al tiempo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CD",
+    "question": "¿Qué tipo de espejo utiliza un dentista para ver los dientes aumentados de tamaño?",
+    "image": null,
+    "options": [
+      { "text": "Espejo Cóncavo", "correct": true },
+      { "text": "Espejo Convexo", "correct": false },
+      { "text": "Espejo Plano", "correct": false },
+      { "text": "Espejo Difuso", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Necesita concentrar la luz y magnificar la imagen cuando el objeto está cerca.",
+    "explanation": "Un espejo cóncavo produce una imagen virtual y magnificada cuando el objeto se coloca dentro de la distancia focal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CE",
+    "question": "Un estudiante del CEPREDIX está analizando un circuito complejo. Aplica las Leyes de Kirchhoff para resolverlo. Si encuentra que la suma de corrientes que entran a un nodo es $5 \\text{ A}$ y salen dos corrientes de $2 \\text{ A}$ y $x$, ¿cuál es el valor de $x$?",
+    "image": null,
+    "options": [
+      { "text": "$3 \\text{ A}$", "correct": true },
+      { "text": "$7 \\text{ A}$", "correct": false },
+      { "text": "$2.5 \\text{ A}$", "correct": false },
+      { "text": "$-3 \\text{ A}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ley de Corrientes de Kirchhoff: $\\sum I_{entra} = \\sum I_{sale}$.",
+    "explanation": "El estudiante del CEPREDIX aplica la conservación de la carga: $5 \\text{ A} = 2 \\text{ A} + x$. Despejando, $x = 5 - 2 = 3 \\text{ A}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CF",
+    "question": "En un estudio del CEPREDIX sobre eficiencia térmica, se analiza una máquina de Carnot que opera entre dos focos térmicos a $500 \\text{ K}$ y $300 \\text{ K}$. ¿Cuál es la eficiencia máxima teórica de esta máquina?",
+    "image": null,
+    "options": [
+      { "text": "$40\\%$", "correct": true },
+      { "text": "$60\\%$", "correct": false },
       { "text": "$20\\%$", "correct": false },
-      { "text": "$125\\%$", "correct": false },
       { "text": "$100\\%$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Eficiencia $\\eta = \\frac{W_{\\text{salida}}}{E_{\\text{entrada}}} \\times 100$.",
-    "explanation": "$\\eta = \\frac{800}{1000} \\times 100 = 0.8 \\times 100 = 80\\%$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La eficiencia de Carnot es $\\eta = 1 - \\frac{T_{frio}}{T_{caliente}}$.",
+    "explanation": "El alumno calcula $\\eta = 1 - \\frac{300}{500} = 1 - 0.6 = 0.4$. Multiplicando por 100, la eficiencia es del $40\\%$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00cx",
-    "question": "Si la gravedad en la Luna es $1/6$ de la terrestre ($g \\approx 10 \\text{ m/s}^2$), ¿cuánto pesa un astronauta de $60 \\text{ kg}$ en la Luna?",
+    "id": "FIS00CG",
+    "question": "Un investigador del CEPREDIX está trabajando con fluidos en movimiento y aplica la ecuación de Bernoulli. Si en una tubería horizontal la velocidad del fluido aumenta, ¿qué sucede con la presión en ese punto?",
     "image": null,
     "options": [
-      { "text": "$100 \\text{ N}$", "correct": true },
-      { "text": "$600 \\text{ N}$", "correct": false },
-      { "text": "$10 \\text{ N}$", "correct": false },
-      { "text": "$360 \\text{ N}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Gravedad lunar $\\approx 10/6 \\text{ m/s}^2$. Peso $W = mg$.",
-    "explanation": "$g_{\\text{Luna}} = \\frac{10}{6} = 1.66 \\text{ m/s}^2$. $W = 60 \\times \\frac{10}{6} = 100 \\text{ N}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cy",
-    "question": "Un capacitor de $10 \\text{ F}$ se conecta a una batería de $5 \\text{ V}$. ¿Cuánta carga almacena?",
-    "image": null,
-    "options": [
-      { "text": "$50 \\text{ C}$", "correct": true },
-      { "text": "$2 \\text{ C}$", "correct": false },
-      { "text": "$0.5 \\text{ C}$", "correct": false },
-      { "text": "$15 \\text{ C}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$Q = C \\cdot V$.",
-    "explanation": "$Q = 10 \\text{ F} \\times 5 \\text{ V} = 50 \\text{ C}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00cz",
-    "question": "Calcula la fuerza centrípeta sobre un objeto de $2 \\text{ kg}$ que gira a $4 \\text{ m/s}$ en un radio de $2 \\text{ m}$.",
-    "image": null,
-    "options": [
-      { "text": "$16 \\text{ N}$", "correct": true },
-      { "text": "$8 \\text{ N}$", "correct": false },
-      { "text": "$4 \\text{ N}$", "correct": false },
-      { "text": "$32 \\text{ N}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$F_c = \\frac{mv^2}{r}$.",
-    "explanation": "$F_c = \\frac{2 \\times (4)^2}{2} = \\frac{2 \\times 16}{2} = 16 \\text{ N}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00da",
-    "question": "Si $1 \\text{ caloría} = 4.18 \\text{ Joules}$, ¿a cuántos Joules equivalen $100 \\text{ calorías}$?",
-    "image": null,
-    "options": [
-      { "text": "$418 \\text{ J}$", "correct": true },
-      { "text": "$23.9 \\text{ J}$", "correct": false },
-      { "text": "$100 \\text{ J}$", "correct": false },
-      { "text": "$41.8 \\text{ J}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Multiplica calorías por el factor de conversión.",
-    "explanation": "$100 \\text{ cal} \\times 4.18 \\text{ J/cal} = 418 \\text{ J}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00db",
-    "question": "En un transformador ideal, el voltaje primario es $100 \\text{ V}$ y el número de vueltas es $N_p = 50$, $N_s = 100$. ¿Cuál es el voltaje secundario?",
-    "image": null,
-    "options": [
-      { "text": "$200 \\text{ V}$", "correct": true },
-      { "text": "$50 \\text{ V}$", "correct": false },
-      { "text": "$100 \\text{ V}$", "correct": false },
-      { "text": "$150 \\text{ V}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$\\frac{V_p}{V_s} = \\frac{N_p}{N_s}$.",
-    "explanation": "$\\frac{100}{V_s} = \\frac{50}{100} \\Rightarrow \\frac{100}{V_s} = 0.5 \\Rightarrow V_s = \\frac{100}{0.5} = 200 \\text{ V}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00dc",
-    "question": "Determina la masa de un objeto si al aplicarle una fuerza de $30 \\text{ N}$ adquiere una aceleración de $3 \\text{ m/s}^2$.",
-    "image": null,
-    "options": [
-      { "text": "$10 \\text{ kg}$", "correct": true },
-      { "text": "$90 \\text{ kg}$", "correct": false },
-      { "text": "$0.1 \\text{ kg}$", "correct": false },
-      { "text": "$27 \\text{ kg}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Despeja $m$ de $F=ma$.",
-    "explanation": "$m = \\frac{F}{a} = \\frac{30}{3} = 10 \\text{ kg}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00dd",
-    "question": "Calcula el volumen de un cubo de $2 \\text{ m}$ de lado.",
-    "image": null,
-    "options": [
-      { "text": "$8 \\text{ m}^3$", "correct": true },
-      { "text": "$4 \\text{ m}^3$", "correct": false },
-      { "text": "$6 \\text{ m}^3$", "correct": false },
-      { "text": "$2 \\text{ m}^3$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$V = L^3$.",
-    "explanation": "$V = 2^3 = 8 \\text{ m}^3$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00de",
-    "question": "Una rueda gira un ángulo de $\\pi \\text{ radianes}$ en $0.5 \\text{ segundos}$. ¿Cuál es su velocidad angular media?",
-    "image": null,
-    "options": [
-      { "text": "$2\\pi \\text{ rad/s}$", "correct": true },
-      { "text": "$\\pi \\text{ rad/s}$", "correct": false },
-      { "text": "$0.5\\pi \\text{ rad/s}$", "correct": false },
-      { "text": "$4\\pi \\text{ rad/s}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$\\omega = \\frac{\\theta}{t}$.",
-    "explanation": "$\\omega = \\frac{\\pi}{0.5} = 2\\pi \\text{ rad/s}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00df",
-    "question": "Calcula el campo eléctrico producido por una carga si una carga de prueba de $2 \\text{ C}$ siente una fuerza de $20 \\text{ N}$.",
-    "image": null,
-    "options": [
-      { "text": "$10 \\text{ N/C}$", "correct": true },
-      { "text": "$40 \\text{ N/C}$", "correct": false },
-      { "text": "$0.1 \\text{ N/C}$", "correct": false },
-      { "text": "$22 \\text{ N/C}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$E = \\frac{F}{q}$.",
-    "explanation": "$E = \\frac{20}{2} = 10 \\text{ N/C}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00dg",
-    "question": "Un cuerpo cae libremente desde el reposo durante $3 \\text{ segundos}$. ¿Qué velocidad alcanza? ($g = 10 \\text{ m/s}^2$).",
-    "image": null,
-    "options": [
-      { "text": "$30 \\text{ m/s}$", "correct": true },
-      { "text": "$15 \\text{ m/s}$", "correct": false },
-      { "text": "$3 \\text{ m/s}$", "correct": false },
-      { "text": "$45 \\text{ m/s}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$v_f = g \\cdot t$.",
-    "explanation": "$v_f = 10 \\times 3 = 30 \\text{ m/s}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00dh",
-    "question": "¿Cuál es la longitud de onda de un sonido de $340 \\text{ Hz}$ si la velocidad del sonido es $340 \\text{ m/s}$?",
-    "image": null,
-    "options": [
-      { "text": "$1 \\text{ m}$", "correct": true },
-      { "text": "$340 \\text{ m}$", "correct": false },
-      { "text": "$0.5 \\text{ m}$", "correct": false },
-      { "text": "$2 \\text{ m}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$\\lambda = \\frac{v}{f}$.",
-    "explanation": "$\\lambda = \\frac{340}{340} = 1 \\text{ m}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00di",
-    "question": "Dos cargas de signos opuestos se atraen con una fuerza de $10 \\text{ N}$. Si la distancia entre ellas se reduce a la mitad, ¿cuál es la nueva fuerza?",
-    "image": null,
-    "options": [
-      { "text": "$40 \\text{ N}$", "correct": true },
-      { "text": "$20 \\text{ N}$", "correct": false },
-      { "text": "$5 \\text{ N}$", "correct": false },
-      { "text": "$2.5 \\text{ N}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "La fuerza es inversamente proporcional al cuadrado de la distancia ($F \\propto 1/r^2$).",
-    "explanation": "Si $r$ se reduce a la mitad ($1/2$), $r^2$ se reduce a $1/4$. La fuerza aumenta por un factor de $4$. $10 \\times 4 = 40 \\text{ N}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00dj",
-    "question": "Calcula el desplazamiento de un móvil que viaja a $20 \\text{ m/s}$ durante $15 \\text{ segundos}$.",
-    "image": null,
-    "options": [
-      { "text": "$300 \\text{ m}$", "correct": true },
-      { "text": "$150 \\text{ m}$", "correct": false },
-      { "text": "$35 \\text{ m}$", "correct": false },
-      { "text": "$1.33 \\text{ m}$", "correct": false }
-    ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$d = v \\cdot t$.",
-    "explanation": "$d = 20 \\times 15 = 300 \\text{ m}$.",
-    "explanative_video": null,
-    "collapsible_text": null
-  },
-  {
-    "id": "FIS00dk",
-    "question": "Un gas ideal a presión constante duplica su temperatura absoluta. ¿Qué pasa con su volumen?",
-    "image": null,
-    "options": [
-      { "text": "Se duplica", "correct": true },
-      { "text": "Se reduce a la mitad", "correct": false },
+      { "text": "Disminuye", "correct": true },
+      { "text": "Aumenta", "correct": false },
       { "text": "Permanece igual", "correct": false },
-      { "text": "Se cuadruplica", "correct": false }
+      { "text": "Se vuelve cero", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Ley de Charles: $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$.",
-    "explanation": "Si la temperatura absoluta se duplica a presión constante, el volumen también se duplica.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Bernoulli establece $P + \\frac{1}{2}\\rho v^2 = \\text{constante}$. Si $v$ crece, ¿qué pasa con $P$?",
+    "explanation": "Según el principio de Bernoulli estudiado en CEPREDIX, en un flujo horizontal, un aumento en la velocidad cinética del fluido implica necesariamente una disminución en su energía de presión potencial.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00dl",
-    "question": "¿Cuánta energía consume un foco de $100 \\text{ W}$ encendido durante $5 \\text{ horas}$?",
+    "id": "FIS00CH",
+    "question": "Dos cargas puntuales $q_1 = +2 \\mu\\text{C}$ y $q_2 = -6 \\mu\\text{C}$ están separadas por una distancia de $0.03 \\text{ m}$. Calcule la magnitud de la fuerza electrostática entre ellas. ($k = 9 \\times 10^9 \\text{ N m}^2/\\text{C}^2$).",
     "image": null,
     "options": [
-      { "text": "$0.5 \\text{ kWh}$", "correct": true },
-      { "text": "$500 \\text{ kWh}$", "correct": false },
-      { "text": "$5 \\text{ kWh}$", "correct": false },
-      { "text": "$0.1 \\text{ kWh}$", "correct": false }
+      { "text": "$120 \\text{ N}$", "correct": true },
+      { "text": "$12 \\text{ N}$", "correct": false },
+      { "text": "$360 \\text{ N}$", "correct": false },
+      { "text": "$40 \\text{ N}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Energía $E = P \\cdot t$ en kiloWatts-hora.",
-    "explanation": "$100 \\text{ W} = 0.1 \\text{ kW}$. $E = 0.1 \\text{ kW} \\times 5 \\text{ h} = 0.5 \\text{ kWh}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ley de Coulomb: $F = k \\frac{|q_1 q_2|}{r^2}$. Convierte micros a Coulombs ($10^{-6}$).",
+    "explanation": "$F = (9 \\times 10^9) \\frac{(2 \\times 10^{-6})(6 \\times 10^{-6})}{(0.03)^2} = (9 \\times 10^9) \\frac{12 \\times 10^{-12}}{0.0009} = \\frac{108 \\times 10^{-3}}{9 \\times 10^{-4}} = 12 \\times 10^1 = 120 \\text{ N}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00dm",
-    "question": "Si una máquina simple tiene una ventaja mecánica de 2, ¿qué fuerza de entrada se necesita para levantar una carga de $100 \\text{ N}$?",
+    "id": "FIS00CI",
+    "question": "Un gas ideal ocupa un volumen de $4 \\text{ L}$ a una presión de $2 \\text{ atm}$ y temperatura de $300 \\text{ K}$. Si se expande isotérmicamente hasta $8 \\text{ L}$, ¿cuál es la nueva presión?",
     "image": null,
     "options": [
-      { "text": "$50 \\text{ N}$", "correct": true },
-      { "text": "$200 \\text{ N}$", "correct": false },
-      { "text": "$100 \\text{ N}$", "correct": false },
-      { "text": "$25 \\text{ N}$", "correct": false }
+      { "text": "$1 \\text{ atm}$", "correct": true },
+      { "text": "$4 \\text{ atm}$", "correct": false },
+      { "text": "$0.5 \\text{ atm}$", "correct": false },
+      { "text": "$2 \\text{ atm}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$VM = \\frac{F_{\\text{salida}}}{F_{\\text{entrada}}}$.",
-    "explanation": "$2 = \\frac{100}{F_{\\text{entrada}}} \\Rightarrow F_{\\text{entrada}} = \\frac{100}{2} = 50 \\text{ N}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ley de Boyle para procesos isotérmicos: $P_1 V_1 = P_2 V_2$. Despeja $P_2$.",
+    "explanation": "Como la temperatura es constante, si el volumen se duplica, la presión debe reducirse a la mitad. $P_2 = \\frac{P_1 V_1}{V_2} = \\frac{(2)(4)}{8} = 1 \\text{ atm}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00dn",
-    "question": "Calcula el peso específico de una sustancia cuya densidad es $2000 \\text{ kg/m}^3$ ($g = 10 \\text{ m/s}^2$).",
+    "id": "FIS00CJ",
+    "question": "Un rayo de luz pasa del aire ($n_1 \\approx 1$) al vidrio ($n_2 = 1.5$). Si el ángulo de incidencia es $30^\\circ$, ¿cuál es el seno del ángulo de refracción? (Use Ley de Snell)",
     "image": null,
     "options": [
-      { "text": "$20000 \\text{ N/m}^3$", "correct": true },
-      { "text": "$200 \\text{ N/m}^3$", "correct": false },
-      { "text": "$2000 \\text{ N/m}^3$", "correct": false },
-      { "text": "$0.2 \\text{ N/m}^3$", "correct": false }
+      { "text": "$0.33$", "correct": true },
+      { "text": "$0.75$", "correct": false },
+      { "text": "$0.50$", "correct": false },
+      { "text": "$0.25$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Peso específico $Pe = \\rho \\cdot g$.",
-    "explanation": "$Pe = 2000 \\times 10 = 20000 \\text{ N/m}^3$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ley de Snell: $n_1 \\sin(\\theta_1) = n_2 \\sin(\\theta_2)$. Despeja $\\sin(\\theta_2)$. $\\sin(30^\\circ) = 0.5$.",
+    "explanation": "$1 \\times \\sin(30^\\circ) = 1.5 \\times \\sin(\\theta_2)$. $0.5 = 1.5 \\sin(\\theta_2)$. $\\sin(\\theta_2) = \\frac{0.5}{1.5} = \\frac{1}{3} \\approx 0.33$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00do",
-    "question": "Un vector tiene componentes $x = 3$ y $y = 4$. ¿Cuál es su magnitud?",
+    "id": "FIS00CK",
+    "question": "Un bloque de $2 \\text{ kg}$ unido a un resorte con $k = 200 \\text{ N/m}$ oscila en una superficie sin fricción. En el CEPREDIX se pide calcular la energía mecánica total si la amplitud es $0.1 \\text{ m}$.",
     "image": null,
     "options": [
-      { "text": "$5$", "correct": true },
-      { "text": "$7$", "correct": false },
-      { "text": "$25$", "correct": false },
-      { "text": "$1$", "correct": false }
+      { "text": "$1 \\text{ J}$", "correct": true },
+      { "text": "$2 \\text{ J}$", "correct": false },
+      { "text": "$10 \\text{ J}$", "correct": false },
+      { "text": "$0.5 \\text{ J}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "Teorema de Pitágoras: $R = \\sqrt{x^2 + y^2}$.",
-    "explanation": "$R = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La energía total en un MAS es $E = \\frac{1}{2} k A^2$.",
+    "explanation": "El estudiante aplica la fórmula de energía potencial máxima: $E = 0.5 (200) (0.1)^2 = 100 (0.01) = 1 \\text{ J}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00dp",
-    "question": "Si la frecuencia de una onda sonora aumenta al doble, ¿qué sucede con su periodo?",
+    "id": "FIS00CL",
+    "question": "Calcula la fuerza gravitacional entre dos esferas de $1000 \\text{ kg}$ cada una separadas por $2 \\text{ m}$ de centro a centro. ($G \\approx 6.67 \\times 10^{-11} \\text{ N m}^2/\\text{kg}^2$).",
     "image": null,
     "options": [
-      { "text": "Se reduce a la mitad", "correct": true },
-      { "text": "Se duplica", "correct": false },
-      { "text": "Permanece igual", "correct": false },
-      { "text": "Se reduce a la cuarta parte", "correct": false }
+      { "text": "$1.67 \\times 10^{-5} \\text{ N}$", "correct": true },
+      { "text": "$3.33 \\times 10^{-5} \\text{ N}$", "correct": false },
+      { "text": "$6.67 \\times 10^{-8} \\text{ N}$", "correct": false },
+      { "text": "$1.67 \\times 10^{-8} \\text{ N}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM", "UAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$T = \\frac{1}{f}$.",
-    "explanation": "El periodo es el inverso de la frecuencia. Si $f$ se duplica ($2f$), $T$ se convierte en $\\frac{1}{2f}$, es decir, la mitad.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Ley de Gravitación Universal: $F = G \\frac{m_1 m_2}{r^2}$.",
+    "explanation": "$F = \\frac{(6.67 \\times 10^{-11})(1000)(1000)}{2^2} = \\frac{6.67 \\times 10^{-5}}{4} \\approx 1.6675 \\times 10^{-5} \\text{ N}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00dq",
-    "question": "Un espejo esférico cóncavo tiene un radio de curvatura de $40 \\text{ cm}$. ¿Cuál es su distancia focal?",
+    "id": "FIS00CM",
+    "question": "Un capacitor de $10 \\mu\\text{F}$ se conecta a una batería de $12 \\text{ V}$. ¿Cuánta energía almacena?",
     "image": null,
     "options": [
-      { "text": "$20 \\text{ cm}$", "correct": true },
-      { "text": "$40 \\text{ cm}$", "correct": false },
-      { "text": "$80 \\text{ cm}$", "correct": false },
-      { "text": "$10 \\text{ cm}$", "correct": false }
+      { "text": "$720 \\mu\\text{J}$", "correct": true },
+      { "text": "$120 \\mu\\text{J}$", "correct": false },
+      { "text": "$60 \\mu\\text{J}$", "correct": false },
+      { "text": "$1440 \\mu\\text{J}$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "UNAM"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$f = \\frac{R}{2}$.",
-    "explanation": "$f = \\frac{40}{2} = 20 \\text{ cm}$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "La energía en un capacitor es $U = \\frac{1}{2} C V^2$.",
+    "explanation": "$U = 0.5 (10 \\times 10^{-6}) (12)^2 = 5 \\times 10^{-6} (144) = 720 \\times 10^{-6} \\text{ J} = 720 \\mu\\text{J}$.",
     "explanative_video": null,
     "collapsible_text": null
   },
   {
-    "id": "FIS00dr",
-    "question": "Calcula la aceleración centrípeta de un auto en una curva de $100 \\text{ m}$ de radio si viaja a $20 \\text{ m/s}$.",
+    "id": "FIS00CN",
+    "question": "Un alumno del CEPREDIX observa un decaimiento radiactivo. Si la vida media de un isótopo es de 4 días, ¿qué fracción de la muestra original permanece después de 12 días?",
     "image": null,
     "options": [
-      { "text": "$4 \\text{ m/s}^2$", "correct": true },
-      { "text": "$0.2 \\text{ m/s}^2$", "correct": false },
-      { "text": "$200 \\text{ m/s}^2$", "correct": false },
-      { "text": "$2 \\text{ m/s}^2$", "correct": false }
+      { "text": "$1/8$", "correct": true },
+      { "text": "$1/4$", "correct": false },
+      { "text": "$1/16$", "correct": false },
+      { "text": "$1/3$", "correct": false }
     ],
-    "uni_tags": ["GENERAL", "EXANI", "IPN", "EXANI"],
-    "level_tag": ["BÁSICO"],
-    "hint": "$a_c = \\frac{v^2}{r}$.",
-    "explanation": "$a_c = \\frac{20^2}{100} = \\frac{400}{100} = 4 \\text{ m/s}^2$.",
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Calcula cuántas vidas medias han pasado ($n = t/T_{1/2}$). La fracción restante es $(1/2)^n$.",
+    "explanation": "Han pasado $12/4 = 3$ vidas medias. La fracción restante es $(1/2)^3 = 1/8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CO",
+    "question": "Si un transformador ideal tiene 500 vueltas en el primario y 50 vueltas en el secundario, y se aplican $120 \\text{ V}$ al primario, ¿cuál es el voltaje de salida?",
+    "image": null,
+    "options": [
+      { "text": "$12 \\text{ V}$", "correct": true },
+      { "text": "$1200 \\text{ V}$", "correct": false },
+      { "text": "$60 \\text{ V}$", "correct": false },
+      { "text": "$240 \\text{ V}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Relación de transformación: $\\frac{V_p}{V_s} = \\frac{N_p}{N_s}$. Despeja $V_s$.",
+    "explanation": "$V_s = V_p (\\frac{N_s}{N_p}) = 120 (\\frac{50}{500}) = 120 (0.1) = 12 \\text{ V}$. Es un transformador reductor.",
     "explanative_video": null,
     "collapsible_text": null
   }
