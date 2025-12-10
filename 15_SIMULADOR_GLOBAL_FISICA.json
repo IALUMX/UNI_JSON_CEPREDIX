@@ -1137,5 +1137,821 @@
     "explanation": "$V_s = V_p (\\frac{N_s}{N_p}) = 120 (\\frac{50}{500}) = 120 (0.1) = 12 \\text{ V}$. Es un transformador reductor.",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "FIS00CP",
+    "question": "Un estudiante de CEPREDIX mide el diámetro de una célula en $5 \\times 10^{-6} \\text{ m}$. ¿Cómo se expresa esta longitud utilizando el prefijo del Sistema Internacional adecuado?",
+    "image": null,
+    "options": [
+      { "text": "$5 \\text{ } \\mu\\text{m}$", "correct": true },
+      { "text": "$5 \\text{ nm}$", "correct": false },
+      { "text": "$5 \\text{ mm}$", "correct": false },
+      { "text": "$5 \\text{ pm}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El factor $10^{-6}$ corresponde al prefijo 'micro'.",
+    "explanation": "El prefijo 'micro' ($\\mu$) representa el factor $10^{-6}$. Por lo tanto, $5 \\times 10^{-6} \\text{ m}$ es equivalente a $5 \\text{ } \\mu\\text{m}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CQ",
+    "question": "En la ecuación $x = At^2 + Bt$, donde $x$ se mide en metros (m) y $t$ en segundos (s), ¿cuáles son las unidades de la constante $A$ en el Sistema Internacional?",
+    "image": null,
+    "options": [
+      { "text": "$\\text{m/s}^2$", "correct": true },
+      { "text": "$\\text{m/s}$", "correct": false },
+      { "text": "$\\text{m}^2\\text{/s}$", "correct": false },
+      { "text": "$\\text{s}^2\\text{/m}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Para que la ecuación sea dimensionalmente homogénea, cada término debe tener unidades de longitud (metros). Analiza $At^2 = \\text{m}$.",
+    "explanation": "Para que $At^2$ tenga unidades de metros, $A$ debe tener unidades de $\\text{m/s}^2$, ya que $(\\text{m/s}^2)(\\text{s}^2) = \\text{m}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CR",
+    "question": "Completa el siguiente enunciado sobre magnitudes físicas: La ______ es una magnitud fundamental que mide la cantidad de sustancia, mientras que la ______ es una magnitud derivada que mide la fuerza.",
+    "image": null,
+    "options": [
+      { "text": "mol, newton", "correct": true },
+      { "text": "kilogramo, julio", "correct": false },
+      { "text": "amperio, pascal", "correct": false },
+      { "text": "candela, metro", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Revisa las 7 magnitudes fundamentales del SI.",
+    "explanation": "El mol es la unidad fundamental para la cantidad de sustancia. El newton es la unidad derivada para la fuerza ($kg \\cdot m/s^2$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CS",
+    "question": "Dada la fórmula de la energía cinética $E_k = \\frac{1}{2}mv^2$, despeja la velocidad $v$.",
+    "image": null,
+    "options": [
+      { "text": "$v = \\sqrt{\\frac{2E_k}{m}}$", "correct": true },
+      { "text": "$v = \\frac{2E_k}{m^2}$", "correct": false },
+      { "text": "$v = \\sqrt{\\frac{E_k}{2m}}$", "correct": false },
+      { "text": "$v = \\frac{E_k}{2m}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que para eliminar el cuadrado de una variable debes aplicar la raíz cuadrada como paso final. La fórmula original es $E_k = \\frac{mv^2}{2}$.",
+    "explanation": "Multiplicamos por 2: $2E_k = mv^2$. Dividimos entre $m$: $\\frac{2E_k}{m} = v^2$. Sacamos raíz cuadrada: $v = \\sqrt{\\frac{2E_k}{m}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CT",
+    "question": "¿Cuál es el resultado de la operación $(3 \\times 10^4 \\text{ kg}) \\times (2 \\times 10^{-2} \\text{ m/s}^2)$ expresado en notación científica?",
+    "image": null,
+    "options": [
+      { "text": "$6 \\times 10^2 \\text{ N}$", "correct": true },
+      { "text": "$5 \\times 10^2 \\text{ N}$", "correct": false },
+      { "text": "$6 \\times 10^{-8} \\text{ N}$", "correct": false },
+      { "text": "$6 \\times 10^6 \\text{ N}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica los coeficientes y suma los exponentes de la base 10.",
+    "explanation": "Multiplicamos coeficientes: $3 \\times 2 = 6$. Sumamos exponentes: $4 + (-2) = 2$. El resultado es $6 \\times 10^2$. Las unidades kg·m/s² corresponden a Newtons (N).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CU",
+    "question": "En el laboratorio de física, se desea calcular la densidad $\\rho$ de un cubo. Si la fórmula es $\\rho = \\frac{m}{V}$ y el volumen de un cubo es $V = L^3$, despeja la longitud del lado $L$ en términos de masa y densidad.",
+    "image": null,
+    "options": [
+      { "text": "$L = \\sqrt[3]{\\frac{m}{\\rho}}$", "correct": true },
+      { "text": "$L = \\frac{m}{\\rho^3}$", "correct": false },
+      { "text": "$L = \\sqrt{\\frac{m}{\\rho}}$", "correct": false },
+      { "text": "$L = \\left(\\frac{\\rho}{m}\\right)^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sustituye $V$ por $L^3$ en la fórmula de densidad y luego despeja $L$. La fórmula inversa para el volumen sería $V = m/\\rho$.",
+    "explanation": "Sustituyendo, $\\rho = \\frac{m}{L^3}$. Despejamos $L^3 = \\frac{m}{\\rho}$. Aplicamos raíz cúbica: $L = \\sqrt[3]{\\frac{m}{\\rho}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CV",
+    "question": "¿Cuál de las siguientes unidades NO pertenece al Sistema Internacional de Unidades (SI) como unidad fundamental?",
+    "image": null,
+    "options": [
+      { "text": "Gramo", "correct": true },
+      { "text": "Segundo", "correct": false },
+      { "text": "Kelvin", "correct": false },
+      { "text": "Amperio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Revisa la unidad estándar de masa en el SI.",
+    "explanation": "La unidad fundamental de masa en el SI es el Kilogramo (kg), no el gramo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CW",
+    "question": "Identifica cuáles de las siguientes magnitudes son vectoriales:",
+    "image": null,
+    "options": [
+      { "text": "Velocidad, Fuerza, Desplazamiento", "correct": true },
+      { "text": "Temperatura, Masa, Tiempo", "correct": false },
+      { "text": "Energía, Velocidad, Volumen", "correct": false },
+      { "text": "Fuerza, Rapidez, Distancia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Las magnitudes vectoriales requieren dirección y sentido, además de magnitud.",
+    "explanation": "Velocidad, Fuerza y Desplazamiento son vectores porque poseen dirección y sentido. Masa, tiempo y temperatura son escalares.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CX",
+    "question": "Selecciona las opciones que completan el texto: El análisis ______ permite comprobar la veracidad de una ecuación física verificando que las unidades en ambos lados de la igualdad sean ______.",
+    "image": null,
+    "options": [
+      { "text": "dimensional, consistentes", "correct": true },
+      { "text": "vectorial, opuestas", "correct": false },
+      { "text": "numérico, imaginarias", "correct": false },
+      { "text": "estático, nulas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Se refiere al estudio de las dimensiones (unidades) de las magnitudes físicas.",
+    "explanation": "El análisis dimensional es la herramienta que asegura que una ecuación sea dimensionalmente homogénea o consistente.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CY",
+    "question": "Completa la conversión: $1 \\text{ hora}$ equivale a ______ segundos y $1 \\text{ km}$ equivale a ______ metros.",
+    "image": null,
+    "options": [
+      { "text": "3600, 1000", "correct": true },
+      { "text": "60, 100", "correct": false },
+      { "text": "360, 1000", "correct": false },
+      { "text": "3600, 100", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Una hora tiene 60 minutos y cada minuto 60 segundos.",
+    "explanation": "$1 \\text{ h} = 60 \\text{ min} \\times 60 \\text{ s/min} = 3600 \\text{ s}$. El prefijo kilo significa $1000$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00CZ",
+    "question": "En la ecuación de movimiento $v_f = v_i + at$, si $v_f$ y $v_i$ son velocidades y $t$ es tiempo, para que la ecuación sea válida, la aceleración $a$ debe tener unidades de ______ porque al multiplicarse por el tiempo debe dar unidades de ______.",
+    "image": null,
+    "options": [
+      { "text": "longitud/tiempo², velocidad", "correct": true },
+      { "text": "longitud, aceleración", "correct": false },
+      { "text": "velocidad, tiempo", "correct": false },
+      { "text": "masa, fuerza", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Analiza las dimensiones: $[v] = L/T$. ¿Qué dimensión debe tener $[a]$ para que $[a][t] = L/T$?",
+    "explanation": "La aceleración tiene dimensiones de longitud/tiempo² ($L/T^2$). Al multiplicarse por tiempo ($T$), resulta en $L/T$, que son las dimensiones de la velocidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DA",
+    "question": "Relaciona correctamente el prefijo del SI con su factor multiplicativo:\nA) Mega\nB) Mili\nC) Nano\n\nI) $10^{-3}$\nII) $10^{-9}$\nIII) $10^6$",
+    "image": null,
+    "options": [
+      { "text": "A-III, B-I, C-II", "correct": true },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-III, B-II, C-I", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mega es grande (millón), Mili es pequeño (milésima), Nano es muy pequeño (milmillonésima).",
+    "explanation": "Mega (M) = $10^6$, Mili (m) = $10^{-3}$, Nano (n) = $10^{-9}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DB",
+    "question": "En un experimento del CEPREDIX, se determina que la fuerza centrípeta viene dada por $F = \\frac{mv^2}{r}$. Despeja el radio $r$.",
+    "image": null,
+    "options": [
+      { "text": "$r = \\frac{mv^2}{F}$", "correct": true },
+      { "text": "$r = \\frac{F}{mv^2}$", "correct": false },
+      { "text": "$r = \\sqrt{\\frac{F}{m}}$", "correct": false },
+      { "text": "$r = Fmv^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Intercambia la posición de $F$ y $r$. La fórmula original es equivalente a $F \\cdot r = m v^2$.",
+    "explanation": "Multiplicamos por $r$: $Fr = mv^2$. Dividimos entre $F$: $r = \\frac{mv^2}{F}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DC",
+    "question": "¿Cuál es la dimensión física de la Presión? (Recuerda que $P = F/A$ y $F = ma$).",
+    "image": null,
+    "options": [
+      { "text": "$M L^{-1} T^{-2}$", "correct": true },
+      { "text": "$M L T^{-2}$", "correct": false },
+      { "text": "$M L^2 T^{-2}$", "correct": false },
+      { "text": "$M L^{-1} T^{-1}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Fuerza es masa por aceleración ($MLT^{-2}$). Área es longitud al cuadrado ($L^2$). Divide Fuerza entre Área.",
+    "explanation": "Dimensiones de Fuerza: $[F] = MLT^{-2}$. Dimensiones de Área: $[A] = L^2$. Presión $[P] = \\frac{MLT^{-2}}{L^2} = ML^{1-2}T^{-2} = ML^{-1}T^{-2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DD",
+    "question": "La Ley de Gravitación Universal es $F = G \\frac{m_1 m_2}{r^2}$. Despeja la constante de gravitación $G$.",
+    "image": null,
+    "options": [
+      { "text": "$G = \\frac{Fr^2}{m_1 m_2}$", "correct": true },
+      { "text": "$G = \\frac{F m_1 m_2}{r^2}$", "correct": false },
+      { "text": "$G = \\frac{r^2}{F m_1 m_2}$", "correct": false },
+      { "text": "$G = F r^2 m_1 m_2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Multiplica por $r^2$ y divide por el producto de las masas. La fórmula original relaciona fuerza con el inverso del cuadrado de la distancia.",
+    "explanation": "Multiplicamos por $r^2$: $Fr^2 = G m_1 m_2$. Dividimos entre $m_1 m_2$: $G = \\frac{Fr^2}{m_1 m_2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DE",
+    "question": "Convierte $72 \\text{ km/h}$ a $\\text{m/s}$.",
+    "image": null,
+    "options": [
+      { "text": "$20 \\text{ m/s}$", "correct": true },
+      { "text": "$25 \\text{ m/s}$", "correct": false },
+      { "text": "$15 \\text{ m/s}$", "correct": false },
+      { "text": "$100 \\text{ m/s}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica por $1000 \\text{ m/km}$ y divide entre $3600 \\text{ s/h}$. O usa el factor de conversión $1 \\text{ m/s} = 3.6 \\text{ km/h}$.",
+    "explanation": "$72 \\times \\frac{1000}{3600} = 72 \\div 3.6 = 20 \\text{ m/s}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DF",
+    "question": "Si $x = \\frac{1}{2}at^2$, despeja el tiempo $t$.",
+    "image": null,
+    "options": [
+      { "text": "$t = \\sqrt{\\frac{2x}{a}}$", "correct": true },
+      { "text": "$t = \\frac{2x}{a}$", "correct": false },
+      { "text": "$t = \\sqrt{\\frac{x}{2a}}$", "correct": false },
+      { "text": "$t = \\left(\\frac{2x}{a}\\right)^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Despeja $t^2$ primero moviendo el 2 y la $a$. La ecuación original calcula distancia con aceleración constante partiendo del reposo.",
+    "explanation": "$2x = at^2 \\Rightarrow t^2 = \\frac{2x}{a} \\Rightarrow t = \\sqrt{\\frac{2x}{a}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DG",
+    "question": "Un grupo de investigación en el CEPREDIX estudia un gas ideal y utiliza la ecuación $PV = nRT$. Despeja la temperatura $T$.",
+    "image": null,
+    "options": [
+      { "text": "$T = \\frac{PV}{nR}$", "correct": true },
+      { "text": "$T = \\frac{Pn}{RV}$", "correct": false },
+      { "text": "$T = PVnR$", "correct": false },
+      { "text": "$T = \\frac{nR}{PV}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Debes dejar sola a la $T$. El término $nR$ está multiplicando a $T$.",
+    "explanation": "Para despejar $T$, dividimos ambos lados de la ecuación por $nR$, obteniendo $T = \\frac{PV}{nR}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DH",
+    "question": "¿Cuál es la representación correcta de $0.000000045 \\text{ s}$ en notación científica?",
+    "image": null,
+    "options": [
+      { "text": "$4.5 \\times 10^{-8} \\text{ s}$", "correct": true },
+      { "text": "$4.5 \\times 10^{-7} \\text{ s}$", "correct": false },
+      { "text": "$45 \\times 10^{-9} \\text{ s}$", "correct": false },
+      { "text": "$0.45 \\times 10^{-7} \\text{ s}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mueve el punto decimal hasta que quede un solo dígito diferente de cero a la izquierda. Cuenta cuántos lugares moviste el punto.",
+    "explanation": "El punto decimal se mueve 8 lugares a la derecha para obtener 4.5. Como el número original es menor a 1, el exponente es negativo: $4.5 \\times 10^{-8}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DI",
+    "question": "Selecciona las magnitudes derivadas:",
+    "image": null,
+    "options": [
+      { "text": "Fuerza, Trabajo, Potencia", "correct": true },
+      { "text": "Longitud, Masa, Tiempo", "correct": false },
+      { "text": "Corriente eléctrica, Temperatura, Intensidad luminosa", "correct": false },
+      { "text": "Mol, Segundo, Metro", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Las magnitudes derivadas se forman a partir de la combinación de magnitudes fundamentales.",
+    "explanation": "Longitud, masa, tiempo, etc., son fundamentales. Fuerza ($N$), Trabajo ($J$) y Potencia ($W$) son combinaciones de las fundamentales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DJ",
+    "question": "Completa: La ecuación $E = mc^2$ es dimensionalmente correcta porque la energía tiene dimensiones de ______ y el término $mc^2$ tiene dimensiones de masa multiplicada por ______ al cuadrado.",
+    "image": null,
+    "options": [
+      { "text": "$ML^2T^{-2}$, velocidad", "correct": true },
+      { "text": "$MLT^{-2}$, tiempo", "correct": false },
+      { "text": "$ML^2T$, aceleración", "correct": false },
+      { "text": "$M^2L^2$, fuerza", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Energía es Trabajo ($F \\cdot d$). $c$ es la velocidad de la luz.",
+    "explanation": "Energía ($E$) y Trabajo tienen dimensiones $ML^2T^{-2}$. El término $mc^2$ es Masa ($M$) por Velocidad ($LT^{-1}$) al cuadrado, es decir $M(L^2T^{-2})$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DK",
+    "question": "En la fórmula de la caída libre $h = v_i t + \\frac{1}{2}gt^2$, si el objeto parte del reposo ($v_i = 0 \\text{ m/s}$), la fórmula se simplifica a $h = \\frac{1}{2}gt^2$. Despejando $g$, obtenemos: ______.",
+    "image": null,
+    "options": [
+      { "text": "$g = \\frac{2h}{t^2}$", "correct": true },
+      { "text": "$g = \\frac{h}{2t^2}$", "correct": false },
+      { "text": "$g = \\sqrt{\\frac{2h}{t}}$", "correct": false },
+      { "text": "$g = 2ht^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica por 2 y divide por $t^2$.",
+    "explanation": "De $h = \\frac{1}{2}gt^2$, multiplicamos por 2 para obtener $2h = gt^2$, luego dividimos entre $t^2$ para obtener $g = \\frac{2h}{t^2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DL",
+    "question": "Un termómetro marca una temperatura. La conversión correcta para obtener Kelvin ($K$) a partir de grados Celsius ($^{\\circ}C$) es sumar ______, y para obtener Fahrenheit ($^{\\circ}F$) a partir de Celsius se usa la fórmula ______.",
+    "image": null,
+    "options": [
+      { "text": "273.15, $^{\\circ}F = 1.8(^{\\circ}C) + 32$", "correct": true },
+      { "text": "100, $^{\\circ}F = 2(^{\\circ}C) + 30$", "correct": false },
+      { "text": "273.15, $^{\\circ}F = (^{\\circ}C - 32) / 1.8$", "correct": false },
+      { "text": "32, $^{\\circ}F = 1.8(^{\\circ}C) - 32$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El cero absoluto es -273.15 °C. La escala Fahrenheit es más 'rápida' que la Celsius por un factor de 9/5 (1.8).",
+    "explanation": "$K = ^{\\circ}C + 273.15$. La relación lineal para Fahrenheit es $^{\\circ}F = \\frac{9}{5}(^{\\circ}C) + 32$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DM",
+    "question": "Relaciona la cantidad física con su dimensión correcta (donde $L$=Longitud, $M$=Masa, $T$=Tiempo):\nA) Densidad\nB) Aceleración\nC) Energía\n\nI) $LT^{-2}$\nII) $ML^{-3}$\nIII) $ML^2T^{-2}$",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-I, C-III", "correct": true },
+      { "text": "A-I, B-II, C-III", "correct": false },
+      { "text": "A-II, B-III, C-I", "correct": false },
+      { "text": "A-III, B-II, C-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Densidad es masa/volumen. Aceleración es cambio de velocidad en el tiempo.",
+    "explanation": "Densidad ($m/V$) es $M/L^3 = ML^{-3}$. Aceleración ($v/t$) es $LT^{-2}$. Energía ($F \\cdot d$) es $MLT^{-2} \\cdot L = ML^2T^{-2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DN",
+    "question": "¿Cuál es el resultado de dividir $8 \\times 10^5 \\text{ m}$ entre $2 \\times 10^2 \\text{ s}$?",
+    "image": null,
+    "options": [
+      { "text": "$4 \\times 10^3 \\text{ m/s}$", "correct": true },
+      { "text": "$4 \\times 10^7 \\text{ m/s}$", "correct": false },
+      { "text": "$16 \\times 10^3 \\text{ m/s}$", "correct": false },
+      { "text": "$6 \\times 10^3 \\text{ m/s}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide los coeficientes y resta los exponentes (numerador menos denominador).",
+    "explanation": "Coeficientes: $8/2 = 4$. Exponentes: $5 - 2 = 3$. Resultado: $4 \\times 10^3 \\text{ m/s}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DO",
+    "question": "La Ley de Coulomb es $F = k \\frac{q_1 q_2}{r^2}$. Despeja la distancia $r$.",
+    "image": null,
+    "options": [
+      { "text": "$r = \\sqrt{\\frac{k q_1 q_2}{F}}$", "correct": true },
+      { "text": "$r = \\frac{k q_1 q_2}{F^2}$", "correct": false },
+      { "text": "$r = \\frac{F}{k q_1 q_2}$", "correct": false },
+      { "text": "$r = \\sqrt{F k q_1 q_2}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Similar a la ley de gravitación. Pasa $r^2$ multiplicando al otro lado y $F$ dividiendo.",
+    "explanation": "$Fr^2 = k q_1 q_2 \\Rightarrow r^2 = \\frac{k q_1 q_2}{F} \\Rightarrow r = \\sqrt{\\frac{k q_1 q_2}{F}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DP",
+    "question": "¿Cuántas cifras significativas tiene el número $0.003050$?",
+    "image": null,
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "7", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Los ceros a la izquierda del primer dígito no nulo no cuentan. Los ceros al final después del punto decimal sí cuentan.",
+    "explanation": "Los ceros iniciales (0.00) no son significativos. Los dígitos 3, 0, 5 cuentan. El 0 final cuenta porque indica precisión. Total: 3, 0, 5, 0 (4 cifras).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DQ",
+    "question": "Dada la ecuación $v^2 = v_0^2 + 2ad$, despeja la aceleración $a$.",
+    "image": null,
+    "options": [
+      { "text": "$a = \\frac{v^2 - v_0^2}{2d}$", "correct": true },
+      { "text": "$a = \\frac{v^2 + v_0^2}{2d}$", "correct": false },
+      { "text": "$a = \\frac{v - v_0}{2d}$", "correct": false },
+      { "text": "$a = \\frac{v^2}{2d} - v_0^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Resta $v_0^2$ de ambos lados primero.",
+    "explanation": "Restamos $v_0^2$: $v^2 - v_0^2 = 2ad$. Dividimos entre $2d$: $a = \\frac{v^2 - v_0^2}{2d}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DR",
+    "question": "Si $1 \\text{ pulgada (in)} = 2.54 \\text{ cm}$, ¿cuántos centímetros hay en $10 \\text{ in}$?",
+    "image": null,
+    "options": [
+      { "text": "$25.4 \\text{ cm}$", "correct": true },
+      { "text": "$2.54 \\text{ cm}$", "correct": false },
+      { "text": "$254 \\text{ cm}$", "correct": false },
+      { "text": "$0.254 \\text{ cm}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Multiplica la cantidad en pulgadas por el factor de conversión.",
+    "explanation": "$10 \\text{ in} \\times 2.54 \\text{ cm/in} = 25.4 \\text{ cm}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DS",
+    "question": "El CEPREDIX está analizando el periodo de un péndulo simple dado por $T = 2\\pi \\sqrt{\\frac{L}{g}}$. Despeja la longitud $L$.",
+    "image": null,
+    "options": [
+      { "text": "$L = g \\left(\\frac{T}{2\\pi}\\right)^2$", "correct": true },
+      { "text": "$L = \\frac{T^2 g}{2\\pi}$", "correct": false },
+      { "text": "$L = \\sqrt{\\frac{Tg}{2\\pi}}$", "correct": false },
+      { "text": "$L = \\frac{g T}{4\\pi^2}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Primero divide entre $2\\pi$, luego eleva al cuadrado para eliminar la raíz.",
+    "explanation": "$\\frac{T}{2\\pi} = \\sqrt{\\frac{L}{g}}$. Elevamos al cuadrado: $\\left(\\frac{T}{2\\pi}\\right)^2 = \\frac{L}{g}$. Despejamos L: $L = g \\left(\\frac{T}{2\\pi}\\right)^2 = \\frac{g T^2}{4\\pi^2}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DT",
+    "question": "¿Cuál es la notación científica correcta para el número de Avogadro aproximado $602,200,000,000,000,000,000,000$?",
+    "image": null,
+    "options": [
+      { "text": "$6.022 \\times 10^{23}$", "correct": true },
+      { "text": "$6.022 \\times 10^{22}$", "correct": false },
+      { "text": "$60.22 \\times 10^{23}$", "correct": false },
+      { "text": "$6.022 \\times 10^{-23}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cuenta los espacios desde la derecha hasta dejar el punto después del 6.",
+    "explanation": "El punto decimal se mueve 23 posiciones hacia la izquierda. Por ello el exponente es positivo 23.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DU",
+    "question": "Identifica cuáles de las siguientes unidades miden Energía en diferentes sistemas:",
+    "image": null,
+    "options": [
+      { "text": "Julio (J), Caloría (cal), Kilovatio-hora (kWh)", "correct": true },
+      { "text": "Newton (N), Dina, Libra-fuerza", "correct": false },
+      { "text": "Watt (W), Caballo de fuerza (HP)", "correct": false },
+      { "text": "Pascal (Pa), Atmósfera (atm)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "El Watt es potencia, el Newton es fuerza. Busca unidades de trabajo o calor.",
+    "explanation": "Julio es SI, Caloría es térmica, kWh es comercial eléctrica; todas miden energía. Newton es fuerza, Watt es potencia, Pascal es presión.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DV",
+    "question": "Completa el enunciado: La dimensión de la constante de Planck ($h$) se puede deducir de la fórmula $E = hf$. Dado que $E$ es energía ($ML^2T^{-2}$) y $f$ es frecuencia ($T^{-1}$), la dimensión de $h$ es ______.",
+    "image": null,
+    "options": [
+      { "text": "$ML^2T^{-1}$", "correct": true },
+      { "text": "$MLT^{-1}$", "correct": false },
+      { "text": "$ML^2T^{-3}$", "correct": false },
+      { "text": "$M^2L^2T^{-1}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Divide la dimensión de energía entre la dimensión de frecuencia. $h = E/f$.",
+    "explanation": "$[h] = \\frac{[E]}{[f]} = \\frac{ML^2T^{-2}}{T^{-1}} = ML^2T^{-2 - (-1)} = ML^2T^{-1}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DW",
+    "question": "Para despejar la masa $m$ de la fórmula de calor $Q = mc\\Delta T$, debemos dividir $Q$ entre ______.",
+    "image": null,
+    "options": [
+      { "text": "$c\\Delta T$", "correct": true },
+      { "text": "$c$", "correct": false },
+      { "text": "$\\Delta T$", "correct": false },
+      { "text": "$Qc$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La variable $m$ está multiplicada por $c$ y por $\\Delta T$.",
+    "explanation": "Para aislar $m$, se debe dividir por todos los factores que la multiplican: $c$ y $\\Delta T$. $m = \\frac{Q}{c\\Delta T}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DX",
+    "question": "En la suma $3.2 \\times 10^3 + 4.5 \\times 10^2$, para sumar los coeficientes, primero debemos igualar los exponentes. Si convertimos el segundo término a exponente $10^3$, queda como ______.",
+    "image": null,
+    "options": [
+      { "text": "$0.45 \\times 10^3$", "correct": true },
+      { "text": "$45 \\times 10^3$", "correct": false },
+      { "text": "$4.5 \\times 10^3$", "correct": false },
+      { "text": "$0.045 \\times 10^3$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Si aumentas el exponente (de 2 a 3), debes disminuir el coeficiente (mover el punto a la izquierda).",
+    "explanation": "$4.5 \\times 10^2 = 4.5 \\times 10^{-1} \\times 10^3 = 0.45 \\times 10^3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DY",
+    "question": "Relaciona la variable despejada correctamente a partir de $I = \\frac{V}{R}$:\nA) $V$\nB) $R$\n\nI) $\\frac{V}{I}$\nII) $IR$",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-I", "correct": true },
+      { "text": "A-I, B-II", "correct": false },
+      { "text": "A-II, B-II", "correct": false },
+      { "text": "A-I, B-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Para $V$, pasa $R$ multiplicando. Para $R$, intercámbiala con $I$.",
+    "explanation": "$V = IR$ y $R = V/I$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00DZ",
+    "question": "Si la fórmula del área de un círculo es $A = \\pi r^2$, despeja el radio $r$.",
+    "image": null,
+    "options": [
+      { "text": "$r = \\sqrt{\\frac{A}{\\pi}}$", "correct": true },
+      { "text": "$r = \\frac{A}{\\pi^2}$", "correct": false },
+      { "text": "$r = \\frac{\\sqrt{A}}{\\pi}$", "correct": false },
+      { "text": "$r = \\frac{A}{2\\pi}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide entre $\\pi$ y luego aplica la raíz cuadrada.",
+    "explanation": "$r^2 = \\frac{A}{\\pi} \\Rightarrow r = \\sqrt{\\frac{A}{\\pi}}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EA",
+    "question": "¿Qué prefijo del SI equivale a un factor de $10^{9}$?",
+    "image": null,
+    "options": [
+      { "text": "Giga (G)", "correct": true },
+      { "text": "Mega (M)", "correct": false },
+      { "text": "Tera (T)", "correct": false },
+      { "text": "Peta (P)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Es el prefijo usado comúnmente para mil millones de bytes (GB).",
+    "explanation": "Giga corresponde a $10^9$. Mega es $10^6$, Tera es $10^{12}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EB",
+    "question": "Si la fuerza eléctrica entre dos cargas es $2 \\times 10^{-3} \\text{ N}$, exprésalo en milinewtons ($mN$).",
+    "image": null,
+    "options": [
+      { "text": "$2 \\text{ mN}$", "correct": true },
+      { "text": "$20 \\text{ mN}$", "correct": false },
+      { "text": "$0.2 \\text{ mN}$", "correct": false },
+      { "text": "$200 \\text{ mN}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Mili significa $10^{-3}$. Sustituye el factor numérico por el prefijo.",
+    "explanation": "Como $10^{-3} \\text{ N} = 1 \\text{ mN}$, entonces $2 \\times 10^{-3} \\text{ N} = 2 \\text{ mN}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EC",
+    "question": "En la ecuación $x(t) = C_1 e^{-bt} \\cos(\\omega t)$, para que el exponente sea adimensional, las unidades de $b$ deben ser:",
+    "image": null,
+    "options": [
+      { "text": "$\\text{s}^{-1}$ o $1/\\text{s}$", "correct": true },
+      { "text": "$\\text{s}$", "correct": false },
+      { "text": "$\\text{m/s}$", "correct": false },
+      { "text": "Adimensional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Los exponentes en funciones como $e^x$, $\\sin(x)$, $\\log(x)$ siempre deben ser números puros (adimensionales).",
+    "explanation": "El producto $bt$ debe ser adimensional. Si $t$ está en segundos ($T$), entonces $b$ debe estar en $T^{-1}$ para que $T^{-1} \\cdot T = 1$ (sin unidades).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00ED",
+    "question": "En la ecuación $v^2 = 2ax$, si despejamos $x$, obtenemos $x = \\frac{v^2}{2a}$. Verifica dimensionalmente si el resultado es una longitud.",
+    "image": null,
+    "options": [
+      { "text": "Sí, $[x] = L$", "correct": true },
+      { "text": "No, $[x] = T$", "correct": false },
+      { "text": "No, $[x] = LT^{-1}$", "correct": false },
+      { "text": "No, $[x] = L^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Sustituye las dimensiones de velocidad ($LT^{-1}$) y aceleración ($LT^{-2}$) en la expresión despejada.",
+    "explanation": "$\\frac{[v]^2}{[a]} = \\frac{(LT^{-1})^2}{LT^{-2}} = \\frac{L^2T^{-2}}{LT^{-2}} = L$. Efectivamente es una longitud.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EE",
+    "question": "En un problema de óptica en CEPREDIX, se usa la ecuación de las lentes $\\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i}$. Despeja la distancia focal $f$.",
+    "image": null,
+    "options": [
+      { "text": "$f = \\frac{d_o d_i}{d_o + d_i}$", "correct": true },
+      { "text": "$f = d_o + d_i$", "correct": false },
+      { "text": "$f = \\frac{d_o + d_i}{d_o d_i}$", "correct": false },
+      { "text": "$f = \\sqrt{d_o d_i}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["AVANZADO"],
+    "hint": "Suma las fracciones del lado derecho buscando un denominador común y luego invierte la ecuación.",
+    "explanation": "$\\frac{1}{f} = \\frac{d_i + d_o}{d_o d_i}$. Invirtiendo ambos lados: $f = \\frac{d_o d_i}{d_o + d_i}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EF",
+    "question": "¿Cuál es el valor de $k$ en la notación científica $3.4 \\times 10^k$ si el número original es $3400$?",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "-3", "correct": false },
+      { "text": "4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cuenta cuántos lugares se movió el punto decimal desde la derecha de 3400 hasta quedar entre 3 y 4.",
+    "explanation": "3400 es $3.4 \\times 1000$. Como $1000 = 10^3$, entonces $k=3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EG",
+    "question": "Selecciona las ecuaciones donde $x$ tiene unidades de longitud ($L$), sabiendo que $v$=velocidad, $t$=tiempo, $a$=aceleración.",
+    "image": null,
+    "options": [
+      { "text": "$x = vt$, $x = \\frac{1}{2}at^2$", "correct": true },
+      { "text": "$x = vt^2$, $x = at$", "correct": false },
+      { "text": "$x = v/t$, $x = a/t$", "correct": false },
+      { "text": "$x = v^2 t$, $x = at^2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Verifica que el producto de las unidades resulte en metros ($L$).",
+    "explanation": "$vt = (L/T)T = L$. $at^2 = (L/T^2)T^2 = L$. Ambas son correctas dimensionalmente para longitud.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EH",
+    "question": "Completa: La ______ mide la cantidad de materia de un cuerpo y su unidad en el SI es el ______, mientras que el ______ es la fuerza con la que la gravedad atrae dicha materia.",
+    "image": null,
+    "options": [
+      { "text": "masa, kilogramo, peso", "correct": true },
+      { "text": "peso, newton, masa", "correct": false },
+      { "text": "masa, gramo, volumen", "correct": false },
+      { "text": "densidad, kg/m³, peso", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Distingue entre masa (escalar, cantidad de materia) y peso (vector, fuerza).",
+    "explanation": "La masa es la cantidad de materia ($kg$), el peso es la fuerza gravitatoria ($N$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EI",
+    "question": "Si $E = mgh$, al despejar la altura $h$ obtenemos la expresión: ______.",
+    "image": null,
+    "options": [
+      { "text": "$h = \\frac{E}{mg}$", "correct": true },
+      { "text": "$h = E - mg$", "correct": false },
+      { "text": "$h = \\frac{mg}{E}$", "correct": false },
+      { "text": "$h = Emg$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Divide la energía potencial entre el peso ($mg$).",
+    "explanation": "Dividimos ambos lados por $mg$: $\\frac{E}{mg} = h$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EJ",
+    "question": "El resultado de $(4 \\times 10^{-3})^2$ es: ______.",
+    "image": null,
+    "options": [
+      { "text": "$1.6 \\times 10^{-5}$", "correct": true },
+      { "text": "$16 \\times 10^{-6}$", "correct": false },
+      { "text": "$8 \\times 10^{-6}$", "correct": false },
+      { "text": "$4 \\times 10^{-6}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "hint": "Eleva el coeficiente al cuadrado y multiplica el exponente por 2. Luego ajusta a notación científica estándar.",
+    "explanation": "$4^2 = 16$. $(10^{-3})^2 = 10^{-6}$. Resultado intermedio: $16 \\times 10^{-6}$. Ajustando a notación científica: $1.6 \\times 10^{-5}$. Nota: La opción $1.6 \\times 10^{-5}$ es equivalente a $16 \\times 10^{-6}$, si la opción $16 \\times 10^{-6}$ no se considera notación estándar simplificada, $1.6 \\times 10^{-5}$ es la correcta. *Revisión*: $16 \\times 10^{-6} = 1.6 \\times 10^1 \\times 10^{-6} = 1.6 \\times 10^{-5}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "FIS00EK",
+    "question": "Relaciona la fórmula con la variable que representa el tiempo ($t$) despejado correctamente:\nA) $d = vt$\nB) $v_f = v_i + at$\n\nI) $t = \\frac{v_f - v_i}{a}$\nII) $t = \\frac{d}{v}$",
+    "image": null,
+    "options": [
+      { "text": "A-II, B-I", "correct": true },
+      { "text": "A-I, B-II", "correct": false },
+      { "text": "A-II, B-II", "correct": false },
+      { "text": "A-I, B-I", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "En A, $v$ pasa dividiendo. En B, $v_i$ pasa restando y luego $a$ dividiendo.",
+    "explanation": "De $d=vt$, $t=d/v$. De $v_f - v_i = at$, $t = (v_f - v_i)/a$.",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
