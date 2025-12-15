@@ -1,1 +1,614 @@
-
+[
+  {
+    "id": "GYT00AA",
+    "question": "¿Cuál de las siguientes funciones representa una función exponencial?",
+    "image": null,
+    "options": [
+      { "text": "$f(x) = 4^x$", "correct": true },
+      { "text": "$f(x) = x^4$", "correct": false },
+      { "text": "$f(x) = 4x$", "correct": false },
+      { "text": "$f(x) = \\frac{4}{x}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda la forma general $f(x) = a^x$ donde $a$ es una constante positiva diferente de 1.",
+    "explanation": "Una función exponencial se caracteriza por tener la variable independiente en el exponente y una base constante positiva distinta de uno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AB",
+    "question": "Encuentra el valor de $x$ que satisface la ecuación $3^{x+1} = 81$.",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa 81 como una potencia de base 3. La propiedad es $a^m = a^n \\implies m=n$.",
+    "explanation": "Sabemos que $81 = 3^4$. Igualando las bases: $3^{x+1} = 3^4$. Por lo tanto, $x + 1 = 4$, lo que resulta en $x = 3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AC",
+    "question": "Selecciona la expresión logarítmica equivalente a la exponencial $2^5 = 32$.",
+    "image": null,
+    "options": [
+      { "text": "$\\log_2 32 = 5$", "correct": true },
+      { "text": "$\\log_5 32 = 2$", "correct": false },
+      { "text": "$\\log_{32} 2 = 5$", "correct": false },
+      { "text": "$\\log_2 5 = 32$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La definición es $base^{exponente} = resultado \\iff \\log_{base} (resultado) = exponente$.",
+    "explanation": "La base es 2, el exponente es 5 y el resultado es 32. En forma logarítmica se escribe como $\\log_2 32 = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AD",
+    "question": "¿Cuál es el valor de $x$ en la ecuación $\\log_3 x = 4$?",
+    "image": null,
+    "options": [
+      { "text": "81", "correct": true },
+      { "text": "12", "correct": false },
+      { "text": "64", "correct": false },
+      { "text": "7", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Convierte la expresión a su forma exponencial: $\\log_b a = c \\iff b^c = a$.",
+    "explanation": "Transformando a forma exponencial: $x = 3^4$. Calculando la potencia, $x = 3 \\cdot 3 \\cdot 3 \\cdot 3 = 81$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AE",
+    "question": "Identifica la propiedad correcta de los logaritmos para el producto de dos números.",
+    "image": null,
+    "options": [
+      { "text": "$\\log_a (xy) = \\log_a x + \\log_a y$", "correct": true },
+      { "text": "$\\log_a (xy) = \\log_a x \\cdot \\log_a y$", "correct": false },
+      { "text": "$\\log_a (xy) = \\log_a x - \\log_a y$", "correct": false },
+      { "text": "$\\log_a (xy) = x \\log_a y$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El logaritmo de un producto se transforma en una suma de logaritmos.",
+    "explanation": "La propiedad fundamental de los logaritmos establece que el logaritmo de un producto es igual a la suma de los logaritmos de los factores: $\\log_a (M \\cdot N) = \\log_a M + \\log_a N$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AF",
+    "question": "Un estudiante del CEPREDIX analiza el crecimiento de una colonia bacteriana modelada por $N(t) = 2^t$. ¿Cuántas bacterias habrá en el tiempo $t=5$?",
+    "image": null,
+    "options": [
+      { "text": "32", "correct": true },
+      { "text": "10", "correct": false },
+      { "text": "25", "correct": false },
+      { "text": "64", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Sustituye el valor del tiempo en el exponente de la función dada.",
+    "explanation": "El estudiante sustituye $t=5$ en la ecuación $N(5) = 2^5$. Al calcular la potencia, $2 \\cdot 2 \\cdot 2 \\cdot 2 \\cdot 2 = 32$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AG",
+    "question": "Resuelve para $x$ en la ecuación exponencial $5^{2x} = 25$.",
+    "image": null,
+    "options": [
+      { "text": "1", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "0.5", "correct": false },
+      { "text": "5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Iguala las bases. Recuerda que $25 = 5^2$.",
+    "explanation": "Expresamos 25 como $5^2$, entonces $5^{2x} = 5^2$. Igualando exponentes: $2x = 2$, por lo tanto $x = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AH",
+    "question": "¿Cuál es el valor de $\\log_7 1$?",
+    "image": null,
+    "options": [
+      { "text": "0", "correct": true },
+      { "text": "1", "correct": false },
+      { "text": "7", "correct": false },
+      { "text": "Indefinido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Cualquier número (distinto de cero) elevado a la potencia cero es igual a 1. $a^0 = 1$.",
+    "explanation": "Por propiedad de los logaritmos, el logaritmo de 1 en cualquier base positiva y diferente de 1 siempre es 0, ya que $7^0 = 1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AI",
+    "question": "Simplifica la expresión $\\log_a (a^5)$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "$a$", "correct": false },
+      { "text": "$5a$", "correct": false },
+      { "text": "1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la propiedad $\\log_a (a^n) = n$.",
+    "explanation": "El logaritmo base $a$ de $a$ elevado a una potencia es simplemente el exponente. Por lo tanto, $\\log_a (a^5) = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AJ",
+    "question": "Encuentra el valor de $x$ si $\\log_2 16 = x$.",
+    "image": null,
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Busca a qué potencia debes elevar 2 para obtener 16.",
+    "explanation": "Sabemos que $2^4 = 16$, por lo tanto, el logaritmo base 2 de 16 es 4.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AK",
+    "question": "¿Qué expresión representa correctamente $y = \\log_b x$ en forma exponencial?",
+    "image": null,
+    "options": [
+      { "text": "$b^y = x$", "correct": true },
+      { "text": "$y^b = x$", "correct": false },
+      { "text": "$x^y = b$", "correct": false },
+      { "text": "$b^x = y$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda: Base $\\to$ Resultado del logaritmo es el exponente $\\to$ Argumento es el resultado de la potencia.",
+    "explanation": "Por definición de logaritmo, si $y = \\log_b x$, entonces la base $b$ elevada al exponente $y$ es igual a $x$ ($b^y = x$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AL",
+    "question": "En una clase del CEPREDIX, se plantea la ecuación $\\log_x 64 = 2$ para encontrar la base desconocida. ¿Cuál es el valor de $x$?",
+    "image": null,
+    "options": [
+      { "text": "8", "correct": true },
+      { "text": "32", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Convierte a forma exponencial: $x^2 = 64$.",
+    "explanation": "El alumno transforma la ecuación a $x^2 = 64$. Como la base de un logaritmo debe ser positiva, la solución es $x = 8$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AM",
+    "question": "Desarrolla la expresión $\\log (\\frac{a}{b})$ usando propiedades.",
+    "image": null,
+    "options": [
+      { "text": "$\\log a - \\log b$", "correct": true },
+      { "text": "$\\frac{\\log a}{\\log b}$", "correct": false },
+      { "text": "$\\log a + \\log b$", "correct": false },
+      { "text": "$\\log (a - b)$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "El logaritmo de un cociente es la resta de los logaritmos.",
+    "explanation": "La propiedad del cociente establece que $\\log_n (\\frac{A}{B}) = \\log_n A - \\log_n B$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AN",
+    "question": "Resuelve la ecuación $2^{x-1} = 8$.",
+    "image": null,
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Escribe 8 como potencia de 2 ($2^3$).",
+    "explanation": "Igualando las bases: $2^{x-1} = 2^3$. Igualando exponentes: $x - 1 = 3$, por lo tanto $x = 4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AO",
+    "question": "¿Cuál es la expresión equivalente a $3 \\log x$?",
+    "image": null,
+    "options": [
+      { "text": "$\\log (x^3)$", "correct": true },
+      { "text": "$\\log (3x)$", "correct": false },
+      { "text": "$\\log (x+3)$", "correct": false },
+      { "text": "$\\frac{\\log x}{3}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Aplica la propiedad de la potencia: $n \\log a = \\log (a^n)$.",
+    "explanation": "El coeficiente que multiplica al logaritmo pasa como exponente del argumento: $3 \\log x = \\log (x^3)$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AP",
+    "question": "Calcula el valor de $x$ en $4^x = 1$.",
+    "image": null,
+    "options": [
+      { "text": "0", "correct": true },
+      { "text": "1", "correct": false },
+      { "text": "4", "correct": false },
+      { "text": "-1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que cualquier número elevado a la cero es 1.",
+    "explanation": "Para que una potencia con base diferente de cero sea igual a 1, el exponente debe ser 0. Por tanto, $x = 0$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AQ",
+    "question": "Encuentra el valor de $y$ si $y = \\log_5 125$.",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "5", "correct": false },
+      { "text": "25", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Pregúntate: ¿A qué potencia elevo 5 para obtener 125?",
+    "explanation": "Sabemos que $5^1=5$, $5^2=25$, $5^3=125$. Por lo tanto, el logaritmo es 3.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AR",
+    "question": "Un problema del CEPREDIX pide despejar $t$ de la ecuación de decaimiento $A = A_0 e^{kt}$. ¿Cuál es la expresión correcta?",
+    "image": null,
+    "options": [
+      { "text": "$t = \\frac{\\ln(A/A_0)}{k}$", "correct": true },
+      { "text": "$t = \\frac{\\ln A - \\ln A_0}{e}$", "correct": false },
+      { "text": "$t = k \\ln(A/A_0)$", "correct": false },
+      { "text": "$t = \\ln(A - A_0) - k$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Primero divide por $A_0$, luego aplica logaritmo natural (ln) a ambos lados.",
+    "explanation": "El estudiante divide $A/A_0 = e^{kt}$. Aplica $\\ln$: $\\ln(A/A_0) = kt$. Finalmente despeja $t$: $t = \\frac{\\ln(A/A_0)}{k}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AS",
+    "question": "Si $\\log_x 81 = 4$, ¿cuál es el valor de $x$?",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "9", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Escribe en forma exponencial: $x^4 = 81$.",
+    "explanation": "Buscamos un número que multiplicado por sí mismo 4 veces de 81. $3^4 = 3 \\cdot 3 \\cdot 3 \\cdot 3 = 81$. La base es 3.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AT",
+    "question": "La función inversa de $f(x) = e^x$ es:",
+    "image": null,
+    "options": [
+      { "text": "$f^{-1}(x) = \\ln x$", "correct": true },
+      { "text": "$f^{-1}(x) = \\frac{1}{e^x}$", "correct": false },
+      { "text": "$f^{-1}(x) = \\log_{10} x$", "correct": false },
+      { "text": "$f^{-1}(x) = x^e$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La operación opuesta a la exponencial natural es el logaritmo natural.",
+    "explanation": "La función logaritmo natural ($\\ln x$) se define como la inversa de la función exponencial natural ($e^x$).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AU",
+    "question": "Resuelve la ecuación $3^x = \\frac{1}{9}$.",
+    "image": null,
+    "options": [
+      { "text": "-2", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "-3", "correct": false },
+      { "text": "0.5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\frac{1}{a^n} = a^{-n}$. Expresa $1/9$ como potencia de 3.",
+    "explanation": "Sabemos que $9 = 3^2$, así que $\\frac{1}{9} = 3^{-2}$. Entonces $3^x = 3^{-2} \\implies x = -2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AV",
+    "question": "Simplifica la expresión $\\log_2 8 + \\log_2 4$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "32", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Calcula cada logaritmo por separado: $\\log_2 8 = 3$ y $\\log_2 4 = 2$.",
+    "explanation": "$\\log_2 8 = 3$ (porque $2^3=8$) y $\\log_2 4 = 2$ (porque $2^2=4$). La suma es $3 + 2 = 5$. También se puede usar la propiedad del producto: $\\log_2(8 \\cdot 4) = \\log_2 32 = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AW",
+    "question": "Encuentra el valor de $x$ en la ecuación $10^{x+2} = 1000$.",
+    "image": null,
+    "options": [
+      { "text": "1", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "0", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Escribe 1000 como potencia de 10.",
+    "explanation": "$1000 = 10^3$. La ecuación es $10^{x+2} = 10^3$. Igualando exponentes: $x+2=3 \\implies x=1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AX",
+    "question": "En un examen simulacro del CEPREDIX, se pide calcular la intensidad de un sismo usando $\\log(\\frac{I}{S}) = R$. Si $R=5$ y $S=1$, ¿cuál es el valor de $I$?",
+    "image": null,
+    "options": [
+      { "text": "$10^5$", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "50", "correct": false },
+      { "text": "$e^5$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\log$ sin base escrita implica base 10.",
+    "explanation": "El estudiante identifica la base 10. $\\log_{10} I = 5$. Convirtiendo a exponencial: $I = 10^5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AY",
+    "question": "¿Cuál es la forma logarítmica de $5^{-2} = \\frac{1}{25}$?",
+    "image": null,
+    "options": [
+      { "text": "$\\log_5 (\\frac{1}{25}) = -2$", "correct": true },
+      { "text": "$\\log_{-2} (\\frac{1}{25}) = 5$", "correct": false },
+      { "text": "$\\log_5 (-2) = \\frac{1}{25}$", "correct": false },
+      { "text": "$\\log_{25} 5 = -2$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La base de la potencia se convierte en la base del logaritmo.",
+    "explanation": "La base es 5, el resultado es $1/25$ y el exponente es -2. Se escribe como $\\log_5 (1/25) = -2$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00AZ",
+    "question": "Calcula el valor de $\\log_4 64$.",
+    "image": null,
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "16", "correct": false },
+      { "text": "2", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "¿Cuántas veces multiplicas 4 por sí mismo para obtener 64?",
+    "explanation": "$4 \\times 4 = 16$, $16 \\times 4 = 64$. Como $4^3 = 64$, el logaritmo es 3.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BA",
+    "question": "Indica cuál de las siguientes igualdades es FALSA según las propiedades de los logaritmos.",
+    "image": null,
+    "options": [
+      { "text": "$\\log (a+b) = \\log a + \\log b$", "correct": true },
+      { "text": "$\\log (a/b) = \\log a - \\log b$", "correct": false },
+      { "text": "$\\log (a^n) = n \\log a$", "correct": false },
+      { "text": "$\\log_a a = 1$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Revisa si existe una propiedad para la suma de argumentos.",
+    "explanation": "No existe propiedad que separe el logaritmo de una suma en suma de logaritmos. $\\log (a+b) \\neq \\log a + \\log b$. La propiedad correcta es para el producto: $\\log (ab) = \\log a + \\log b$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BB",
+    "question": "Resuelve la ecuación $7^{x-3} = 49$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "4", "correct": false },
+      { "text": "6", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa 49 como $7^2$.",
+    "explanation": "$7^{x-3} = 7^2 \\implies x - 3 = 2 \\implies x = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BC",
+    "question": "Encuentra el valor de $x$ en $\\log_2 (x/2) = 3$.",
+    "image": null,
+    "options": [
+      { "text": "16", "correct": true },
+      { "text": "8", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "10", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Convierte a exponencial: $x/2 = 2^3$.",
+    "explanation": "Primero resolvemos la potencia: $2^3 = 8$. Entonces $x/2 = 8$. Multiplicando por 2, obtenemos $x = 16$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BD",
+    "question": "Un alumno del CEPREDIX resuelve la ecuación $\\ln e^x = 5$. ¿Cuál es la respuesta correcta?",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "$e^5$", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "0", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Recuerda que $\\ln e = 1$ y usa la propiedad de potencia $\\ln e^x = x \\ln e$.",
+    "explanation": "El alumno aplica la propiedad de logaritmos: $\\ln e^x = x$. Por lo tanto, directamente $x = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BE",
+    "question": "¿Cuál es el dominio de la función $f(x) = \\log_2 x$?",
+    "image": null,
+    "options": [
+      { "text": "Números reales positivos ($x > 0$)", "correct": true },
+      { "text": "Todos los números reales", "correct": false },
+      { "text": "Números mayores o iguales a cero ($x \\geq 0$)", "correct": false },
+      { "text": "Números negativos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "No existen logaritmos de números negativos ni de cero en los reales.",
+    "explanation": "La función logarítmica solo está definida para argumentos estrictamente positivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BF",
+    "question": "Expresa $4^x = 64$ en forma logarítmica.",
+    "image": null,
+    "options": [
+      { "text": "$\\log_4 64 = x$", "correct": true },
+      { "text": "$\\log_x 64 = 4$", "correct": false },
+      { "text": "$\\log_{64} 4 = x$", "correct": false },
+      { "text": "$\\log_4 x = 64$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "La base se mantiene, el exponente pasa a ser el resultado.",
+    "explanation": "La ecuación exponencial $4^x = 64$ es equivalente a $\\log_4 64 = x$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BG",
+    "question": "Simplifica $5^{\\log_5 10}$.",
+    "image": null,
+    "options": [
+      { "text": "10", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "50", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Propiedad inversa: $a^{\\log_a x} = x$.",
+    "explanation": "La exponencial y el logaritmo de la misma base se anulan, dejando solo el argumento. El resultado es 10.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BH",
+    "question": "Resuelve la ecuación $\\log_3 (2x - 1) = 2$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "10", "correct": false },
+      { "text": "3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Convierte a exponencial: $2x - 1 = 3^2$.",
+    "explanation": "$2x - 1 = 9 \\implies 2x = 10 \\implies x = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BI",
+    "question": "Calcula $\\log_{10} 0.1$.",
+    "image": null,
+    "options": [
+      { "text": "-1", "correct": true },
+      { "text": "1", "correct": false },
+      { "text": "0", "correct": false },
+      { "text": "-10", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Expresa 0.1 como fracción ($1/10$) o potencia ($10^{-1}$).",
+    "explanation": "$0.1 = 10^{-1}$. Por lo tanto, $\\log_{10} 10^{-1} = -1$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "GYT00BJ",
+    "question": "El profesor del CEPREDIX pregunta: Si $a^x = b$, ¿cómo se expresa $x$?",
+    "image": null,
+    "options": [
+      { "text": "$x = \\log_a b$", "correct": true },
+      { "text": "$x = \\log_b a$", "correct": false },
+      { "text": "$x = a^b$", "correct": false },
+      { "text": "$x = \\sqrt[a]{b}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "hint": "Usa la definición fundamental de logaritmo.",
+    "explanation": "El estudiante responde correctamente que el exponente $x$ es el logaritmo en base $a$ del número $b$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
