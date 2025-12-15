@@ -1834,5 +1834,958 @@
     "explanation": "El silencio pragmático comunica: puede otorgar turno (Fática), mostrar enojo (Emotiva) o castigar (Apelativa).",
     "explanative_video": null,
     "collapsible_text": null
+  },
+  {
+    "id": "RIG00EE",
+    "question": "¿En qué oración se establece una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "Si hay genuino amor y honestidad, las personas tienen libertad para elegir a sus parejas", "correct": true },
+      { "text": "La ópera debe ser innovadora y única en sí misma, llena de mágicos realismo y libertad", "correct": false },
+      { "text": "El libro está escrito con agudas inteligencia y humor; representa las ideas de su autor", "correct": false },
+      { "text": "Si hubieran genuino amor y honestidad, las personas tienen libertad para elegir a sus parejas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Verifica la concordancia de los adjetivos con múltiples sustantivos y el uso impersonal del verbo 'haber'.",
+    "explanation": "La opción correcta usa el verbo 'hay' de forma impersonal (siempre singular). En las incorrectas, 'mágicos' (plural) no concuerda con 'realismo' (singular) y 'agudas' (femenino plural) no concuerda con 'humor' (masculino singular).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EF",
+    "question": "¿En cuál enunciado se establece una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "El clero jesuita fue expulsado de América debido a su intromisión política", "correct": true },
+      { "text": "Todo el equipo de la tripulación trabajan para que su viaje sea más placentero", "correct": false },
+      { "text": "La selección femenil que jugó en el estadio municipal perdieron lastimosamente en penales", "correct": false },
+      { "text": "La mayoría de los integrantes del clero fueron expulsados de América", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Identifica el núcleo del sujeto. Si es un sustantivo colectivo en singular (clero, equipo, selección), el verbo debe ir en singular.",
+    "explanation": "El sujeto 'El clero jesuita' es un sustantivo colectivo singular, por lo que concuerda correctamente con 'fue expulsado'. En las otras opciones, 'equipo' y 'selección' son singulares, pero los verbos 'trabajan' y 'perdieron' están incorrectamente en plural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EG",
+    "question": "¿En cuál enunciado se establece una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "Los amores murieron y sus frutos huyeron en busca de la felicidad, como si esta existiera en algún lugar del mundo", "correct": true },
+      { "text": "Desgraciadamente, la envidia y el éxito van en paquete, y hay que saber tomarles en su justa medida", "correct": false },
+      { "text": "Analizados la Ley de Participación Ciudadana y el Código Civil, el comité concluyó que aquel debe ser derogado", "correct": false },
+      { "text": "Los amores murió y sus frutos huyó en busca de la felicidad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Revisa el uso de pronombres átonos (lo/la/le) y la concordancia de pronombres demostrativos.",
+    "explanation": "La primera opción mantiene concordancia plural correcta. La segunda opción comete leísmo ('tomarles' en lugar de 'tomarlos'). La tercera opción usa 'aquel' (singular) para referirse ambiguamente a dos elementos anteriores o a uno femenino ('Ley').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EH",
+    "question": "Con base en el contexto, seleccione la opción que expresa la misma idea que la palabra resaltada en negritas. \"Esta mañana, mientras paseaba por el bosque, me encontré a Ramiro; platicamos durante dos horas de diversos temas (futbol, política y religión). En fin, me pareció un hombre **afable**.\"",
+    "image": null,
+    "options": [
+      { "text": "agradable", "correct": true },
+      { "text": "afectuoso", "correct": false },
+      { "text": "atento", "correct": false },
+      { "text": "indiferente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Busca un sinónimo que describa un trato suave, cordial y accesible.",
+    "explanation": "'Afable' significa agradable, dulce, suave en la conversación y el trato. 'Afectuoso' implica cariño (más intenso) y 'atento' cortesía, pero 'agradable' es el sinónimo más preciso en este contexto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EI",
+    "question": "¿En qué oración se emplean correctamente las grafías?",
+    "image": null,
+    "options": [
+      { "text": "Casi todos los cangrejos ermitaños suelen ahuecarse con los golpes", "correct": true },
+      { "text": "El hermoso sonido de la viuela se destacó en el siglo XVI", "correct": false },
+      { "text": "La historia revela que Álvaro de Campos fue un eterónimo de Pessoa", "correct": false },
+      { "text": "Casi todos los cangrejos ermitaños suelen auecarse con los golpes", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Revisa el uso de la 'h' intercalada y la ortografía de instrumentos antiguos y prefijos griegos.",
+    "explanation": "'Ahuecarse' lleva 'h' porque proviene de hueco (las palabras que inician con el diptongo 'ue' llevan 'h' inicial, y al tener prefijo la conservan). 'Viuela' debe ser 'vihuela' y 'eterónimo' debe ser 'heterónimo' (prefijo hetero-).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EJ",
+    "question": "Identifique el enunciado con la puntuación correcta.",
+    "image": null,
+    "options": [
+      { "text": "El meridiano de Greenwich, línea imaginaria llamada así por el distrito londinense por el que pasa, sirve de referencia para medir las longitudes.", "correct": true },
+      { "text": "El rector, el secretario académico y la coordinadora de la licenciatura, asistieron a la graduación de la primera generación de egresados.", "correct": false },
+      { "text": "La energía solar, eólica, hidráulica, geotérmica, marina, la biomasa y el biogás, representan algunas alternativas de energías sostenibles.", "correct": false },
+      { "text": "El meridiano de Greenwich línea imaginaria llamada así por el distrito londinense por el que pasa sirve de referencia para medir las longitudes.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Evita la 'coma criminal' que separa al sujeto del predicado, a menos que sea una aclaración (aposición) encerrada entre dos comas.",
+    "explanation": "La frase 'línea imaginaria...' es una aposición explicativa y debe ir entre comas. Las otras opciones separan incorrectamente el sujeto compuesto del verbo ('asistieron', 'representan') con una sola coma.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EK",
+    "question": "Una editorial solicitó un prólogo para la publicación de su más reciente obra literaria. ¿Cuál es la opción que se adecúa a esta finalidad?",
+    "image": null,
+    "options": [
+      { "text": "La margarita partió esta tarde es, pues, la manera en la que Rosa Cienfuegos ha logrado definir el amor y retratarlo de forma tal que el lector ensimismado sentirá cada historia como la experiencia más personal. Lo anterior se debe a que, como toda buena literatura, la escritura de Cienfuegos logra que lo individual y anecdótico sea el mejor vehículo para comunicar lo universal", "correct": true },
+      { "text": "Conocer la superficie ha trascendido el mundo literario por ser una novela que denuncia el racismo en contextos aparentemente progresistas. Su denuncia que el racismo como vehículo de autora, Luna Flores, ha recurrido al sentido del humor, lo cual ha hecho que la obra esté siendo tan popular que ya se prepara una segunda reimpresión para finales de mes", "correct": false },
+      { "text": "Bárbara Rodríguez, autora de Las esmeraldas encontradas, nació en el estado de Zacatecas, donde desde muy joven empezó a escribir. Según sus amigos más cercanos, ella afirmaba haberlo hecho de una forma \"casi instintiva\" porque \"mientras los otros niños hacían dibujos en las paredes, yo escribía palabras\". Tomando en cuenta lo anterior, podríamos decir que esas primeras obras nos serán eternamente desconocidas", "correct": false },
+      { "text": "¡Lee este libro increíble! Rosa Cienfuegos es la mejor escritora del mundo y te va a encantar su forma de definir el amor.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "El prólogo debe presentar la obra, analizar su contenido y estilo, y preparar al lector, usando un lenguaje formal y literario.",
+    "explanation": "La opción correcta cumple la función de presentar y analizar la obra literaria con un registro adecuado. Las otras opciones parecen una nota de ventas o una biografía de la autora.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EL",
+    "question": "De acuerdo con el contexto, elija la opción con significado contrario a la palabra en negritas. \"Es **preciso** arreglar los techos de la escuela antes de que inicie la temporada de lluvias; si no lo hacemos, el agua se meterá a los salones.\"",
+    "image": null,
+    "options": [
+      { "text": "innecesario", "correct": true },
+      { "text": "impreciso", "correct": false },
+      { "text": "indeterminado", "correct": false },
+      { "text": "urgente", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "En este contexto, 'preciso' significa necesario o indispensable.",
+    "explanation": "El antónimo contextual de 'necesario' (significado de 'preciso' aquí) es 'innecesario'. 'Impreciso' sería el antónimo si se hablara de exactitud.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EM",
+    "question": "Identifique la oración en la que se utiliza de forma correcta el término marcado en negritas.",
+    "image": null,
+    "options": [
+      { "text": "Después de la pelea, el jugador tomó de nuevo su lugar en la caja de bateo, **o sea**, la zona rectangular delineada", "correct": true },
+      { "text": "El entrenador admira lo que hizo su jugador para ganar, **asimismo**, practicar arduamente todos los días", "correct": false },
+      { "text": "Para ganar la anhelada medalla olímpica, **en cambio**, debes dormir ocho horas, alimentarte bien y correr cien metros", "correct": false },
+      { "text": "El entrenador admira lo que hizo su jugador para ganar, **o sea**, practicar arduamente todos los días", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Busca el conector que sirva para explicar o definir lo dicho anteriormente.",
+    "explanation": "'O sea' introduce una explicación o aclaración. Las otras opciones usan conectores ('asimismo', 'en cambio') que no encajan lógicamente con la estructura sintáctica o el sentido de la frase.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EN",
+    "question": "¿En cuál oración existe una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "Una enorme cantidad de sitios ceremoniales permanecen ocultos por la selva", "correct": true },
+      { "text": "Multitud de transportistas y simpatizantes se concentró afuera de Palacio Nacional", "correct": false },
+      { "text": "Infinidad de insectos vive y se reproduce en la cuenca del río Papaloapan", "correct": false },
+      { "text": "La cantidad de sitios ceremoniales permanecen ocultos por la selva", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Considera la concordancia 'ad sensum' (por el sentido) cuando se usan cuantificadores como 'cantidad de' seguidos de un sustantivo plural.",
+    "explanation": "Aunque 'cantidad' es singular, al referirse a 'sitios ceremoniales' (plural), el verbo 'permanecen' y el adjetivo 'ocultos' en plural son aceptables y preferidos por el sentido. Es la opción más coherente internamente frente a las otras que mezclan singular y plural de forma menos natural.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EO",
+    "question": "¿En cuál oración existe una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "La que fue galardonada por el gobierno de Colima como mejor divulgadora de la ciencia resultó ser Julieta Fierro", "correct": true },
+      { "text": "Aquellas que tienen las peores condiciones de vida son los animales que más evolucionan si logran sobrevivir", "correct": false },
+      { "text": "Siempre que llegan las lluvias, le cambia totalmente el aspecto a las selvas bajas caducifolias de la región", "correct": false },
+      { "text": "El que fue galardonada por el gobierno de Colima como mejor divulgadora de la ciencia resultó ser Julieta Fierro", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Verifica la concordancia de género y número entre el sujeto, el pronombre relativo y el predicado.",
+    "explanation": "'La que' concuerda en femenino singular con 'Julieta Fierro'. En la opción incorrecta, 'Aquellas' (femenino) no concuerda con 'animales' (masculino). En la otra, 'le cambia' es leísmo incorrecto, debería ser 'les cambia' (a las selvas).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EP",
+    "question": "Identifique la oración en la que se utiliza de forma correcta el término marcado en negritas.",
+    "image": null,
+    "options": [
+      { "text": "A nivel mundial, solo el 3 % del agua es dulce y se encuentra en ríos y vertientes. **En consecuencia**, de este 3 % únicamente el 1 % llega a ser potable", "correct": true },
+      { "text": "El periodista ha cambiado con el paso del tiempo. Ha pasado, **pues**, de escribir en máquina mecánica a hacerlo en redes sociales y medios virtuales", "correct": false },
+      { "text": "En las vísperas del Año Nuevo se realiza limpieza general y se adorna toda la casa. **A todo esto**, se prepara la comida y se queman fuegos artificiales", "correct": false },
+      { "text": "A nivel mundial, solo el 3 % del agua es dulce y se encuentra en ríos y vertientes. **No obstante**, de este 3 % únicamente el 1 % llega a ser potable", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Busca el conector que indique una deducción lógica o resultado directo.",
+    "explanation": "'En consecuencia' introduce correctamente el resultado de la premisa anterior. 'Pues' en el segundo ejemplo y 'A todo esto' en el tercero son usos coloquiales o imprecisos para el contexto formal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EQ",
+    "question": "Identifique la oración en la que se utilizan correctamente las grafías.",
+    "image": null,
+    "options": [
+      { "text": "Además de su destacada trayectoria como maratonista, la atleta ha participado como entrenadora de la delegación olímpica de su país", "correct": true },
+      { "text": "La serpiente es una especie que logra enguyir animales más grandes (ciervos, caimanes o vacas) sin masticar previamente", "correct": false },
+      { "text": "Después de investigar sobre los hechos y las hazañas que se atribullen al Cid, el historiador afirma que estos eventos nunca ocurrieron", "correct": false },
+      { "text": "Además de su destacada trayecctoria como maratonista, la atleta ha participado como entrenadora de la delegación olímpica de su país", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Revisa los verbos terminados en -ullir y -uir.",
+    "explanation": "'Trayectoria', 'atleta', 'olímpica' están escritas correctamente. 'Enguyir' es incorrecto (debe ser 'engullir') y 'atribullen' es incorrecto (debe ser 'atribuyen').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00ER",
+    "question": "¿En cuál oración se establece una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "El día de nuestra graduación de maestría nos pidieron ir vestidas con saco y falda rojos", "correct": true },
+      { "text": "La niña que cumplió años el día de ayer terminó con los zapatos y la ropa hechas un desastre", "correct": false },
+      { "text": "En la tienda de antigüedades que está junto a mi casa venden sillones y mesas viejas", "correct": false },
+      { "text": "El día de nuestra graduación de maestría nos pidieron ir vestidas con saco y falda rojas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Cuando un adjetivo califica a dos sustantivos de diferente género, debe ir en masculino plural.",
+    "explanation": "'Rojos' (masculino plural) es correcto porque califica a 'saco' (masculino) y 'falda' (femenino). En las otras opciones, 'hechas' y 'viejas' solo concuerdan con el sustantivo más cercano o femenino, lo cual es incorrecto cuando modifican a ambos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00ES",
+    "question": "Identifique el enunciado con la puntuación correcta.",
+    "image": null,
+    "options": [
+      { "text": "\"¿Qué cultura floreció a orillas del río Ganges?\", preguntó el profesor a sus alumnos. ¡Nadie contestó!", "correct": true },
+      { "text": "¿El cliente ya validó la propuesta? ¿Cuándo tendremos una respuesta para comenzar con la construcción del edificio?.", "correct": false },
+      { "text": "¡Debe haber un error en los datos!, ¡No puede ser que la reservación de las dos habitaciones haya sido cancelada!, ¡Revise!.", "correct": false },
+      { "text": "\"¿Qué cultura floreció a orillas del río Ganges?\", preguntó el profesor a sus alumnos ¡Nadie contestó!", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Los signos de cierre de interrogación (?) y exclamación (!) ya funcionan como punto. No se debe colocar punto después de ellos.",
+    "explanation": "La opción correcta usa coma después del signo de interrogación de cierre para continuar con el inciso narrativo. Las opciones incorrectas agregan un punto innecesario después de '?' o '!'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00ET",
+    "question": "¿Qué texto ejemplifica la relatoría de una conferencia magistral en la Facultad de Filosofía y Letras?",
+    "image": null,
+    "options": [
+      { "text": "En el segundo día de actividades del Foro Académico de Poesía, la licenciada Yunuén Malagón presentó la conferencia magistral \"Poesía y rap\". En ésta describió los mecanismos que el rap ha tomado del género lírico y la manera en que los ha renovado, emparentando este arte urbano con la larga tradición de la poesía. Los asistentes fueron más de 50 y todos escucharon con sumo interés la conferencia", "correct": true },
+      { "text": "A las 9:00 horas inició la conferencia de la licenciada Yunuén Malagón, titulada \"Poesía y rap\". Ella dice que estos dos géneros comparten características, ya que ambos vuelven bonita la lengua. También explicó cómo surgió la poesía en Grecia y luego dijo cómo el rap retomó todo eso y lo adaptó. Bueno, sobra decir que los asistentes estuvieron muy interesados en el tema y la conferencia fue un éxito", "correct": false },
+      { "text": "Bueno, en el punto de las 9 Yunuén comenzó su plática en el auditorio de la facultad. Primero dijo algo de los orígenes de la poesía; explicó que el rap y la poesía tienen mucho que ver porque los dos usan cosas como el ritmo y la métrica y la rima y los dos hacen arte. Luego dio algunos ejemplos que sacó de sus investigaciones. Todos estaban bien interesados", "correct": false },
+      { "text": "La conferencia estuvo padrísima. Yunuén habló de rap y poesía. Dijo que son lo mismo básicamente. Todos aplaudieron mucho al final.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Busca el texto con registro formal, objetivo y vocabulario académico ('mecanismos', 'género lírico', 'renovado').",
+    "explanation": "La opción correcta utiliza un lenguaje formal adecuado para el ámbito universitario. Las otras opciones son demasiado coloquiales ('bonita la lengua', 'plática', 'bien interesados').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EU",
+    "question": "Elija el enunciado que está acentuado correctamente.",
+    "image": null,
+    "options": [
+      { "text": "Mis amigos cumplieron dieciséis años de casados; lo festejaron en un salón de fiestas con paella recién hecha y exquisito vino tinto español", "correct": true },
+      { "text": "En Tlaxcala, el santuario de las luciernagas ofrece periodicamente en junio y julio la oportunidad de disfrutar de un fenómeno natural de máxima belleza", "correct": false },
+      { "text": "Los murcielagos son animales pequeños, huéspedes de las profundidades de las cuevas; son los únicos mamíferos voladores que existen", "correct": false },
+      { "text": "Mis amigos cumplieron dieciseis años de casados; lo festejaron en un salón de fiestas con paella recien hecha y exquisito vino tinto español", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Recuerda las reglas de acentuación para palabras agudas (dieciséis, recién) y esdrújulas.",
+    "explanation": "'Dieciséis' lleva tilde por ser aguda terminada en 's'. 'Recién' lleva tilde por ser aguda terminada en 'n'. Las otras opciones omiten tildes en 'luciérnagas', 'periódicamente' y 'murciélagos'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EV",
+    "question": "Elija la oración que está acentuada de forma correcta.",
+    "image": null,
+    "options": [
+      { "text": "El estatuto contiene veintiún artículos que norman la vida universitaria", "correct": true },
+      { "text": "Las habilidades linguisticas del estudiante se fortalecen durante su educación", "correct": false },
+      { "text": "Los jesuítas siempre se han distinguido por tener una intensa actividad intelectual", "correct": false },
+      { "text": "El estatuto contiene veintiun artículos que norman la vida universitaria", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Analiza los hiatos y diptongos. 'Veintiún' lleva tilde por hiato o aguda terminada en 'n'. 'Jesuitas' tiene diptongo 'ui', es grave terminada en 's', no lleva tilde.",
+    "explanation": "'Veintiún' se acentúa correctamente. 'Lingüísticas' requiere diéresis y tilde. 'Jesuitas' no lleva tilde porque 'ui' forma diptongo ortográfico y es palabra grave terminada en 's'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EW",
+    "question": "Un estudiante entrega la reseña de un libro a un profesor. ¿Cuál de las versiones resulta apropiada a esta situación comunicativa?",
+    "image": null,
+    "options": [
+      { "text": "Si bien el autor logra retratar adecuadamente la idiosincrasia de los distintos personajes que aparecen en esta novela, no me parece verosímil la manera en la que resolvió el conflicto; este final poco satisfactorio, a mi parecer, demerita considerablemente la calidad general del texto, por lo que no me atrevería a recomendarlo", "correct": true },
+      { "text": "El escritor de esta novela tan interesante nos enfrenta a unos personajes muy bien hechos que sí parecen reales, pero no me gusta cómo se acaba la novela, entonces a mí me parece que no es muy buena y por eso no creo que sea correcto que yo se las recomiende", "correct": false },
+      { "text": "El autor se avienta unos personajes muy acordes a la realidad, pero nos da un final poco creíble que no termina de convencer; entonces, aunque los personajes están muy chidos, el desenlace poco trabajado termina por echar abajo el nivel de esta novela. No la recomiendo: tres estrellas de cinco", "correct": false },
+      { "text": "La neta el libro está medio raro, los monos están bien pero el final chafa. No le doy mi like.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Elige la opción con vocabulario preciso, crítico y formal ('idiosincrasia', 'verosímil', 'demerita').",
+    "explanation": "La opción correcta utiliza un registro formal adecuado para una reseña académica. Las otras opciones usan expresiones coloquiales ('muy chidos', 'se avienta') inapropiadas para el contexto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EX",
+    "question": "El profesor de Ecología solicita a sus estudiantes que elaboren un ensayo sobre la huella de carbono. ¿Cuál opción se adecúa a esta finalidad?",
+    "image": null,
+    "options": [
+      { "text": "Las diferencias en el cálculo de la huella ecológica, métrica que compara la demanda de recursos de individuos, gobiernos y empresas con la capacidad de la Tierra para la regeneración biológica, muestran una distribución inequitativa de los servicios ecosistémicos y, por ende, un acceso desigual al bienestar que proporcionan y que es fundamental para la vida", "correct": true },
+      { "text": "Aunada a la brecha social, existe una brecha ecológica. En el norte hay una baja superficie de ecosistemas naturales y una baja capacidad de captación de energía que contrasta enormemente con su altísima huella ecológica porque requieren una mayor cantidad de producción y fijación de biomasa, además de que la satisfacción del consumo de recursos depende de la captación de la biodiversidad", "correct": false },
+      { "text": "La huella ecológica considera que el consumo de recursos y la generación de desechos puede convertirse en la superficie productiva de lo que se vendría ocupando para mantener el consumo y absorber los desechos. Es importante reconocer que detrás del desarrollo y de las calidades de vida está el consumo y la dependencia hacia los servicios ecosistémicos y los combustibles fósiles", "correct": false },
+      { "text": "La huella de carbono es cuánto contaminas. Es malo usar mucho coche y plástico porque eso hace que el planeta se caliente y nos afecte a todos. Hay que cuidar el mundo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Un ensayo requiere tesis, argumentación compleja y terminología técnica precisa ('distribución inequitativa', 'servicios ecosistémicos').",
+    "explanation": "La opción correcta presenta una estructura argumentativa sólida con vocabulario técnico adecuado. Las otras opciones son más descriptivas o definitorias, careciendo de la profundidad analítica de un ensayo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EY",
+    "question": "¿En qué oración se establece una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "La parvada de aves migratorias cruzó el cielo en perfecta formación.", "correct": true },
+      { "text": "El grupo de estudiantes de intercambio llegaron ayer por la tarde.", "correct": false },
+      { "text": "La mayoría de los asistentes al concierto salió decepcionado del recinto.", "correct": false },
+      { "text": "La parvada de aves migratorias cruzaron el cielo en perfecta formación.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "'Parvada' es un sustantivo colectivo singular.",
+    "explanation": "Al ser 'parvada' un sustantivo singular, el verbo 'cruzó' debe ir en singular. 'El grupo' (singular) requiere 'llegó'. 'La mayoría' requeriría 'salió decepcionada' o 'salieron decepcionados', pero 'salió decepcionado' tiene discordancia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00EZ",
+    "question": "¿En qué oración se establece una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "Compró el sofá y la lámpara modernos para decorar su nueva sala.", "correct": true },
+      { "text": "El agua y el aceite son sustancias químicas, pero tienen distinta densidad y viscosidad.", "correct": false },
+      { "text": "Poseía una extraña belleza y talento, admiradas por todos los que la conocían.", "correct": false },
+      { "text": "Compró el sofá y la lámpara modernas para decorar su nueva sala.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Adjetivo pospuesto a varios sustantivos de distinto género va en masculino plural.",
+    "explanation": "'Sofá' (masculino) + 'lámpara' (femenino) requieren el adjetivo 'modernos' (masculino plural). En la opción A, 'distinta' debería concordar con densidad y viscosidad. En la B, 'belleza' y 'talento' (masculino) requieren 'admirados'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FA",
+    "question": "Con base en el contexto, seleccione la opción que expresa la misma idea que la palabra resaltada. \"A pesar de la tormenta, el capitán se mantuvo **impávido** frente al timón, inspirando confianza a su tripulación aterrorizada.\"",
+    "image": null,
+    "options": [
+      { "text": "Sereno", "correct": true },
+      { "text": "Inmóvil", "correct": false },
+      { "text": "Indiferente", "correct": false },
+      { "text": "Temeroso", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Impávido significa sin miedo o pavor.",
+    "explanation": "En el contexto de inspirar confianza durante una tormenta, 'sereno' (calmado) es el mejor sinónimo. 'Inmóvil' es físico y 'indiferente' implica desinterés.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FB",
+    "question": "De acuerdo con el contexto, elija la opción con significado contrario a la palabra en negritas. \"Su argumento fue tan **efímero** que nadie lo recordaba al terminar la sesión.\"",
+    "image": null,
+    "options": [
+      { "text": "Duradero", "correct": true },
+      { "text": "Breve", "correct": false },
+      { "text": "Pasajero", "correct": false },
+      { "text": "Fugaz", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Efímero significa de corta duración.",
+    "explanation": "El antónimo de algo que dura poco (efímero) es algo que dura mucho ('duradero'). 'Breve' y 'Pasajero' son sinónimos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FC",
+    "question": "¿En qué oración se emplean correctamente las grafías?",
+    "image": null,
+    "options": [
+      { "text": "La injerencia del director en asuntos ajenos causó molestias.", "correct": true },
+      { "text": "La decisión de construir el puente tuvo mucha repercusión en la rejión.", "correct": false },
+      { "text": "El conbory militar avanzó lentamente a través de la espesa niebla.", "correct": false },
+      { "text": "La ingerencia del director en asuntos agenos causó molestias.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Injerencia se escribe con 'j'. Región se escribe con 'g'.",
+    "explanation": "'Injerencia' (de injerir) se escribe con 'j'. 'Ajenos' siempre con 'j'. 'Región' va con 'g'. 'Convoy' se escribe con 'nv'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FD",
+    "question": "Identifique el enunciado con la ortografía correcta.",
+    "image": null,
+    "options": [
+      { "text": "La exhalación de gases tóxicos obligó a evacuar el edificio.", "correct": true },
+      { "text": "Tuvimos que absorver los costos extras para no perder al cliente.", "correct": false },
+      { "text": "Es nezesario que analices bien las respuestas antes de contestar.", "correct": false },
+      { "text": "La exalación de gases tóxicos obligó a evacuar el edificio.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Exhalar lleva 'h' intercalada después de 'x'. Absorber lleva dos 'b'.",
+    "explanation": "'Exhalación' es correcto. 'Absorber' debe tener dos 'b'. 'Necesario' se escribe con 'c'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FE",
+    "question": "Identifique el enunciado con la puntuación correcta.",
+    "image": null,
+    "options": [
+      { "text": "Cervantes, el \"Manco de Lepanto\", escribió la obra cumbre de la literatura española.", "correct": true },
+      { "text": "Los colores primarios son: rojo, azul y amarillo; y son la base de los demás.", "correct": false },
+      { "text": "Cuando llegues a casa por favor, llámame para saber que estás bien.", "correct": false },
+      { "text": "Cervantes el \"Manco de Lepanto\" escribió la obra cumbre de la literatura española.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Las aposiciones explicativas van entre comas.",
+    "explanation": "La frase 'el \"Manco de Lepanto\"' es una aposición que explica quién es Cervantes, por lo tanto, debe ir entre comas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FF",
+    "question": "¿Cuál oración está puntuada correctamente?",
+    "image": null,
+    "options": [
+      { "text": "Me dijo: \"No volveré a hacerlo\"; sin embargo, no le creí.", "correct": true },
+      { "text": "—¿Todavía no has terminado la tarea?. —preguntó la madre con impaciencia.", "correct": false },
+      { "text": "¡Qué alegría verte!, ¡hace tanto tiempo que no sabíamos de ti!.", "correct": false },
+      { "text": "Me dijo: \"No volveré a hacerlo\"; sin embargo no le creí.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Punto y coma antes de conectores adversativos. No punto después de cierre de interrogación/exclamación.",
+    "explanation": "El punto y coma separa oraciones yuxtapuestas complejas antes de 'sin embargo'. Las otras opciones tienen punto después de '?' o '!'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FG",
+    "question": "Una revista científica solicita un abstract (resumen) para un artículo sobre biología marina. ¿Cuál opción se adecúa a esta finalidad?",
+    "image": null,
+    "options": [
+      { "text": "Este estudio analiza los patrones de ecolocalización en Tursiops truncatus frente a perturbaciones acústicas antropogénicas. Se registraron frecuencias en tres zonas costeras, concluyendo que el ruido naval altera significativamente sus rutas migratorias.", "correct": true },
+      { "text": "El mar es inmenso y misterioso, lleno de criaturas que ni nos imaginamos. En este trabajo les cuento cómo los delfines se hablan entre ellos con ruiditos muy curiosos que grabamos bajo el agua. Está súper interesante, léanlo.", "correct": false },
+      { "text": "Ayer fuimos al mar a grabar delfines. Fue difícil porque había mucho oleaje, pero logramos captar sonidos padres. El profesor dijo que esos sonidos son su forma de hablar y que los barcos los molestan mucho, pobrecitos.", "correct": false },
+      { "text": "Los delfines son animales muy inteligentes que nadan en el mar. Este texto trata sobre cómo hacen ruidos para comunicarse y cómo los barcos hacen ruido que los molesta.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Un abstract científico debe ser objetivo, sintético y usar terminología técnica.",
+    "explanation": "La opción correcta usa términos como 'Tursiops truncatus' y 'antropogénicas' y mantiene un tono objetivo. Las otras son demasiado informales o subjetivas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FH",
+    "question": "Se requiere redactar una carta de opinión para un periódico sobre el tráfico en la ciudad. ¿Cuál texto es apropiado?",
+    "image": null,
+    "options": [
+      { "text": "Estimado Sr. Director: El congestionamiento vial en la avenida Central se ha vuelto insostenible. Es urgente que las autoridades sincronicen los semáforos y promuevan el transporte público para mejorar la calidad de vida de los ciudadanos.", "correct": true },
+      { "text": "Informe de Tránsito #45: Se reporta una afluencia de 50 vehículos por minuto en la intersección norte. Se recomienda despliegue de oficiales. Fin del reporte.", "correct": false },
+      { "text": "¡Oigan todos! Ya no aguantamos el tráfico, es un asco. El gobierno no hace nada y siempre llegamos tarde. ¡Hagan algo ya o vamos a cerrar las calles!", "correct": false },
+      { "text": "Querido diario: Hoy el tráfico estuvo horrible otra vez. Ojalá alguien hiciera algo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Una carta de opinión debe ser formal, dirigirse al director/editor y plantear un argumento o petición respetuosa.",
+    "explanation": "La opción correcta sigue el formato de carta al director con un tono argumentativo formal. Las otras son un reporte técnico, una queja informal o un diario personal.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FI",
+    "question": "Elija el enunciado acentuado correctamente.",
+    "image": null,
+    "options": [
+      { "text": "Si tú no vienes, él tampoco querrá participar en el guion de la obra.", "correct": true },
+      { "text": "El té que me serviste estaba mas frio que el de ayer.", "correct": false },
+      { "text": "Aun no se cuando vendrá mi tio de America.", "correct": false },
+      { "text": "Si tu no vienes, el tampoco querrá participar en el guión de la obra.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Distingue tildes diacríticas (tú/tu, él/el) y reglas de monosílabos (guion).",
+    "explanation": "'Tú' y 'él' llevan tilde diacrítica por ser pronombres. 'Guion' no lleva tilde según las normas actuales (monosílabo). Las otras opciones fallan en 'más', 'frío', 'aún', 'sé', 'cuándo', 'tío', 'América'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FJ",
+    "question": "Seleccione la oración con la acentuación correcta.",
+    "image": null,
+    "options": [
+      { "text": "El área de volúmenes geométricos se calcula con fórmulas específicas.", "correct": true },
+      { "text": "La raiz del problema es de caracter economico y politico.", "correct": false },
+      { "text": "El especimen que encontraron en el crater es unico en su tipo.", "correct": false },
+      { "text": "El area de volumenes geometricos se calcula con formulas especificas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Todas las palabras esdrújulas se acentúan.",
+    "explanation": "'Área', 'volúmenes', 'geométricos', 'fórmulas', 'específicas' son esdrújulas y deben llevar tilde. Las otras opciones omiten múltiples tildes obligatorias.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FK",
+    "question": "¿En qué oración se establece una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "La mayoría de los diputados votó a favor de la nueva reforma.", "correct": true },
+      { "text": "La jauría de perros ladraban furiosamente a los desconocidos.", "correct": false },
+      { "text": "El calor y la humedad intensas dificultaban la caminata por la selva.", "correct": false },
+      { "text": "La mayoría de los diputados votó en contra de la nueva reforma, pero la minoría votaron a favor.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "'La mayoría' (núcleo singular) puede llevar verbo en singular. 'Jauría' es singular.",
+    "explanation": "'Votó' concuerda gramaticalmente con 'mayoría'. 'Jauría' requiere 'ladraba'. 'Calor' y 'humedad' requieren 'intensos' (masculino plural).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FL",
+    "question": "Identifique el enunciado con la redacción correcta.",
+    "image": null,
+    "options": [
+      { "text": "Se venden parcelas cerca del río a precios accesibles.", "correct": true },
+      { "text": "Hubieron muchos problemas para registrar a los participantes.", "correct": false },
+      { "text": "Han habido varias quejas sobre el servicio de limpieza.", "correct": false },
+      { "text": "Se vende parcelas cerca del río a precios accesibles.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "El verbo 'haber' impersonal no se pluraliza (hubo, no hubieron). En pasiva refleja, el verbo concuerda con el sujeto paciente.",
+    "explanation": "'Se venden parcelas' es correcto (plural porque 'parcelas' es plural). 'Hubieron' y 'Han habido' son incorrecciones comunes; debe ser 'Hubo' y 'Ha habido'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FM",
+    "question": "¿En qué oración existe una relación correcta entre las palabras?",
+    "image": null,
+    "options": [
+      { "text": "A María le gustan las flores, por eso le traje estos tulipanes.", "correct": true },
+      { "text": "Le di los regalos a tus primos para que los abrieran.", "correct": false },
+      { "text": "Se les advirtió a la alumna que no volviera a faltar.", "correct": false },
+      { "text": "A María le gusta las flores, por eso le traje estos tulipanes.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "El pronombre átono de objeto indirecto (le/les) debe concordar en número con el objeto indirecto.",
+    "explanation": "'Le' concuerda con 'María' (singular). En la opción incorrecta A, 'Le' no concuerda con 'primos' (plural, debería ser 'Les'). En la C, 'les' no concuerda con 'alumna' (singular, debería ser 'le').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FN",
+    "question": "Seleccione la oración con la concordancia correcta.",
+    "image": null,
+    "options": [
+      { "text": "El hacha afilada cortó la madera sin esfuerzo.", "correct": true },
+      { "text": "La águila real es un símbolo importante en la cultura mexicana.", "correct": false },
+      { "text": "Este agua está demasiado fría para bañarse.", "correct": false },
+      { "text": "El hacha afilado cortó la madera sin esfuerzo.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Palabras femeninas que empiezan con 'a' tónica llevan artículo 'el', pero adjetivos femeninos.",
+    "explanation": "'Hacha' es femenina, pero lleva 'el' por eufonía; el adjetivo debe ser femenino ('afilada'). 'La águila' es incorrecto (debe ser 'El águila'). 'Este agua' es incorrecto (los demostrativos femeninos no cambian, debe ser 'Esta agua').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FO",
+    "question": "De acuerdo con el contexto, elija la opción con significado contrario a la palabra en negritas. \"Su actitud **altruista** sorprendió a todos los presentes en la gala benéfica.\"",
+    "image": null,
+    "options": [
+      { "text": "Egoísta", "correct": true },
+      { "text": "Generosa", "correct": false },
+      { "text": "Filantrópica", "correct": false },
+      { "text": "Desinteresada", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Altruista es quien busca el bien ajeno.",
+    "explanation": "El antónimo de altruista es 'egoísta' (quien busca el bien propio). Las otras opciones son sinónimos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FP",
+    "question": "Seleccione la opción que sustituye mejor a la palabra marcada. \"El juez se mostró **inflexible** ante las súplicas del acusado.\"",
+    "image": null,
+    "options": [
+      { "text": "Rígido", "correct": true },
+      { "text": "Comprensivo", "correct": false },
+      { "text": "Voluble", "correct": false },
+      { "text": "Indeciso", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Inflexible significa que no se dobla, severo.",
+    "explanation": "'Rígido' es el sinónimo más cercano a inflexible en este contexto de severidad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FQ",
+    "question": "Elija la palabra que complete coherentemente la oración. \"Debido a su _______, no pudo terminar el discurso a tiempo; habló demasiado sobre detalles irrelevantes.\"",
+    "image": null,
+    "options": [
+      { "text": "Prolijidad", "correct": true },
+      { "text": "Laconismo", "correct": false },
+      { "text": "Elocuencia", "correct": false },
+      { "text": "Brevedad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Busca una palabra que signifique exceso de palabras o detalles.",
+    "explanation": "'Prolijidad' significa dilatación excesiva o pesadez en el discurso. 'Laconismo' es brevedad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FR",
+    "question": "Antónimo de la palabra \"Lúgubre\" en el contexto: \"La habitación tenía un aspecto lúgubre por la falta de luz.\"",
+    "image": null,
+    "options": [
+      { "text": "Radiante", "correct": true },
+      { "text": "Sombrio", "correct": false },
+      { "text": "Tétrico", "correct": false },
+      { "text": "Oscuro", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Lúgubre significa oscuro y triste.",
+    "explanation": "'Radiante' (luminoso, brillante) es el antónimo de lúgubre. 'Sombrío' y 'Tétrico' son sinónimos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FS",
+    "question": "¿En qué oración se emplean correctamente las grafías?",
+    "image": null,
+    "options": [
+      { "text": "La vegetación era exuberante después de las lluvias.", "correct": true },
+      { "text": "No quiso reberlar el secreto a nadie.", "correct": false },
+      { "text": "Tuvimos que aser la tarea antes de salir.", "correct": false },
+      { "text": "La vegetación era exhuberante después de las lluvias.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Exuberante no lleva 'h'. Revelar secreto va con 'v'.",
+    "explanation": "'Exuberante' se escribe sin 'h' intercalada. 'Revelar' un secreto es con 'v'. 'Hacer' es con 'h' y 'c'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FT",
+    "question": "Identifique el enunciado con la escritura correcta.",
+    "image": null,
+    "options": [
+      { "text": "La escasez de alimentos provocó una crisis.", "correct": true },
+      { "text": "Necesito que me dees un consejo sobre esto.", "correct": false },
+      { "text": "Atravezó la calle sin mirar a los lados.", "correct": false },
+      { "text": "La escases de alimentos provocó una crisis.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Sustantivos abstractos terminados en -ez se escriben con z.",
+    "explanation": "'Escasez' se escribe con 'z'. El subjuntivo de dar es 'des'. 'Atravesó' se escribe con 's'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FU",
+    "question": "Seleccione la palabra mal escrita.",
+    "image": null,
+    "options": [
+      { "text": "Mobilidad", "correct": true },
+      { "text": "Herbívoro", "correct": false },
+      { "text": "Vizconde", "correct": false },
+      { "text": "Amabilidad", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Movilidad viene de móvil.",
+    "explanation": "'Movilidad' se escribe con 'v' (excepción a la regla -bilidad). 'Herbívoro' y 'Vizconde' están bien escritas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FV",
+    "question": "Complete correctamente: \"El _______ de ensayo se rompió. Él _______ que comprar otro.\"",
+    "image": null,
+    "options": [
+      { "text": "tubo / tuvo", "correct": true },
+      { "text": "tuvo / tubo", "correct": false },
+      { "text": "tubo / tubo", "correct": false },
+      { "text": "tuvo / tuvo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Tubo (cilindro) vs Tuvo (verbo tener).",
+    "explanation": "El primero es el sustantivo 'tubo'. El segundo es del verbo tener ('tuvo').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FW",
+    "question": "Elija la oración acentuada correctamente.",
+    "image": null,
+    "options": [
+      { "text": "El examen teórico-práctico será el miércoles.", "correct": true },
+      { "text": "Ésta pluma es mia, aquella es tuya.", "correct": false },
+      { "text": "Fue un heroe anónimo para la ciudad.", "correct": false },
+      { "text": "El examen teorico-practico será el miercoles.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "En compuestos con guion, cada palabra conserva su tilde. Héroe es esdrújula.",
+    "explanation": "'Teórico' y 'práctico' conservan sus tildes. 'Esta' y 'aquella' no se tildan; 'mía' sí por hiato. 'Héroe' lleva tilde.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FX",
+    "question": "¿Cuál grupo de palabras está acentuado correctamente?",
+    "image": null,
+    "options": [
+      { "text": "Vio, dio, fe, ti", "correct": true },
+      { "text": "Ruín, guión, truhán", "correct": false },
+      { "text": "Fuí, vió, dió, fé", "correct": false },
+      { "text": "Vió, dió, fé, tí", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["AVANZADO", "REAL"],
+    "hint": "Los monosílabos no se tildan salvo diacrítica.",
+    "explanation": "Vio, dio, fe, ti son monosílabos que no llevan tilde. Ruin, guion y truhan tampoco llevan tilde según la RAE.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FY",
+    "question": "Identifique la palabra que requiere tilde.",
+    "image": null,
+    "options": [
+      { "text": "Origenes", "correct": true },
+      { "text": "Imagen", "correct": false },
+      { "text": "Examen", "correct": false },
+      { "text": "Volumen", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Convierte la palabra a esdrújula.",
+    "explanation": "'Orígenes' es esdrújula y lleva tilde. 'Imagen', 'examen' y 'volumen' son graves terminadas en 'n', no llevan tilde (sus plurales sí).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00FZ",
+    "question": "Seleccione la oración correcta.",
+    "image": null,
+    "options": [
+      { "text": "¿Cuándo volverás a casa?", "correct": true },
+      { "text": "No se donde dejé las llaves.", "correct": false },
+      { "text": "Quiero que me de mas comida.", "correct": false },
+      { "text": "¿Cuando volverás a casa?", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Interrogativos llevan tilde.",
+    "explanation": "'Cuándo' lleva tilde interrogativa. 'Sé' (saber) y 'Dé' (dar) deben llevar tilde diacrítica en las otras opciones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GA",
+    "question": "Identifique el enunciado con la puntuación correcta.",
+    "image": null,
+    "options": [
+      { "text": "María, la hermana de Juan, llegó tarde.", "correct": true },
+      { "text": "En la fiesta había: refrescos, papas, y pastel.", "correct": false },
+      { "text": "Si estudias mucho aprobarás, el examen.", "correct": false },
+      { "text": "María la hermana de Juan llegó tarde.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "La aposición va entre comas.",
+    "explanation": "'La hermana de Juan' es una aposición explicativa. La opción A usa mal los dos puntos (interrumpe verbo) y la C usa 'coma criminal' entre verbo y objeto.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GB",
+    "question": "¿Qué oración usa correctamente el punto y coma?",
+    "image": null,
+    "options": [
+      { "text": "Estudió todo el semestre; sin embargo, reprobó.", "correct": true },
+      { "text": "Llegamos tarde; porque había mucho tráfico.", "correct": false },
+      { "text": "Compré: leche; pan; y huevos.", "correct": false },
+      { "text": "Estudió todo el semestre, sin embargo; reprobó.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Se usa punto y coma antes de conectores adversativos en oraciones largas.",
+    "explanation": "'Sin embargo' va precedido de punto y coma y seguido de coma.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GC",
+    "question": "Seleccione la opción con la puntuación correcta en vocativos.",
+    "image": null,
+    "options": [
+      { "text": "Oye, Juan, pásame la sal.", "correct": true },
+      { "text": "Oye Juan pásame la sal.", "correct": false },
+      { "text": "Oye Juan, pásame la sal.", "correct": false },
+      { "text": "Oye, Juan pásame la sal.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "El vocativo siempre se aísla con comas.",
+    "explanation": "El nombre a quien nos dirigimos ('Juan') debe ir separado por comas del resto de la oración.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GD",
+    "question": "Uso correcto de comillas.",
+    "image": null,
+    "options": [
+      { "text": "Benito Juárez dijo: \"El respeto al derecho ajeno es la paz\".", "correct": true },
+      { "text": "El \"autor\" dijo que no vendría.", "correct": false },
+      { "text": "Me leí el libro \"Cien años de soledad\" ayer.", "correct": false },
+      { "text": "Benito Juárez dijo \"El respeto al derecho ajeno es la paz\".", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Citas textuales directas.",
+    "explanation": "La cita textual directa es el uso principal de las comillas. Para títulos se prefiere cursiva y el uso irónico es secundario.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GE",
+    "question": "¿Qué conector completa mejor la oración? \"El proyecto era muy ambicioso; _______, carecía de presupuesto suficiente para realizarse.\"",
+    "image": null,
+    "options": [
+      { "text": "No obstante", "correct": true },
+      { "text": "Por lo tanto", "correct": false },
+      { "text": "Además", "correct": false },
+      { "text": "Es decir", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Busca un conector de contraste u oposición.",
+    "explanation": "Hay un contraste entre la ambición y la falta de dinero, por lo que 'No obstante' es el conector adecuado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GF",
+    "question": "¿Cuál es el propósito comunicativo del siguiente fragmento? \"El consumo excesivo de azúcar se asocia con un mayor riesgo de enfermedades cardiovasculares. Por ello, se recomienda reducir la ingesta diaria a menos del 10% de las calorías totales.\"",
+    "image": null,
+    "options": [
+      { "text": "Persuadir o dar una recomendación de salud.", "correct": true },
+      { "text": "Narrar una historia clínica.", "correct": false },
+      { "text": "Describir un proceso químico.", "correct": false },
+      { "text": "Entretener con datos curiosos.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "El texto emite una recomendación basada en datos.",
+    "explanation": "El texto busca influir en la conducta del lector mediante una recomendación ('se recomienda reducir...').",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GG",
+    "question": "Identifique el tipo de texto: \"Ayer, a las 15:00 horas, se registró un sismo de magnitud 5.4 con epicentro en la costa de Oaxaca. No se reportan daños materiales graves.\"",
+    "image": null,
+    "options": [
+      { "text": "Noticia", "correct": true },
+      { "text": "Editorial", "correct": false },
+      { "text": "Crónica literaria", "correct": false },
+      { "text": "Cuento", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["BÁSICO", "REAL"],
+    "hint": "Texto breve, objetivo, sobre un hecho reciente.",
+    "explanation": "Es una noticia porque informa de manera objetiva y concisa sobre un evento reciente y de interés público.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "RIG00GH",
+    "question": "Seleccione la opción que ordena coherentemente el párrafo. 1. Finalmente, se sirve frío. 2. Primero, se hierven los tomates. 3. Después, se licuan con ajo y cebolla. 4. Para preparar la salsa.",
+    "image": null,
+    "options": [
+      { "text": "4, 2, 3, 1", "correct": true },
+      { "text": "2, 3, 1, 4", "correct": false },
+      { "text": "4, 1, 2, 3", "correct": false },
+      { "text": "2, 3, 4, 1", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "EXANI"],
+    "level_tag": ["INTERMEDIO", "REAL"],
+    "hint": "Estructura lógica: Título/Propósito -> Inicio -> Desarrollo -> Cierre.",
+    "explanation": "Se empieza estableciendo el propósito (4), luego el primer paso (2), el paso siguiente (3) y la conclusión (1).",
+    "explanative_video": null,
+    "collapsible_text": null
   }
 ]
+
